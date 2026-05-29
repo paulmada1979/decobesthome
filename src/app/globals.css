@@ -462,6 +462,12 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .article ul li::before{ content:""; position:absolute; left:0; top:.62em; width:7px; height:7px; border-radius:2px;
   background:var(--leaf); transform:rotate(45deg); }
 .article .lead{ color:var(--ink); }
+.article figure{ margin:32px 0 8px; border-radius:var(--radius, 14px); overflow:hidden; background:var(--sand);
+  box-shadow:var(--shadow-sm); }
+.article figure img{ display:block; width:100%; height:auto; }
+.article-lead{ margin-top:0; }
+.article h2 + .article-fig,
+.article h3 + .article-fig{ margin-top:28px; }
 
 /* chips */
 .chips{ display:flex; flex-wrap:wrap; gap:10px; }

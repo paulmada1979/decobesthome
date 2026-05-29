@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
@@ -46,57 +47,79 @@ export default async function BlogPostPage({
 
   const title = t(`posts.${post.id}.title`);
   const body = t.raw(`posts.${post.id}.body`) as Block[];
+  const support = post.images ?? [];
+
+  // Distribute support images across the article: insert each one just before an
+  // evenly-spaced <h2> section boundary so photos break up the prose naturally.
+  const h2Indices = body.map((b, i) => ("h2" in b ? i : -1)).filter((i) => i > 0);
+  const imageAt = new Map<number, string>();
+  support.forEach((src, k) => {
+    if (h2Indices.length === 0) return;
+    const pos = h2Indices[Math.floor(((k + 1) * h2Indices.length) / (support.length + 1))];
+    if (pos !== undefined && !imageAt.has(pos)) imageAt.set(pos, src);
+  });
 
   const related = posts.filter((p) => p.id !== post.id).slice(0, 3);
 
   return (
     <>
-      {/* PAGE HERO */}
-      <section className="page-hero">
-        <div className="bg">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={post.image} alt={title} />
-        </div>
-        <div className="container inner">
-          <p className="crumbs">
+      {/* ARTICLE HEAD */}
+      <section className="section" style={{ paddingBottom: 0 }}>
+        <div className="container article">
+          <Reveal as="p" className="crumbs">
             <Link href="/">{td("crumbHome")}</Link> &nbsp;/&nbsp;{" "}
             <Link href="/blog">{td("crumbJournal")}</Link> &nbsp;/&nbsp; {t(`posts.${post.id}.cat`)}
-          </p>
-          <p className="eyebrow" style={{ color: "var(--leaf)" }}>
+          </Reveal>
+          <Reveal as="p" className="eyebrow" delay={1} style={{ marginTop: "18px" }}>
             {t(`posts.${post.id}.cat`)}
-          </p>
-          <h1
+          </Reveal>
+          <Reveal
+            as="h1"
             className="display balance"
-            style={{ color: "#fff", fontSize: "clamp(2.2rem,4.4vw,4rem)", maxWidth: "20ch" }}
+            delay={1}
+            style={{ marginTop: "14px", fontSize: "clamp(2rem,4vw,3.4rem)" }}
           >
             {title}
-          </h1>
-          <div className="post-meta" style={{ color: "rgba(246,243,236,.85)", marginTop: "18px" }}>
+          </Reveal>
+          <Reveal as="div" className="post-meta" delay={2} style={{ marginTop: "18px" }}>
             <span>{t(`posts.${post.id}.date`)}</span>
             {post.readMins && <span>· {t("readTime", { mins: post.readMins })}</span>}
-          </div>
+          </Reveal>
         </div>
       </section>
 
       {/* ARTICLE BODY */}
-      <section className="section">
+      <section className="section" style={{ paddingTop: "clamp(24px,3vw,40px)" }}>
         <div className="container">
           <Reveal as="div" className="article">
-            <p className="lead pretty" style={{ marginBottom: "10px" }}>
+            <figure className="article-lead">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={post.image} alt={title} />
+            </figure>
+            <p className="lead pretty" style={{ marginBottom: "6px" }}>
               {t(`posts.${post.id}.excerpt`)}
             </p>
             {body.map((block, i) => {
-              if ("h2" in block) return <h2 key={i} className="h3">{block.h2}</h2>;
-              if ("h3" in block) return <h3 key={i} className="h4">{block.h3}</h3>;
-              if ("ul" in block)
-                return (
+              const img = imageAt.get(i);
+              const figure = img ? (
+                <figure key={`fig-${i}`} className="article-fig">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img loading="lazy" src={img} alt="" />
+                </figure>
+              ) : null;
+              let el: ReactNode;
+              if ("h2" in block) el = <h2 key={i} className="h3">{block.h2}</h2>;
+              else if ("h3" in block) el = <h3 key={i} className="h4">{block.h3}</h3>;
+              else if ("ul" in block)
+                el = (
                   <ul key={i}>
                     {block.ul.map((li, j) => (
                       <li key={j}>{li}</li>
                     ))}
                   </ul>
                 );
-              return <p key={i}>{block.p}</p>;
+              else el = <p key={i}>{block.p}</p>;
+              return [figure, el];
             })}
 
             <p style={{ marginTop: "40px" }}>

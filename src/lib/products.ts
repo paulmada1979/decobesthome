@@ -55,23 +55,20 @@ export const products: Product[] = [
   {
     id: "bamboo-household-articles",
     slug: "bamboo-household-articles",
-    image: "",
+    image: "/images/Bamboo-room-divider-1024x576.webp",
     icon: "🧺",
-    placeholder: true,
   },
   {
     id: "bamboo-flower-sticks",
     slug: "bamboo-flower-sticks",
-    image: "",
+    image: "/images/sy_bamboo-canes-300x300.jpg",
     icon: "🪴",
-    placeholder: true,
   },
   {
     id: "bamboo-plywood",
     slug: "bamboo-plywood",
-    image: "",
+    image: "/images/moso-bamboo-for-wall-cladding-1024x574.webp",
     icon: "🟤",
-    placeholder: true,
   },
   {
     id: "reed-fencing",

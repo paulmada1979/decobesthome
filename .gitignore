@@ -1,3 +1,7 @@
+# Source material (not part of the deployed app)
+/images/
+/design_handoff_besthome_site/
+
 # Logs
 logs
 *.log

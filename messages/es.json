@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "title": "BestHome — Natural Bamboo & Reed Products, Factory-Direct",
+    "brand": "BestHome",
+    "description": "Xiamen BestHome is your premier supplier of high-quality, eco-friendly natural bamboo and reed products — fencing, poles, screening and thatch — for homes, gardens, nurseries and projects. Wholesale, OEM and factory-direct from China."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "journal": "Journal",
+    "inspiration": "Inspiration",
+    "contact": "Contact"
+  },
+  "header": {
+    "utilityLeft": "Trade & wholesale enquiries welcome",
+    "utilityLeft2": "OEM & project sourcing",
+    "brandAria": "BestHome — home",
+    "megaFoot": "12 natural product ranges — factory-direct.",
+    "viewAll": "View all products",
+    "requestQuote": "Request a quote",
+    "openMenu": "Open menu",
+    "close": "Close"
+  },
+  "footer": {
+    "tagline": "Your premier supplier of high-quality, eco-friendly natural bamboo & reed products — for homes, gardens, nurseries and projects.",
+    "products": "Products",
+    "company": "Company",
+    "aboutUs": "About us",
+    "contactUs": "Contact us",
+    "emailLabel": "Email",
+    "mobileLabel": "Mobile",
+    "telFaxLabel": "Tel / Fax",
+    "officeLabel": "Office",
+    "factoryLabel": "Factory",
+    "copyright": "© 2025 Xiamen BestHome Imp. & Exp. Co., Ltd. — Bamboo Fence Supplier.",
+    "tags": "Natural · Eco-friendly · Wholesale"
+  },
+  "quote": {
+    "close": "Close",
+    "eyebrow": "Request a quote",
+    "title": "Let's price your order.",
+    "subtitle": "Tell us what you need and our team replies with factory-direct pricing and lead times — usually within one business day.",
+    "success": "Thank you — your enquiry is on its way. We'll be in touch shortly.",
+    "preferEmail": "Prefer email? Reach us directly at",
+    "name": "Name",
+    "namePh": "Your name",
+    "company": "Company",
+    "companyPh": "Company / brand",
+    "email": "Email",
+    "emailPh": "you@company.com",
+    "country": "Country",
+    "countryPh": "Destination country",
+    "productOfInterest": "Product of interest",
+    "details": "Details",
+    "detailsPh": "Sizes, quantities, target price, timeline…",
+    "submit": "Send enquiry",
+    "privacy": "We'll only use your details to reply to this enquiry."
+  },
+  "products": {
+    "names": {
+      "tonkin-bamboo-canes": "Tonkin bamboo canes",
+      "decor-moso-bamboo-poles": "Decor Moso bamboo poles",
+      "bamboo-fencing-edging": "Bamboo fencing & edging",
+      "bamboo-fence-panels": "Bamboo fence panels",
+      "bamboo-household-articles": "Bamboo household articles",
+      "bamboo-flower-sticks": "Bamboo flower sticks",
+      "bamboo-plywood": "Bamboo plywood",
+      "reed-fencing": "Reed fencing",
+      "other-natural-fencing": "Other natural fencing",
+      "natural-thatch-roof": "Natural thatch roof",
+      "artificial-fence-rolls": "Artificial fence rolls",
+      "artificial-green-wall-panels": "Artificial green wall panels"
+    },
+    "tags": {
+      "bestseller": "Bestseller",
+      "popular": "Popular"
+    },
+    "mega": {
+      "tonkin-bamboo-canes": "Sticks & canes for support",
+      "decor-moso-bamboo-poles": "Large decorative poles",
+      "bamboo-fencing-edging": "Privacy screening rolls",
+      "bamboo-fence-panels": "Framed rigid panels",
+      "bamboo-household-articles": "Home & lifestyle goods",
+      "bamboo-flower-sticks": "Plant support sticks",
+      "bamboo-plywood": "Bamboo sheet material",
+      "reed-fencing": "Natural reed screens",
+      "other-natural-fencing": "Willow & brushwood",
+      "natural-thatch-roof": "Thatch tiles & rolls",
+      "artificial-fence-rolls": "Hedge & ivy panels",
+      "artificial-green-wall-panels": "Boxwood green walls"
+    },
+    "index": {
+      "meta": {
+        "title": "Products — Natural Bamboo, Reed & Thatch",
+        "description": "Explore twelve ranges of natural fencing and décor from BestHome — bamboo canes, Moso poles, fencing, reed screening, thatch and more. Wholesale, OEM and factory-direct."
+      },
+      "hero": {
+        "imageAlt": "Natural bamboo privacy fencing in a garden",
+        "crumbHome": "Home",
+        "crumb": "Products",
+        "eyebrow": "The catalog",
+        "title": "Twelve ranges of natural fencing & décor.",
+        "lead": "From robust Tonkin canes and decorative Moso poles to privacy fencing, reed screening and natural thatch — all naturally grown, chemical-free and supplied factory-direct."
+      },
+      "cta": {
+        "eyebrow": "Request a quote",
+        "title": "Tell us what your project needs.",
+        "lead": "Share your products, quantities and destination — we reply with factory-direct pricing and lead times, usually within one business day.",
+        "ctaQuote": "Request a quote",
+        "ctaContact": "Contact us"
+      }
+    },
+    "detail": {
+      "crumbHome": "Home",
+      "crumbProducts": "Products",
+      "ctaQuote": "Request a quote",
+      "ctaEmail": "Email sales",
+      "related": {
+        "eyebrow": "Explore more",
+        "title": "Related natural products.",
+        "all": "All products"
+      },
+      "cta": {
+        "eyebrow": "Request a quote",
+        "title": "Tell us what your project needs.",
+        "lead": "Share your products, quantities and destination — we reply with factory-direct pricing and lead times, usually within one business day.",
+        "ctaQuote": "Request a quote",
+        "ctaEmail": "Email {email}"
+      },
+      "items": {
+        "tonkin-bamboo-canes": {
+          "eyebrow": "Bestseller · Natural bamboo",
+          "lead": "Strong, straight Tonkin canes for plant support, crafts and construction — graded, dried and supplied wholesale by the container.",
+          "pill": "Eco-friendly · Chemical-free",
+          "name": "Tonkin bamboo canes",
+          "desc": "Slender yet remarkably strong, Tonkin canes are prized for their straightness and durability. A versatile natural support for gardens, nurseries, fencing frames and craft work — grown and dried without chemical treatment.",
+          "spec": [
+            { "k": "Material", "v": "100% natural Tonkin bamboo, chemical-free" },
+            { "k": "Diameter", "v": "8 – 50 mm (graded ranges)" },
+            { "k": "Length", "v": "1.0 – 6.0 m · custom cuts available" },
+            { "k": "Use", "v": "Plant support, crafts, fencing frames, construction" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "decor-moso-bamboo-poles": {
+          "eyebrow": "Bestseller · Natural bamboo",
+          "lead": "Large-diameter Moso poles for pergolas, cladding and decorative builds — straight, robust and naturally finished.",
+          "pill": "Eco-friendly · Renewable",
+          "name": "Decor Moso bamboo poles",
+          "desc": "Thick, characterful Moso poles bring a warm, architectural presence to outdoor and interior projects. Ideal for pergolas, wall cladding, room dividers and statement décor — dense, robust and naturally developed.",
+          "spec": [
+            { "k": "Material", "v": "100% natural Moso bamboo, chemical-free" },
+            { "k": "Diameter", "v": "30 – 120 mm (range options)" },
+            { "k": "Length", "v": "1.0 – 6.0 m · custom cuts available" },
+            { "k": "Finish", "v": "Natural · carbonised options" },
+            { "k": "Use", "v": "Pergolas, cladding, dividers, décor" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "bamboo-fencing-edging": {
+          "eyebrow": "Bestseller · Natural bamboo",
+          "lead": "Chemical-free privacy screening that blends into any garden — supplied as rolls, panels and edging, wholesale and factory-direct.",
+          "pill": "Eco-friendly · No formaldehyde",
+          "name": "Natural bamboo privacy fence",
+          "desc": "Robust, sustainable and naturally developed without pesticides, formaldehyde or toxic glues. A popular choice for privacy screening and decorative purposes — blending effortlessly with any surface and adding an element of elegant, cozy warmth.",
+          "finishLabel": "Finish",
+          "finishes": ["Natural", "Carbonised", "Black bamboo"],
+          "heightLabel": "Height",
+          "heights": ["1.0 m", "1.5 m", "1.8 m", "2.0 m", "Custom"],
+          "spec": [
+            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
+            { "k": "Formats", "v": "Rolls · framed panels · garden edging" },
+            { "k": "Cane diameter", "v": "8 – 25 mm (range options)" },
+            { "k": "Binding", "v": "Galvanised wire, double-stitched" },
+            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
+            { "k": "Use", "v": "Privacy screening, edging, decorative cladding" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "bamboo-fence-panels": {
+          "eyebrow": "Natural bamboo",
+          "lead": "Rigid, framed bamboo panels for fast, tidy privacy screening — ready to mount and built to last outdoors.",
+          "pill": "Eco-friendly · Durable",
+          "name": "Bamboo fence panels",
+          "desc": "Framed bamboo panels deliver instant privacy with a clean, finished edge. Robust and weather-ready, they install quickly along boundaries, balconies and terraces — naturally grown and chemical-free.",
+          "spec": [
+            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
+            { "k": "Format", "v": "Framed rigid panels" },
+            { "k": "Sizes", "v": "Standard & custom dimensions" },
+            { "k": "Finish", "v": "Natural · carbonised · black bamboo" },
+            { "k": "Use", "v": "Boundaries, balconies, terraces" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "bamboo-household-articles": {
+          "eyebrow": "Natural bamboo",
+          "lead": "Everyday bamboo homeware and lifestyle goods — natural, renewable and produced to order for wholesale and private label.",
+          "pill": "Eco-friendly · Renewable",
+          "name": "Bamboo household articles",
+          "desc": "A versatile range of bamboo homeware and lifestyle goods, crafted from a fast-renewing natural material. Produced to specification for distributors and brands seeking sustainable, fairly-priced products.",
+          "spec": [
+            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
+            { "k": "Range", "v": "Homeware & lifestyle goods" },
+            { "k": "Customisation", "v": "Made to specification" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "bamboo-flower-sticks": {
+          "eyebrow": "Natural bamboo",
+          "lead": "Lightweight bamboo flower and plant sticks for nurseries and growers — graded, bundled and supplied in bulk.",
+          "pill": "Eco-friendly · Chemical-free",
+          "name": "Bamboo flower sticks",
+          "desc": "Slim, sturdy support sticks for flowers, seedlings and potted plants. A nursery essential — naturally grown, consistently graded and supplied in bulk for growers and garden retailers.",
+          "spec": [
+            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
+            { "k": "Diameter", "v": "3 – 12 mm (graded ranges)" },
+            { "k": "Length", "v": "30 – 180 cm · custom cuts available" },
+            { "k": "Use", "v": "Plant & flower support, nurseries" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "bamboo-plywood": {
+          "eyebrow": "Natural bamboo",
+          "lead": "Strong, dimensionally stable bamboo plywood for furniture, interiors and construction — a renewable alternative to timber sheet.",
+          "pill": "Eco-friendly · Renewable",
+          "name": "Bamboo plywood",
+          "desc": "Engineered bamboo sheet material combining strength, stability and a warm natural grain. A sustainable choice for furniture, cabinetry, flooring and interior fit-out — produced to specification.",
+          "spec": [
+            { "k": "Material", "v": "Laminated natural bamboo" },
+            { "k": "Thickness", "v": "3 – 40 mm (range options)" },
+            { "k": "Sizes", "v": "Standard & custom sheet sizes" },
+            { "k": "Use", "v": "Furniture, interiors, construction" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "reed-fencing": {
+          "eyebrow": "Popular · Natural reed",
+          "lead": "Classic reed screening for gardens, balconies and terraces — natural, breathable privacy supplied by the roll.",
+          "pill": "Eco-friendly · Natural reed",
+          "name": "Reed fencing",
+          "desc": "Naturally harvested reed woven into breathable privacy screens with a soft, organic texture. A timeless choice for gardens, balconies and terraces — supplied as rolls in a range of heights.",
+          "spec": [
+            { "k": "Material", "v": "100% natural reed" },
+            { "k": "Format", "v": "Rolls" },
+            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
+            { "k": "Heights", "v": "1.0 – 2.0 m (range options)" },
+            { "k": "Use", "v": "Garden, balcony & terrace screening" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "other-natural-fencing": {
+          "eyebrow": "Natural materials",
+          "lead": "Willow, brushwood and other natural screens for a rustic, characterful boundary — supplied wholesale by the roll.",
+          "pill": "Eco-friendly · Natural",
+          "name": "Other natural fencing",
+          "desc": "Beyond bamboo and reed, our range includes willow and brushwood screening for a warm, rustic look. Naturally harvested and woven into durable rolls — ideal for gardens and decorative boundaries.",
+          "spec": [
+            { "k": "Material", "v": "Natural willow & brushwood" },
+            { "k": "Format", "v": "Rolls" },
+            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
+            { "k": "Heights", "v": "1.0 – 2.0 m (range options)" },
+            { "k": "Use", "v": "Garden screening, decorative boundaries" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "natural-thatch-roof": {
+          "eyebrow": "Natural thatch",
+          "lead": "Natural thatch tiles and rolls for palapas, gazebos and tropical builds — durable, characterful roofing supplied to project.",
+          "pill": "Eco-friendly · Natural",
+          "name": "Natural thatch roof",
+          "desc": "Authentic natural thatch for palapas, gazebos, bars and resort builds. Supplied as tiles and rolls that layer into a warm, weather-shedding roof with unmistakable tropical character.",
+          "spec": [
+            { "k": "Material", "v": "Natural palm & reed thatch" },
+            { "k": "Format", "v": "Tiles & rolls" },
+            { "k": "Sizes", "v": "Standard & custom dimensions" },
+            { "k": "Use", "v": "Palapas, gazebos, bars, resorts" },
+            { "k": "MOQ & OEM", "v": "Negotiable · project supply" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "artificial-fence-rolls": {
+          "eyebrow": "Artificial greenery",
+          "lead": "Low-maintenance artificial hedge and ivy fence rolls — instant year-round greenery for screening and décor.",
+          "pill": "Maintenance-free · UV-stable",
+          "name": "Artificial fence rolls",
+          "desc": "Realistic artificial ivy and hedge rolls deliver instant, evergreen privacy with no upkeep. UV-stable and weather-ready for balconies, walls and event screening where natural planting isn't practical.",
+          "spec": [
+            { "k": "Material", "v": "UV-stable synthetic foliage" },
+            { "k": "Format", "v": "Rolls" },
+            { "k": "Sizes", "v": "Standard & custom dimensions" },
+            { "k": "Use", "v": "Screening, walls, balconies, events" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        },
+        "artificial-green-wall-panels": {
+          "eyebrow": "Artificial greenery",
+          "lead": "Interlocking artificial green wall and boxwood panels — lush, year-round vertical greenery for interiors and façades.",
+          "pill": "Maintenance-free · UV-stable",
+          "name": "Artificial green wall panels",
+          "desc": "Dense, interlocking green wall panels create a lush vertical garden effect indoors or out — with zero watering or trimming. UV-stable boxwood and mixed-foliage styles for feature walls, façades and retail.",
+          "spec": [
+            { "k": "Material", "v": "UV-stable synthetic foliage" },
+            { "k": "Format", "v": "Interlocking panels" },
+            { "k": "Panel size", "v": "Standard 50 × 50 cm · custom options" },
+            { "k": "Use", "v": "Feature walls, façades, retail, events" },
+            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
+            { "k": "Loading port", "v": "Xiamen, China" }
+          ]
+        }
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "imageAlt": "Natural bamboo privacy fence framing a calm garden",
+      "eyebrow": "Bamboo Fence Supplier · Wholesale from China",
+      "title": "Bring the calm of nature to every outdoor space.",
+      "lead": "High-quality, eco-friendly bamboo and reed products — fencing, poles, screening and thatch — naturally grown, chemical-free and delivered factory-direct by the container.",
+      "ctaQuote": "Request a quote",
+      "ctaExplore": "Explore products",
+      "trust1": "100% natural materials",
+      "trust2": "No pesticides or formaldehyde",
+      "trust3": "Factory-direct & OEM"
+    },
+    "marquee": [
+      "Tonkin bamboo canes",
+      "Moso bamboo poles",
+      "Bamboo fencing & edging",
+      "Reed fencing",
+      "Willow fencing",
+      "Natural thatch roof",
+      "Artificial green walls"
+    ],
+    "intro": {
+      "eyebrow": "Welcome to BestHome",
+      "title": "A life closer to nature, delivered by the container.",
+      "p1": "BestHome is a premier supplier of natural bamboo and reed products, helping homes, gardens, nurseries and projects bring the warmth and calm of nature into everyday outdoor living.",
+      "p2": "From our own production bases in Xiamen and Anhui, we control sourcing, drying and finishing — so every roll, pole and panel arrives robust, consistent and ready to install.",
+      "ctaStory": "Our story",
+      "ctaBrowse": "Browse the catalog",
+      "imageAlt": "Decorative Moso bamboo poles in an outdoor setting"
+    },
+    "stats": {
+      "ranges": "Natural product ranges",
+      "materials": "Natural, chemical-free materials",
+      "bases": "Production & export bases in China",
+      "oem": "Wholesale, project & private label"
+    },
+    "catalog": {
+      "eyebrow": "The catalog",
+      "title": "Twelve ranges of natural fencing & décor.",
+      "viewAll": "View all products"
+    },
+    "why": {
+      "eyebrow": "Why natural bamboo?",
+      "title": "The material that gives more than it takes.",
+      "imageAlt": "Close-up of a natural bamboo fence",
+      "items": {
+        "0": {
+          "t": "Eco-friendly & renewable",
+          "d": "A fast-cycling natural resource — kinder on the planet than timber or plastic."
+        },
+        "1": {
+          "t": "Fast-growing & substantial",
+          "d": "Matures in years, not decades, yet yields dense, robust material."
+        },
+        "2": {
+          "t": "Strong & endurable",
+          "d": "High tensile strength stands up to weather and years of outdoor use."
+        },
+        "3": {
+          "t": "Non-chemical & harmless",
+          "d": "Grown and finished without pesticides, formaldehyde or toxic glues."
+        },
+        "4": {
+          "t": "Popular & affordable",
+          "d": "A sought-after, fairly-priced choice for privacy and natural décor."
+        }
+      }
+    },
+    "trade": {
+      "eyebrow": "Built for trade",
+      "title": "From our forests & factory, straight to your project.",
+      "lead": "A vertically integrated supplier built for distributors, retailers and project buyers who need consistency, scale and reliable delivery.",
+      "items": {
+        "0": {
+          "t": "In-house processing",
+          "d": "Own production bases in Xiamen and Anhui mean control over sourcing, drying and finishing."
+        },
+        "1": {
+          "t": "Wholesale & OEM",
+          "d": "Bulk supply, private label and custom specifications for distributors and projects."
+        },
+        "2": {
+          "t": "Quality you can trust",
+          "d": "Naturally developed, chemical-free materials checked for strength and consistency."
+        },
+        "3": {
+          "t": "Smooth global delivery",
+          "d": "A diligent team keeps your buying and delivery process comfortable and on time."
+        }
+      }
+    },
+    "teaser": {
+      "eyebrow": "Inspiration",
+      "title": "Seen in gardens, nurseries & projects.",
+      "lead": "Real natural materials, blending effortlessly with any surface — adding elegant, cozy privacy.",
+      "cta": "Explore the full gallery",
+      "items": {
+        "bambooFence": "Natural bamboo privacy fence",
+        "reedScreening": "Reed garden screening",
+        "mosoPoles": "Decorative Moso poles",
+        "willowScreen": "Willow outdoor screen",
+        "thatchRoofing": "Natural thatch roofing",
+        "blackBamboo": "Black bamboo screening"
+      }
+    },
+    "cta": {
+      "eyebrow": "Request a quote",
+      "title": "Tell us what your project needs.",
+      "lead": "Share your products, quantities and destination — we reply with factory-direct pricing and lead times, usually within one business day.",
+      "ctaQuote": "Request a quote",
+      "ctaEmail": "Email {email}",
+      "callNote": "or call {phone}"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About us",
+      "description": "BestHome is a vertically integrated supplier of natural bamboo, reed and thatch products from Xiamen, China — committed to quality, sustainability and reliable wholesale and OEM supply."
+    },
+    "hero": {
+      "imageAlt": "Decorative Moso bamboo in an outdoor setting",
+      "crumb": "About us",
+      "eyebrow": "About BestHome",
+      "title": "A world where outdoor living meets natural simplicity."
+    },
+    "story": {
+      "eyebrow": "Our story",
+      "title": "Closer to nature, by design.",
+      "p1": "BestHome was founded on a simple belief: that natural materials make better, warmer outdoor spaces — for homes, gardens and projects alike.",
+      "p2": "From our production bases in Xiamen and Anhui, we grow, harvest and finish bamboo, reed and willow without chemical treatment, then ship them worldwide as fencing, poles, screening and thatch.",
+      "p3": "Today we supply distributors, retailers and project buyers across Europe and beyond — combining factory-direct value with the consistency and service that keep partners coming back.",
+      "imageAlt": "Natural bamboo fence in a garden"
+    },
+    "values": {
+      "eyebrow": "What we stand for",
+      "title": "Principles that travel in every container.",
+      "items": {
+        "0": {
+          "pill": "Quality",
+          "t": "High quality, fairly priced",
+          "d": "We stay committed to high-quality products at competitive prices — value you can build a business on."
+        },
+        "1": {
+          "pill": "Sustainability",
+          "t": "Sustainable by nature",
+          "d": "Renewable, chemical-free materials and responsible practices sit at the centre of what we make."
+        },
+        "2": {
+          "pill": "Service",
+          "t": "Your satisfaction first",
+          "d": "Our team works diligently to keep buying and delivery smooth, comfortable and on time."
+        }
+      },
+      "stats": {
+        "ranges": "Natural product ranges",
+        "materials": "Natural, chemical-free materials",
+        "bases": "Production & export bases in China",
+        "oem": "Wholesale, project & private label"
+      }
+    },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "From harvest to your harbour.",
+      "lead": "An end-to-end process built around consistency and timely delivery.",
+      "items": {
+        "0": {
+          "t": "Natural sourcing",
+          "d": "Bamboo, reed and willow grown and harvested without chemical treatment."
+        },
+        "1": {
+          "t": "In-house processing",
+          "d": "Drying, sizing and finishing at our own bases in Xiamen and Anhui."
+        },
+        "2": {
+          "t": "Quality control",
+          "d": "Checked for strength, consistency and a clean, natural finish before packing."
+        },
+        "3": {
+          "t": "Wholesale & OEM",
+          "d": "Bulk supply, custom specifications and private label for distributors and projects."
+        },
+        "4": {
+          "t": "Global delivery",
+          "d": "Reliable export and logistics keep your order moving and on schedule."
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Work with us",
+      "title": "Let's grow something natural together.",
+      "lead": "Become a BestHome partner — wholesale, OEM and project sourcing, factory-direct.",
+      "ctaQuote": "Request a quote",
+      "ctaContact": "Contact us"
+    }
+  },
+  "journal": {
+    "meta": {
+      "title": "Journal",
+      "description": "Field notes on natural living from BestHome — buying guides, care tips, materials know-how and industry insight on bamboo, reed and thatch."
+    },
+    "eyebrow": "The BestHome Journal",
+    "title": "Field notes on natural living.",
+    "lead": "Buying guides, care tips and materials know-how to help you choose, install and enjoy natural bamboo, reed and thatch.",
+    "filters": {
+      "all": "All",
+      "buying-guides": "Buying guides",
+      "care": "Care & maintenance",
+      "materials": "Materials",
+      "sustainability": "Sustainability",
+      "industry": "Industry"
+    },
+    "featuredBadge": "Featured",
+    "readTime": "{mins} min read",
+    "readArticle": "Read the article",
+    "readMore": "Read more",
+    "posts": {
+      "china-reed-screen-exports": {
+        "title": "How China Became the Global Leader in Reed Screen Exports",
+        "excerpt": "Inside the supply chain, craftsmanship and scale that made China the world's go-to source for natural reed screening.",
+        "cat": "Industry",
+        "date": "November 2025"
+      },
+      "bamboo-european-home-2025": {
+        "title": "Why Bamboo Belongs in Every European Home in 2025",
+        "excerpt": "From balconies to room dividers, here's why bamboo keeps winning over European homes and gardens.",
+        "cat": "Home & Living",
+        "date": "July 2025"
+      },
+      "jiangxi-gui-bamboo": {
+        "title": "Jiangxi Gui Bamboo: The Southern Powerhouse of Sustainable Construction",
+        "excerpt": "How a fast-growing southern bamboo is quietly reshaping sustainable building.",
+        "cat": "Sustainability",
+        "date": "July 2025"
+      },
+      "choose-right-bamboo-fence": {
+        "title": "How to Choose the Right Bamboo Fence for Your Outdoor Space",
+        "excerpt": "Heights, finishes and formats — a practical guide to picking the bamboo fence that fits.",
+        "cat": "Buying Guide",
+        "date": "April 2025"
+      },
+      "clean-bamboo-fence": {
+        "title": "How to Clean a Dirty Bamboo Fence and Maintain It",
+        "excerpt": "Simple, chemical-free steps to keep a bamboo fence looking good for years.",
+        "cat": "Care & Maintenance",
+        "date": "April 2025"
+      },
+      "moso-poles-uses": {
+        "title": "Versatile Uses of Moso Bamboo Poles for Home and Garden Enhancements",
+        "excerpt": "Pergolas, cladding, dividers and more — the many ways Moso poles transform a space.",
+        "cat": "Home & Garden",
+        "date": "April 2025"
+      },
+      "moso-characteristics-architecture": {
+        "title": "The Characteristics of Moso Bamboo and Its Wide Application in Architecture & Decoration",
+        "excerpt": "What makes Moso bamboo so well suited to architecture and decorative work.",
+        "cat": "Materials",
+        "date": "April 2025"
+      },
+      "reed-fence-privacy": {
+        "title": "The Benefits of Using Reed Fences for Privacy in Your Garden",
+        "excerpt": "Breathable, natural and quick to install — why reed screening is a garden favourite.",
+        "cat": "Privacy & Screening",
+        "date": "July 2025"
+      },
+      "palm-thatch-roof-panels": {
+        "title": "The Timeless Charm of Natural Palm Thatch Roof Panels",
+        "excerpt": "From palapas to resorts, the enduring appeal of natural palm thatch roofing.",
+        "cat": "Heritage",
+        "date": "May 2025"
+      }
+    },
+    "newsletter": {
+      "pill": "Stay in the loop",
+      "title": "More guides, every month.",
+      "lead": "Get new articles and product news straight to your inbox.",
+      "cta": "Subscribe via contact"
+    },
+    "cta": {
+      "eyebrow": "From reading to ordering",
+      "title": "Ready to bring it to your project?",
+      "lead": "Share your products, quantities and destination — we reply with factory-direct pricing and lead times, usually within one business day.",
+      "ctaQuote": "Request a quote",
+      "ctaBrowse": "Browse products"
+    }
+  },
+  "inspiration": {
+    "meta": {
+      "title": "Inspiration",
+      "description": "A gallery of natural bamboo, reed and thatch in real gardens, homes and projects — privacy fencing, Moso poles, reed screens and thatch roofing from BestHome."
+    },
+    "eyebrow": "Inspiration",
+    "title": "Seen in gardens, homes & projects.",
+    "lead": "Real natural materials, blending effortlessly with any surface — from privacy fencing and reed screens to decorative Moso poles and thatch roofing. Tap any image to explore.",
+    "cats": {
+      "all": "All",
+      "fencing": "Bamboo fencing",
+      "moso": "Moso poles",
+      "reed": "Reed fencing",
+      "thatch": "Thatch roof"
+    },
+    "viewProduct": "View product",
+    "items": {
+      "natural-bamboo-fence-1": "Natural bamboo privacy fence",
+      "moso-bamboo-for-sale": "Moso bamboo poles",
+      "thatch-roof-for-sale": "Natural thatch roofing",
+      "moso-outdoor-constructions-2": "Moso outdoor structure",
+      "thatch-roof-palapa-1": "Thatch palapa shelter",
+      "moso-guadua-bamboo": "Moso & guadua bamboo",
+      "moso-for-outdoor-pergola": "Bamboo pergola",
+      "moso-for-outdoor-construction": "Outdoor bamboo construction",
+      "thatch-roofing": "Thatch roofing detail",
+      "moso-bamboo-wholesaler": "Moso bamboo, wholesale",
+      "garden-bamboo-fence": "Garden bamboo fence",
+      "reed-fence-balcony-2": "Reed balcony screen",
+      "moso-bamboo-supplier": "Bamboo poles supply",
+      "moso-bamboo-projects": "Bamboo project",
+      "thatch-roof-umbrella": "Thatch umbrella",
+      "moso-bamboo-poles-producer": "Moso poles in production",
+      "moso-bamboo-for-wall-cladding": "Bamboo wall cladding",
+      "moso-bamboo-for-outdoor-constructions": "Outdoor bamboo build",
+      "thatch-roof-supplier": "Thatch roof panels",
+      "moso-bamboo-for-interior-decoration": "Bamboo interior decor",
+      "moso-bamboo-for-home-decor": "Bamboo home decor",
+      "moso-bamboo-chinese-factory": "From our factory",
+      "guadua-bamboo-pergola": "Guadua bamboo pergola",
+      "giant-moso-bamboo-poles": "Giant Moso poles",
+      "reed-fence-garden-3-alt": "Reed garden fence",
+      "devor-moso-bamboo": "Decorative Moso bamboo",
+      "reed-fence-garden-4": "Reed garden screening",
+      "decor-moso-bamboo-for-interior": "Moso for interiors",
+      "decor-bamboo-poles": "Decor bamboo poles",
+      "bamboo-poles-for-home": "Bamboo poles for home",
+      "natural-thatch-roof": "Natural thatch roof",
+      "reed-fence-garden-3": "Reed fence, garden",
+      "natural-bamboo-fence-2": "Natural bamboo fence"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact us",
+      "description": "Get in touch with BestHome for factory-direct pricing and lead times on natural bamboo, reed and thatch products. Wholesale, OEM and project enquiries welcome."
+    },
+    "hero": {
+      "imageAlt": "Reed garden screening in natural light",
+      "crumb": "Contact us",
+      "eyebrow": "Get in touch",
+      "title": "Let's talk natural.",
+      "lead": "Tell us what your project needs — our team replies with factory-direct pricing and lead times, usually within one business day."
+    },
+    "form": {
+      "eyebrow": "Send an enquiry",
+      "title": "Request a quote.",
+      "lead": "Share your products, quantities and destination and we'll be in touch shortly.",
+      "name": "Name",
+      "namePh": "Your name",
+      "company": "Company",
+      "companyPh": "Company / brand",
+      "email": "Email",
+      "emailPh": "you@company.com",
+      "phone": "Phone / WhatsApp",
+      "phonePh": "Optional",
+      "country": "Country",
+      "countryPh": "Destination country",
+      "productOfInterest": "Product of interest",
+      "message": "Message",
+      "messagePh": "Sizes, quantities, target price, timeline…",
+      "submit": "Send enquiry",
+      "privacy": "We'll only use your details to reply to this enquiry.",
+      "success": "Thank you — your enquiry is on its way. We'll reply shortly, or reach us directly at"
+    },
+    "info": {
+      "email": "Email",
+      "mobile": "Mobile",
+      "telFax": "Tel / Fax",
+      "office": "Office",
+      "factory": "Factory"
+    },
+    "map": {
+      "location": "Xiamen · Fujian, China",
+      "note": "Map placeholder — embed live map on launch"
+    }
+  }
+}

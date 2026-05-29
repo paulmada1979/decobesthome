@@ -445,6 +445,24 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 @media(max-width:840px){ .feature-post{ grid-template-columns:1fr; } .feature-post .fp-media{ min-height:260px; }
   .feature-post .fp-body{ padding:28px; } }
 
+/* ---------- Article (blog detail prose) ---------- */
+.article{ max-width:72ch; margin:0 auto; }
+.article > p{ color:var(--ink-soft); font-size:1.05rem; line-height:1.75; margin-top:20px; }
+.article > p:first-child{ margin-top:0; }
+.article h2,
+.article h3{ font-family:var(--serif); color:var(--ink); letter-spacing:-.01em; }
+.article h2{ font-size:clamp(1.5rem,2.6vw,2rem); margin-top:46px; }
+.article h3{ font-size:clamp(1.2rem,2vw,1.45rem); margin-top:32px; }
+.article h2 + p,
+.article h3 + p,
+.article h2 + ul,
+.article h3 + ul{ margin-top:14px; }
+.article ul{ margin-top:18px; padding-left:1.25em; display:flex; flex-direction:column; gap:10px; }
+.article ul li{ color:var(--ink-soft); font-size:1.02rem; line-height:1.65; list-style:none; position:relative; padding-left:1.1em; }
+.article ul li::before{ content:""; position:absolute; left:0; top:.62em; width:7px; height:7px; border-radius:2px;
+  background:var(--leaf); transform:rotate(45deg); }
+.article .lead{ color:var(--ink); }
+
 /* chips */
 .chips{ display:flex; flex-wrap:wrap; gap:10px; }
 

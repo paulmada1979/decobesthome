@@ -136,12 +136,30 @@
           "name": "Tonkin bamboo canes",
           "desc": "Slender yet remarkably strong, Tonkin canes are prized for their straightness and durability. A versatile natural support for gardens, nurseries, fencing frames and craft work — grown and dried without chemical treatment.",
           "spec": [
-            { "k": "Material", "v": "100% natural Tonkin bamboo, chemical-free" },
-            { "k": "Diameter", "v": "8 – 50 mm (graded ranges)" },
-            { "k": "Length", "v": "1.0 – 6.0 m · custom cuts available" },
-            { "k": "Use", "v": "Plant support, crafts, fencing frames, construction" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural Tonkin bamboo, chemical-free"
+            },
+            {
+              "k": "Diameter",
+              "v": "8 – 50 mm (graded ranges)"
+            },
+            {
+              "k": "Length",
+              "v": "1.0 – 6.0 m · custom cuts available"
+            },
+            {
+              "k": "Use",
+              "v": "Plant support, crafts, fencing frames, construction"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "decor-moso-bamboo-poles": {
@@ -151,13 +169,34 @@
           "name": "Decor Moso bamboo poles",
           "desc": "Thick, characterful Moso poles bring a warm, architectural presence to outdoor and interior projects. Ideal for pergolas, wall cladding, room dividers and statement décor — dense, robust and naturally developed.",
           "spec": [
-            { "k": "Material", "v": "100% natural Moso bamboo, chemical-free" },
-            { "k": "Diameter", "v": "30 – 120 mm (range options)" },
-            { "k": "Length", "v": "1.0 – 6.0 m · custom cuts available" },
-            { "k": "Finish", "v": "Natural · carbonised options" },
-            { "k": "Use", "v": "Pergolas, cladding, dividers, décor" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural Moso bamboo, chemical-free"
+            },
+            {
+              "k": "Diameter",
+              "v": "30 – 120 mm (range options)"
+            },
+            {
+              "k": "Length",
+              "v": "1.0 – 6.0 m · custom cuts available"
+            },
+            {
+              "k": "Finish",
+              "v": "Natural · carbonised options"
+            },
+            {
+              "k": "Use",
+              "v": "Pergolas, cladding, dividers, décor"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "bamboo-fencing-edging": {
@@ -167,18 +206,52 @@
           "name": "Natural bamboo privacy fence",
           "desc": "Robust, sustainable and naturally developed without pesticides, formaldehyde or toxic glues. A popular choice for privacy screening and decorative purposes — blending effortlessly with any surface and adding an element of elegant, cozy warmth.",
           "finishLabel": "Finish",
-          "finishes": ["Natural", "Carbonised", "Black bamboo"],
+          "finishes": [
+            "Natural",
+            "Carbonised",
+            "Black bamboo"
+          ],
           "heightLabel": "Height",
-          "heights": ["1.0 m", "1.5 m", "1.8 m", "2.0 m", "Custom"],
+          "heights": [
+            "1.0 m",
+            "1.5 m",
+            "1.8 m",
+            "2.0 m",
+            "Custom"
+          ],
           "spec": [
-            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
-            { "k": "Formats", "v": "Rolls · framed panels · garden edging" },
-            { "k": "Cane diameter", "v": "8 – 25 mm (range options)" },
-            { "k": "Binding", "v": "Galvanised wire, double-stitched" },
-            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
-            { "k": "Use", "v": "Privacy screening, edging, decorative cladding" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural bamboo, chemical-free"
+            },
+            {
+              "k": "Formats",
+              "v": "Rolls · framed panels · garden edging"
+            },
+            {
+              "k": "Cane diameter",
+              "v": "8 – 25 mm (range options)"
+            },
+            {
+              "k": "Binding",
+              "v": "Galvanised wire, double-stitched"
+            },
+            {
+              "k": "Standard roll",
+              "v": "3 m length · custom sizes available"
+            },
+            {
+              "k": "Use",
+              "v": "Privacy screening, edging, decorative cladding"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "bamboo-fence-panels": {
@@ -188,13 +261,34 @@
           "name": "Bamboo fence panels",
           "desc": "Framed bamboo panels deliver instant privacy with a clean, finished edge. Robust and weather-ready, they install quickly along boundaries, balconies and terraces — naturally grown and chemical-free.",
           "spec": [
-            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
-            { "k": "Format", "v": "Framed rigid panels" },
-            { "k": "Sizes", "v": "Standard & custom dimensions" },
-            { "k": "Finish", "v": "Natural · carbonised · black bamboo" },
-            { "k": "Use", "v": "Boundaries, balconies, terraces" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural bamboo, chemical-free"
+            },
+            {
+              "k": "Format",
+              "v": "Framed rigid panels"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom dimensions"
+            },
+            {
+              "k": "Finish",
+              "v": "Natural · carbonised · black bamboo"
+            },
+            {
+              "k": "Use",
+              "v": "Boundaries, balconies, terraces"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "bamboo-household-articles": {
@@ -204,11 +298,26 @@
           "name": "Bamboo household articles",
           "desc": "A versatile range of bamboo homeware and lifestyle goods, crafted from a fast-renewing natural material. Produced to specification for distributors and brands seeking sustainable, fairly-priced products.",
           "spec": [
-            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
-            { "k": "Range", "v": "Homeware & lifestyle goods" },
-            { "k": "Customisation", "v": "Made to specification" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural bamboo, chemical-free"
+            },
+            {
+              "k": "Range",
+              "v": "Homeware & lifestyle goods"
+            },
+            {
+              "k": "Customisation",
+              "v": "Made to specification"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "bamboo-flower-sticks": {
@@ -218,12 +327,30 @@
           "name": "Bamboo flower sticks",
           "desc": "Slim, sturdy support sticks for flowers, seedlings and potted plants. A nursery essential — naturally grown, consistently graded and supplied in bulk for growers and garden retailers.",
           "spec": [
-            { "k": "Material", "v": "100% natural bamboo, chemical-free" },
-            { "k": "Diameter", "v": "3 – 12 mm (graded ranges)" },
-            { "k": "Length", "v": "30 – 180 cm · custom cuts available" },
-            { "k": "Use", "v": "Plant & flower support, nurseries" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural bamboo, chemical-free"
+            },
+            {
+              "k": "Diameter",
+              "v": "3 – 12 mm (graded ranges)"
+            },
+            {
+              "k": "Length",
+              "v": "30 – 180 cm · custom cuts available"
+            },
+            {
+              "k": "Use",
+              "v": "Plant & flower support, nurseries"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "bamboo-plywood": {
@@ -233,12 +360,30 @@
           "name": "Bamboo plywood",
           "desc": "Engineered bamboo sheet material combining strength, stability and a warm natural grain. A sustainable choice for furniture, cabinetry, flooring and interior fit-out — produced to specification.",
           "spec": [
-            { "k": "Material", "v": "Laminated natural bamboo" },
-            { "k": "Thickness", "v": "3 – 40 mm (range options)" },
-            { "k": "Sizes", "v": "Standard & custom sheet sizes" },
-            { "k": "Use", "v": "Furniture, interiors, construction" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "Laminated natural bamboo"
+            },
+            {
+              "k": "Thickness",
+              "v": "3 – 40 mm (range options)"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom sheet sizes"
+            },
+            {
+              "k": "Use",
+              "v": "Furniture, interiors, construction"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "reed-fencing": {
@@ -248,13 +393,34 @@
           "name": "Reed fencing",
           "desc": "Naturally harvested reed woven into breathable privacy screens with a soft, organic texture. A timeless choice for gardens, balconies and terraces — supplied as rolls in a range of heights.",
           "spec": [
-            { "k": "Material", "v": "100% natural reed" },
-            { "k": "Format", "v": "Rolls" },
-            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
-            { "k": "Heights", "v": "1.0 – 2.0 m (range options)" },
-            { "k": "Use", "v": "Garden, balcony & terrace screening" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "100% natural reed"
+            },
+            {
+              "k": "Format",
+              "v": "Rolls"
+            },
+            {
+              "k": "Standard roll",
+              "v": "3 m length · custom sizes available"
+            },
+            {
+              "k": "Heights",
+              "v": "1.0 – 2.0 m (range options)"
+            },
+            {
+              "k": "Use",
+              "v": "Garden, balcony & terrace screening"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "other-natural-fencing": {
@@ -264,13 +430,34 @@
           "name": "Other natural fencing",
           "desc": "Beyond bamboo and reed, our range includes willow and brushwood screening for a warm, rustic look. Naturally harvested and woven into durable rolls — ideal for gardens and decorative boundaries.",
           "spec": [
-            { "k": "Material", "v": "Natural willow & brushwood" },
-            { "k": "Format", "v": "Rolls" },
-            { "k": "Standard roll", "v": "3 m length · custom sizes available" },
-            { "k": "Heights", "v": "1.0 – 2.0 m (range options)" },
-            { "k": "Use", "v": "Garden screening, decorative boundaries" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "Natural willow & brushwood"
+            },
+            {
+              "k": "Format",
+              "v": "Rolls"
+            },
+            {
+              "k": "Standard roll",
+              "v": "3 m length · custom sizes available"
+            },
+            {
+              "k": "Heights",
+              "v": "1.0 – 2.0 m (range options)"
+            },
+            {
+              "k": "Use",
+              "v": "Garden screening, decorative boundaries"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "natural-thatch-roof": {
@@ -280,12 +467,30 @@
           "name": "Natural thatch roof",
           "desc": "Authentic natural thatch for palapas, gazebos, bars and resort builds. Supplied as tiles and rolls that layer into a warm, weather-shedding roof with unmistakable tropical character.",
           "spec": [
-            { "k": "Material", "v": "Natural palm & reed thatch" },
-            { "k": "Format", "v": "Tiles & rolls" },
-            { "k": "Sizes", "v": "Standard & custom dimensions" },
-            { "k": "Use", "v": "Palapas, gazebos, bars, resorts" },
-            { "k": "MOQ & OEM", "v": "Negotiable · project supply" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "Natural palm & reed thatch"
+            },
+            {
+              "k": "Format",
+              "v": "Tiles & rolls"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom dimensions"
+            },
+            {
+              "k": "Use",
+              "v": "Palapas, gazebos, bars, resorts"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · project supply"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "artificial-fence-rolls": {
@@ -295,12 +500,30 @@
           "name": "Artificial fence rolls",
           "desc": "Realistic artificial ivy and hedge rolls deliver instant, evergreen privacy with no upkeep. UV-stable and weather-ready for balconies, walls and event screening where natural planting isn't practical.",
           "spec": [
-            { "k": "Material", "v": "UV-stable synthetic foliage" },
-            { "k": "Format", "v": "Rolls" },
-            { "k": "Sizes", "v": "Standard & custom dimensions" },
-            { "k": "Use", "v": "Screening, walls, balconies, events" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "UV-stable synthetic foliage"
+            },
+            {
+              "k": "Format",
+              "v": "Rolls"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom dimensions"
+            },
+            {
+              "k": "Use",
+              "v": "Screening, walls, balconies, events"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         },
         "artificial-green-wall-panels": {
@@ -310,12 +533,30 @@
           "name": "Artificial green wall panels",
           "desc": "Dense, interlocking green wall panels create a lush vertical garden effect indoors or out — with zero watering or trimming. UV-stable boxwood and mixed-foliage styles for feature walls, façades and retail.",
           "spec": [
-            { "k": "Material", "v": "UV-stable synthetic foliage" },
-            { "k": "Format", "v": "Interlocking panels" },
-            { "k": "Panel size", "v": "Standard 50 × 50 cm · custom options" },
-            { "k": "Use", "v": "Feature walls, façades, retail, events" },
-            { "k": "MOQ & OEM", "v": "Negotiable · private label welcome" },
-            { "k": "Loading port", "v": "Xiamen, China" }
+            {
+              "k": "Material",
+              "v": "UV-stable synthetic foliage"
+            },
+            {
+              "k": "Format",
+              "v": "Interlocking panels"
+            },
+            {
+              "k": "Panel size",
+              "v": "Standard 50 × 50 cm · custom options"
+            },
+            {
+              "k": "Use",
+              "v": "Feature walls, façades, retail, events"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
           ]
         }
       }
@@ -541,55 +782,753 @@
         "title": "How China Became the Global Leader in Reed Screen Exports",
         "excerpt": "Inside the supply chain, craftsmanship and scale that made China the world's go-to source for natural reed screening.",
         "cat": "Industry",
-        "date": "November 2025"
+        "date": "November 2025",
+        "body": [
+          {
+            "h2": "Natural reed resources: the advantage starts at the source"
+          },
+          {
+            "p": "Reed fence screenings depend entirely on their raw material — reeds, a perennial wetland plant with strong, flexible stems perfect for weaving. China is one of the world's richest countries in reed resources."
+          },
+          {
+            "p": "China's key reed-producing regions include:"
+          },
+          {
+            "ul": [
+              "North & Northeast China: Baiyangdian (Hebei), Weishan Lake (Shandong), and Zhalong Wetland (Heilongjiang) produce reeds with thick, resilient stems, ideal for durable screenings.",
+              "Yangtze River Basin: areas in Jiangsu, Hubei, and neighbouring provinces yield dense, straight, high-fiber reeds, thanks to humid climates and fertile soils."
+            ]
+          },
+          {
+            "p": "This geographic advantage ensures reeds that are strong, flexible, uniform in colour, and perfect for weaving high-quality screenings. To guarantee consistent supply, China has invested in large-scale reed planting and sustainable wetland management — through crop rotation, controlled harvesting, and environmental conservation — keeping costs low while preserving ecosystems."
+          },
+          {
+            "h2": "From local craft to global industry"
+          },
+          {
+            "p": "China's reed-screening export industry evolved in three clear stages."
+          },
+          {
+            "h3": "1980s–1990s: traditional craft and early exports"
+          },
+          {
+            "ul": [
+              "Production took place in rural homes and small family workshops",
+              "Weaving was done manually",
+              "Exports were limited, mainly to Japan and South Korea",
+              "Products were sold at low cost with simple craftsmanship"
+            ]
+          },
+          {
+            "h3": "2000–2010: industrialization and rapid growth"
+          },
+          {
+            "p": "After China joined the WTO, specialized factories appeared in Shandong, Hebei, Jiangsu, and nearby regions. Mechanical weaving technology increased output and consistency, and export channels expanded into Europe and North America. During this decade, exports grew over 15% per year, driven by China's unbeatable cost-performance ratio."
+          },
+          {
+            "h3": "2010–today: branding, innovation and global reach"
+          },
+          {
+            "ul": [
+              "A fully developed supply chain: from planting and harvesting to weaving, packaging, and global shipping",
+              "Product innovation: dyed and printed reed screens, mixed-material mats, and decorative reed fence panels",
+              "Global presence through Alibaba, Amazon and cross-border logistics",
+              "Export to 100+ countries, with the EU and U.S. as the largest markets"
+            ]
+          },
+          {
+            "p": "Today, China commands over 80% of global reed-fence screening exports."
+          },
+          {
+            "h2": "Why China leads"
+          },
+          {
+            "p": "China's dominance is not accidental — it is built on several strategic advantages:"
+          },
+          {
+            "ul": [
+              "Natural resource endowment: access to vast reed wetlands keeps raw material cost stable and low.",
+              "Skilled labour and modern technology: traditional hand-craft expertise blends with automated weaving, achieving both quality and scale.",
+              "Supportive industrial policies: local governments promote rural industries, helping reed-producing regions form industrial clusters.",
+              "Fast adaptation to global trends: manufacturers quickly developed eco-certified products, custom sizes, and innovative colours and textures."
+            ]
+          },
+          {
+            "h2": "Conclusion"
+          },
+          {
+            "p": "From the reed wetlands of North China to gardens and living rooms across Europe and America, Chinese reed fence screenings represent a classic \"Made in China\" success story. Natural advantages created the foundation, but industrial growth, innovation, and global market strategy turned reed screenings into a thriving export sector. As sustainability becomes an increasingly important global priority, China's reed industry is poised to continue leading — weaving a greener future for eco-friendly living worldwide."
+          }
+        ]
       },
       "bamboo-european-home-2025": {
         "title": "Why Bamboo Belongs in Every European Home in 2025",
         "excerpt": "From balconies to room dividers, here's why bamboo keeps winning over European homes and gardens.",
         "cat": "Home & Living",
-        "date": "July 2025"
+        "date": "July 2025",
+        "body": [
+          {
+            "p": "Bamboo is no longer a niche trend — it's becoming a staple in homes across Europe. In 2025, this versatile natural material is stepping into the spotlight for all the right reasons. Whether you're renovating a Scandinavian-style flat, upgrading a modern loft in Berlin, or simply seeking eco-conscious decor — bamboo belongs in your home."
+          },
+          {
+            "p": "Here's why."
+          },
+          {
+            "h2": "1. Sustainability that feels like luxury"
+          },
+          {
+            "p": "Europe continues to lead the global push for sustainable living. From France's strict environmental regulations to the Netherlands' circular design movement, consumers are looking for eco-friendly materials that don't compromise on aesthetics."
+          },
+          {
+            "p": "Bamboo checks every box:"
+          },
+          {
+            "ul": [
+              "Grows 10x faster than hardwoods",
+              "Requires no pesticides or chemicals",
+              "Regenerates from its root system — no replanting needed",
+              "Absorbs more CO₂ and releases more oxygen than trees"
+            ]
+          },
+          {
+            "p": "In a world seeking climate solutions, bamboo isn't just good — it's exceptional."
+          },
+          {
+            "h2": "2. Design-forward and incredibly versatile"
+          },
+          {
+            "p": "Forget the rustic or \"ethnic\" stereotypes. Bamboo today is sleek, refined, and surprisingly adaptable. Whether you want minimalist wall panels, acoustic ceiling slats, or warm flooring — bamboo adapts to almost any interior style:"
+          },
+          {
+            "ul": [
+              "Scandi & Japandi: clean lines, natural textures",
+              "Boho & Coastal: light tones, relaxed feel",
+              "Modern Industrial: contrasts beautifully with steel, stone, and black accents"
+            ]
+          },
+          {
+            "p": "Bamboo offers the warmth of wood with a lighter carbon footprint — and that matters to the modern European homeowner."
+          },
+          {
+            "h2": "3. Health & wellness at home"
+          },
+          {
+            "p": "More Europeans are investing in wellness-centered design — creating calm, toxin-free environments that support physical and mental wellbeing."
+          },
+          {
+            "p": "Bamboo supports this shift in powerful ways:"
+          },
+          {
+            "ul": [
+              "Naturally hypoallergenic",
+              "Free from formaldehyde when processed responsibly",
+              "Moisture-resistant and mold-repellent — ideal for kitchens and bathrooms",
+              "Pleasant acoustic and thermal properties"
+            ]
+          },
+          {
+            "p": "It's not just about style. Bamboo feels good to live with."
+          },
+          {
+            "h2": "4. Ideal for small, urban spaces"
+          },
+          {
+            "p": "Urban living in Europe often means compact spaces — and bamboo is perfect for making the most of every square meter."
+          },
+          {
+            "ul": [
+              "Lightweight but strong: ideal for partitions, built-ins, and modular furniture",
+              "Thin-profile panels: great for acoustic and visual enhancement without bulk",
+              "Visual warmth: instantly softens modern interiors without clutter"
+            ]
+          },
+          {
+            "p": "Whether it's a studio apartment in Paris or a tiny home in Copenhagen, bamboo makes smart design feel effortless."
+          },
+          {
+            "h2": "5. The European ethos: conscious, local, timeless"
+          },
+          {
+            "p": "Bamboo aligns beautifully with values many European consumers hold dear:"
+          },
+          {
+            "ul": [
+              "Conscious consumption",
+              "Natural aesthetics",
+              "Longevity over fast trends"
+            ]
+          },
+          {
+            "p": "And with bamboo products increasingly available from EU-based brands and distributors, sourcing is easier than ever — with shorter shipping distances and transparent production."
+          },
+          {
+            "h2": "Make bamboo part of your 2025 home story"
+          },
+          {
+            "p": "If you're building, renovating, or simply upgrading a room this year — consider bamboo. It's not just a beautiful material. It's a reflection of how we want to live: better, cleaner, more intentionally."
+          }
+        ]
       },
       "jiangxi-gui-bamboo": {
         "title": "Jiangxi Gui Bamboo: The Southern Powerhouse of Sustainable Construction",
         "excerpt": "How a fast-growing southern bamboo is quietly reshaping sustainable building.",
         "cat": "Sustainability",
-        "date": "July 2025"
+        "date": "July 2025",
+        "body": [
+          {
+            "p": "Tucked into the humid, mountainous south of China, Jiangxi province has quietly become one of the country's most important bamboo regions. Its \"Gui\" bamboo — a fast-growing, thick-walled timber bamboo — is increasingly the material of choice for builders and designers who want the strength of structural timber with a fraction of the carbon cost."
+          },
+          {
+            "h2": "A bamboo built for building"
+          },
+          {
+            "p": "What sets Jiangxi Gui bamboo apart is the combination of climate and cultivation. Long growing seasons, mineral-rich soils, and generations of forestry know-how produce canes that are straight, dense, and remarkably consistent in diameter — exactly the qualities that matter when bamboo moves from decoration into load-bearing roles."
+          },
+          {
+            "p": "Mature canes are harvested on a rolling cycle, so the grove is never clear-cut. New shoots replace harvested poles within the same season, which keeps the root system — and the soil it stabilizes — intact year after year."
+          },
+          {
+            "h2": "Why it suits sustainable construction"
+          },
+          {
+            "ul": [
+              "Speed of regrowth: poles reach harvest maturity in years, not the decades hardwood demands.",
+              "Strength-to-weight: dense fibers give high tensile and compressive strength while keeping structures light and easy to handle.",
+              "Carbon capture: actively growing bamboo groves absorb carbon dioxide quickly, and that carbon stays locked in the cane once it becomes a beam, panel, or pole.",
+              "Low-impact harvesting: selective cutting leaves the rhizome network undisturbed, preventing erosion on Jiangxi's steep terrain."
+            ]
+          },
+          {
+            "h2": "From grove to project"
+          },
+          {
+            "p": "Once harvested, the canes are cured and treated to resist moisture and insects, then graded by diameter and wall thickness. From there they head into a wide range of uses — pergolas and garden structures, interior cladding and dividers, furniture frames, and engineered laminated bamboo for beams and flooring."
+          },
+          {
+            "p": "For specifiers, the appeal is straightforward: a renewable material with predictable mechanical properties, a transparent supply chain, and a genuinely low environmental footprint."
+          },
+          {
+            "h2": "A quiet powerhouse"
+          },
+          {
+            "p": "Jiangxi Gui bamboo rarely makes headlines, but it is steadily reshaping how southern China — and increasingly the rest of the world — thinks about sustainable building. As demand grows for materials that perform like timber without the deforestation, this southern powerhouse is well placed to lead."
+          }
+        ]
       },
       "choose-right-bamboo-fence": {
         "title": "How to Choose the Right Bamboo Fence for Your Outdoor Space",
         "excerpt": "Heights, finishes and formats — a practical guide to picking the bamboo fence that fits.",
         "cat": "Buying Guide",
-        "date": "April 2025"
+        "date": "April 2025",
+        "body": [
+          {
+            "h2": "What is bamboo and why choose it for fencing?"
+          },
+          {
+            "p": "Bamboo is technically classified as a grass and can grow at remarkable rates, with some species shooting up as much as three feet within 24 hours. Due to its rapid growth, bamboo is an excellent candidate for sustainable harvesting, making it an eco-friendly alternative to traditional lumber."
+          },
+          {
+            "p": "In the context of fencing, bamboo offers several advantages:"
+          },
+          {
+            "ul": [
+              "Sustainability: as a fast-growing, renewable resource, bamboo reduces reliance on slow-growing hardwoods, helping to preserve forests.",
+              "Strength: certain species of bamboo have tensile strength comparable to steel and greater compressive strength than many concrete mixtures.",
+              "Versatility: bamboo can be crafted into various styles to suit any garden or landscape design.",
+              "Ease of installation: lightweight and user-friendly, bamboo fencing is easy to work with, whether as a DIY project or professionally installed."
+            ]
+          },
+          {
+            "h2": "Different species of bamboo used for fences"
+          },
+          {
+            "p": "Not all bamboo is created equal. When selecting bamboo for fencing, it's essential to choose species known for their durability and strength. A few are commonly used for making bamboo fences:"
+          },
+          {
+            "ul": [
+              "White bamboo: commonly used in construction and known for its straightness and uniformity, ideal for elegant fences with a clean, consistent look.",
+              "Tonkin bamboo (Pseudosasa amabilis): known for its straightness and uniformity, ideal for clean, consistent fencing.",
+              "Black bamboo (Phyllostachys nigra): valued for its striking dark culms, creating a stunning visual contrast in the garden.",
+              "Moso bamboo (Phyllostachys edulis): one of the most popular species for commercial use, known for its thickness, strength, and versatility."
+            ]
+          },
+          {
+            "h2": "The environmental benefits of choosing bamboo"
+          },
+          {
+            "p": "The environmental benefits of using bamboo for fencing are substantial. Bamboo grows without the need for pesticides or fertilizers, reducing chemical run-off into the environment. Its extensive root systems help prevent soil erosion in sensitive areas. Bamboo also absorbs carbon dioxide and releases 35% more oxygen into the atmosphere than an equivalent mass of trees, purifying the air."
+          },
+          {
+            "p": "Bamboo's eco-credentials extend further when considering its role in combating climate change. As a carbon sink, bamboo forests can sequester carbon at a higher rate than some tree species. When harvested and used for products like fencing, the carbon remains trapped in the bamboo, preventing it from returning to the atmosphere."
+          },
+          {
+            "p": "Bamboo fencing is not merely a means to define the boundaries of your outdoor space; it's a conscious choice that supports a more sustainable way of living. The path towards a greener future can often start in our own backyards."
+          },
+          {
+            "h2": "Matching your fence to the garden style"
+          },
+          {
+            "p": "The beauty of bamboo is its versatility. Whether your garden is a serene Oriental Zen retreat, a lush tropical oasis, or a modern minimalist space, there's a bamboo fence design to enhance the theme."
+          },
+          {
+            "ul": [
+              "Oriental Zen gardens: opt for a bamboo cane fence with clean lines and natural hues to complement the tranquility of a Zen-inspired garden.",
+              "Tropical-themed gardens: a robust bamboo fence with a thicker, more rugged look adds to the verdant atmosphere and complements rich foliage and water features.",
+              "Contemporary outdoor spaces: a sleek bamboo slat fence provides privacy with a refined, linear structure that complements geometric layouts and clean architectural lines."
+            ]
+          },
+          {
+            "h2": "Integrating bamboo fencing into the landscape"
+          },
+          {
+            "p": "Creativity is key when integrating bamboo fencing into your existing landscape. Consider using bamboo panels as a backdrop for colourful plants or as a contrasting texture against smooth hardscapes like stone pathways and sleek patio furniture. Bamboo's natural colour variations also provide an organic canvas for outdoor lighting, used to highlight the fence and create ambiance in the evening."
+          },
+          {
+            "p": "For a dynamic visual effect, combine bamboo with other natural elements like climbing plants or vines, which can weave through the fencing to give it a living-wall feel. These collaborations enhance aesthetic appeal and can create habitats for local wildlife, contributing to ecosystem health."
+          },
+          {
+            "h2": "Combining with other materials"
+          },
+          {
+            "p": "Bamboo fences can be paired with other materials to produce striking visual effects. You can frame bamboo panels with wooden posts for a sturdy, contrasting look, or combine them with wrought-iron accents for a blend of organic and industrial elements. Stone bases not only add design interest but protect the bamboo from direct contact with soil, preventing decay and increasing longevity."
+          },
+          {
+            "p": "When integrating materials, ensure they harmonize with both the bamboo and the surrounding space. The natural tones of the bamboo should complement, not clash with, other elements in your garden. The goal is balance — where the combination of materials enhances the overall appearance and functionality of the fencing."
+          },
+          {
+            "h2": "Treatment, durability and quality"
+          },
+          {
+            "p": "One of the key factors in the durability of a bamboo fence is the treatment process it undergoes. High-quality bamboo fencing is typically cured — which may include kiln drying — and treated with borates or other environmentally friendly preservatives to prevent decay, mold, and insect infestation. A well-treated bamboo fence can last over 10 years with proper maintenance, so always check with the seller about the treatments applied."
+          },
+          {
+            "p": "Thickness and density matter too. Thicker, denser canes are more durable and less prone to cracking or splitting. Most high-quality fences use canes with a diameter of at least 1 inch, though the precise thickness depends on the height and length of the fence and local weather conditions."
+          },
+          {
+            "p": "Signs of quality craftsmanship include uniformity in cane size, consistency in colour, and smoothness of cut edges that prevent moisture accumulation. Joints should be well bound, and any metal hardware should be galvanized or stainless steel to prevent rust. Capped tops on the poles prevent water ingress, and sturdy frames support the structure."
+          },
+          {
+            "h2": "Coating your fence to resist weathering"
+          },
+          {
+            "p": "To further protect your bamboo fence from weather and UV damage, consider applying a water-resistant sealant — initially upon installation, then reapplied every 1–2 years depending on your climate. A UV-resistant protector helps maintain the natural colour, or you might opt for a tinted stain to achieve a desired hue."
+          },
+          {
+            "p": "When choosing treatments, ensure they are suitable for outdoor use and safe for plants and animals if your fence is within reach of your garden or pets. Always follow the manufacturer's instructions for the best results. Choosing the right bamboo fence isn't just about aesthetics — it's a balance between beauty, durability, and sustainability."
+          }
+        ]
       },
       "clean-bamboo-fence": {
         "title": "How to Clean a Dirty Bamboo Fence and Maintain It",
         "excerpt": "Simple, chemical-free steps to keep a bamboo fence looking good for years.",
         "cat": "Care & Maintenance",
-        "date": "April 2025"
+        "date": "April 2025",
+        "body": [
+          {
+            "p": "Maintaining natural bamboo fences and addressing dirt or blackening involves a combination of regular upkeep and targeted cleaning."
+          },
+          {
+            "h2": "Daily maintenance methods"
+          },
+          {
+            "h3": "Regular cleaning"
+          },
+          {
+            "ul": [
+              "Surface dust removal: use a soft-bristled brush or dry cloth to remove surface dust, fallen leaves, and other debris every month.",
+              "Deep cleaning: clean quarterly with mild soapy water (neutral cleaner), rinse with clean water, and allow to air dry to prevent water accumulation and residue."
+            ]
+          },
+          {
+            "h3": "Waterproofing and moisture-proof treatment"
+          },
+          {
+            "ul": [
+              "Apply a protective layer: use outdoor-specific wood oil, tung oil, or varnish at least once a year to enhance waterproofing. In humid areas, increase the frequency as needed.",
+              "Bottom protection: keep the bottom of the fence 5–10 cm above the ground (using gravel or supports) to avoid direct contact with soil and moisture absorption."
+            ]
+          },
+          {
+            "h3": "Insect and mold prevention"
+          },
+          {
+            "ul": [
+              "Pre-treatment: soak or spray the bamboo with a borax solution (1:4 ratio) before installing, and let it dry completely before use.",
+              "Regular inspection: if insect holes or mold spots appear, promptly treat them with insect repellents (such as boric acid) or mold removers."
+            ]
+          },
+          {
+            "h3": "Sun protection and ventilation"
+          },
+          {
+            "p": "To avoid prolonged sun exposure, consider planting greenery nearby for shade. Maintain good ventilation around the fence to reduce humid and hot conditions."
+          },
+          {
+            "h2": "Handling dirtiness or blackening"
+          },
+          {
+            "h3": "Mild stains"
+          },
+          {
+            "ul": [
+              "Mix white vinegar and warm water in a 1:1 ratio, dip a soft cloth into the solution and scrub the affected area, then rinse with clean water.",
+              "Baking soda paste: mix baking soda with water to form a paste, apply to the stain, let it sit for 10 minutes, and scrub it off."
+            ]
+          },
+          {
+            "h3": "Stubborn mold or black spots"
+          },
+          {
+            "ul": [
+              "Bleach treatment: dilute bleach with water at a 1:4 ratio. Wear gloves, gently brush the blackened area, and rinse off after 10 minutes.",
+              "Sandpaper polishing: if mold penetrates deeply, use fine sandpaper (120–200 grit) to polish the surface until the original colour is visible, then apply a protective coating."
+            ]
+          },
+          {
+            "h3": "Severely decayed parts"
+          },
+          {
+            "p": "If the interior of the bamboo has decayed, replace the individual pole. When cutting, maintain the original structure, and ensure the replacement bamboo is pre-treated (for waterproofing and insect resistance) before installation."
+          },
+          {
+            "h2": "Preventive suggestions"
+          },
+          {
+            "ul": [
+              "Seasonal maintenance: reinforce the waterproof coating before the rainy season, and inspect for cracks or touch up paint during the dry winter months.",
+              "Avoid chemical contact: keep herbicides and strong acid cleaners away from bamboo fences, as they can accelerate aging.",
+              "Regular inspection: every 2–3 months, check for loose joints or fasteners and reinforce them promptly to prevent structural deformation."
+            ]
+          },
+          {
+            "p": "By following these methods, you can effectively extend the lifespan of natural bamboo fences while preserving their natural beauty and appeal."
+          }
+        ]
       },
       "moso-poles-uses": {
         "title": "Versatile Uses of Moso Bamboo Poles for Home and Garden Enhancements",
         "excerpt": "Pergolas, cladding, dividers and more — the many ways Moso poles transform a space.",
         "cat": "Home & Garden",
-        "date": "April 2025"
+        "date": "April 2025",
+        "body": [
+          {
+            "p": "As homes and garden spaces evolve with prevailing interior and exterior design trends, Moso poles continue to add natural sophistication. Whether incorporated into garden pergolas, used as room dividers, or as wall decorations, the flexibility of Moso bamboo poles offers significant aesthetic benefits while championing sustainability."
+          },
+          {
+            "h2": "About Moso bamboo"
+          },
+          {
+            "p": "Moso bamboo, scientifically known as Phyllostachys edulis, is a native bamboo species in China distinguished by exceptional qualities. A mature Moso bamboo can shoot up to full height within just a few months and be ready for harvest in about four to six years. This rapid growth results from a unique rhizome-dependent system where underground roots produce shoots that grow upward and outward at remarkable speeds."
+          },
+          {
+            "p": "The strength of Moso bamboo earns it the designation of \"green steel\" within the plant kingdom. Possessing tensile strength rivaling many steel alloys, it resists considerable stress and bending. Its fibers are densely packed and run longitudinally, providing rigidity and resilience surpassing many traditional hardwoods."
+          },
+          {
+            "p": "The cellular structure — a hollow interior with solid nodes at regular intervals — offers a combination of lightness and durability unusual in natural materials, contributing to both strength and flexibility, allowing bending without snapping."
+          },
+          {
+            "h2": "Ecological sustainability"
+          },
+          {
+            "p": "From an ecological perspective, Moso bamboo's sustainable features are significant. It grows quickly without fertilizers, pesticides, or substantial water requirements. Because it regenerates from its root system after harvesting, replanting is unnecessary, preventing deforestation and soil erosion. Moso bamboo also absorbs carbon dioxide more efficiently than many tree species, helping combat climate change while releasing fresh oxygen."
+          },
+          {
+            "h2": "Garden pergolas: durability meets style"
+          },
+          {
+            "p": "A garden pergola creates a shaded outdoor area for relaxation or entertaining. Constructing a pergola with Moso bamboo adds durability and exotic charm. The natural bamboo appearance brings a calming, organic feel, blending seamlessly with surrounding foliage. Moso poles are ideal due to their substantial size, allowing sturdy structures that withstand the elements while supporting climbing plants and vines."
+          },
+          {
+            "p": "Their resistance to pests and decay makes Moso poles a long-lasting option that significantly outperforms traditional wood structures. Integrating LED string lights or hanging planters further accentuates beauty and functionality, offering enchanting nooks for evening retreats."
+          },
+          {
+            "h2": "Room dividers: graceful separation"
+          },
+          {
+            "p": "In interior design, Moso poles serve as exceptional materials for crafting room dividers that are both practical and aesthetically captivating. They provide airy, light partitioning that maintains openness while delineating areas within large rooms — an eco-friendly alternative to traditional dividers."
+          },
+          {
+            "p": "Customization is possible by adjusting spacing between poles, playing with patterns, or incorporating fabric or glass for increased privacy. The natural finish complements various decor styles, from minimalist to tropical or bohemian."
+          },
+          {
+            "h2": "Wall decoration: artistry indoors"
+          },
+          {
+            "p": "Beyond structural uses, Moso poles serve as exceptional wall decoration elements. With their striking lengths and diameters, they can be fashioned into wall art, picture frames, or textural backdrops for dramatic effect."
+          },
+          {
+            "p": "Setting vertical or horizontal poles against walls creates dynamic contrast, particularly against painted or brick surfaces. A solitary Moso pole, positioned thoughtfully, transforms into a focal point — especially when accentuated with spotlighting or flanked by lush indoor plants."
+          },
+          {
+            "h2": "Conclusion"
+          },
+          {
+            "p": "The beauty and versatility of Moso poles extend far beyond traditional construction or furniture uses. They can uplift garden aesthetics through sturdy pergolas, redefine indoor spaces with stylish room dividers, and invoke artful elegance as wall decorations. As environmentally conscious choices become increasingly important, incorporating Moso bamboo seamlessly marries sustainability with design."
+          }
+        ]
       },
       "moso-characteristics-architecture": {
         "title": "The Characteristics of Moso Bamboo and Its Wide Application in Architecture & Decoration",
         "excerpt": "What makes Moso bamboo so well suited to architecture and decorative work.",
         "cat": "Materials",
-        "date": "April 2025"
+        "date": "April 2025",
+        "body": [
+          {
+            "h2": "The core characteristics of Moso bamboo"
+          },
+          {
+            "h3": "Excellent physical and mechanical properties"
+          },
+          {
+            "p": "Moso bamboo possesses notably strong structural qualities. Its mature density reaches 0.8–0.9 g/cm³ — close to hardwood such as oak (about 0.75 g/cm³) — providing considerable hardness and compressive strength."
+          },
+          {
+            "p": "The material demonstrates impressive strength metrics. Its longitudinal tensile strength reaches 180–220 MPa, while longitudinal compressive strength is about 70–90 MPa, close to that of concrete. The layered fiber structure grants flexibility, allowing it to withstand deformation without breaking easily."
+          },
+          {
+            "h3": "Rapid growth and renewability"
+          },
+          {
+            "p": "Moso bamboo requires only 3–5 years to mature, while hardwood takes decades, making it a sustainable resource. Furthermore, the carbon sequestration efficiency of bamboo forests is 2–3 times that of ordinary forests, aligning with environmental protection goals."
+          },
+          {
+            "h3": "Natural texture and aesthetics"
+          },
+          {
+            "p": "The bamboo surface displays clear texture and elegant colouring ranging from light yellow to golden yellow, and can be modified through carbonization or dyeing to suit diverse design styles."
+          },
+          {
+            "h3": "Weather resistance and stability"
+          },
+          {
+            "p": "After treatment, the material gains improved moisture and insect resistance suitable for humid spaces like bathrooms. The dry-shrinkage and wet-swelling rate of bamboo is lower than that of ordinary wood, reducing deformation risks."
+          },
+          {
+            "h2": "Application advantages in construction and decoration"
+          },
+          {
+            "h3": "As a structural material"
+          },
+          {
+            "p": "Moso bamboo laminated timber, created through bonding and laminating, produces beams and columns capable of replacing some steel applications. Traditional bamboo scaffolding remains prevalent in southern China due to the material's strength and lightweight properties."
+          },
+          {
+            "h3": "Interior decoration"
+          },
+          {
+            "p": "Moso bamboo flooring offers a Janka hardness of about 1200–1400 lbf — comparable to oak — ensuring wear and scratch resistance, and its thermal conductivity suits underfloor heating systems well. Walls and ceilings benefit from bamboo's natural sound-absorbing and heat-insulating properties, and the material adapts readily to custom furniture for tables, chairs, and cabinetry."
+          },
+          {
+            "h3": "Environmental and economic benefits"
+          },
+          {
+            "p": "Bamboo carries lower cost than premium hardwoods with minimal processing energy demands. Products easily obtain green building certifications like LEED, strengthening project sustainability profiles."
+          },
+          {
+            "h2": "Limitations and solutions"
+          },
+          {
+            "p": "Moso bamboo's hollow, jointed structure requires cutting and reassembly to improve uniformity and strength. Untreated bamboo is susceptible to mold, necessitating protection through carbonization or environmentally friendly finishes. Modern construction demands metal connectors or bonding techniques to replace traditional binding methods."
+          },
+          {
+            "h2": "Typical cases"
+          },
+          {
+            "p": "The Green School in Bali demonstrates bamboo's structural potential through its large dome construction. Decorative bamboo poles have gained worldwide market popularity, while composite bamboo materials appear in outdoor walkways and bridges."
+          },
+          {
+            "h2": "Summary"
+          },
+          {
+            "p": "Moso bamboo functions as an environmentally sound substitute for traditional wood, combining high strength, rapid regeneration, and environmental friendliness. Modern processing techniques have broadened its applications from traditional crafts to premium architectural and interior design, supporting global sustainability initiatives."
+          }
+        ]
       },
       "reed-fence-privacy": {
         "title": "The Benefits of Using Reed Fences for Privacy in Your Garden",
         "excerpt": "Breathable, natural and quick to install — why reed screening is a garden favourite.",
         "cat": "Privacy & Screening",
-        "date": "July 2025"
+        "date": "July 2025",
+        "body": [
+          {
+            "p": "Imagine stepping into your garden and being immersed in a world of your own — a serene paradise where the only audience to your solitude is the rhythmic dance of leaves in the gentle breeze. Reed fences make such a vision not just possible, but easy to achieve. With their natural texture and calming presence, they are the gardener's preferred choice for shaping a private outdoor sanctuary."
+          },
+          {
+            "h2": "The pursuit of privacy"
+          },
+          {
+            "p": "In our increasingly populated and open-plan world, the quest for privacy becomes more pertinent. A garden should be a personal space where one can unwind without the sense of being watched. Reed fencing serves a dual purpose: creating an immediate visual barrier and establishing an intimate atmosphere. The dense arrangement of natural reeds ensures that while light and air can pass through, gazes cannot — affording you the luxury to enjoy quiet moments whether you're sunbathing, reading, or practicing yoga."
+          },
+          {
+            "h2": "Harmonizing with nature's aesthetics"
+          },
+          {
+            "p": "Reed fences boast an organic aesthetic that perfectly complements garden landscapes. The soft, neutral colours harmonize with the green hues of foliage, the vibrant colours of flowers, and the various textures in your outdoor space. Reed fences do not overpower; instead, they accentuate the natural beauty surrounding them, making your garden feel like a seamless extension of the natural world."
+          },
+          {
+            "h2": "Versatility across garden styles"
+          },
+          {
+            "p": "Reed fencing can assimilate with virtually any garden aesthetic. For the modern minimalist garden, its clean lines and natural hue offer an uncluttered look. In a cottage-style garden brimming with blooms, it provides rustic charm. For those cultivating a tropical paradise packed with exuberant greenery, reed fencing adds an authentic edge that resonates with exotic vibes."
+          },
+          {
+            "p": "Its pliability means it can be shaped to fit even the most unique landscape features. From rolling hills to rock gardens, reed fencing can follow the contour of the land, contributing to the aesthetic cohesiveness of the garden."
+          },
+          {
+            "h2": "Installation simplicity"
+          },
+          {
+            "p": "One of the greatest advantages of choosing reed fencing is the installation process. Reed fencing rolls are user-friendly and can be attached to pre-existing structures or frames. You can secure them to an existing chain-link fence, wire them to a wooden frame, or simply stake them into the ground using sturdy poles. This simplicity empowers even the novice gardener to transform their space without professional help — a weekend project that's both satisfying and impactful."
+          },
+          {
+            "p": "Reed fences are also easily trimmed to fit snugly into awkward corners or curved edges, making your privacy solution as unique as your garden. This adaptability is particularly useful for terraced gardens or those with uneven topography."
+          },
+          {
+            "h2": "Decorative accents and lighting"
+          },
+          {
+            "p": "Reed fencing offers practical boundary-making while serving as a natural canvas for decorative flourishes. The subtle colouring can highlight other elements within your garden — architectural plants, bold-hued flowers, and statement garden art all gain extra prominence against the understated elegance of reed fencing."
+          },
+          {
+            "p": "There is also a beautiful opportunity to play with lighting. Solar-powered lights can be woven through the reeds, providing eco-friendly illumination after dusk and conjuring an enchanting, starlit setting. Lanterns or fairy lights create a warm, inviting ambiance during twilight hours — perfect for garden parties or quiet evenings."
+          },
+          {
+            "h2": "Harmonious combinations with other materials"
+          },
+          {
+            "p": "Reed fencing pairs excellently with other materials. Combining wood, stone, or metal accents can result in arresting contrasts that accentuate the organic texture of the reeds. Framing the reed fencing with sleek metal gives an industrial-chic appeal, while pairing it with rough wooden features enhances a rustic or country garden theme."
+          },
+          {
+            "h2": "Cost-effectiveness without compromising quality"
+          },
+          {
+            "p": "Reed fencing is cost-effective. Compared to wood, vinyl, or metal, it's a financially sensible option without compromising on quality. The affordability stems from the lower cost of material — reeds are abundantly available and cheap to harvest and transport, requiring limited processing to convert into functional fences."
+          },
+          {
+            "p": "While initially more affordable, the true value of reed fencing is realized over time. Proper installation, occasional maintenance such as cleaning off mold or mildew, and the application of a UV-resistant sealant can protect the reeds from the elements, making your investment last much longer. Its lightweight, malleable nature also allows most gardeners to DIY, saving on labour costs. For large garden spaces, the cost savings become even more pronounced, and incremental installation offers budget flexibility."
+          },
+          {
+            "h2": "The eco-friendly beauty of natural reed"
+          },
+          {
+            "p": "Reed plants are among the unsung heroes of ecological conservation. Often found towering by waterbanks, they are a sustainable crop that requires minimal intervention to thrive. They absorb carbon dioxide and release oxygen just as trees do, and they grow rapidly, reaching maturity in a fraction of the time it takes for traditional fencing materials. When harvested, reeds regenerate quickly, leaving a minimal environmental footprint."
+          },
+          {
+            "p": "At the end of their life cycle, reed fences don't become a burden to the planet. Being completely natural, they are biodegradable — they break down and can be composted, returning to the earth without leaving harmful residues. This stands in stark contrast to synthetic fencing materials that can take centuries to decompose."
+          },
+          {
+            "h2": "Beyond the garden"
+          },
+          {
+            "p": "As versatile as it is in the garden, reed fencing's potential reaches further. Used as a room divider or decorative panel, it adds texture and interest to indoor spaces, inspiring a feeling of connectivity with the outdoors. For smaller outdoor spaces such as patios and balconies, it provides privacy and aesthetic appeal without the imposition of heftier materials. Commercial spaces benefit too — restaurants use it to create private dining alcoves, while spas employ it for serene, partitioned relaxation areas."
+          }
+        ]
       },
       "palm-thatch-roof-panels": {
         "title": "The Timeless Charm of Natural Palm Thatch Roof Panels",
         "excerpt": "From palapas to resorts, the enduring appeal of natural palm thatch roofing.",
         "cat": "Heritage",
-        "date": "May 2025"
+        "date": "May 2025",
+        "body": [
+          {
+            "h2": "Not just a roof over your head"
+          },
+          {
+            "p": "Natural palm thatch has been a part of human construction for thousands of years. Historically, many cultures across the globe — particularly in tropical regions such as the South Pacific, Caribbean, Central America, and Southeast Asia — have relied on palm leaves for roofing. Their availability, ease of harvesting, and excellent insulation properties made palm thatch an ideal choice for weather protection and climate control."
+          },
+          {
+            "p": "Fast forward to today, and palm thatch is making a resounding comeback — not just for its eco-friendly credentials but for its aesthetic appeal that speaks of an era when life was simpler."
+          },
+          {
+            "h2": "Understanding palm thatch roof panels"
+          },
+          {
+            "p": "Palm thatch roof panels are essentially sections of roofing made from dried palm leaves — often from species like the Mexican or Caribbean fan palm — woven or stitched together to create a water-resistant and insulating covering for buildings of all shapes and sizes."
+          },
+          {
+            "h2": "Aesthetic appeal: tropical vibes and rustic elegance"
+          },
+          {
+            "p": "There's no denying that palm thatch roof panels are stunningly beautiful. Their natural textures and warm, earthy tones can transform any space into a relaxing haven. They blend seamlessly with outdoor landscapes, complementing greenery and gardens with ease. They also add character and warmth to interiors, often used in covered patios, sunrooms, or as striking ceiling treatments in commercial spaces like restaurants or resorts."
+          },
+          {
+            "h2": "Versatility and uses"
+          },
+          {
+            "p": "The versatility of natural palm thatch is unparalleled, adapting to contemporary needs across many applications:"
+          },
+          {
+            "h3": "Residential roofing"
+          },
+          {
+            "ul": [
+              "Customization: palm thatch can be tailored to various roof shapes and sizes, suiting home styles from traditional to contemporary.",
+              "Thermal comfort: its thermal properties create a comfortable microclimate within outdoor living spaces, reducing the need for electric heating or cooling.",
+              "Aesthetic harmony: it enhances the architectural beauty of a home, integrating seamlessly with landscaping from xeriscaping to lush tropical gardens."
+            ]
+          },
+          {
+            "h3": "Landscaping features"
+          },
+          {
+            "ul": [
+              "Garden accents: cover archways, trellises, and pergolas to provide shady nooks and visual interest.",
+              "Water features: cabanas or changing rooms near pools or ponds topped with palm thatch create a resort-like ambiance.",
+              "Pathways: covered walkways invite exploration while protecting from the elements."
+            ]
+          },
+          {
+            "h3": "Themed environments"
+          },
+          {
+            "ul": [
+              "Visual storytelling: helps create a narrative, making settings like tropical rainforests or ancient villages feel realistic.",
+              "Versatility: blends with bamboo, stone, and wood, a favourite for high-detail themed environments.",
+              "Sensory experience: texture, colour, and the gentle rustling sound add to the experience."
+            ]
+          },
+          {
+            "h3": "Event décor"
+          },
+          {
+            "ul": [
+              "Natural theming: perfect for events embracing sustainability, tropical elegance, or bohemian chic.",
+              "Photo opportunities: thatched features like tiki bars become focal points for photographs.",
+              "Atmosphere: instantly transforms a space, infusing it with warmth and charm."
+            ]
+          },
+          {
+            "h2": "Sustainability and environment"
+          },
+          {
+            "p": "Natural palm thatch is emerging as a green initiative in construction. It's sustainable, renewable, and biodegradable. The leaves typically come from palms that naturally shed their fronds, meaning there's minimal impact on the plant itself. As an organic material, palm thatch integrates into landscapes without the environmental footprint associated with synthetic materials."
+          },
+          {
+            "h2": "Practical benefits"
+          },
+          {
+            "ul": [
+              "Natural insulation: keeps interiors cool during scorching summers and retains warmth in cooler weather.",
+              "Durability: when installed correctly, palm thatch can last up to 20 years with proper maintenance.",
+              "Weather resistance: high-quality thatch sheds water well and, with routine upkeep, withstands various weather conditions."
+            ]
+          },
+          {
+            "h2": "Installation and upkeep"
+          },
+          {
+            "p": "Installing palm thatch roof panels is relatively straightforward, making it an accessible DIY project for many. For more extensive or complex projects, professional installation is recommended. The key is a solid, sloping roof structure for optimal water run-off, with panels attached securely to prevent uplift from strong winds."
+          },
+          {
+            "p": "Like all roofing materials, palm thatch requires maintenance. Regular inspections help detect and rectify issues early. Cleaning debris from the roof and applying protective treatments can also extend the life of your thatch."
+          },
+          {
+            "h2": "Weaving tradition with modern living"
+          },
+          {
+            "p": "Natural palm thatch roof panels uniquely blend tradition, beauty, and practicality. Their resurgence reflects a desire to reconnect with nature and incorporate sustainable materials into our built environment. Whether creating a backyard oasis or designing a unique commercial space, palm thatch remains a versatile and stylish choice that speaks to our shared past and a greener future."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -604,6 +1543,22 @@
       "lead": "Share your products, quantities and destination — we reply with factory-direct pricing and lead times, usually within one business day.",
       "ctaQuote": "Request a quote",
       "ctaBrowse": "Browse products"
+    },
+    "detail": {
+      "crumbHome": "Home",
+      "crumbJournal": "Journal",
+      "backToJournal": "Back to journal",
+      "share": "Share",
+      "relatedEyebrow": "Keep reading",
+      "relatedTitle": "More from the journal",
+      "relatedAll": "View all articles",
+      "cta": {
+        "eyebrow": "Have a project in mind?",
+        "title": "Let's source the right natural materials for it.",
+        "lead": "Tell us what you're building and we'll send specs, samples and a factory-direct quote.",
+        "ctaQuote": "Request a quote",
+        "ctaBrowse": "Browse products"
+      }
     }
   },
   "inspiration": {

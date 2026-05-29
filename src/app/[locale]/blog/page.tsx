@@ -49,12 +49,7 @@ export default async function JournalPage({
       <section className="section--tight">
         <div className="container">
           <Reveal as="span">
-            <a
-              className="feature-post"
-              href={featuredPost.href}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <Link className="feature-post" href={`/blog/${featuredPost.slug}`}>
               <div className="fp-media">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={featuredPost.image} alt={t(`posts.${featuredPost.id}.title`)} />
@@ -81,7 +76,7 @@ export default async function JournalPage({
                   </span>
                 </span>
               </div>
-            </a>
+            </Link>
           </Reveal>
         </div>
       </section>
@@ -92,7 +87,7 @@ export default async function JournalPage({
           <div className="posts">
             {gridPosts.map((post, i) => (
               <Reveal key={post.id} as="span" delay={i % 3}>
-                <a className="post-card" href={post.href} target="_blank" rel="noopener noreferrer">
+                <Link className="post-card" href={`/blog/${post.slug}`}>
                   <div className="ph">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img loading="lazy" src={post.image} alt={t(`posts.${post.id}.title`)} />
@@ -110,7 +105,7 @@ export default async function JournalPage({
                       </span>
                     </div>
                   </div>
-                </a>
+                </Link>
               </Reveal>
             ))}
 

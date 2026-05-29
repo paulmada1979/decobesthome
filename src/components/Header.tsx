@@ -85,7 +85,14 @@ export default function Header() {
                   <div className="mega-grid">
                     {megaProducts.map((p) => (
                       <Link key={p.id} className="mega-item" href={`/products/${p.slug}`}>
-                        <span className="ico">{p.icon}</span>
+                        <span className="ico">
+                          {p.image ? (
+                            // eslint-disable-next-line @next/next/no-img-element
+                            <img src={p.image} alt="" loading="lazy" />
+                          ) : (
+                            p.icon
+                          )}
+                        </span>
                         <span>
                           <span className="t">{tn(p.id)}</span>
                           <span className="d">{tm(p.id)}</span>

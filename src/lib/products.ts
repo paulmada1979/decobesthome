@@ -22,6 +22,10 @@ export type Product = {
   variationDir?: string;
   /** Optional size chart rows (length + diameter range). Labels live in messages. */
   sizeChart?: { len: string; dia: string }[];
+  /** Render the grades & packing section (messages.products.detail.items.{id}.grades). */
+  hasGrades?: boolean;
+  /** Photo-strip images (paths) shown in the grades section. */
+  gradePhotos?: string[];
 };
 
 /** Authoritative catalog order (12 ranges). Names live in messages products.names.{id}. */
@@ -34,8 +38,17 @@ export const products: Product[] = [
     tag: "bestseller",
     hasAbout: true,
     hasVariations: true,
+    hasGrades: true,
     variationDir: "tonkin",
     gallery: ["/images/tonkin-hero.webp", "/images/tonkin-support.webp"],
+    gradePhotos: [
+      "/images/tonkin/factory-1.webp",
+      "/images/tonkin/factory-2.webp",
+      "/images/tonkin/factory-3.webp",
+      "/images/tonkin/factory-4.webp",
+      "/images/tonkin/factory-5.webp",
+      "/images/tonkin/factory-6.webp",
+    ],
     sizeChart: [
       { len: "60 cm", dia: "6/8 – 14/16 mm" },
       { len: "70 cm", dia: "6/8 – 16/18 mm" },

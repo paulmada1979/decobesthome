@@ -183,9 +183,51 @@ export default async function ProductDetailPage({
         </section>
       )}
 
+      {/* GRADES & PACKING */}
+      {product.hasGrades && (
+        <section className="section" style={{ background: "var(--bone-2)" }}>
+          <div className="container">
+            <Reveal style={{ maxWidth: "70ch" }}>
+              <p className="eyebrow">{t(`items.${product.id}.grades.eyebrow`)}</p>
+              <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.8rem,3vw,2.6rem)" }}>
+                {t(`items.${product.id}.grades.title`)}
+              </h2>
+              <p className="lead pretty" style={{ marginTop: "16px" }}>
+                {t(`items.${product.id}.grades.intro`)}
+              </p>
+            </Reveal>
+            <Reveal as="div" className="grade-grid" delay={1}>
+              {(t.raw(`items.${product.id}.grades.items`) as { name: string; desc: string }[]).map(
+                (g, i) => (
+                  <div className="grade-card" key={g.name}>
+                    <div className="num">{String(i + 1).padStart(2, "0")}</div>
+                    <h3 className="h4">{g.name}</h3>
+                    <p className="muted">{g.desc}</p>
+                  </div>
+                ),
+              )}
+            </Reveal>
+            <Reveal as="p" delay={2} style={{ marginTop: "26px" }}>
+              <strong>{t(`items.${product.id}.grades.packingTitle`)}: </strong>
+              <span className="muted">{t(`items.${product.id}.grades.packing`)}</span>
+            </Reveal>
+            {product.gradePhotos && (
+              <Reveal as="div" className="photo-strip" delay={2}>
+                {product.gradePhotos.map((src, i) => (
+                  <div className="ph" key={src}>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img loading="lazy" src={src} alt={`${name} ${i + 1}`} />
+                  </div>
+                ))}
+              </Reveal>
+            )}
+          </div>
+        </section>
+      )}
+
       {/* SIZE CHART */}
       {product.sizeChart && (
-        <section className="section" style={{ paddingTop: 0 }}>
+        <section className="section">
           <div className="container">
             <Reveal style={{ maxWidth: "62ch" }}>
               <p className="eyebrow">{t(`items.${product.id}.sizeChart.eyebrow`)}</p>

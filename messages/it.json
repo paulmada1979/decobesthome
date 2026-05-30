@@ -251,6 +251,27 @@
             "colLength": "Length",
             "colDiameter": "Diameter (Ø)",
             "note": "Other lengths and diameters available on request — tell us your spec and we'll quote factory-direct."
+          },
+          "grades": {
+            "eyebrow": "Quality & packing",
+            "title": "Three grades, packed factory-direct",
+            "intro": "Each Tonkin bamboo stake and pole goes through a thorough cleaning and brushing process, then a non-toxic treatment that makes it resistant to moths and bacteria. Everything is kept in dried stock to prevent moisture absorption and maintain durability — strong, thick-walled and flexible, ideal for nurseries, greenhouses, plantations and gardens, and weatherproof for outdoor use. The canes also suit other applications such as fishing rods, boats and nests.",
+            "items": [
+              {
+                "name": "Grade A",
+                "desc": "Stakes 45–180 cm are packed with up to 70% diameter difference from bottom to top, kept very consistent end to end; poles longer than 180 cm are first-cut only."
+              },
+              {
+                "name": "Grade B",
+                "desc": "Budget grade — stakes 45–180 cm packed with a 65% top-to-bottom diameter difference, combining first-cut and second-cut material."
+              },
+              {
+                "name": "Top Grade AAA",
+                "desc": "First-cut only, with an extra flamed, manually strengthened treatment so every pole is completely straight and best-looking."
+              }
+            ],
+            "packingTitle": "Packing",
+            "packing": "15, 20, 25, 50, 100, 250, 500 and 1000 pcs in bulk woven-bag packing, depending on diameter (6–45 mm)."
           }
         },
         "decor-moso-bamboo-poles": {

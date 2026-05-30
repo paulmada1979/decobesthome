@@ -701,7 +701,91 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Natural reed, rustic and private",
+            "body": [
+              {
+                "p": "Reed fencing is a versatile, eco-friendly way to create privacy screens and enhance the look of any outdoor space. Made from 100% natural reed, it's a sustainable choice that blends in beautifully with natural surroundings."
+              },
+              {
+                "p": "It's known for its durability and weather resistance, suiting a wide range of climates, and it forms an effective barrier that keeps unwanted views and noise at bay. The natural texture and colour add a rustic, organic charm wherever it's used."
+              },
+              {
+                "h3": "Quick to install"
+              },
+              {
+                "p": "Reed fencing is easy to put up and can be attached to a variety of surfaces — existing fences, posts and structures — so you can transform a space in an afternoon."
+              },
+              {
+                "h3": "Peeled, unpeeled or carbonised"
+              },
+              {
+                "p": "Choose peeled reed for a clean, refined surface, unpeeled for a more natural rustic look, or carbonised for a warmer, deeper tone — in fine, thick or extra-thick stem grades."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Grades, finishes and blinds",
+            "lead": "Peeled or unpeeled, fine to extra-thick, plus Japanese-style panels and reed roller blinds — pick the reed that fits your project.",
+            "items": [
+              {
+                "img": "var-extrathick.webp",
+                "title": "Extra-thick peeled (8–10 mm)",
+                "desc": "Robust, high-coverage peeled reed for maximum privacy."
+              },
+              {
+                "img": "var-thick.webp",
+                "title": "Thick peeled (5–8 mm)",
+                "desc": "The all-round peeled reed for everyday garden screening."
+              },
+              {
+                "img": "var-fine.webp",
+                "title": "High-density fine (3–6 mm)",
+                "desc": "Fine, dense peeled reed with a smooth, refined surface."
+              },
+              {
+                "img": "var-unpeeled.webp",
+                "title": "Unpeeled thick reed",
+                "desc": "Natural unpeeled stems for a rustic, textured look."
+              },
+              {
+                "img": "var-halfround.webp",
+                "title": "Half-round / split reed",
+                "desc": "Split reed rolls with a flatter, even face."
+              },
+              {
+                "img": "var-japanese.webp",
+                "title": "Japanese-style with bamboo",
+                "desc": "Reed panels bound with bamboo for an elegant Japanese look."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Reed roller blind",
+                "desc": "Natural reed roller blinds for shade and indoor-outdoor screening."
+              },
+              {
+                "img": "var-carbblind.webp",
+                "title": "Carbonised reed blind",
+                "desc": "Heat-treated darker reed blinds with a warm, deep tone."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "Reed screening, styled",
+            "lead": "Balconies, terraces and garden borders — natural reed adds instant warmth and privacy."
+          },
+          "sizeChart": {
+            "eyebrow": "Specifications",
+            "title": "Reed thickness grades",
+            "lead": "Choose by reed-stem thickness, peeled or unpeeled. Rolls are bound with rust-proof wire.",
+            "colLength": "Reed Ø",
+            "colDiameter": "Character",
+            "note": "Standard roll length 3 m · heights 1.0–2.0 m · peeled, unpeeled & carbonised · custom sizes on request."
+          }
         },
         "other-natural-fencing": {
           "eyebrow": "Natural materials",

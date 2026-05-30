@@ -150,9 +150,28 @@ export const products: Product[] = [
   {
     id: "reed-fencing",
     slug: "reed-fencing",
-    image: "/images/sy_reed-fence-garden-screening-1-300x300.jpg",
+    image: "/images/reed-hero.webp",
     icon: "▤",
     tag: "popular",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "reed",
+    gallery: [
+      "/images/reed-hero.webp",
+      "/images/reed/scene-hd.webp",
+      "/images/reed-fence-garden-2.webp",
+      "/images/reed-fence-garden-4.webp",
+    ],
+    showcasePhotos: [
+      "/images/reed-fence-garden-3-1024x574-3.webp",
+      "/images/reed-fence-balcony-2.webp",
+      "/images/reed-fence-garden-3-1.webp",
+    ],
+    sizeChart: [
+      { len: "3 – 6 mm", dia: "High-density fine reed — smooth, refined screening" },
+      { len: "5 – 8 mm", dia: "All-round thick reed for garden privacy" },
+      { len: "8 – 10 mm", dia: "Extra-thick reed — robust, high-coverage screens" },
+    ],
   },
   {
     id: "other-natural-fencing",

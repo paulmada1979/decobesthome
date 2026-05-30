@@ -243,6 +243,14 @@
                 "desc": "Ready-made lattice trellis for climbers, screening and vertical displays."
               }
             ]
+          },
+          "sizeChart": {
+            "eyebrow": "Specifications",
+            "title": "Size chart",
+            "lead": "Standard lengths and diameter ranges for Tonkin bamboo poles, graded and sorted at our factory.",
+            "colLength": "Length",
+            "colDiameter": "Diameter (Ø)",
+            "note": "Other lengths and diameters available on request — tell us your spec and we'll quote factory-direct."
           }
         },
         "decor-moso-bamboo-poles": {

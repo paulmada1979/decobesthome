@@ -20,6 +20,8 @@ export type Product = {
   hasVariations?: boolean;
   /** Folder under /images that holds this product's variation thumbnails. */
   variationDir?: string;
+  /** Optional size chart rows (length + diameter range). Labels live in messages. */
+  sizeChart?: { len: string; dia: string }[];
 };
 
 /** Authoritative catalog order (12 ranges). Names live in messages products.names.{id}. */
@@ -34,6 +36,25 @@ export const products: Product[] = [
     hasVariations: true,
     variationDir: "tonkin",
     gallery: ["/images/tonkin-hero.webp", "/images/tonkin-support.webp"],
+    sizeChart: [
+      { len: "60 cm", dia: "6/8 – 14/16 mm" },
+      { len: "70 cm", dia: "6/8 – 16/18 mm" },
+      { len: "75 cm", dia: "6/8 – 14/16 mm" },
+      { len: "90 cm", dia: "6/8 – 14/16 mm" },
+      { len: "105 cm", dia: "6/8 – 22/24 mm" },
+      { len: "120 cm", dia: "8/10 – 22/24 mm" },
+      { len: "150 cm", dia: "8/10 – 22/24 mm" },
+      { len: "180 cm", dia: "8/10 – 28/30 mm" },
+      { len: "210 cm", dia: "10/12 – 28/30 mm" },
+      { len: "240 cm", dia: "16/18 – 30/35 mm" },
+      { len: "250 cm", dia: "16/18 – 28/30 mm" },
+      { len: "270 cm", dia: "12/14 – 35/40 mm" },
+      { len: "300 cm", dia: "22/24 – 40/45 mm" },
+      { len: "395 cm", dia: "24/26 – 35/40 mm" },
+      { len: "420 cm", dia: "26/28 – 35/40 mm" },
+      { len: "450 cm", dia: "28/30 – 40/45 mm" },
+      { len: "595 cm", dia: "30/35 – 40/45 mm" },
+    ],
   },
   {
     id: "decor-moso-bamboo-poles",

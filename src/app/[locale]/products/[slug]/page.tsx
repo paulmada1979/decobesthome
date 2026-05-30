@@ -183,6 +183,44 @@ export default async function ProductDetailPage({
         </section>
       )}
 
+      {/* SIZE CHART */}
+      {product.sizeChart && (
+        <section className="section" style={{ paddingTop: 0 }}>
+          <div className="container">
+            <Reveal style={{ maxWidth: "62ch" }}>
+              <p className="eyebrow">{t(`items.${product.id}.sizeChart.eyebrow`)}</p>
+              <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
+                {t(`items.${product.id}.sizeChart.title`)}
+              </h2>
+              <p className="lead pretty" style={{ marginTop: "12px" }}>
+                {t(`items.${product.id}.sizeChart.lead`)}
+              </p>
+            </Reveal>
+            <Reveal as="div" className="size-chart-wrap" delay={1}>
+              <table className="size-chart">
+                <thead>
+                  <tr>
+                    <th>{t(`items.${product.id}.sizeChart.colLength`)}</th>
+                    <th>{t(`items.${product.id}.sizeChart.colDiameter`)}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {product.sizeChart.map((row) => (
+                    <tr key={row.len}>
+                      <td>{row.len}</td>
+                      <td>{row.dia}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </Reveal>
+            <p className="muted" style={{ marginTop: "14px", fontSize: ".86rem" }}>
+              {t(`items.${product.id}.sizeChart.note`)}
+            </p>
+          </div>
+        </section>
+      )}
+
       {/* VARIATIONS */}
       {product.hasVariations && (
         <section className="section" style={{ background: "var(--bone-2)" }}>

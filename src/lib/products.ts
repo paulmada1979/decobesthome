@@ -99,15 +99,28 @@ export const products: Product[] = [
   {
     id: "bamboo-fencing-edging",
     slug: "bamboo-fencing-edging",
-    image: "/images/sy_natural-bamboo-fencing-for-home-privacy-300x300.jpg",
+    image: "/images/bamboo-fence-hero.webp",
     icon: "🌿",
     tag: "bestseller",
     hasDetail: true,
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "fence",
     gallery: [
-      "/images/natural-bamboo-fence-1.webp",
-      "/images/sy_natural-bamboo-fencing-for-home-privacy-300x300.jpg",
-      "/images/sy_fixed-natural-black-bamboo-fence-screening-300x300.jpg",
-      "/images/6.jpg",
+      "/images/bamboo-fence-hero.webp",
+      "/images/fence/scene-banner2.webp",
+      "/images/fence/scene-garden.webp",
+      "/images/fence/scene-natural.webp",
+    ],
+    showcasePhotos: [
+      "/images/fence/scene-fixed.webp",
+      "/images/fence/scene-support.webp",
+      "/images/fence/scene-black.webp",
+    ],
+    sizeChart: [
+      { len: "10 – 20 mm", dia: "Light screening, edging and decorative panels" },
+      { len: "20 – 30 mm", dia: "All-round garden privacy fencing" },
+      { len: "30 – 35 mm", dia: "Robust, high-privacy boundary screens" },
     ],
   },
   {

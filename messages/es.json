@@ -442,7 +442,97 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Natural bamboo privacy, the easy way",
+            "body": [
+              {
+                "p": "Natural bamboo fencing has become increasingly popular for its versatility and natural beauty. It installs straight onto drywall, wooden fences, concrete, chain-link, gates and landscaping projects — providing privacy and a barrier while creating a cozy, beautiful paradise in your outdoor space."
+              },
+              {
+                "p": "Bamboo is a natural, renewable and biodegradable material that grows very fast in the mountains, so it's an ecological choice that quietly improves the environment around it. Installation is quick and convenient, and the fencing is durable and sustainable for the long term."
+              },
+              {
+                "h3": "Built to last outdoors"
+              },
+              {
+                "p": "Every fence roll is joined with high-quality, long-life rust-proof steel wire, so panels stay tight and true season after season. Choose a natural, carbonised or black-bamboo finish to match the look you're after."
+              },
+              {
+                "h3": "Where bamboo fencing works"
+              },
+              {
+                "ul": [
+                  "Garden privacy screening and boundary fencing.",
+                  "Cladding existing walls, fences and chain-link.",
+                  "Balcony, terrace and poolside screening.",
+                  "Garden edging and low decorative borders.",
+                  "Framed panels for gates and feature walls."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Rolls, panels, edging and finishes",
+            "lead": "Natural, carbonised or black bamboo — supplied as rolls, half-round screens, framed panels and edging to suit any project.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natural bamboo roll",
+                "desc": "Classic light-tan bamboo fence rolls for fast, warm garden privacy."
+              },
+              {
+                "img": "var-carbonised.webp",
+                "title": "Carbonised bamboo screen",
+                "desc": "Heat-treated honey-brown bamboo with a richer, deeper tone."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Black bamboo roll",
+                "desc": "Dramatic dark-bamboo rolls for a bold, contemporary boundary."
+              },
+              {
+                "img": "var-halfround.webp",
+                "title": "Half-round bamboo fence",
+                "desc": "Split-cane rolls with a flatter face and a refined, even surface."
+              },
+              {
+                "img": "var-edging.webp",
+                "title": "Bamboo edging",
+                "desc": "Low bamboo borders for beds, paths and lawn edges."
+              },
+              {
+                "img": "var-fixed.webp",
+                "title": "Fixed bamboo panels",
+                "desc": "Rigid framed bamboo panels for gates and structured screening."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Lattice-top panels",
+                "desc": "Wood-framed bamboo panels with a decorative lattice top."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Bamboo branch panels",
+                "desc": "Textured branch-fence panels for a natural, rustic look."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "Bamboo fencing, styled",
+            "lead": "From Japanese courtyards to modern poolsides — a few ways natural bamboo screening sets the scene."
+          },
+          "sizeChart": {
+            "eyebrow": "Specifications",
+            "title": "Cane diameter grades",
+            "lead": "Three cane-diameter grades, each suited to a different job. Every roll is joined with rust-proof galvanised steel wire.",
+            "colLength": "Cane Ø",
+            "colDiameter": "Best for",
+            "note": "Standard roll length 3 m · heights 1.0–2.0 m · custom sizes on request."
+          }
         },
         "bamboo-fence-panels": {
           "eyebrow": "Natural bamboo",

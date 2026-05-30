@@ -160,7 +160,90 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Built from one of the strongest bamboos",
+            "body": [
+              {
+                "p": "Tonkin bamboo poles are crafted from one of the strongest bamboo species, renowned for their superior hardness, durability and resistance to harsh weather conditions. Their natural finish — an earthy light tan — blends effortlessly into any outdoor space."
+              },
+              {
+                "p": "Straight, slender and remarkably rigid, Tonkin canes carry weight without buckling. That makes them a dependable choice for a multitude of structural and decorative uses — from bold garden structures, fences and furniture to agricultural and horticultural work such as pathways, fountains and plant supports."
+              },
+              {
+                "h3": "Strength that lasts outdoors"
+              },
+              {
+                "p": "An optional clear-coat sealing helps protect the bamboo's natural colour while enhancing its resistance to pests and decay, so the canes keep their looks and structural strength season after season."
+              },
+              {
+                "h3": "Made for climbing plants"
+              },
+              {
+                "p": "The Tonkin bamboo trellis offers a robust structure for enhancing the growth and display of climbing plants. Its lattice design gives foliage ample space to intertwine, promoting healthy air circulation while adding a layered sense of privacy."
+              },
+              {
+                "h3": "Why growers choose Tonkin"
+              },
+              {
+                "ul": [
+                  "Superior hardness and weather resistance.",
+                  "Naturally straight, with consistent grading.",
+                  "Strong yet flexible — supports weight without bending.",
+                  "Grown and dried without chemical treatment.",
+                  "Available natural or with a protective clear coat."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Grades, cuts and shapes",
+            "lead": "From slender plant stakes to heavy first-cut poles and ready-made trellises — choose the grade and form that fits your crop or project.",
+            "items": [
+              {
+                "img": "var-small-diameter.webp",
+                "title": "A-grade small-diameter canes",
+                "desc": "Slim, lightweight stakes for seedlings, pot plants and delicate stems."
+              },
+              {
+                "img": "var-plant-support.webp",
+                "title": "Plant-support canes",
+                "desc": "All-purpose A-grade canes for staking vegetables, flowers and nursery rows."
+              },
+              {
+                "img": "var-first-cut.webp",
+                "title": "Top-grade first-cut poles",
+                "desc": "The strongest, straightest selection — first-cut poles for structures and heavy support."
+              },
+              {
+                "img": "var-tree-support.webp",
+                "title": "Poles for tree support",
+                "desc": "Thicker, sturdier poles for staking young fruit trees such as apple and pear."
+              },
+              {
+                "img": "var-plastic-covered.webp",
+                "title": "Plastic-covered canes",
+                "desc": "Bamboo cores sleeved in protective plastic for a clean look and a longer life."
+              },
+              {
+                "img": "var-plastic-green.webp",
+                "title": "Green plastic-coated canes",
+                "desc": "Green-coated canes that blend into foliage — a tidy, weather-resistant finish."
+              },
+              {
+                "img": "var-u-hoops.webp",
+                "title": "U-shape bamboo hoops",
+                "desc": "Pre-bent U-pins and hoops for securing netting, fleece and low tunnels."
+              },
+              {
+                "img": "var-trellis.webp",
+                "title": "Bamboo ladder trellis",
+                "desc": "Ready-made lattice trellis for climbers, screening and vertical displays."
+              }
+            ]
+          }
         },
         "decor-moso-bamboo-poles": {
           "eyebrow": "Bestseller · Natural bamboo",

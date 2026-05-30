@@ -470,6 +470,20 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .article h2 + .article-fig,
 .article h3 + .article-fig{ margin-top:28px; }
 
+/* ---------- Product variations grid ---------- */
+.var-grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:22px; margin-top:clamp(28px,3vw,44px); }
+@media(max-width:980px){ .var-grid{ grid-template-columns:repeat(2,1fr); } }
+@media(max-width:520px){ .var-grid{ grid-template-columns:1fr; } }
+.var-card{ background:var(--white); border:1px solid var(--line-soft); border-radius:16px; overflow:hidden;
+  box-shadow:var(--shadow-sm); transition:transform .4s var(--ease), box-shadow .4s var(--ease); }
+.var-card:hover{ transform:translateY(-5px); box-shadow:var(--shadow-md); }
+.var-card .ph{ aspect-ratio:1/1; overflow:hidden; background:var(--sand); }
+.var-card .ph img{ width:100%; height:100%; object-fit:cover; transition:transform .8s var(--ease); }
+.var-card:hover .ph img{ transform:scale(1.05); }
+.var-card .body{ padding:16px 16px 18px; }
+.var-card .body h3{ font-size:1.02rem; line-height:1.2; }
+.var-card .body p{ margin-top:7px; font-size:.86rem; line-height:1.5; }
+
 /* chips */
 .chips{ display:flex; flex-wrap:wrap; gap:10px; }
 

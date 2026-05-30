@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
@@ -40,6 +41,23 @@ const ArrowOut = () => (
     />
   </svg>
 );
+
+type Block = { p: string } | { h2: string } | { h3: string } | { ul: string[] };
+type Variation = { img: string; title: string; desc: string };
+
+function renderBlock(block: Block, i: number): ReactNode {
+  if ("h2" in block) return <h2 key={i} className="h3">{block.h2}</h2>;
+  if ("h3" in block) return <h3 key={i} className="h4">{block.h3}</h3>;
+  if ("ul" in block)
+    return (
+      <ul key={i}>
+        {block.ul.map((li, j) => (
+          <li key={j}>{li}</li>
+        ))}
+      </ul>
+    );
+  return <p key={i}>{block.p}</p>;
+}
 
 export default async function ProductDetailPage({
   params,
@@ -150,8 +168,54 @@ export default async function ProductDetailPage({
         </div>
       </section>
 
+      {/* ABOUT (long-form) */}
+      {product.hasAbout && (
+        <section className="section" style={{ paddingTop: 0 }}>
+          <div className="container">
+            <Reveal as="div" className="article" style={{ marginInline: 0 }}>
+              <p className="eyebrow">{t(`items.${product.id}.about.eyebrow`)}</p>
+              <h2 className="h2" style={{ marginTop: "14px", marginBottom: "4px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
+                {t(`items.${product.id}.about.title`)}
+              </h2>
+              {(t.raw(`items.${product.id}.about.body`) as Block[]).map(renderBlock)}
+            </Reveal>
+          </div>
+        </section>
+      )}
+
+      {/* VARIATIONS */}
+      {product.hasVariations && (
+        <section className="section" style={{ background: "var(--bone-2)" }}>
+          <div className="container">
+            <Reveal style={{ maxWidth: "60ch" }}>
+              <p className="eyebrow">{t(`items.${product.id}.variations.eyebrow`)}</p>
+              <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.8rem,3vw,2.6rem)" }}>
+                {t(`items.${product.id}.variations.title`)}
+              </h2>
+              <p className="lead pretty" style={{ marginTop: "14px" }}>
+                {t(`items.${product.id}.variations.lead`)}
+              </p>
+            </Reveal>
+            <Reveal as="div" className="var-grid" delay={1}>
+              {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => (
+                <div className="var-card" key={v.img}>
+                  <div className="ph">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img loading="lazy" src={`/images/${product.variationDir}/${v.img}`} alt={v.title} />
+                  </div>
+                  <div className="body">
+                    <h3 className="h4">{v.title}</h3>
+                    <p className="muted">{v.desc}</p>
+                  </div>
+                </div>
+              ))}
+            </Reveal>
+          </div>
+        </section>
+      )}
+
       {/* RELATED */}
-      <section className="section" style={{ background: "var(--bone-2)" }}>
+      <section className="section" style={product.hasVariations ? undefined : { background: "var(--bone-2)" }}>
         <div className="container">
           <div className="sec-head">
             <Reveal>

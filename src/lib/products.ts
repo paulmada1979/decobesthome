@@ -14,6 +14,12 @@ export type Product = {
   gallery?: string[];
   /** Whether the product has the rich detail content block in messages.products.detail.{id}. */
   hasDetail?: boolean;
+  /** Render the long-form "about" text section (messages.products.detail.items.{id}.about). */
+  hasAbout?: boolean;
+  /** Render the variations grid (messages.products.detail.items.{id}.variations); images under /images/tonkin etc. */
+  hasVariations?: boolean;
+  /** Folder under /images that holds this product's variation thumbnails. */
+  variationDir?: string;
 };
 
 /** Authoritative catalog order (12 ranges). Names live in messages products.names.{id}. */
@@ -21,9 +27,13 @@ export const products: Product[] = [
   {
     id: "tonkin-bamboo-canes",
     slug: "tonkin-bamboo-canes",
-    image: "/images/sy_bamboo-canes-300x300.jpg",
+    image: "/images/tonkin-hero.webp",
     icon: "🎋",
     tag: "bestseller",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "tonkin",
+    gallery: ["/images/tonkin-hero.webp", "/images/tonkin-support.webp"],
   },
   {
     id: "decor-moso-bamboo-poles",

@@ -176,8 +176,17 @@ export const products: Product[] = [
   {
     id: "other-natural-fencing",
     slug: "other-natural-fencing",
-    image: "/images/sy_willow-fence-for-outside-screen-300x300.jpg",
+    image: "/images/willow-hero.webp",
     icon: "🍃",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "willow",
+    gallery: [
+      "/images/willow-hero.webp",
+      "/images/willow/scene-brushwood.webp",
+      "/images/willow/scene-bark.webp",
+      "/images/willow/scene-square.webp",
+    ],
   },
   {
     id: "natural-thatch-roof",

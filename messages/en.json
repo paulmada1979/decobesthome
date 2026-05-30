@@ -822,7 +822,68 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Woven willow, brushwood and bark",
+            "body": [
+              {
+                "p": "Natural fencing covers a family of materials — willow, brushwood, heather and bark — woven or attached to a frame to create a screen or panel. Each one brings privacy and security while adding the rustic, organic charm of a hedgerow to your garden."
+              },
+              {
+                "p": "Beyond the looks, natural fencing creates habitat for wildlife, helps improve air quality, and is often more cost-effective than traditional materials — all from renewable, biodegradable sources."
+              },
+              {
+                "h3": "Willow, the classic choice"
+              },
+              {
+                "p": "Hand-woven willow wicker gives a tight, characterful weave that has been used in gardens for centuries — supplied as rolls, fixed hurdle panels, expandable trellis and fine border edging."
+              },
+              {
+                "h3": "Brushwood, heather & bark"
+              },
+              {
+                "p": "For a denser, wilder look, heather and brushwood screens offer thick natural cover, while bark fencing brings a warm, woodland texture — all ideal for boundaries, screening and decorative garden walls."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Willow, heather & bark types",
+            "lead": "From hand-woven willow rolls and hurdle panels to expandable trellis, heather brushwood and bark — natural screening for every garden style.",
+            "items": [
+              {
+                "img": "var-wicker.webp",
+                "title": "Willow wicker roll",
+                "desc": "Hand-woven willow rolls for fast, characterful garden screening."
+              },
+              {
+                "img": "var-hurdle.webp",
+                "title": "Willow hurdle panel",
+                "desc": "Rigid hand-woven willow hurdle panels for gates and boundaries."
+              },
+              {
+                "img": "var-expandable.webp",
+                "title": "Expandable willow trellis",
+                "desc": "Lattice willow trellis that extends to fit — ideal for climbers and screening."
+              },
+              {
+                "img": "var-edging.webp",
+                "title": "Willow border edging",
+                "desc": "Low hand-woven willow borders for beds, paths and lawn edges."
+              },
+              {
+                "img": "var-heather.webp",
+                "title": "Heather brushwood fence",
+                "desc": "Dense heather and brushwood screens for a wild, natural cover."
+              },
+              {
+                "img": "var-bark.webp",
+                "title": "Bark fence",
+                "desc": "Warm woodland bark fencing for a rustic, textured boundary."
+              }
+            ]
+          }
         },
         "natural-thatch-roof": {
           "eyebrow": "Natural thatch",

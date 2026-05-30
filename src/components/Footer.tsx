@@ -108,7 +108,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="foot-bottom">
-          <span>{t("copyright")}</span>
+          <span>{t("copyright", { year: String(new Date().getFullYear()) })}</span>
           <span>{t("tags")}</span>
         </div>
       </div>

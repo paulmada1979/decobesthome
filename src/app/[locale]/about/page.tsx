@@ -30,7 +30,7 @@ export default async function AboutPage({
       <section className="page-hero">
         <div className="bg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/images/6.jpg" alt={t("hero.imageAlt")} />
+          <img src="/images/about-hero.webp" alt={t("hero.imageAlt")} />
         </div>
         <div className="container inner">
           <p className="crumbs">
@@ -66,9 +66,9 @@ export default async function AboutPage({
               {t("story.p3")}
             </p>
           </Reveal>
-          <Reveal className="media tall" delay={2}>
+          <Reveal className="media square" delay={2}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/natural-bamboo-fence-1.webp" alt={t("story.imageAlt")} />
+            <img src="/images/about-support.webp" alt={t("story.imageAlt")} />
           </Reveal>
         </div>
       </section>

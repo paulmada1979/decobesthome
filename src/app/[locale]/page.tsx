@@ -47,7 +47,7 @@ export default async function HomePage({
       <section className="hero">
         <div className="bg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/images/natural-bamboo-fence-1.webp" alt={t("hero.imageAlt")} />
+          <img src="/images/home-hero.webp" alt={t("hero.imageAlt")} />
         </div>
         <div className="container inner">
           <Reveal as="p" className="eyebrow">
@@ -107,9 +107,9 @@ export default async function HomePage({
               </a>
             </div>
           </Reveal>
-          <Reveal className="media tall" delay={2}>
+          <Reveal className="media square" delay={2}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/6.jpg" alt={t("intro.imageAlt")} />
+            <img src="/images/home-support.webp" alt={t("intro.imageAlt")} />
           </Reveal>
         </div>
 

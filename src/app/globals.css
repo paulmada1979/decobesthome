@@ -165,6 +165,20 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .nav-trigger .chev{ transition:transform .3s var(--ease); }
 .nav-actions{ display:flex; align-items:center; gap:14px; }
 
+/* language selector (native select styled as a pill) */
+.locale-switcher{ appearance:none; -webkit-appearance:none; -moz-appearance:none;
+  font-family:var(--sans); font-size:.8rem; font-weight:600; letter-spacing:.04em; color:var(--ink);
+  background-color:var(--white); border:1px solid var(--line-soft); border-radius:999px;
+  padding:8px 30px 8px 14px; line-height:1; cursor:pointer;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23232A1F' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat:no-repeat; background-position:right 11px center; background-size:11px;
+  transition:border-color .2s var(--ease), background-color .2s var(--ease); }
+.locale-switcher:hover{ border-color:var(--leaf); }
+.locale-switcher:focus-visible{ outline:2px solid var(--leaf); outline-offset:2px; }
+.locale-switcher:disabled{ opacity:.6; cursor:default; }
+.locale-switcher option{ color:var(--ink); background:var(--white); font-weight:500; }
+.locale-switcher.drawer-locale{ width:100%; margin-top:18px; padding-block:12px; font-size:.9rem; }
+
 /* Mega dropdown */
 .has-mega{ position:relative; }
 .mega{

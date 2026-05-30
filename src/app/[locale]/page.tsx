@@ -174,7 +174,7 @@ export default async function HomePage({
         <div className="container split rev">
           <Reveal className="media tall">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/natural-bamboo-fence-1.webp" alt={t("why.imageAlt")} />
+            <img src="/images/home-why.webp" alt={t("why.imageAlt")} />
           </Reveal>
           <Reveal delay={1}>
             <p className="eyebrow">{t("why.eyebrow")}</p>

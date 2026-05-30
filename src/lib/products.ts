@@ -150,8 +150,26 @@ export const products: Product[] = [
   {
     id: "natural-thatch-roof",
     slug: "natural-thatch-roof",
-    image: "/images/natural-thatch-roof-300x300.webp",
+    image: "/images/thatch-hero.webp",
     icon: "🌾",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "thatch",
+    gallery: [
+      "/images/thatch-hero.webp",
+      "/images/thatch/scene-5.webp",
+      "/images/thatch/scene-7.webp",
+      "/images/thatch/scene-8.webp",
+      "/images/thatch/scene-6.webp",
+    ],
+    showcasePhotos: [
+      "/images/thatch/scene-11.webp",
+      "/images/thatch/scene-3.webp",
+      "/images/thatch/scene-4.webp",
+      "/images/thatch/scene-1.webp",
+      "/images/thatch/scene-2.webp",
+      "/images/thatch/scene-9.webp",
+    ],
   },
   {
     id: "artificial-fence-rolls",

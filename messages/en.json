@@ -659,15 +659,23 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natural palm & reed thatch"
+              "v": "Natural thatch on bamboo slat"
             },
             {
-              "k": "Format",
-              "v": "Tiles & rolls"
+              "k": "Panel size",
+              "v": "1 m × 1 m (custom available)"
             },
             {
-              "k": "Sizes",
-              "v": "Standard & custom dimensions"
+              "k": "Thickness",
+              "v": "2 – 3 cm"
+            },
+            {
+              "k": "Lifespan",
+              "v": "≈ 6 – 8 years"
+            },
+            {
+              "k": "Properties",
+              "v": "Rainproof, insect-free, soundproof"
             },
             {
               "k": "Use",
@@ -681,7 +689,79 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Natural thatch, the way it's always been made",
+            "body": [
+              {
+                "p": "Natural thatch grows in barren mountainous areas — in China, mostly in the north — with a lifespan of around six to eight years and strong natural corrosion resistance. It's a seasonal material, harvested each autumn and then sun-dried to over 90% dryness before it is used."
+              },
+              {
+                "p": "Each panel is hand-made: light-brown hemp thread bound to a thick, dry natural bamboo slat. Because the thatch is grown outside jungle areas, it stays insect-free and odourless."
+              },
+              {
+                "h3": "Comfortable in every season"
+              },
+              {
+                "p": "Lightweight, non-rusting, corrosion-resistant and rainproof, natural thatch keeps spaces warm in winter and cool in summer and helps soften sound — an environmentally friendly, cost-effective roof with an elegant light-brown colour."
+              },
+              {
+                "h3": "Where natural thatch belongs"
+              },
+              {
+                "ul": [
+                  "Garden landscapes, parks and pavilions.",
+                  "Hot springs, pools and water-leisure areas.",
+                  "Resorts, beach bars and palapas.",
+                  "Tropical-style villas and antique thatched houses.",
+                  "Gazebos, tiki huts and outdoor lounges."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Thatch for every build",
+            "lead": "From natural thatch tiles and rolls to palapas, umbrellas and bar roofs — supplied as material or as finished structures.",
+            "items": [
+              {
+                "img": "var-tiles.webp",
+                "title": "Natural thatch tiles",
+                "desc": "Hand-made 1×1 m panels of light-brown thatch on a bamboo slat — the core building block."
+              },
+              {
+                "img": "var-rolls.webp",
+                "title": "Thatch panels & rolls",
+                "desc": "Loose thatch panels and rolls for cladding roofs, walls and feature ceilings."
+              },
+              {
+                "img": "var-mexican.webp",
+                "title": "Mexican palm thatch",
+                "desc": "Dense palm-leaf thatch for that classic round palapa look."
+              },
+              {
+                "img": "var-palapa.webp",
+                "title": "Palapa & gazebo roofs",
+                "desc": "Complete thatched palapas and gazebos for gardens, pools and resorts."
+              },
+              {
+                "img": "var-umbrella.webp",
+                "title": "Thatch umbrellas",
+                "desc": "Free-standing thatch parasols for beaches, bars and poolsides."
+              },
+              {
+                "img": "var-bar.webp",
+                "title": "Tiki bar roofing",
+                "desc": "Statement thatch roofing for outdoor bars and entertaining areas."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "Thatch in the wild",
+            "lead": "Palapas, tiki bars and poolside cabanas — natural thatch sets the scene for resort-style living."
+          }
         },
         "artificial-fence-rolls": {
           "eyebrow": "Artificial greenery",

@@ -183,6 +183,31 @@ export default async function ProductDetailPage({
         </section>
       )}
 
+      {/* SHOWCASE ("in real spaces") */}
+      {product.showcasePhotos && (
+        <section className="section" style={{ paddingTop: 0 }}>
+          <div className="container">
+            <Reveal style={{ maxWidth: "62ch" }}>
+              <p className="eyebrow">{t(`items.${product.id}.showcase.eyebrow`)}</p>
+              <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
+                {t(`items.${product.id}.showcase.title`)}
+              </h2>
+              <p className="lead pretty" style={{ marginTop: "12px" }}>
+                {t(`items.${product.id}.showcase.lead`)}
+              </p>
+            </Reveal>
+            <Reveal as="div" className="showcase-grid" delay={1}>
+              {product.showcasePhotos.map((src, i) => (
+                <div className="ph" key={src}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img loading="lazy" src={src} alt={`${name} ${i + 1}`} />
+                </div>
+              ))}
+            </Reveal>
+          </div>
+        </section>
+      )}
+
       {/* GRADES & PACKING */}
       {product.hasGrades && (
         <section className="section" style={{ background: "var(--bone-2)" }}>

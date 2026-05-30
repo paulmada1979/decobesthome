@@ -309,7 +309,85 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Warm, architectural bamboo with real presence",
+            "body": [
+              {
+                "p": "Moso bamboo poles are a versatile, sustainable solution for landscaping and interior decoration — from tropical gardens and furniture to building accents. Used as structural elements or decorative features, they instantly elevate any space they're in."
+              },
+              {
+                "p": "Each pole is carefully selected for its superior hardness, impressive tensile strength and resistance to warping. A beautiful natural finish highlights the characteristic grain patterns and rich colour of the bamboo."
+              },
+              {
+                "h3": "Sustainable by nature"
+              },
+              {
+                "p": "Moso is a rapidly renewable resource that produces a vast amount of oxygen as it grows, and it is naturally resistant to pests — a responsible choice that doesn't compromise on looks."
+              },
+              {
+                "h3": "Easy to work with"
+              },
+              {
+                "p": "The poles are easy to install and manipulate, ensuring a fuss-free implementation whether you're building a pergola, cladding a wall or creating a room divider."
+              },
+              {
+                "h3": "Where Moso works best"
+              },
+              {
+                "ul": [
+                  "Pergolas, carports and garden structures.",
+                  "Interior and exterior wall cladding.",
+                  "Room dividers and decorative screens.",
+                  "Furniture and statement accents.",
+                  "Tropical and resort-style landscaping."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Poles, profiles and finishes",
+            "lead": "Full-round or half-round, natural or black, plus slats and twig fencing — choose the Moso profile that fits your build.",
+            "items": [
+              {
+                "img": "var-giant.webp",
+                "title": "Giant Moso poles",
+                "desc": "Large full-round natural poles for pergolas, structures and bold statement builds."
+              },
+              {
+                "img": "var-halfround.webp",
+                "title": "Half-round poles",
+                "desc": "Split poles with a flat back for wall cladding and surface decoration."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Natural black poles",
+                "desc": "Carbonised dark-finish poles for a dramatic, contemporary look."
+              },
+              {
+                "img": "var-slats.webp",
+                "title": "Moso bamboo slats",
+                "desc": "Flat machined slats for cladding, ceilings and custom joinery."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Moso twig & branch fence",
+                "desc": "Natural branch screening for rustic, textured garden walls."
+              },
+              {
+                "img": "var-large.webp",
+                "title": "Large poles, bulk supply",
+                "desc": "Heavy-gauge poles graded and packed for project and trade volumes."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "Moso poles, styled",
+            "lead": "Room dividers, screens and warm vertical accents — a few of the ways designers put Moso poles to work indoors."
+          }
         },
         "bamboo-fencing-edging": {
           "eyebrow": "Bestseller · Natural bamboo",

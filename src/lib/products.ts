@@ -26,6 +26,8 @@ export type Product = {
   hasGrades?: boolean;
   /** Photo-strip images (paths) shown in the grades section. */
   gradePhotos?: string[];
+  /** "In real spaces" showcase gallery images (paths); labels in messages {id}.showcase. */
+  showcasePhotos?: string[];
 };
 
 /** Authoritative catalog order (12 ranges). Names live in messages products.names.{id}. */
@@ -72,9 +74,27 @@ export const products: Product[] = [
   {
     id: "decor-moso-bamboo-poles",
     slug: "decor-moso-bamboo-poles",
-    image: "/images/sy_MOSE-BAMBOO-POLES-FACTORY-300x300.jpg",
+    image: "/images/moso-hero.webp",
     icon: "🟫",
     tag: "bestseller",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "moso",
+    gallery: [
+      "/images/moso-hero.webp",
+      "/images/moso/scene-2.webp",
+      "/images/moso/scene-16.webp",
+      "/images/moso/scene-17.webp",
+      "/images/moso/scene-5.webp",
+    ],
+    showcasePhotos: [
+      "/images/moso/scene-14.webp",
+      "/images/moso/scene-18.webp",
+      "/images/moso/scene-19.webp",
+      "/images/moso/scene-20.webp",
+      "/images/moso/scene-12.webp",
+      "/images/moso/scene-4.webp",
+    ],
   },
   {
     id: "bamboo-fencing-edging",

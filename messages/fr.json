@@ -762,16 +762,6 @@
                 "img": "var-japanese.webp",
                 "title": "Style japonais avec bambou",
                 "desc": "Panneaux de roseau ligaturés au bambou pour un élégant look japonais."
-              },
-              {
-                "img": "var-blind.webp",
-                "title": "Store enrouleur en roseau",
-                "desc": "Stores enrouleurs en roseau naturel pour l'ombrage et le brise-vue intérieur-extérieur."
-              },
-              {
-                "img": "var-carbblind.webp",
-                "title": "Store en roseau carbonisé",
-                "desc": "Stores en roseau plus foncé traité thermiquement, à la teinte chaude et profonde."
               }
             ]
           },

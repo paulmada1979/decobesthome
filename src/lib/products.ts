@@ -177,8 +177,9 @@ export const products: Product[] = [
     gallery: [
       "/images/reed-hero.webp",
       "/images/reed/scene-hd.webp",
-      "/images/reed-fence-garden-2.webp",
       "/images/reed-fence-garden-4.webp",
+      "/images/reed/gal-extrathick.webp",
+      "/images/reed/gal-halfround.webp",
     ],
     showcasePhotos: [
       "/images/reed-fence-garden-3-1024x574-3.webp",

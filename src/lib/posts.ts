@@ -20,16 +20,16 @@ export const posts: Post[] = [
   {
     id: "china-reed-screen-exports",
     slug: "china-reed-screen-exports",
-    image: "/images/5.webp",
+    image: "/images/blog/china-reed-screen-exports-hero.webp",
     href: "https://decobesthome.com/how-china-became-the-global-leader-in-reed-screen-exports/",
     date: "2025-11-01",
     readMins: 6,
     featured: true,
     category: "industry",
     images: [
-      "/images/reed-fence-garden-3-1024x574-3.webp",
-      "/images/reed-fence-garden-4.webp",
-      "/images/moso-bamboo-supplier-1024x574.webp",
+      "/images/blog/china-reed-screen-exports-1.webp",
+      "/images/blog/china-reed-screen-exports-2.webp",
+      "/images/blog/china-reed-screen-exports-3.webp",
     ],
   },
   {

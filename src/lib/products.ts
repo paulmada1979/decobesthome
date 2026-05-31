@@ -109,6 +109,9 @@ export const products: Product[] = [
       "/images/divider-hero.webp",
       "/images/divider/divider-main.webp",
       "/images/divider/scene-natural.webp",
+      "/images/divider/scene-brown.webp",
+      "/images/divider/scene-grey.webp",
+      "/images/divider/scene-moso.webp",
     ],
   },
   {

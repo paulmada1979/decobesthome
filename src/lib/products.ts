@@ -176,7 +176,6 @@ export const products: Product[] = [
     variationDir: "reed",
     gallery: [
       "/images/reed-hero.webp",
-      "/images/reed/scene-hd.webp",
       "/images/reed-fence-garden-4.webp",
       "/images/reed/gal-extrathick.webp",
       "/images/reed/gal-halfround.webp",
@@ -184,7 +183,7 @@ export const products: Product[] = [
     showcasePhotos: [
       "/images/reed-fence-garden-3-1024x574-3.webp",
       "/images/reed-fence-balcony-2.webp",
-      "/images/reed-fence-garden-2.webp",
+      "/images/reed/scene-hd.webp",
     ],
     sizeChart: [
       { len: "3 – 6 mm", dia: "High-density fine reed — smooth, refined screening" },

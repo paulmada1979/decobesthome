@@ -184,7 +184,7 @@ export const products: Product[] = [
     showcasePhotos: [
       "/images/reed-fence-garden-3-1024x574-3.webp",
       "/images/reed-fence-balcony-2.webp",
-      "/images/reed-fence-garden-3-1.webp",
+      "/images/reed-fence-garden-2.webp",
     ],
     sizeChart: [
       { len: "3 – 6 mm", dia: "High-density fine reed — smooth, refined screening" },

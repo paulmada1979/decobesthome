@@ -117,6 +117,21 @@ export const products: Product[] = [
     ],
   },
   {
+    id: "bamboo-reed-curtains",
+    slug: "bamboo-reed-curtains",
+    image: "/images/curtains-hero.webp",
+    icon: "▥",
+    tag: "popular",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "curtains",
+    gallery: [
+      "/images/curtains-hero.webp",
+      "/images/curtains/scene-long2.webp",
+      "/images/curtains/scene-long.webp",
+    ],
+  },
+  {
     id: "bamboo-fencing-edging",
     slug: "bamboo-fencing-edging",
     image: "/images/bamboo-fence-hero.webp",
@@ -247,20 +262,22 @@ export const products: Product[] = [
     slug: "artificial-fence-rolls",
     image: "/images/sy_artificial-ivy-leaf-leaf-hedge-panel-300x300.jpg",
     icon: "🟩",
+    unlisted: true,
   },
   {
     id: "artificial-green-wall-panels",
     slug: "artificial-green-wall-panels",
     image: "/images/sy_Artificial-simulation-boxwood-hedge-mat-panel-300x300.jpg",
     icon: "🟩",
+    unlisted: true,
   },
 ];
 
 /** Publicly listed ranges (excludes unfinished/unlisted products). Use for catalog grids + related. */
 export const listedProducts = products.filter((p) => !p.unlisted);
 
-/** Ranges shown in the header mega menu (first 11 of the listed set). */
-export const megaProducts = products.slice(0, 11).filter((p) => !p.unlisted);
+/** Ranges shown in the header mega menu (the listed set, up to 12). */
+export const megaProducts = listedProducts.slice(0, 12);
 
 export function getProduct(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);

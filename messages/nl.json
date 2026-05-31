@@ -16,7 +16,7 @@
     "utilityLeft": "Aanvragen voor handel & groothandel welkom",
     "utilityLeft2": "OEM & projectinkoop",
     "brandAria": "BestHome — home",
-    "megaFoot": "11 natuurlijke productlijnen — rechtstreeks van de fabriek.",
+    "megaFoot": "10 natuurlijke productlijnen — rechtstreeks van de fabriek.",
     "viewAll": "Bekijk alle producten",
     "requestQuote": "Offerte aanvragen",
     "openMenu": "Menu openen",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Natuurlijk rieten dak",
       "artificial-fence-rolls": "Kunststof omheiningsrollen",
       "artificial-green-wall-panels": "Kunststof groene wandpanelen",
-      "bamboo-room-dividers": "Bamboe kamerschermen"
+      "bamboo-room-dividers": "Bamboe kamerschermen",
+      "bamboo-reed-curtains": "Bamboe- en rietgordijnen"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Rietdakplaten & -rollen",
       "artificial-fence-rolls": "Haag- & klimoppanelen",
       "artificial-green-wall-panels": "Buxus groene wanden",
-      "bamboo-room-dividers": "Oprolbare natuurlijke kamerschermen"
+      "bamboo-room-dividers": "Oprolbare natuurlijke kamerschermen",
+      "bamboo-reed-curtains": "Rolgordijnen & hanggordijnen"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Moso-paalscherm",
                 "desc": "Een open verticaal Moso-paalscherm voor een luchtige scheiding."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Populair · Interieurdecoratie",
+          "lead": "Natuurlijke rolgordijnen en hanggordijnen van riet en bamboe — zacht, gefilterd licht en privacy voor ramen, deuropeningen en ruimtes.",
+          "pill": "Milieuvriendelijk · 100% natuurlijk",
+          "name": "Bamboe- en rietgordijnen",
+          "desc": "Geweven van natuurlijk riet en bamboe filteren deze rolgordijnen en hanggordijnen het zonlicht tot een warme, zachte gloed, terwijl ze privacy en textuur toevoegen. Een natuurlijke, duurzame manier om ramen, deuropeningen en scheidingen binnen en buiten aan te kleden.",
+          "spec": [
+            {
+              "k": "Materiaal",
+              "v": "100% natuurlijk riet / bamboe"
+            },
+            {
+              "k": "Uitvoeringen",
+              "v": "Rolgordijnen · hanggordijnen"
+            },
+            {
+              "k": "Afwerking",
+              "v": "Natuurlijk · gecarboniseerd"
+            },
+            {
+              "k": "Maten",
+              "v": "Standaard & op maat in breedte/lengte"
+            },
+            {
+              "k": "Toepassing",
+              "v": "Ramen, deuropeningen, kamerschermen, terrassen"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Bespreekbaar · private label welkom"
+            },
+            {
+              "k": "Laadhaven",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Het materiaal",
+            "title": "Zacht, gefilterd licht — op natuurlijke wijze",
+            "body": [
+              {
+                "p": "Geweven van slank natuurlijk riet en bamboe filteren deze rolgordijnen en gordijnen het felle zonlicht tot een warme, diffuse gloed — wat een ruimte verzacht en tegelijk licht en privacy behoudt."
+              },
+              {
+                "p": "Ze zijn even geschikt voor ramen, deuropeningen als open scheidingen, binnen of op een overdekt terras, en brengen dezelfde organische textuur en warmte als onze riet- en bamboeafrastering in huis."
+              },
+              {
+                "h3": "Rolgordijnen of hanggordijnen"
+              },
+              {
+                "p": "Kies voor soepele rolgordijnen met een eenvoudig trekmechanisme voor ramen, of voor vrijhangende rietgordijnen voor deuropeningen en kamerschermen — beide in een natuurlijke of gecarboniseerde (donkerdere) afwerking."
+              },
+              {
+                "h3": "Waarom natuurlijk riet en bamboe"
+              },
+              {
+                "ul": [
+                  "Filtert licht tot een zachte, warme gloed.",
+                  "Voegt privacy toe zonder de luchtstroom te blokkeren.",
+                  "Hernieuwbaar, biologisch afbreekbaar en chemievrij.",
+                  "Natuurlijk getextureerd — een rustige, organische uitstraling.",
+                  "Op maat gemaakte breedtes en lengtes voor elke opening."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianten",
+            "title": "Rolgordijnen & gordijnen",
+            "lead": "Rolgordijnen of vrijhangende gordijnen, natuurlijk of gecarboniseerd — kies de stijl voor uw raam of deuropening.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natuurlijk rieten rolgordijn",
+                "desc": "Lichtbruin rieten rolgordijn met een eenvoudig trekkoord voor ramen."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Gecarboniseerd rolgordijn",
+                "desc": "Warmtebehandeld, donkerder rietgordijn met een warme, diepe tint."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Hangend rietgordijn",
+                "desc": "Vrijhangend rietgordijn voor deuropeningen en kamerschermen."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Rieten raamgordijn",
+                "desc": "Fijngesteeld rietgordijn voor een zachte, gelijkmatige lichtfiltering."
               }
             ]
           }

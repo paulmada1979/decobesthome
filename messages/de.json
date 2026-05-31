@@ -16,7 +16,7 @@
     "utilityLeft": "Anfragen aus Handel & Großhandel willkommen",
     "utilityLeft2": "OEM & Projektbeschaffung",
     "brandAria": "BestHome — Startseite",
-    "megaFoot": "11 natürliche Produktreihen — direkt ab Werk.",
+    "megaFoot": "10 natürliche Produktreihen — direkt ab Werk.",
     "viewAll": "Alle Produkte ansehen",
     "requestQuote": "Angebot anfordern",
     "openMenu": "Menü öffnen",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Naturreetdach",
       "artificial-fence-rolls": "Künstliche Zaunmatten",
       "artificial-green-wall-panels": "Künstliche Begrünungspaneele",
-      "bamboo-room-dividers": "Bambus-Raumteiler"
+      "bamboo-room-dividers": "Bambus-Raumteiler",
+      "bamboo-reed-curtains": "Bambus- & Schilfrohrvorhänge"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Reetplatten & -rollen",
       "artificial-fence-rolls": "Hecken- & Efeupaneele",
       "artificial-green-wall-panels": "Buchsbaum-Begrünungswände",
-      "bamboo-room-dividers": "Aufrollbare Raumteiler aus Naturmaterial"
+      "bamboo-room-dividers": "Aufrollbare Raumteiler aus Naturmaterial",
+      "bamboo-reed-curtains": "Rollos & Vorhänge"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Moso-Stab-Paravent",
                 "desc": "Ein offener vertikaler Moso-Stab-Raumteiler für eine luftige Trennung."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Beliebt · Inneneinrichtung",
+          "lead": "Natürliche Rollos und Vorhänge aus Schilfrohr und Bambus — weiches, gefiltertes Licht und Sichtschutz für Fenster, Türöffnungen und Räume.",
+          "pill": "Umweltfreundlich · 100 % natürlich",
+          "name": "Bambus- & Schilfrohrvorhänge",
+          "desc": "Aus natürlichem Schilfrohr und Bambus gewebt, filtern diese Rollos und Hängevorhänge das Sonnenlicht zu einem warmen, weichen Schein und verleihen zugleich Sichtschutz und Struktur. Eine natürliche, nachhaltige Art, Fenster, Türöffnungen und Raumteiler innen wie außen zu gestalten.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100 % natürliches Schilfrohr / Bambus"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Rollos · Hängevorhänge"
+            },
+            {
+              "k": "Oberfläche",
+              "v": "Natur · karbonisiert"
+            },
+            {
+              "k": "Größen",
+              "v": "Standard- & Sondermaße in Breite/Länge"
+            },
+            {
+              "k": "Einsatz",
+              "v": "Fenster, Türöffnungen, Raumteiler, Terrassen"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Das Material",
+            "title": "Weiches, gefiltertes Licht — ganz natürlich",
+            "body": [
+              {
+                "p": "Aus schlankem, natürlichem Schilfrohr und Bambus gewebt, filtern diese Rollos und Vorhänge grelles Sonnenlicht zu einem warmen, diffusen Schein — sie machen einen Raum sanfter und halten ihn dennoch hell und blickgeschützt."
+              },
+              {
+                "p": "Sie eignen sich gleichermaßen für Fenster, Türöffnungen und offene Trennwände, drinnen wie auf einer überdachten Terrasse, und bringen dieselbe organische Struktur und Wärme wie unsere Schilfrohr- und Bambuszäune ins Haus."
+              },
+              {
+                "h3": "Rollos oder Hängevorhänge"
+              },
+              {
+                "p": "Wählen Sie glatte Rollos mit einem einfachen Zugmechanismus für Fenster oder frei hängende Schilfrohrvorhänge für Türöffnungen und Raumteiler — beide in einer natürlichen oder karbonisierten (dunkleren) Oberfläche."
+              },
+              {
+                "h3": "Warum natürliches Schilfrohr & Bambus"
+              },
+              {
+                "ul": [
+                  "Filtert Licht zu einem weichen, warmen Schein.",
+                  "Bietet Sichtschutz, ohne die Luftzirkulation zu blockieren.",
+                  "Nachwachsend, biologisch abbaubar und chemikalienfrei.",
+                  "Von Natur aus strukturiert — ein ruhiger, organischer Look.",
+                  "Maßgefertigte Breiten und Höhen für jede Öffnung."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianten",
+            "title": "Rollos & Vorhänge",
+            "lead": "Rollos oder frei hängende Vorhänge, natur oder karbonisiert — wählen Sie den Stil für Ihr Fenster oder Ihre Türöffnung.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natürliches Schilfrohr-Rollo",
+                "desc": "Hellbeiges Schilfrohr-Rollo mit einfachem Zug für Fenster."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Karbonisiertes Rollo",
+                "desc": "Wärmebehandeltes, dunkleres Schilfrohr-Rollo mit warmem, tiefem Ton."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Schilfrohr-Hängevorhang",
+                "desc": "Frei hängender Schilfrohrvorhang für Türöffnungen und Raumteiler."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Schilfrohr-Fensterrollo",
+                "desc": "Feinhalmiges Schilfrohr-Rollo für weiche, gleichmäßige Lichtfilterung."
               }
             ]
           }

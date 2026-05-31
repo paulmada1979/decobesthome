@@ -16,7 +16,7 @@
     "utilityLeft": "Demandes des professionnels et de la vente en gros bienvenues",
     "utilityLeft2": "OEM et approvisionnement de projets",
     "brandAria": "BestHome — accueil",
-    "megaFoot": "11 gammes de produits naturels — en direct d'usine.",
+    "megaFoot": "10 gammes de produits naturels — en direct d'usine.",
     "viewAll": "Voir tous les produits",
     "requestQuote": "Demander un devis",
     "openMenu": "Ouvrir le menu",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Toiture de chaume naturel",
       "artificial-fence-rolls": "Rouleaux de clôture artificielle",
       "artificial-green-wall-panels": "Panneaux de mur végétal artificiel",
-      "bamboo-room-dividers": "Paravents en bambou"
+      "bamboo-room-dividers": "Paravents en bambou",
+      "bamboo-reed-curtains": "Rideaux en bambou et roseau"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Tuiles et rouleaux de chaume",
       "artificial-fence-rolls": "Panneaux de haie et de lierre",
       "artificial-green-wall-panels": "Murs végétaux en buis",
-      "bamboo-room-dividers": "Paravents naturels enroulables"
+      "bamboo-room-dividers": "Paravents naturels enroulables",
+      "bamboo-reed-curtains": "Stores enrouleurs et rideaux"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Paravent à cannes Moso",
                 "desc": "Un paravent vertical à cannes Moso, ouvert et aéré."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Populaire · Décoration d'intérieur",
+          "lead": "Stores enrouleurs et rideaux naturels en roseau et bambou — une lumière douce et tamisée et une intimité préservée pour vos fenêtres, vos portes et vos pièces.",
+          "pill": "Écologique · 100 % naturel",
+          "name": "Rideaux en bambou et roseau",
+          "desc": "Tissés à partir de roseau et de bambou naturels, ces stores enrouleurs et rideaux suspendus filtrent la lumière du soleil pour la transformer en une lueur chaleureuse et douce, tout en apportant intimité et texture. Une manière naturelle et durable d'habiller fenêtres, portes et cloisons, à l'intérieur comme à l'extérieur.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Roseau / bambou 100 % naturel"
+            },
+            {
+              "k": "Formats",
+              "v": "Stores enrouleurs · rideaux suspendus"
+            },
+            {
+              "k": "Finition",
+              "v": "Naturelle · carbonisée"
+            },
+            {
+              "k": "Dimensions",
+              "v": "Largeurs/longueurs standard et sur mesure"
+            },
+            {
+              "k": "Utilisation",
+              "v": "Fenêtres, portes, cloisons, terrasses"
+            },
+            {
+              "k": "MOQ et OEM",
+              "v": "Négociable · marque blanche bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Le matériau",
+            "title": "Une lumière douce et tamisée — naturellement",
+            "body": [
+              {
+                "p": "Tissés à partir de fins brins de roseau et de bambou naturels, ces stores enrouleurs et rideaux filtrent la lumière vive du soleil pour la transformer en une lueur chaleureuse et diffuse — adoucissant la pièce tout en la gardant lumineuse et préservant l'intimité."
+              },
+              {
+                "p": "Ils conviennent aussi bien aux fenêtres qu'aux portes et aux séparations ouvertes, à l'intérieur comme sur une terrasse couverte, apportant à la maison la même texture organique et la même chaleur que nos clôtures en roseau et en bambou."
+              },
+              {
+                "h3": "Stores enrouleurs ou rideaux suspendus"
+              },
+              {
+                "p": "Optez pour des stores enrouleurs lisses dotés d'un simple mécanisme à tirage pour vos fenêtres, ou pour des rideaux de roseau à suspension libre pour vos portes et cloisons — disponibles en finition naturelle ou carbonisée (plus foncée)."
+              },
+              {
+                "h3": "Pourquoi le roseau et le bambou naturels"
+              },
+              {
+                "ul": [
+                  "Filtre la lumière en une lueur douce et chaleureuse.",
+                  "Préserve l'intimité sans bloquer la circulation de l'air.",
+                  "Renouvelable, biodégradable et sans produits chimiques.",
+                  "Texture naturelle — un look apaisant et organique.",
+                  "Largeurs et hauteurs sur mesure pour s'adapter à toute ouverture."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variantes",
+            "title": "Stores et rideaux",
+            "lead": "Stores enrouleurs ou rideaux à suspension libre, naturels ou carbonisés — choisissez le style adapté à votre fenêtre ou à votre porte.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Store enrouleur en roseau naturel",
+                "desc": "Store enrouleur en roseau ton clair avec un simple tirage, pour les fenêtres."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Store enrouleur carbonisé",
+                "desc": "Store en roseau plus foncé, traité à la chaleur, à la teinte chaude et profonde."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Rideau de roseau suspendu",
+                "desc": "Rideau de roseau à suspension libre pour les portes et les cloisons."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Store de fenêtre en roseau",
+                "desc": "Store en roseau à fins brins pour un filtrage de la lumière doux et uniforme."
               }
             ]
           }

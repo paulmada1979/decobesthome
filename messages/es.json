@@ -16,7 +16,7 @@
     "utilityLeft": "Consultas de profesionales y venta al por mayor bienvenidas",
     "utilityLeft2": "Abastecimiento OEM y de proyectos",
     "brandAria": "BestHome — inicio",
-    "megaFoot": "11 gamas de productos naturales — directo de fábrica.",
+    "megaFoot": "10 gamas de productos naturales — directo de fábrica.",
     "viewAll": "Ver todos los productos",
     "requestQuote": "Solicitar presupuesto",
     "openMenu": "Abrir menú",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Techo de paja natural",
       "artificial-fence-rolls": "Rollos de valla artificial",
       "artificial-green-wall-panels": "Paneles de muro verde artificial",
-      "bamboo-room-dividers": "Biombos de bambú"
+      "bamboo-room-dividers": "Biombos de bambú",
+      "bamboo-reed-curtains": "Cortinas de junco y bambú"
     },
     "tags": {
       "bestseller": "Más vendido",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Tejas y rollos de paja",
       "artificial-fence-rolls": "Paneles de seto y hiedra",
       "artificial-green-wall-panels": "Muros verdes de boj",
-      "bamboo-room-dividers": "Biombos naturales enrollables"
+      "bamboo-room-dividers": "Biombos naturales enrollables",
+      "bamboo-reed-curtains": "Estores enrollables y cortinas"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Biombo de cañas Moso",
                 "desc": "Un biombo vertical de cañas Moso, abierto y ligero."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Popular · Decoración de interiores",
+          "lead": "Estores enrollables y cortinas naturales de junco y bambú: luz tamizada y suave y privacidad para ventanas, vanos y estancias.",
+          "pill": "Ecológico · 100 % natural",
+          "name": "Cortinas de junco y bambú",
+          "desc": "Tejidos con junco y bambú naturales, estos estores enrollables y cortinas colgantes filtran la luz del sol creando un resplandor cálido y suave, a la vez que aportan privacidad y textura. Una forma natural y sostenible de vestir ventanas, vanos y separadores, tanto en interiores como en exteriores.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100 % junco / bambú natural"
+            },
+            {
+              "k": "Formatos",
+              "v": "Estores enrollables · cortinas colgantes"
+            },
+            {
+              "k": "Acabado",
+              "v": "Natural · carbonizado"
+            },
+            {
+              "k": "Tamaños",
+              "v": "Anchos/largos estándar y a medida"
+            },
+            {
+              "k": "Uso",
+              "v": "Ventanas, vanos, separadores de ambientes, patios"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · marca blanca bienvenida"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "El material",
+            "title": "Luz suave y tamizada, de forma natural",
+            "body": [
+              {
+                "p": "Tejidos con junco y bambú naturales de finas cañas, estos estores enrollables y cortinas filtran la luz intensa del sol convirtiéndola en un resplandor cálido y difuso, suavizando la estancia y manteniéndola luminosa y privada."
+              },
+              {
+                "p": "Se adaptan por igual a ventanas, vanos y separaciones abiertas, en interiores o en un patio cubierto, aportando al hogar la misma textura orgánica y calidez que nuestras vallas de junco y bambú."
+              },
+              {
+                "h3": "Estores enrollables o cortinas colgantes"
+              },
+              {
+                "p": "Elija estores enrollables lisos con un sencillo mecanismo de tiro para las ventanas, o cortinas de junco de caída libre para vanos y separadores de ambientes, ambos en acabado natural o carbonizado (más oscuro)."
+              },
+              {
+                "h3": "Por qué junco y bambú naturales"
+              },
+              {
+                "ul": [
+                  "Filtran la luz creando un resplandor suave y cálido.",
+                  "Aportan privacidad sin bloquear la circulación del aire.",
+                  "Renovables, biodegradables y sin productos químicos.",
+                  "De textura natural: un aspecto sereno y orgánico.",
+                  "Anchos y caídas a medida para adaptarse a cualquier abertura."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variantes",
+            "title": "Estores y cortinas",
+            "lead": "Estores enrollables o cortinas de caída libre, en natural o carbonizado: elija el estilo para su ventana o vano.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Estor enrollable de junco natural",
+                "desc": "Estor enrollable de junco en tono tostado claro con un sencillo tiro para ventanas."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Estor enrollable carbonizado",
+                "desc": "Estor de junco más oscuro tratado térmicamente, con un tono cálido y profundo."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Cortina de junco colgante",
+                "desc": "Cortina de junco de caída libre para vanos y separadores de ambientes."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Estor de junco para ventana",
+                "desc": "Estor de junco de caña fina para un filtrado de luz suave y uniforme."
               }
             ]
           }

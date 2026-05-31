@@ -16,7 +16,7 @@
     "utilityLeft": "Richieste da rivenditori e ingrosso sono benvenute",
     "utilityLeft2": "OEM e approvvigionamento per progetti",
     "brandAria": "BestHome — home",
-    "megaFoot": "11 linee di prodotti naturali — diretti dalla fabbrica.",
+    "megaFoot": "10 linee di prodotti naturali — diretti dalla fabbrica.",
     "viewAll": "Vedi tutti i prodotti",
     "requestQuote": "Richiedi un preventivo",
     "openMenu": "Apri il menu",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Tetto di paglia naturale",
       "artificial-fence-rolls": "Rotoli di recinzione artificiale",
       "artificial-green-wall-panels": "Pannelli per parete verde artificiale",
-      "bamboo-room-dividers": "Paravento in bambù"
+      "bamboo-room-dividers": "Paravento in bambù",
+      "bamboo-reed-curtains": "Tende in bambù e canna palustre"
     },
     "tags": {
       "bestseller": "Più venduto",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Tegole e rotoli di paglia",
       "artificial-fence-rolls": "Pannelli di siepe ed edera",
       "artificial-green-wall-panels": "Pareti verdi in bosso",
-      "bamboo-room-dividers": "Paraventi naturali arrotolabili"
+      "bamboo-room-dividers": "Paraventi naturali arrotolabili",
+      "bamboo-reed-curtains": "Tende a rullo e tende a pendere"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Paravento a canne Moso",
                 "desc": "Un paravento verticale a canne Moso, aperto e leggero."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Popolare · Décor d'interni",
+          "lead": "Tende a rullo e tende a pendere naturali in canna palustre e bambù: luce filtrata e morbida e privacy per finestre, porte e ambienti.",
+          "pill": "Ecologico · 100% naturale",
+          "name": "Tende in bambù e canna palustre",
+          "desc": "Intrecciate in canna palustre e bambù naturali, queste tende a rullo e tende a pendere filtrano la luce solare trasformandola in un bagliore caldo e morbido, aggiungendo privacy e consistenza. Un modo naturale e sostenibile per arredare finestre, porte e separé, in interni ed esterni.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "100% canna palustre / bambù naturali"
+            },
+            {
+              "k": "Formati",
+              "v": "Tende a rullo · tende a pendere"
+            },
+            {
+              "k": "Finitura",
+              "v": "Naturale · carbonizzato"
+            },
+            {
+              "k": "Misure",
+              "v": "Larghezze/lunghezze standard e personalizzate"
+            },
+            {
+              "k": "Utilizzo",
+              "v": "Finestre, porte, separé, patii"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Negoziabile · private label benvenuto"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Il materiale",
+            "title": "Luce morbida e filtrata, in modo naturale",
+            "body": [
+              {
+                "p": "Intrecciate in canna palustre e bambù naturali e sottili, queste tende a rullo e tende a pendere filtrano la luce solare intensa trasformandola in un bagliore caldo e diffuso, addolcendo l'ambiente pur mantenendolo luminoso e riservato."
+              },
+              {
+                "p": "Si adattano altrettanto bene a finestre, porte e divisori aperti, in interni o su un patio coperto, portando in casa la stessa consistenza organica e il calore delle nostre recinzioni in canna palustre e bambù."
+              },
+              {
+                "h3": "Tende a rullo o tende a pendere"
+              },
+              {
+                "p": "Scelga le pratiche tende a rullo con un semplice meccanismo a tirante per le finestre, oppure le tende in canna palustre a pendere libera per porte e separé, entrambe in finitura naturale o carbonizzata (più scura)."
+              },
+              {
+                "h3": "Perché la canna palustre e il bambù naturali"
+              },
+              {
+                "ul": [
+                  "Filtra la luce trasformandola in un bagliore morbido e caldo.",
+                  "Aggiunge privacy senza ostacolare il passaggio dell'aria.",
+                  "Rinnovabile, biodegradabile e priva di trattamenti chimici.",
+                  "Texture naturale: un aspetto calmo e organico.",
+                  "Larghezze e altezze personalizzate per adattarsi a qualsiasi apertura."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianti",
+            "title": "Tende a rullo e tende a pendere",
+            "lead": "Tende a rullo o tende a pendere libera, naturali o carbonizzate: scelga lo stile per la Sua finestra o porta.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Tenda a rullo in canna palustre naturale",
+                "desc": "Tenda a rullo in canna palustre color sabbia chiaro con semplice tirante, per finestre."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Tenda a rullo carbonizzata",
+                "desc": "Tenda in canna palustre più scura trattata a calore, con un tono caldo e profondo."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Tenda a pendere in canna palustre",
+                "desc": "Tenda in canna palustre a pendere libera per porte e separé."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Tenda per finestra in canna palustre",
+                "desc": "Tenda in canna palustre a stelo fine per una filtrazione della luce morbida e uniforme."
               }
             ]
           }

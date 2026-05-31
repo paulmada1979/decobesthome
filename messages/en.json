@@ -16,7 +16,7 @@
     "utilityLeft": "Trade & wholesale enquiries welcome",
     "utilityLeft2": "OEM & project sourcing",
     "brandAria": "BestHome — home",
-    "megaFoot": "11 natural product ranges — factory-direct.",
+    "megaFoot": "10 natural product ranges — factory-direct.",
     "viewAll": "View all products",
     "requestQuote": "Request a quote",
     "openMenu": "Open menu",
@@ -71,7 +71,8 @@
       "natural-thatch-roof": "Natural thatch roof",
       "artificial-fence-rolls": "Artificial fence rolls",
       "artificial-green-wall-panels": "Artificial green wall panels",
-      "bamboo-room-dividers": "Bamboo room dividers"
+      "bamboo-room-dividers": "Bamboo room dividers",
+      "bamboo-reed-curtains": "Bamboo & reed curtains"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -90,7 +91,8 @@
       "natural-thatch-roof": "Thatch tiles & rolls",
       "artificial-fence-rolls": "Hedge & ivy panels",
       "artificial-green-wall-panels": "Boxwood green walls",
-      "bamboo-room-dividers": "Rollable natural room screens"
+      "bamboo-room-dividers": "Rollable natural room screens",
+      "bamboo-reed-curtains": "Roller blinds & curtains"
     },
     "index": {
       "meta": {
@@ -1232,6 +1234,100 @@
                 "img": "var-moso.webp",
                 "title": "Moso-pole screen",
                 "desc": "An open vertical Moso-pole divider for an airy split."
+              }
+            ]
+          }
+        },
+        "bamboo-reed-curtains": {
+          "eyebrow": "Popular · Interior décor",
+          "lead": "Natural reed and bamboo roller blinds and curtains — soft, filtered light and privacy for windows, doorways and rooms.",
+          "pill": "Eco-friendly · 100% natural",
+          "name": "Bamboo & reed curtains",
+          "desc": "Woven from natural reed and bamboo, these roller blinds and hanging curtains filter sunlight into a warm, soft glow while adding privacy and texture. A natural, sustainable way to dress windows, doorways and dividers indoors and out.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natural reed / bamboo"
+            },
+            {
+              "k": "Formats",
+              "v": "Roller blinds · hanging curtains"
+            },
+            {
+              "k": "Finish",
+              "v": "Natural · carbonised"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom widths/lengths"
+            },
+            {
+              "k": "Use",
+              "v": "Windows, doorways, room dividers, patios"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Soft, filtered light — naturally",
+            "body": [
+              {
+                "p": "Woven from slender natural reed and bamboo, these roller blinds and curtains filter harsh sunlight into a warm, diffused glow — softening a room while keeping it bright and private."
+              },
+              {
+                "p": "They suit windows, doorways and open partitions alike, indoors or on a covered patio, bringing the same organic texture and warmth as our reed and bamboo fencing into the home."
+              },
+              {
+                "h3": "Roller blinds or hanging curtains"
+              },
+              {
+                "p": "Choose smooth roller blinds with a simple pull mechanism for windows, or free-hanging reed curtains for doorways and room dividers — both in a natural or carbonised (darker) finish."
+              },
+              {
+                "h3": "Why natural reed & bamboo"
+              },
+              {
+                "ul": [
+                  "Filters light into a soft, warm glow.",
+                  "Adds privacy without blocking airflow.",
+                  "Renewable, biodegradable and chemical-free.",
+                  "Naturally textured — a calm, organic look.",
+                  "Custom widths and drops to fit any opening."
+                ]
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Blinds & curtains",
+            "lead": "Roller blinds or free-hanging curtains, natural or carbonised — choose the style for your window or doorway.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natural reed roller blind",
+                "desc": "Light-tan reed roller blind with a simple pull for windows."
+              },
+              {
+                "img": "var-carbonized.webp",
+                "title": "Carbonised roller blind",
+                "desc": "Heat-treated darker reed blind with a warm, deep tone."
+              },
+              {
+                "img": "var-decorative.webp",
+                "title": "Hanging reed curtain",
+                "desc": "Free-hanging reed curtain for doorways and room dividers."
+              },
+              {
+                "img": "var-blind.webp",
+                "title": "Reed window blind",
+                "desc": "Fine-stem reed blind for soft, even light filtering."
               }
             ]
           }

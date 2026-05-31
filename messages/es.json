@@ -71,7 +71,7 @@
       "natural-thatch-roof": "Techo de paja natural",
       "artificial-fence-rolls": "Rollos de valla artificial",
       "artificial-green-wall-panels": "Paneles de muro verde artificial",
-      "bamboo-room-dividers": "Bamboo room dividers"
+      "bamboo-room-dividers": "Biombos de bambú"
     },
     "tags": {
       "bestseller": "Más vendido",
@@ -90,7 +90,7 @@
       "natural-thatch-roof": "Tejas y rollos de paja",
       "artificial-fence-rolls": "Paneles de seto y hiedra",
       "artificial-green-wall-panels": "Muros verdes de boj",
-      "bamboo-room-dividers": "Rollable natural room screens"
+      "bamboo-room-dividers": "Biombos naturales enrollables"
     },
     "index": {
       "meta": {
@@ -1067,90 +1067,90 @@
           ]
         },
         "bamboo-room-dividers": {
-          "eyebrow": "Popular · Interior décor",
-          "lead": "Rollable bamboo screens that create privacy and define spaces — natural, lightweight and ready to use in seconds.",
-          "pill": "Eco-friendly · 100% bamboo",
-          "name": "Bamboo room divider",
-          "desc": "A stylish way to create privacy, define areas or simply add a warm, natural touch to any interior. Each screen is made entirely from sustainably harvested bamboo, showing off the material's grain and natural variations in tone.",
+          "eyebrow": "Popular · Decoración de interiores",
+          "lead": "Biombos de bambú enrollables que aportan privacidad y delimitan espacios: naturales, ligeros y listos para usar en segundos.",
+          "pill": "Ecológico · 100 % bambú",
+          "name": "Biombo de bambú",
+          "desc": "Una forma elegante de crear privacidad, delimitar zonas o, simplemente, añadir un toque cálido y natural a cualquier interior. Cada panel está fabricado íntegramente con bambú de cultivo sostenible, que realza la veta del material y sus variaciones naturales de tono.",
           "spec": [
             {
               "k": "Material",
-              "v": "100% natural bamboo"
+              "v": "100 % bambú natural"
             },
             {
-              "k": "Standard size",
-              "v": "244 cm wide × 185 cm high"
+              "k": "Medida estándar",
+              "v": "244 cm de ancho × 185 cm de alto"
             },
             {
-              "k": "Custom sizes",
-              "v": "Available on request"
+              "k": "Medidas a medida",
+              "v": "Disponibles bajo pedido"
             },
             {
-              "k": "Design",
-              "v": "Rollable — arrives fully assembled"
+              "k": "Diseño",
+              "v": "Enrollable: se entrega totalmente montado"
             },
             {
-              "k": "Installation",
-              "v": "Rolls out into place, no tools"
+              "k": "Instalación",
+              "v": "Se despliega en su sitio, sin herramientas"
             },
             {
-              "k": "Use",
-              "v": "Living spaces, offices, studios, retail"
+              "k": "Uso",
+              "v": "Espacios de estar, oficinas, estudios, comercios"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ y OEM",
+              "v": "Negociable · marca blanca disponible"
             },
             {
-              "k": "Loading port",
+              "k": "Puerto de carga",
               "v": "Xiamen, China"
             }
           ],
           "about": {
-            "eyebrow": "The material",
-            "title": "Natural elegance with purpose",
+            "eyebrow": "El material",
+            "title": "Elegancia natural con un propósito",
             "body": [
               {
-                "p": "Looking to enhance your space with something both functional and beautiful? Our bamboo room divider offers a stylish solution for creating privacy, defining areas, or simply adding a warm, natural touch to any interior."
+                "p": "¿Busca realzar su espacio con algo a la vez funcional y hermoso? Nuestro biombo de bambú ofrece una solución elegante para crear privacidad, delimitar zonas o, simplemente, añadir un toque cálido y natural a cualquier interior."
               },
               {
-                "p": "Each screen is made entirely from sustainably harvested bamboo, showcasing the material's unique grain and natural variations in tone. The standard size is 244 cm wide by 185 cm high, with custom dimensions available on request."
+                "p": "Cada panel está fabricado íntegramente con bambú de cultivo sostenible, que pone de relieve la veta singular del material y sus variaciones naturales de tono. La medida estándar es de 244 cm de ancho × 185 cm de alto, con dimensiones a medida disponibles bajo pedido."
               },
               {
-                "h3": "Why choose bamboo?"
-              },
-              {
-                "ul": [
-                  "Sustainable & eco-conscious — one of the most renewable materials on the planet, grown without fertilisers or pesticides.",
-                  "Durable & functional — incredibly strong, flexible and moisture-resistant.",
-                  "Cost-effective & ethical — lower production costs that support local economies.",
-                  "Visually striking — adds natural character without blocking light or airflow."
-                ]
-              },
-              {
-                "h3": "Perfect for"
+                "h3": "¿Por qué elegir el bambú?"
               },
               {
                 "ul": [
-                  "Open-plan living spaces.",
-                  "Home offices and creative studios.",
-                  "Yoga and wellness rooms.",
-                  "Retail stores and exhibition booths.",
-                  "Temporary guest areas and backdrops."
+                  "Sostenible y ecológico: uno de los materiales más renovables del planeta, cultivado sin fertilizantes ni pesticidas.",
+                  "Resistente y funcional: increíblemente fuerte, flexible y resistente a la humedad.",
+                  "Rentable y ético: menores costes de producción que apoyan a las economías locales.",
+                  "Visualmente llamativo: aporta carácter natural sin bloquear la luz ni la circulación del aire."
                 ]
               },
               {
-                "h3": "Effortless to set up"
+                "h3": "Ideal para"
               },
               {
-                "p": "The room divider arrives fully assembled and simply rolls out into place. No tools, no fuss — privacy and warmth in seconds."
+                "ul": [
+                  "Espacios de estar de planta abierta.",
+                  "Oficinas en casa y estudios creativos.",
+                  "Salas de yoga y bienestar.",
+                  "Tiendas y stands de exposición.",
+                  "Zonas temporales para invitados y fondos decorativos."
+                ]
+              },
+              {
+                "h3": "Sencillo de instalar"
+              },
+              {
+                "p": "El biombo se entrega totalmente montado y basta con desplegarlo en su sitio. Sin herramientas ni complicaciones: privacidad y calidez en segundos."
               }
             ]
           },
           "showcase": {
-            "eyebrow": "In real spaces",
-            "title": "Dividers, styled",
-            "lead": "Screening a zone, softening an open plan or adding warmth — a few ways bamboo dividers work indoors."
+            "eyebrow": "En espacios reales",
+            "title": "Biombos con estilo",
+            "lead": "Para separar una zona, suavizar una planta abierta o añadir calidez: algunas formas en que los biombos de bambú funcionan en interiores."
           }
         }
       }

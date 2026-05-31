@@ -71,7 +71,7 @@
       "natural-thatch-roof": "Toiture de chaume naturel",
       "artificial-fence-rolls": "Rouleaux de clôture artificielle",
       "artificial-green-wall-panels": "Panneaux de mur végétal artificiel",
-      "bamboo-room-dividers": "Bamboo room dividers"
+      "bamboo-room-dividers": "Paravents en bambou"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -90,7 +90,7 @@
       "natural-thatch-roof": "Tuiles et rouleaux de chaume",
       "artificial-fence-rolls": "Panneaux de haie et de lierre",
       "artificial-green-wall-panels": "Murs végétaux en buis",
-      "bamboo-room-dividers": "Rollable natural room screens"
+      "bamboo-room-dividers": "Paravents naturels enroulables"
     },
     "index": {
       "meta": {
@@ -1067,90 +1067,90 @@
           ]
         },
         "bamboo-room-dividers": {
-          "eyebrow": "Popular · Interior décor",
-          "lead": "Rollable bamboo screens that create privacy and define spaces — natural, lightweight and ready to use in seconds.",
-          "pill": "Eco-friendly · 100% bamboo",
-          "name": "Bamboo room divider",
-          "desc": "A stylish way to create privacy, define areas or simply add a warm, natural touch to any interior. Each screen is made entirely from sustainably harvested bamboo, showing off the material's grain and natural variations in tone.",
+          "eyebrow": "Populaire · Décoration d'intérieur",
+          "lead": "Des paravents en bambou enroulables qui préservent l'intimité et structurent les espaces — naturels, légers et prêts à l'emploi en quelques secondes.",
+          "pill": "Écologique · 100 % bambou",
+          "name": "Paravent en bambou",
+          "desc": "Une manière élégante de préserver l'intimité, de délimiter des espaces ou simplement d'apporter une touche chaleureuse et naturelle à tout intérieur. Chaque paravent est entièrement fabriqué en bambou issu d'une récolte durable, mettant en valeur le grain du matériau et ses variations naturelles de teinte.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural bamboo"
+              "k": "Matériau",
+              "v": "100 % bambou naturel"
             },
             {
-              "k": "Standard size",
-              "v": "244 cm wide × 185 cm high"
+              "k": "Dimensions standard",
+              "v": "244 cm de large × 185 cm de haut"
             },
             {
-              "k": "Custom sizes",
-              "v": "Available on request"
+              "k": "Dimensions sur mesure",
+              "v": "Disponibles sur demande"
             },
             {
-              "k": "Design",
-              "v": "Rollable — arrives fully assembled"
+              "k": "Conception",
+              "v": "Enroulable — livré entièrement assemblé"
             },
             {
               "k": "Installation",
-              "v": "Rolls out into place, no tools"
+              "v": "Se déroule et se met en place, sans outils"
             },
             {
-              "k": "Use",
-              "v": "Living spaces, offices, studios, retail"
+              "k": "Utilisation",
+              "v": "Espaces de vie, bureaux, studios, commerces"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ et OEM",
+              "v": "Négociables · marque blanche bienvenue"
             },
             {
-              "k": "Loading port",
+              "k": "Port de chargement",
               "v": "Xiamen, China"
             }
           ],
           "about": {
-            "eyebrow": "The material",
-            "title": "Natural elegance with purpose",
+            "eyebrow": "Le matériau",
+            "title": "Une élégance naturelle et fonctionnelle",
             "body": [
               {
-                "p": "Looking to enhance your space with something both functional and beautiful? Our bamboo room divider offers a stylish solution for creating privacy, defining areas, or simply adding a warm, natural touch to any interior."
+                "p": "Vous souhaitez sublimer votre espace avec un élément à la fois fonctionnel et esthétique ? Notre paravent en bambou offre une solution élégante pour préserver l'intimité, délimiter des espaces ou simplement apporter une touche chaleureuse et naturelle à tout intérieur."
               },
               {
-                "p": "Each screen is made entirely from sustainably harvested bamboo, showcasing the material's unique grain and natural variations in tone. The standard size is 244 cm wide by 185 cm high, with custom dimensions available on request."
+                "p": "Chaque paravent est entièrement fabriqué en bambou issu d'une récolte durable, mettant en valeur le grain unique du matériau et ses variations naturelles de teinte. La taille standard est de 244 cm de large × 185 cm de haut, avec des dimensions sur mesure disponibles sur demande."
               },
               {
-                "h3": "Why choose bamboo?"
-              },
-              {
-                "ul": [
-                  "Sustainable & eco-conscious — one of the most renewable materials on the planet, grown without fertilisers or pesticides.",
-                  "Durable & functional — incredibly strong, flexible and moisture-resistant.",
-                  "Cost-effective & ethical — lower production costs that support local economies.",
-                  "Visually striking — adds natural character without blocking light or airflow."
-                ]
-              },
-              {
-                "h3": "Perfect for"
+                "h3": "Pourquoi choisir le bambou ?"
               },
               {
                 "ul": [
-                  "Open-plan living spaces.",
-                  "Home offices and creative studios.",
-                  "Yoga and wellness rooms.",
-                  "Retail stores and exhibition booths.",
-                  "Temporary guest areas and backdrops."
+                  "Durable et écologique — l'un des matériaux les plus renouvelables de la planète, cultivé sans engrais ni pesticides.",
+                  "Résistant et fonctionnel — incroyablement solide, flexible et résistant à l'humidité.",
+                  "Économique et éthique — des coûts de production réduits qui soutiennent les économies locales.",
+                  "Visuellement saisissant — apporte du caractère naturel sans bloquer la lumière ni la circulation de l'air."
                 ]
               },
               {
-                "h3": "Effortless to set up"
+                "h3": "Idéal pour"
               },
               {
-                "p": "The room divider arrives fully assembled and simply rolls out into place. No tools, no fuss — privacy and warmth in seconds."
+                "ul": [
+                  "Les espaces de vie ouverts.",
+                  "Les bureaux à domicile et les studios créatifs.",
+                  "Les salles de yoga et de bien-être.",
+                  "Les commerces et les stands d'exposition.",
+                  "Les espaces invités temporaires et les arrière-plans."
+                ]
+              },
+              {
+                "h3": "Une installation sans effort"
+              },
+              {
+                "p": "Le paravent est livré entièrement assemblé et se déroule simplement pour se mettre en place. Sans outils, sans tracas — intimité et chaleur en quelques secondes."
               }
             ]
           },
           "showcase": {
-            "eyebrow": "In real spaces",
-            "title": "Dividers, styled",
-            "lead": "Screening a zone, softening an open plan or adding warmth — a few ways bamboo dividers work indoors."
+            "eyebrow": "Dans des espaces réels",
+            "title": "Les paravents, mis en scène",
+            "lead": "Délimiter une zone, adoucir un espace ouvert ou apporter de la chaleur — quelques façons dont les paravents en bambou s'intègrent en intérieur."
           }
         }
       }

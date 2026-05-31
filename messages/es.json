@@ -571,7 +571,78 @@
               "k": "Puerto de carga",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "El material",
+            "title": "Paneles de bambú elegantes y rígidos",
+            "body": [
+              {
+                "p": "Los paneles de valla de bambú son una forma elegante y sostenible de crear privacidad y delimitar el cerramiento de su espacio exterior. Fabricados en bambú natural y tratados para una mayor durabilidad, están libres de pesticidas, formaldehído y colas tóxicas."
+              },
+              {
+                "p": "Rígidos y listos para montar, los paneles cierran jardines, crean particiones y aportan un detalle decorativo al paisaje: una alternativa rentable y respetuosa con el medio ambiente frente a los muros macizos."
+              },
+              {
+                "h3": "Fáciles de instalar"
+              },
+              {
+                "p": "Cada panel se fija directamente a postes, muros o vallas existentes mediante tornillos o bridas, aportando elegancia, privacidad y seguridad en una sola tarde."
+              },
+              {
+                "h3": "Del estilo clásico a la artesanía japonesa"
+              },
+              {
+                "p": "Elija paneles fijos de líneas limpias en bambú natural o negro, o uno de los estilos japoneses tradicionales —Kumo, Misugaki, Sode-Gaki y Koetsu-gaki—, elaborados a mano para lograr un aspecto refinado y auténtico."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variantes",
+            "title": "Estilos de panel",
+            "lead": "Desde paneles fijos de líneas limpias hasta vallas de jardín japonesas hechas a mano: elija el estilo que mejor se adapte a su espacio.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Panel fijo natural",
+                "desc": "Panel clásico enmarcado de bambú natural para una privacidad limpia y cálida."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Panel fijo negro",
+                "desc": "Panel de bambú negro de gran impacto para un cerramiento audaz y contemporáneo."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Panel japonés Kumo",
+                "desc": "Panel de jardín enmarcado estilo Kumo con una refinada cara trenzada."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Panel con celosía superior",
+                "desc": "Panel con marco de madera y una decorativa celosía abierta en la parte superior."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Panel Misugaki",
+                "desc": "Panel de valla Misugaki tradicional con atado horizontal."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Panel de ramas de bambú",
+                "desc": "Panel de valla de ramas con textura para un aspecto natural y rústico."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Valla \"manga\" Sode-Gaki",
+                "desc": "Panel de valla \"manga\" curvado: un elegante acento japonés."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Valla \"ala\" Koetsu-gaki",
+                "desc": "Decorativa valla \"ala\" de celosía en rombo al estilo Koetsu."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Bambú natural",

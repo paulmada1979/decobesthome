@@ -571,7 +571,78 @@
               "k": "Verladehafen",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "Das Material",
+            "title": "Elegante, starre Bambus-Elemente",
+            "body": [
+              {
+                "p": "Bambus-Zaunelemente sind eine elegante, nachhaltige Möglichkeit, in Ihrem Außenbereich Sichtschutz zu schaffen und Grundstücksgrenzen zu definieren. Gefertigt aus natürlichem Bambus und für eine lange Haltbarkeit behandelt, sind sie frei von Pestiziden, Formaldehyd und giftigen Klebstoffen."
+              },
+              {
+                "p": "Starr und montagefertig fassen die Elemente Gärten ein, schaffen Abtrennungen und setzen dekorative Akzente in der Landschaft – eine kostengünstige, umweltfreundliche Alternative zu massiven Mauern."
+              },
+              {
+                "h3": "Einfach zu montieren"
+              },
+              {
+                "p": "Jedes Element wird mit Schrauben oder Kabelbindern direkt an Pfosten, Wänden oder bestehenden Zäunen befestigt – und verleiht Ihrem Außenbereich an einem einzigen Nachmittag Eleganz, Sichtschutz und Sicherheit."
+              },
+              {
+                "h3": "Vom Klassiker bis zur japanischen Handwerkskunst"
+              },
+              {
+                "p": "Wählen Sie klare, feste Elemente aus natürlichem Bambus oder Schwarzbambus oder einen der traditionellen japanischen Stile – Kumo, Misugaki, Sode-Gaki und Koetsu-gaki – handgefertigt für ein edles, authentisches Erscheinungsbild."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianten",
+            "title": "Element-Stile",
+            "lead": "Von klaren, festen Elementen bis hin zu handgefertigten japanischen Gartenzäunen – wählen Sie den Stil, der zu Ihrem Außenbereich passt.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Festes Natur-Element",
+                "desc": "Klassisches, gerahmtes Element aus Naturbambus für einen klaren, warmen Sichtschutz."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Festes Schwarz-Element",
+                "desc": "Ausdrucksstarkes Element aus Schwarzbambus für eine markante, zeitgemäße Grundstücksgrenze."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Japanisches Kumo-Element",
+                "desc": "Gerahmtes Gartenelement im Kumo-Stil mit einer edlen, geflochtenen Front."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Element mit Gitteraufsatz",
+                "desc": "Holzgerahmtes Element mit einem dekorativen, offenen Gitteraufsatz."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Misugaki-Element",
+                "desc": "Traditionelles Misugaki-Zaunelement mit horizontaler Bindung."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Bambusreisig-Element",
+                "desc": "Strukturiertes Reisigzaun-Element für einen natürlichen, rustikalen Look."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Sode-Gaki Ärmelzaun",
+                "desc": "Geschwungenes Element des „Ärmelzauns“ – ein eleganter japanischer Akzent."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Koetsu-gaki Flügelzaun",
+                "desc": "Dekorativer Flügelzaun mit Rauten-Gitter im Koetsu-Stil."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Naturbambus",

@@ -571,7 +571,78 @@
               "k": "Loading port",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Elegant, rigid bamboo panels",
+            "body": [
+              {
+                "p": "Bamboo fence panels are an elegant, sustainable way to create privacy and define boundaries in your outdoor space. Crafted from natural bamboo and treated for durability, they're free from pesticides, formaldehyde and toxic glues."
+              },
+              {
+                "p": "Rigid and ready to mount, the panels enclose gardens, create partitions and add decorative landscape detail — a cost-effective, environmentally friendly alternative to solid walls."
+              },
+              {
+                "h3": "Simple to install"
+              },
+              {
+                "p": "Each panel fixes straight onto posts, walls or existing fences with screws or zip ties — adding elegance, privacy and security in an afternoon."
+              },
+              {
+                "h3": "From classic to Japanese craft"
+              },
+              {
+                "p": "Choose clean fixed panels in natural or black bamboo, or one of the traditional Japanese styles — Kumo, Misugaki, Sode-Gaki and Koetsu-gaki — hand-built for a refined, authentic look."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Panel styles",
+            "lead": "From clean fixed panels to hand-built Japanese garden fences — choose the style that suits your space.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Fixed natural panel",
+                "desc": "Classic framed natural-bamboo panel for clean, warm privacy."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Fixed black panel",
+                "desc": "Dramatic black-bamboo panel for a bold, contemporary boundary."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Japanese Kumo panel",
+                "desc": "Framed Kumo-style garden panel with a refined woven face."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Lattice-top panel",
+                "desc": "Wood-framed panel with a decorative open lattice top."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Misugaki panel",
+                "desc": "Traditional Misugaki fence panel with horizontal binding."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Bamboo branch panel",
+                "desc": "Textured branch-fence panel for a natural, rustic look."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Sode-Gaki sleeve fence",
+                "desc": "Curved 'sleeve' fence panel — an elegant Japanese accent."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Koetsu-gaki wing fence",
+                "desc": "Decorative diamond-lattice wing fence in the Koetsu style."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Natural bamboo",

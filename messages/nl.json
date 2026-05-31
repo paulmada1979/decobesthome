@@ -571,7 +571,78 @@
               "k": "Laadhaven",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "Het materiaal",
+            "title": "Elegante, stevige bamboepanelen",
+            "body": [
+              {
+                "p": "Bamboe omheiningspanelen vormen een elegante, duurzame manier om privacy te creëren en erfgrenzen af te bakenen in uw buitenruimte. Vervaardigd uit natuurlijk bamboe en behandeld voor duurzaamheid, zijn ze vrij van pesticiden, formaldehyde en giftige lijmen."
+              },
+              {
+                "p": "Stevig en kant-en-klaar om te monteren, omsluiten de panelen tuinen, creëren ze afscheidingen en voegen ze decoratieve detaillering aan het landschap toe — een kostenefficiënt, milieuvriendelijk alternatief voor massieve muren."
+              },
+              {
+                "h3": "Eenvoudig te installeren"
+              },
+              {
+                "p": "Elk paneel bevestigt u rechtstreeks op palen, muren of bestaande omheiningen met schroeven of kabelbinders — voor elegantie, privacy en veiligheid in één middag."
+              },
+              {
+                "h3": "Van klassiek tot Japans vakmanschap"
+              },
+              {
+                "p": "Kies voor strakke vaste panelen in natuurlijk of zwart bamboe, of voor een van de traditionele Japanse stijlen — Kumo, Misugaki, Sode-Gaki en Koetsu-gaki — met de hand gebouwd voor een verfijnde, authentieke uitstraling."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianten",
+            "title": "Paneelstijlen",
+            "lead": "Van strakke vaste panelen tot met de hand gebouwde Japanse tuinomheiningen — kies de stijl die bij uw ruimte past.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Vast natuurlijk paneel",
+                "desc": "Klassiek omkaderd paneel van natuurlijk bamboe voor strakke, warme privacy."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Vast zwart paneel",
+                "desc": "Sfeervol paneel van zwart bamboe voor een gedurfde, eigentijdse afscheiding."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Japans Kumo-paneel",
+                "desc": "Omkaderd tuinpaneel in Kumo-stijl met een verfijnd gevlochten vlak."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Paneel met latwerk-bovenrand",
+                "desc": "Houten omkaderd paneel met een decoratieve, open latwerk-bovenrand."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Misugaki-paneel",
+                "desc": "Traditioneel Misugaki omheiningspaneel met horizontale binding."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Bamboe takkenpaneel",
+                "desc": "Getextureerd takkenscherm-paneel voor een natuurlijke, rustieke uitstraling."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Sode-Gaki mouwhek",
+                "desc": "Gebogen mouwhek-paneel — een elegant Japans accent."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Koetsu-gaki vleugelhek",
+                "desc": "Decoratief vleugelhek met diamantlatwerk in de Koetsu-stijl."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Natuurlijk bamboe",

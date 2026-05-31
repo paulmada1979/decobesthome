@@ -571,7 +571,78 @@
               "k": "Porto di carico",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "Il materiale",
+            "title": "Eleganti pannelli rigidi in bambù",
+            "body": [
+              {
+                "p": "I pannelli di recinzione in bambù sono un modo elegante e sostenibile per creare privacy e delimitare i confini del Suo spazio esterno. Realizzati in bambù naturale e trattati per garantirne la durabilità, sono privi di pesticidi, formaldeide e colle tossiche."
+              },
+              {
+                "p": "Rigidi e pronti per il montaggio, i pannelli permettono di recintare giardini, creare separazioni e aggiungere dettagli decorativi al paesaggio: un'alternativa economica ed ecologica ai muri pieni."
+              },
+              {
+                "h3": "Semplici da installare"
+              },
+              {
+                "p": "Ogni pannello si fissa direttamente su pali, muri o recinzioni esistenti con viti o fascette, aggiungendo eleganza, privacy e sicurezza nel giro di un pomeriggio."
+              },
+              {
+                "h3": "Dal classico all'artigianato giapponese"
+              },
+              {
+                "p": "Scelga i puliti pannelli fissi in bambù naturale o nero, oppure uno degli stili tradizionali giapponesi - Kumo, Misugaki, Sode-Gaki e Koetsu-gaki - realizzati a mano per un aspetto raffinato e autentico."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Varianti",
+            "title": "Stili di pannello",
+            "lead": "Dai puliti pannelli fissi alle recinzioni da giardino giapponesi realizzate a mano: scelga lo stile più adatto al Suo spazio.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Pannello fisso naturale",
+                "desc": "Classico pannello incorniciato in bambù naturale per una privacy pulita e calda."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Pannello fisso nero",
+                "desc": "Pannello d'effetto in bambù nero per un confine deciso e contemporaneo."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Pannello giapponese Kumo",
+                "desc": "Pannello da giardino in stile Kumo, incorniciato, con una raffinata superficie intrecciata."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Pannello con grigliato superiore",
+                "desc": "Pannello con cornice in legno e un decorativo grigliato aperto nella parte superiore."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Pannello Misugaki",
+                "desc": "Tradizionale pannello di recinzione Misugaki con legatura orizzontale."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Pannello in ramaglia di bambù",
+                "desc": "Pannello in recinzione in ramaglia, dalla texture marcata, per un aspetto naturale e rustico."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Recinzione \"a manica\" Sode-Gaki",
+                "desc": "Pannello di recinzione \"a manica\" curvo: un elegante accento giapponese."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Recinzione \"ad ala\" Koetsu-gaki",
+                "desc": "Decorativa recinzione \"ad ala\" con grigliato a rombi in stile Koetsu."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Bambù naturale",

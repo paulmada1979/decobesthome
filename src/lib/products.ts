@@ -144,8 +144,16 @@ export const products: Product[] = [
   {
     id: "bamboo-fence-panels",
     slug: "bamboo-fence-panels",
-    image: "/images/sy_fixed-natural-black-bamboo-fence-screening-300x300.jpg",
+    image: "/images/panels-hero.webp",
     icon: "▦",
+    hasAbout: true,
+    hasVariations: true,
+    variationDir: "panels",
+    gallery: [
+      "/images/panels-hero.webp",
+      "/images/panels/scene-jp.webp",
+      "/images/panels/scene-med.webp",
+    ],
   },
   {
     id: "bamboo-household-articles",

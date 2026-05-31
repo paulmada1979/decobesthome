@@ -571,7 +571,78 @@
               "k": "Port de chargement",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "Le matériau",
+            "title": "Des panneaux de bambou élégants et rigides",
+            "body": [
+              {
+                "p": "Les panneaux de clôture en bambou constituent une solution élégante et durable pour créer de l'intimité et délimiter les espaces extérieurs. Fabriqués en bambou naturel et traités pour résister dans le temps, ils sont exempts de pesticides, de formaldéhyde et de colles toxiques."
+              },
+              {
+                "p": "Rigides et prêts à poser, ces panneaux permettent de clôturer les jardins, de créer des séparations et d'apporter une touche décorative au paysage — une alternative économique et respectueuse de l'environnement aux murs pleins."
+              },
+              {
+                "h3": "Une pose simple"
+              },
+              {
+                "p": "Chaque panneau se fixe directement sur des poteaux, des murs ou des clôtures existantes à l'aide de vis ou de colliers de serrage — pour ajouter élégance, intimité et sécurité en une après-midi."
+              },
+              {
+                "h3": "Du style classique à l'artisanat japonais"
+              },
+              {
+                "p": "Optez pour des panneaux fixes épurés en bambou naturel ou noir, ou pour l'un des styles japonais traditionnels — Kumo, Misugaki, Sode-Gaki et Koetsu-gaki — fabriqués à la main pour un rendu raffiné et authentique."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variantes",
+            "title": "Styles de panneau",
+            "lead": "Des panneaux fixes épurés aux clôtures de jardin japonaises fabriquées à la main — choisissez le style qui convient à votre espace.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Panneau fixe naturel",
+                "desc": "Panneau classique encadré en bambou naturel, pour une intimité chaleureuse et soignée."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Panneau fixe noir",
+                "desc": "Panneau spectaculaire en bambou noir, pour une limite audacieuse et contemporaine."
+              },
+              {
+                "img": "var-kumo.webp",
+                "title": "Panneau japonais Kumo",
+                "desc": "Panneau de jardin de style Kumo, encadré, à la surface tressée raffinée."
+              },
+              {
+                "img": "var-lattice.webp",
+                "title": "Panneau à treillis supérieur",
+                "desc": "Panneau à cadre bois orné d'un treillis ajouré décoratif en partie haute."
+              },
+              {
+                "img": "var-misugaki.webp",
+                "title": "Panneau Misugaki",
+                "desc": "Panneau de clôture Misugaki traditionnel à ligature horizontale."
+              },
+              {
+                "img": "var-branch.webp",
+                "title": "Panneau en branchage de bambou",
+                "desc": "Panneau de clôture en branchage texturé, pour un aspect naturel et rustique."
+              },
+              {
+                "img": "var-sodegaki.webp",
+                "title": "Clôture « manche » Sode-Gaki",
+                "desc": "Panneau de clôture « manche » incurvé — une élégante touche japonaise."
+              },
+              {
+                "img": "var-koetsu.webp",
+                "title": "Clôture « aile » Koetsu-gaki",
+                "desc": "Clôture « aile » décorative à treillis en losange, dans le style Koetsu."
+              }
+            ]
+          }
         },
         "bamboo-household-articles": {
           "eyebrow": "Bambou naturel",

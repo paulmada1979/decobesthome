@@ -97,6 +97,28 @@ export const products: Product[] = [
     ],
   },
   {
+    id: "bamboo-room-dividers",
+    slug: "bamboo-room-dividers",
+    image: "/images/divider-hero.webp",
+    icon: "▥",
+    tag: "popular",
+    hasAbout: true,
+    gallery: [
+      "/images/divider-hero.webp",
+      "/images/moso/scene-16.webp",
+      "/images/moso/scene-2.webp",
+      "/images/moso/scene-17.webp",
+    ],
+    showcasePhotos: [
+      "/images/moso/scene-18.webp",
+      "/images/moso/scene-19.webp",
+      "/images/moso/scene-20.webp",
+      "/images/moso/scene-5.webp",
+      "/images/moso/scene-14.webp",
+      "/images/moso/scene-12.webp",
+    ],
+  },
+  {
     id: "bamboo-fencing-edging",
     slug: "bamboo-fencing-edging",
     image: "/images/bamboo-fence-hero.webp",
@@ -226,8 +248,8 @@ export const products: Product[] = [
   },
 ];
 
-/** First 10 ranges are shown in the header mega menu. */
-export const megaProducts = products.slice(0, 10);
+/** Ranges shown in the header mega menu. */
+export const megaProducts = products.slice(0, 11);
 
 export function getProduct(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);

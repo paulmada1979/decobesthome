@@ -70,7 +70,8 @@
       "other-natural-fencing": "Autres clôtures naturelles",
       "natural-thatch-roof": "Toiture de chaume naturel",
       "artificial-fence-rolls": "Rouleaux de clôture artificielle",
-      "artificial-green-wall-panels": "Panneaux de mur végétal artificiel"
+      "artificial-green-wall-panels": "Panneaux de mur végétal artificiel",
+      "bamboo-room-dividers": "Bamboo room dividers"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -88,7 +89,8 @@
       "other-natural-fencing": "Osier et brindilles",
       "natural-thatch-roof": "Tuiles et rouleaux de chaume",
       "artificial-fence-rolls": "Panneaux de haie et de lierre",
-      "artificial-green-wall-panels": "Murs végétaux en buis"
+      "artificial-green-wall-panels": "Murs végétaux en buis",
+      "bamboo-room-dividers": "Rollable natural room screens"
     },
     "index": {
       "meta": {
@@ -1063,6 +1065,93 @@
               "v": "Xiamen, China"
             }
           ]
+        },
+        "bamboo-room-dividers": {
+          "eyebrow": "Popular · Interior décor",
+          "lead": "Rollable bamboo screens that create privacy and define spaces — natural, lightweight and ready to use in seconds.",
+          "pill": "Eco-friendly · 100% bamboo",
+          "name": "Bamboo room divider",
+          "desc": "A stylish way to create privacy, define areas or simply add a warm, natural touch to any interior. Each screen is made entirely from sustainably harvested bamboo, showing off the material's grain and natural variations in tone.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natural bamboo"
+            },
+            {
+              "k": "Standard size",
+              "v": "244 cm wide × 185 cm high"
+            },
+            {
+              "k": "Custom sizes",
+              "v": "Available on request"
+            },
+            {
+              "k": "Design",
+              "v": "Rollable — arrives fully assembled"
+            },
+            {
+              "k": "Installation",
+              "v": "Rolls out into place, no tools"
+            },
+            {
+              "k": "Use",
+              "v": "Living spaces, offices, studios, retail"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Natural elegance with purpose",
+            "body": [
+              {
+                "p": "Looking to enhance your space with something both functional and beautiful? Our bamboo room divider offers a stylish solution for creating privacy, defining areas, or simply adding a warm, natural touch to any interior."
+              },
+              {
+                "p": "Each screen is made entirely from sustainably harvested bamboo, showcasing the material's unique grain and natural variations in tone. The standard size is 244 cm wide by 185 cm high, with custom dimensions available on request."
+              },
+              {
+                "h3": "Why choose bamboo?"
+              },
+              {
+                "ul": [
+                  "Sustainable & eco-conscious — one of the most renewable materials on the planet, grown without fertilisers or pesticides.",
+                  "Durable & functional — incredibly strong, flexible and moisture-resistant.",
+                  "Cost-effective & ethical — lower production costs that support local economies.",
+                  "Visually striking — adds natural character without blocking light or airflow."
+                ]
+              },
+              {
+                "h3": "Perfect for"
+              },
+              {
+                "ul": [
+                  "Open-plan living spaces.",
+                  "Home offices and creative studios.",
+                  "Yoga and wellness rooms.",
+                  "Retail stores and exhibition booths.",
+                  "Temporary guest areas and backdrops."
+                ]
+              },
+              {
+                "h3": "Effortless to set up"
+              },
+              {
+                "p": "The room divider arrives fully assembled and simply rolls out into place. No tools, no fuss — privacy and warmth in seconds."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "Dividers, styled",
+            "lead": "Screening a zone, softening an open plan or adding warmth — a few ways bamboo dividers work indoors."
+          }
         }
       }
     }

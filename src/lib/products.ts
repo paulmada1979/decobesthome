@@ -20,6 +20,8 @@ export type Product = {
   hasVariations?: boolean;
   /** Folder under /images that holds this product's variation thumbnails. */
   variationDir?: string;
+  /** Hide from menu/catalog/related listings (page still builds at its URL). For unfinished ranges. */
+  unlisted?: boolean;
   /** Optional size chart rows (length + diameter range). Labels live in messages. */
   sizeChart?: { len: string; dia: string }[];
   /** Render the grades & packing section (messages.products.detail.items.{id}.grades). */
@@ -166,12 +168,14 @@ export const products: Product[] = [
     slug: "bamboo-flower-sticks",
     image: "/images/sy_bamboo-canes-300x300.jpg",
     icon: "🪴",
+    unlisted: true,
   },
   {
     id: "bamboo-plywood",
     slug: "bamboo-plywood",
     image: "/images/moso-bamboo-for-wall-cladding-1024x574.webp",
     icon: "🟤",
+    unlisted: true,
   },
   {
     id: "reed-fencing",
@@ -252,8 +256,11 @@ export const products: Product[] = [
   },
 ];
 
-/** Ranges shown in the header mega menu. */
-export const megaProducts = products.slice(0, 11);
+/** Publicly listed ranges (excludes unfinished/unlisted products). Use for catalog grids + related. */
+export const listedProducts = products.filter((p) => !p.unlisted);
+
+/** Ranges shown in the header mega menu (first 11 of the listed set). */
+export const megaProducts = products.slice(0, 11).filter((p) => !p.unlisted);
 
 export function getProduct(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);

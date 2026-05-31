@@ -1,7 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { company } from "@/lib/site";
-import { products } from "@/lib/products";
+import { listedProducts as products } from "@/lib/products";
 import Reveal from "@/components/Reveal";
 import Marquee from "@/components/Marquee";
 import CategoryCard from "@/components/CategoryCard";

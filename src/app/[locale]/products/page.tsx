@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { products } from "@/lib/products";
+import { listedProducts as products } from "@/lib/products";
 import Reveal from "@/components/Reveal";
 import CategoryCard from "@/components/CategoryCard";
 import QuoteButton from "@/components/QuoteButton";

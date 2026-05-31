@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { products, getProduct } from "@/lib/products";
+import { products, listedProducts, getProduct } from "@/lib/products";
 import { company } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 import ProductGallery from "@/components/ProductGallery";
@@ -77,7 +77,7 @@ export default async function ProductDetailPage({
   const galleryImages = product.gallery ?? (product.image ? [product.image] : []);
   const spec = t.raw(`items.${product.id}.spec`) as { k: string; v: string }[];
 
-  const related = products
+  const related = listedProducts
     .filter((p) => p.id !== product.id)
     .slice(0, 3)
     .map((p) => ({ ...p, order: products.findIndex((x) => x.id === p.id) + 1 }));

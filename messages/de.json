@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "In echten Räumen",
-            "title": "Raumteiler, in Szene gesetzt",
-            "lead": "Einen Bereich abschirmen, einen offenen Grundriss auflockern oder Wärme hinzufügen – einige Möglichkeiten, wie Bambus-Raumteiler in Innenräumen wirken."
+          "variations": {
+            "eyebrow": "Ausführungen & Stile",
+            "title": "Wählen Sie Ihre Ausführung",
+            "lead": "Der aufrollbare Raumteiler ist in drei Ausführungen erhältlich, dazu ein offener Moso-Stab-Stil.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natur",
+                "desc": "Warmes, hell-beiges Bambus in der natürlichen Ausführung."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Braun",
+                "desc": "Ein tieferer, wärmerer Braunton für warme Innenräume."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Grau",
+                "desc": "Eine sanfte graue Lasur für einen kühlen, modernen Look."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Moso-Stab-Paravent",
+                "desc": "Ein offener vertikaler Moso-Stab-Raumteiler für eine luftige Trennung."
+              }
+            ]
           }
         }
       }

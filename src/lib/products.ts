@@ -103,19 +103,12 @@ export const products: Product[] = [
     icon: "▥",
     tag: "popular",
     hasAbout: true,
+    hasVariations: true,
+    variationDir: "divider",
     gallery: [
       "/images/divider-hero.webp",
-      "/images/moso/scene-16.webp",
-      "/images/moso/scene-2.webp",
-      "/images/moso/scene-17.webp",
-    ],
-    showcasePhotos: [
-      "/images/moso/scene-18.webp",
-      "/images/moso/scene-19.webp",
-      "/images/moso/scene-20.webp",
-      "/images/moso/scene-5.webp",
-      "/images/moso/scene-14.webp",
-      "/images/moso/scene-12.webp",
+      "/images/divider/divider-main.webp",
+      "/images/divider/scene-natural.webp",
     ],
   },
   {

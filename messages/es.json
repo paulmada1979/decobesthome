@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "En espacios reales",
-            "title": "Biombos con estilo",
-            "lead": "Para separar una zona, suavizar una planta abierta o añadir calidez: algunas formas en que los biombos de bambú funcionan en interiores."
+          "variations": {
+            "eyebrow": "Acabados y estilos",
+            "title": "Elija su acabado",
+            "lead": "El biombo enrollable está disponible en tres acabados, más un estilo abierto de cañas Moso.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natural",
+                "desc": "Bambú cálido de tono claro en su acabado natural."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Marrón",
+                "desc": "Un tono marrón más profundo y cálido para interiores acogedores."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Gris",
+                "desc": "Un suave lavado gris para un aspecto fresco y contemporáneo."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Biombo de cañas Moso",
+                "desc": "Un biombo vertical de cañas Moso, abierto y ligero."
+              }
+            ]
           }
         }
       }

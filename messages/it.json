@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "In ambienti reali",
-            "title": "Paraventi, con stile",
-            "lead": "Schermare una zona, ammorbidire un open space o aggiungere calore: alcuni modi in cui i paraventi in bambù si rivelano utili negli interni."
+          "variations": {
+            "eyebrow": "Finiture e stili",
+            "title": "Scelga la finitura",
+            "lead": "Il paravento arrotolabile è disponibile in tre finiture, più uno stile aperto a canne Moso.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Naturale",
+                "desc": "Bambù caldo dai toni chiari nella finitura naturale."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Marrone",
+                "desc": "Un tono marrone più profondo e caldo per interni accoglienti."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Grigio",
+                "desc": "Una delicata patina grigia per un look fresco e contemporaneo."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Paravento a canne Moso",
+                "desc": "Un paravento verticale a canne Moso, aperto e leggero."
+              }
+            ]
           }
         }
       }

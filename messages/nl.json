@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "In echte ruimtes",
-            "title": "Kamerschermen, gestyled",
-            "lead": "Een zone afschermen, een open ruimte verzachten of warmte toevoegen — enkele manieren waarop bamboe kamerschermen binnenshuis tot hun recht komen."
+          "variations": {
+            "eyebrow": "Afwerkingen & stijlen",
+            "title": "Kies uw afwerking",
+            "lead": "Het oprolbare kamerscherm is verkrijgbaar in drie afwerkingen, plus een open Moso-paalstijl.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Naturel",
+                "desc": "Warm, lichtbruin bamboe in de natuurlijke afwerking."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Bruin",
+                "desc": "Een diepere, warmere bruine tint voor warme interieurs."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Grijs",
+                "desc": "Een zachte grijze wassing voor een koele, eigentijdse look."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Moso-paalscherm",
+                "desc": "Een open verticaal Moso-paalscherm voor een luchtige scheiding."
+              }
+            ]
           }
         }
       }

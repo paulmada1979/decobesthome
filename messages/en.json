@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "In real spaces",
-            "title": "Dividers, styled",
-            "lead": "Screening a zone, softening an open plan or adding warmth — a few ways bamboo dividers work indoors."
+          "variations": {
+            "eyebrow": "Finishes & styles",
+            "title": "Choose your finish",
+            "lead": "The rollable divider comes in three finishes, plus an open Moso-pole style.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natural",
+                "desc": "Warm, light-tan bamboo in its natural finish."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Brown",
+                "desc": "A deeper, richer brown tone for warmer interiors."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Grey",
+                "desc": "A soft grey wash for a cool, contemporary look."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Moso-pole screen",
+                "desc": "An open vertical Moso-pole divider for an airy split."
+              }
+            ]
           }
         }
       }

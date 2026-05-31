@@ -1147,10 +1147,32 @@
               }
             ]
           },
-          "showcase": {
-            "eyebrow": "Dans des espaces réels",
-            "title": "Les paravents, mis en scène",
-            "lead": "Délimiter une zone, adoucir un espace ouvert ou apporter de la chaleur — quelques façons dont les paravents en bambou s'intègrent en intérieur."
+          "variations": {
+            "eyebrow": "Finitions et styles",
+            "title": "Choisissez votre finition",
+            "lead": "Le paravent enroulable est disponible en trois finitions, plus un style ouvert à cannes Moso.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Naturel",
+                "desc": "Bambou chaud aux tons clairs dans sa finition naturelle."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Marron",
+                "desc": "Un ton brun plus profond et chaleureux pour les intérieurs cosy."
+              },
+              {
+                "img": "var-grey.webp",
+                "title": "Gris",
+                "desc": "Un lavis gris doux pour un look frais et contemporain."
+              },
+              {
+                "img": "var-moso.webp",
+                "title": "Paravent à cannes Moso",
+                "desc": "Un paravent vertical à cannes Moso, ouvert et aéré."
+              }
+            ]
           }
         }
       }

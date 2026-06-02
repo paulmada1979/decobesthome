@@ -195,8 +195,8 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .mega-item .ico{ width:38px; height:38px; border-radius:9px; background:var(--bone-2); flex:none;
   display:grid; place-items:center; color:var(--leaf-deep); overflow:hidden; }
 .mega-item .ico img{ width:100%; height:100%; object-fit:cover; }
-.mega-item .t{ font-weight:600; font-size:.92rem; }
-.mega-item .d{ font-size:.78rem; color:var(--ink-faint); }
+.mega-item .t{ display:block; font-weight:600; font-size:.92rem; }
+.mega-item .d{ display:block; margin-top:2px; font-size:.78rem; color:var(--ink-faint); }
 .mega-foot{ margin-top:16px; padding-top:16px; border-top:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; }
 
 /* burger */

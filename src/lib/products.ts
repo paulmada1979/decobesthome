@@ -276,8 +276,25 @@ export const products: Product[] = [
 /** Publicly listed ranges (excludes unfinished/unlisted products). Use for catalog grids + related. */
 export const listedProducts = products.filter((p) => !p.unlisted);
 
+/**
+ * Explicit display order for the header mega menu. Lead with the priority
+ * ranges; any listed product not named here falls in afterwards in catalog order.
+ */
+const megaOrder: string[] = [
+  "bamboo-fence-panels",
+  "decor-moso-bamboo-poles",
+  "reed-fencing",
+  "bamboo-fencing-edging",
+  "other-natural-fencing",
+];
+
 /** Ranges shown in the header mega menu (the listed set, up to 12). */
-export const megaProducts = listedProducts.slice(0, 12);
+export const megaProducts = [
+  ...megaOrder
+    .map((id) => listedProducts.find((p) => p.id === id))
+    .filter((p): p is Product => Boolean(p)),
+  ...listedProducts.filter((p) => !megaOrder.includes(p.id)),
+].slice(0, 12);
 
 export function getProduct(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);

@@ -273,8 +273,14 @@ export const products: Product[] = [
   },
 ];
 
-/** Display order for the menu + catalog (listed ranges only). Ids not here are appended. */
-const DISPLAY_ORDER = [
+/** Publicly listed ranges (excludes unfinished/unlisted products). Catalog order. */
+export const listedProducts = products.filter((p) => !p.unlisted);
+
+/**
+ * Header mega-menu order (requested 1–10 priority). Any listed product not named
+ * here appends after, in catalog order. Capped at 12.
+ */
+const megaOrder: string[] = [
   "bamboo-fencing-edging",
   "reed-fencing",
   "decor-moso-bamboo-poles",
@@ -285,27 +291,6 @@ const DISPLAY_ORDER = [
   "bamboo-room-dividers",
   "bamboo-household-articles",
   "natural-thatch-roof",
-];
-
-/** Publicly listed ranges (excludes unfinished/unlisted products), in DISPLAY_ORDER. */
-export const listedProducts = products
-  .filter((p) => !p.unlisted)
-  .sort((a, b) => {
-    const ia = DISPLAY_ORDER.indexOf(a.id);
-    const ib = DISPLAY_ORDER.indexOf(b.id);
-    return (ia < 0 ? 999 : ia) - (ib < 0 ? 999 : ib);
-  });
-
-/**
- * Explicit display order for the header mega menu. Lead with the priority
- * ranges; any listed product not named here falls in afterwards in catalog order.
- */
-const megaOrder: string[] = [
-  "bamboo-fence-panels",
-  "decor-moso-bamboo-poles",
-  "reed-fencing",
-  "bamboo-fencing-edging",
-  "other-natural-fencing",
 ];
 
 /** Ranges shown in the header mega menu (the listed set, up to 12). */

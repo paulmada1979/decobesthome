@@ -67,7 +67,7 @@
       "bamboo-flower-sticks": "Bamboo flower sticks",
       "bamboo-plywood": "Bamboo plywood",
       "reed-fencing": "Reed fencing",
-      "other-natural-fencing": "Other natural fencing",
+      "other-natural-fencing": "Natural fencing",
       "natural-thatch-roof": "Natural thatch roof",
       "artificial-fence-rolls": "Artificial fence rolls",
       "artificial-green-wall-panels": "Artificial green wall panels",
@@ -856,7 +856,7 @@
           "eyebrow": "Natural materials",
           "lead": "Willow, brushwood and other natural screens for a rustic, characterful boundary — supplied wholesale by the roll.",
           "pill": "Eco-friendly · Natural",
-          "name": "Other natural fencing",
+          "name": "Natural fencing",
           "desc": "Beyond bamboo and reed, our range includes willow and brushwood screening for a warm, rustic look. Naturally harvested and woven into durable rolls — ideal for gardens and decorative boundaries.",
           "spec": [
             {

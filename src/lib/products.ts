@@ -273,8 +273,28 @@ export const products: Product[] = [
   },
 ];
 
-/** Publicly listed ranges (excludes unfinished/unlisted products). Use for catalog grids + related. */
-export const listedProducts = products.filter((p) => !p.unlisted);
+/** Display order for the menu + catalog (listed ranges only). Ids not here are appended. */
+const DISPLAY_ORDER = [
+  "bamboo-fencing-edging",
+  "reed-fencing",
+  "decor-moso-bamboo-poles",
+  "bamboo-reed-curtains",
+  "other-natural-fencing",
+  "bamboo-fence-panels",
+  "tonkin-bamboo-canes",
+  "bamboo-room-dividers",
+  "bamboo-household-articles",
+  "natural-thatch-roof",
+];
+
+/** Publicly listed ranges (excludes unfinished/unlisted products), in DISPLAY_ORDER. */
+export const listedProducts = products
+  .filter((p) => !p.unlisted)
+  .sort((a, b) => {
+    const ia = DISPLAY_ORDER.indexOf(a.id);
+    const ib = DISPLAY_ORDER.indexOf(b.id);
+    return (ia < 0 ? 999 : ia) - (ib < 0 ? 999 : ib);
+  });
 
 /**
  * Explicit display order for the header mega menu. Lead with the priority

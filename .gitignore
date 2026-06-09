@@ -139,3 +139,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .vercel
+
+# proofreading deliverables (kept on Desktop + vault, not in repo)
+*_proofread_en*.xlsx

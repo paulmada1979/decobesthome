@@ -43,7 +43,7 @@ const ArrowOut = () => (
 );
 
 type Block = { p: string } | { h2: string } | { h3: string } | { ul: string[] };
-type Variation = { img: string; title: string; desc: string };
+type Variation = { img: string; title: string; desc: string; href?: string };
 
 function renderBlock(block: Block, i: number): ReactNode {
   if ("h2" in block) return <h2 key={i} className="h3">{block.h2}</h2>;
@@ -302,18 +302,29 @@ export default async function ProductDetailPage({
               </p>
             </Reveal>
             <Reveal as="div" className="var-grid" delay={1}>
-              {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => (
-                <div className="var-card" key={v.img}>
-                  <div className="ph">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img loading="lazy" src={`/images/${product.variationDir}/${v.img}`} alt={v.title} />
+              {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => {
+                const inner = (
+                  <>
+                    <div className="ph">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img loading="lazy" src={`/images/${product.variationDir}/${v.img}`} alt={v.title} />
+                    </div>
+                    <div className="body">
+                      <h3 className="h4">{v.title}</h3>
+                      <p className="muted">{v.desc}</p>
+                    </div>
+                  </>
+                );
+                return v.href ? (
+                  <Link className="var-card var-card--link" href={v.href} key={v.img}>
+                    {inner}
+                  </Link>
+                ) : (
+                  <div className="var-card" key={v.img}>
+                    {inner}
                   </div>
-                  <div className="body">
-                    <h3 className="h4">{v.title}</h3>
-                    <p className="muted">{v.desc}</p>
-                  </div>
-                </div>
-              ))}
+                );
+              })}
             </Reveal>
           </div>
         </section>

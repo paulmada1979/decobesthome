@@ -534,6 +534,15 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .var-card .body{ padding:16px 16px 18px; }
 .var-card .body h3{ font-size:1.02rem; line-height:1.2; }
 .var-card .body p{ margin-top:7px; font-size:.86rem; line-height:1.5; }
+a.var-card{ display:block; color:inherit; text-decoration:none; }
+.var-card--link .body h3::after{ content:" →"; color:var(--leaf); font-weight:600; }
+
+/* FAQ list (reed variant pages) */
+.faq-list{ display:grid; gap:16px; margin-top:clamp(26px,3vw,40px); max-width:78ch; }
+.faq-item{ background:var(--white); border:1px solid var(--line-soft); border-radius:16px;
+  padding:20px 24px; box-shadow:var(--shadow-sm); }
+.faq-item h3{ font-size:1.05rem; line-height:1.3; }
+.faq-item p{ margin-top:8px; font-size:.95rem; line-height:1.65; }
 
 /* chips */
 .chips{ display:flex; flex-wrap:wrap; gap:10px; }

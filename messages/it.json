@@ -810,57 +810,57 @@
             ]
           },
           "variations": {
-            "eyebrow": "The range",
-            "title": "Eight reed fences, one for every job",
-            "lead": "From budget fine reed to top-quality extra-thick — open any version for full specs, photos and answers to common questions.",
+            "eyebrow": "La gamma",
+            "title": "Otto arelle di canna, una per ogni esigenza",
+            "lead": "Dalla canna fine economica alla qualità superiore extra spessa — aprite qualsiasi versione per specifiche complete, foto e risposte alle domande più comuni.",
             "items": [
               {
                 "img": "v/extra-thick-peeled-8-10mm-main.webp",
                 "href": "/products/reed-fencing/extra-thick-peeled-8-10mm",
-                "title": "Extra-thick peeled reed fence 8–10 mm",
-                "desc": "Top quality — up to 100% privacy, fully closed."
+                "title": "Arella di canna pelata extra spessa 8–10 mm",
+                "desc": "Qualità superiore — fino al 100% di privacy, completamente chiusa."
               },
               {
                 "img": "v/thick-peeled-5-8mm-main.webp",
                 "href": "/products/reed-fencing/thick-peeled-5-8mm",
-                "title": "Thick peeled reed fence 5–8 mm",
-                "desc": "High-density all-rounder — up to ≈ 90% privacy."
+                "title": "Arella di canna pelata spessa 5–8 mm",
+                "desc": "L'opzione versatile ad alta densità — fino a ≈ 90% di privacy."
               },
               {
                 "img": "v/high-density-fine-3-6mm-main.webp",
                 "href": "/products/reed-fencing/high-density-fine-3-6mm",
-                "title": "High-density fine reed fence 3–6 mm",
-                "desc": "Fine stems, refined surface — up to ≈ 80% privacy."
+                "title": "Arella di canna fine ad alta densità 3–6 mm",
+                "desc": "Steli fini, superficie raffinata — fino a ≈ 80% di privacy."
               },
               {
                 "img": "v/cheap-peeled-3-6mm-main.webp",
                 "href": "/products/reed-fencing/cheap-peeled-3-6mm",
-                "title": "Budget peeled reed fence 3–6 mm",
-                "desc": "Our cheapest peeled reed — light screening, ≈ 50% privacy."
+                "title": "Arella di canna pelata economica 3–6 mm",
+                "desc": "La nostra canna pelata più economica — schermatura leggera, ≈ 50% di privacy."
               },
               {
                 "img": "v/extra-thick-unpeeled-8-10mm-main.webp",
                 "href": "/products/reed-fencing/extra-thick-unpeeled-8-10mm",
-                "title": "Extra-thick unpeeled reed fence 8–10 mm",
-                "desc": "Our best seller — maximum privacy, rustic finish."
+                "title": "Arella di canna non pelata extra spessa 8–10 mm",
+                "desc": "La nostra più venduta — massima privacy, finitura rustica."
               },
               {
                 "img": "v/thick-unpeeled-5-8mm-main.webp",
                 "href": "/products/reed-fencing/thick-unpeeled-5-8mm",
-                "title": "Thick unpeeled reed fence 5–8 mm",
-                "desc": "High-density rustic screen — up to ≈ 90% privacy."
+                "title": "Arella di canna non pelata spessa 5–8 mm",
+                "desc": "Schermatura rustica ad alta densità — fino a ≈ 90% di privacy."
               },
               {
                 "img": "v/cheap-unpeeled-3-6mm-main.webp",
                 "href": "/products/reed-fencing/cheap-unpeeled-3-6mm",
-                "title": "Budget unpeeled reed fence 3–6 mm",
-                "desc": "The lowest-priced reed fence we make — ≈ 50% privacy."
+                "title": "Arella di canna non pelata economica 3–6 mm",
+                "desc": "L'arella di canna al prezzo più basso che produciamo — ≈ 50% di privacy."
               },
               {
                 "img": "v/japanese-with-bamboo-main.webp",
                 "href": "/products/reed-fencing/japanese-with-bamboo",
-                "title": "Japanese-style reed fence with bamboo",
-                "desc": "Reed bound with Li bamboo — the strongest in the range."
+                "title": "Arella di canna in stile giapponese con bambù",
+                "desc": "Canna legata con bambù Li — la più robusta della gamma."
               }
             ]
           },
@@ -1362,833 +1362,833 @@
     },
     "reed": {
       "shared": {
-        "factsTitle": "At a glance",
-        "whyTitle": "Why choose this one",
-        "faqEyebrow": "Questions & answers",
-        "faqTitle": "Frequently asked questions",
+        "factsTitle": "In sintesi",
+        "whyTitle": "Perché scegliere questa versione",
+        "faqEyebrow": "Domande e risposte",
+        "faqTitle": "Domande frequenti",
         "packing": {
-          "eyebrow": "Logistics",
-          "title": "Retail packing options",
-          "lead": "Four standard retail-ready packing options for reed fence rolls — or tell us your own spec and we pack to order.",
+          "eyebrow": "Logistica",
+          "title": "Opzioni di imballaggio per la vendita al dettaglio",
+          "lead": "Quattro opzioni standard di imballaggio pronte per il retail per i rotoli di arelle di canna — oppure indicateci le vostre specifiche e confezioniamo su misura.",
           "options": [
             {
-              "t": "Shrink film + jute bag",
-              "d": "Each roll wrapped in shrink film, 5 rolls bundled together in a big jute bag."
+              "t": "Film termoretraibile + sacco di iuta",
+              "d": "Ogni rotolo avvolto in film termoretraibile, 5 rotoli raggruppati in un grande sacco di iuta."
             },
             {
-              "t": "Window handbag + colour page",
-              "d": "Portable transparent-window handbag with a printed colour insert page."
+              "t": "Borsa con finestra + scheda a colori",
+              "d": "Pratica borsa con finestra trasparente e scheda inserto stampata a colori."
             },
             {
-              "t": "Woven bag + printing",
-              "d": "Woven carry bags with your custom printing."
+              "t": "Sacco in tessuto intrecciato + stampa",
+              "d": "Sacchi in tessuto intrecciato con la vostra stampa personalizzata."
             },
             {
-              "t": "Non-woven handbag + barcode",
-              "d": "Portable non-woven handbag with printing and barcode — shelf-ready."
+              "t": "Borsa in tessuto non tessuto + codice a barre",
+              "d": "Pratica borsa in tessuto non tessuto con stampa e codice a barre — pronta per lo scaffale."
             }
           ]
         },
         "series": {
-          "eyebrow": "The reed range",
-          "title": "Compare the other reed fences",
-          "lead": "Eight versions, from budget fine reed to top-quality extra-thick — privacy from about 50% up to a fully closed 100%.",
-          "overviewCta": "Reed fencing overview"
+          "eyebrow": "La gamma in canna",
+          "title": "Confrontate le altre arelle di canna",
+          "lead": "Otto versioni, dalla canna fine economica alla qualità superiore extra spessa — privacy da circa il 50% fino a una schermatura completamente chiusa al 100%.",
+          "overviewCta": "Panoramica arelle di canna"
         }
       },
       "variants": {
         "extra-thick-peeled-8-10mm": {
-          "name": "Extra-thick peeled reed fence 8–10 mm",
-          "cardDesc": "Top quality — up to 100% privacy, fully closed.",
-          "eyebrow": "Top quality · Maximum privacy",
-          "pill": "Natural reed · Ø 8–10 mm",
-          "lead": "Our highest-density reed fence: extra-thick peeled stems woven into a fully closed screen — up to 100% privacy.",
-          "desc": "The top grade of our reed range. Extra-thick peeled reed stems of 8–10 mm are woven at our highest density into a screen that is effectively closed — the most private and most premium reed fence we make.",
+          "name": "Arella di canna pelata extra spessa 8–10 mm",
+          "cardDesc": "Qualità superiore — fino al 100% di privacy, completamente chiusa.",
+          "eyebrow": "Qualità superiore · Massima privacy",
+          "pill": "Canna naturale · Ø 8–10 mm",
+          "lead": "La nostra arella di canna a più alta densità: steli pelati extra spessi intrecciati in una schermatura completamente chiusa — fino al 100% di privacy.",
+          "desc": "Il grado più alto della nostra gamma in canna. Steli di canna pelata extra spessi da 8–10 mm vengono intrecciati alla nostra densità massima in una schermatura di fatto chiusa — l'arella di canna più riservata e più pregiata che produciamo.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to 100% — fully closed"
+              "v": "Fino al 100% — completamente chiusa"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "8–10 mm"
             },
             {
-              "k": "Surface",
-              "v": "Peeled — smooth finish"
+              "k": "Superficie",
+              "v": "Pelata — finitura liscia"
             },
             {
-              "k": "Price tier",
-              "v": "Premium — top of the range"
+              "k": "Fascia di prezzo",
+              "v": "Premium — il top della gamma"
             }
           ],
-          "why": "If privacy is the priority, this is the one. It is the most closed reed screen in our range — the highest density and the highest quality, with no view through an installed fence.",
+          "why": "Se la privacy è la priorità, questa è la scelta giusta. È la schermatura in canna più chiusa della nostra gamma — la densità più alta e la qualità più elevata, senza alcuna visuale attraverso la recinzione installata.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural peeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "8–10 mm"
             },
             {
-              "k": "Weave",
-              "v": "Woven with black plastic-coated wire"
+              "k": "Intreccio",
+              "v": "Intrecciata con filo nero plastificato"
             },
             {
               "k": "Privacy",
-              "v": "Up to 100%"
+              "v": "Fino al 100%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "The most closed reed screen we make",
+            "eyebrow": "Il prodotto",
+            "title": "La schermatura in canna più chiusa che produciamo",
             "body": [
               {
-                "p": "Our extra-thick peeled reed fence 8–10 mm is the highest density and quality among all of our reed fencing types. The thick peeled stems sit tightly against each other, so an installed screen gives up to 100% privacy — in practice a closed natural wall, with no gaps to see through."
+                "p": "La nostra arella di canna pelata extra spessa 8–10 mm offre la densità e la qualità più elevate tra tutti i nostri tipi di recinzione in canna. Gli steli spessi e pelati aderiscono strettamente l'uno all'altro, così la schermatura installata garantisce fino al 100% di privacy — in pratica un muro naturale chiuso, senza fessure attraverso cui guardare."
               },
               {
-                "p": "The reed is woven with black plastic-coated wire that stands up to outdoor use, and the material itself is remarkably light. Even large rolls go up quickly against an existing fence, railing or simple frame — no heavy supporting structure needed."
+                "p": "La canna è intrecciata con filo nero plastificato che resiste all'uso esterno, e il materiale stesso è straordinariamente leggero. Anche i rotoli di grandi dimensioni si montano rapidamente su una recinzione esistente, una ringhiera o un semplice telaio — senza bisogno di strutture portanti pesanti."
               },
               {
-                "h3": "A renewable material"
+                "h3": "Un materiale rinnovabile"
               },
               {
-                "p": "Reed grows rapidly in natural wetlands and is fully renewable and biodegradable. That makes this screen an eco-friendly choice for outdoor screening, sun shading and privacy — and it works just as well indoors as a decorative natural wall covering."
+                "p": "La canna cresce rapidamente nelle zone umide naturali ed è completamente rinnovabile e biodegradabile. Questo rende la schermatura una scelta ecologica per la protezione visiva, l'ombreggiatura e la privacy all'esterno — e funziona altrettanto bene in interni come rivestimento murale naturale decorativo."
               },
               {
-                "p": "Like every fence in our reed range it ships as compact rolls, with four retail-ready packing options and custom sizes on request."
+                "p": "Come ogni recinzione della nostra gamma in canna viene spedita in rotoli compatti, con quattro opzioni di imballaggio pronte per il retail e misure personalizzate su richiesta."
               }
             ]
           },
           "faq": [
             {
-              "q": "How private is the extra-thick 8–10 mm reed fence?",
-              "a": "It is the most closed screen in our reed range. The extra-thick stems are woven at our highest density, giving up to 100% privacy — you cannot see through an installed screen."
+              "q": "Quanta privacy offre l'arella di canna extra spessa 8–10 mm?",
+              "a": "È la schermatura più chiusa della nostra gamma in canna. Gli steli extra spessi sono intrecciati alla nostra densità massima e offrono fino al 100% di privacy — non si vede attraverso la schermatura installata."
             },
             {
-              "q": "How long does a reed fence last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura un'arella di canna all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "Is it safe near a swimming pool or on the coast?",
-              "a": "Yes. Reed is a natural wetland plant — all our reed fences handle damp, coastal and poolside environments (salt, chlorine, constant moisture) without problems."
+              "q": "È sicura vicino a una piscina o sulla costa?",
+              "a": "Sì. La canna è una pianta naturale delle zone umide — tutte le nostre arelle di canna sopportano senza problemi ambienti umidi, costieri e a bordo piscina (sale, cloro, umidità costante)."
             },
             {
-              "q": "Why choose this over the cheaper reed grades?",
-              "a": "Density. Budget fine reed (3–6 mm) closes roughly 50% of the view; this top grade closes up to 100%. If you want a screen with no gaps, extra-thick is the grade to pick."
+              "q": "Perché sceglierla rispetto ai gradi di canna più economici?",
+              "a": "La densità. La canna fine economica (3–6 mm) chiude circa il 50% della visuale; questo grado superiore chiude fino al 100%. Se desiderate una schermatura senza fessure, l'extra spessa è il grado da scegliere."
             },
             {
-              "q": "What is the difference between peeled and unpeeled reed?",
-              "a": "Peeled reed has its skin removed for a smoother, cleaner finish. Unpeeled reed keeps the skin for a slightly rougher, more rustic natural-yellow look and costs a little less. Lifespan and mould resistance are the same, and neither has any smell."
+              "q": "Qual è la differenza tra canna pelata e non pelata?",
+              "a": "La canna pelata è privata della corteccia per una finitura più liscia e pulita. La canna non pelata conserva la corteccia per un aspetto giallo naturale leggermente più ruvido e rustico, e costa un po' meno. Durata e resistenza alla muffa sono identiche, e nessuna delle due ha odore."
             }
           ]
         },
         "thick-peeled-5-8mm": {
-          "name": "Thick peeled reed fence 5–8 mm",
-          "cardDesc": "High-density all-rounder — up to ≈ 90% privacy.",
-          "eyebrow": "High density · All-round favourite",
-          "pill": "Natural reed · Ø 5–8 mm",
-          "lead": "High-density peeled reed in a 5–8 mm stem — the all-round blend of strength, looks and up to ≈ 90% privacy.",
-          "desc": "The all-round choice in our peeled range: 5–8 mm reed stems bound at high density for a refined surface and strong screening — up to about 90% privacy at a sensible price.",
+          "name": "Arella di canna pelata spessa 5–8 mm",
+          "cardDesc": "L'opzione versatile ad alta densità — fino a ≈ 90% di privacy.",
+          "eyebrow": "Alta densità · La preferita per ogni uso",
+          "pill": "Canna naturale · Ø 5–8 mm",
+          "lead": "Canna pelata ad alta densità con steli da 5–8 mm — l'equilibrio versatile tra robustezza, estetica e fino a ≈ 90% di privacy.",
+          "desc": "La scelta versatile della nostra gamma pelata: steli di canna da 5–8 mm legati ad alta densità per una superficie raffinata e una schermatura efficace — fino a circa il 90% di privacy a un prezzo ragionevole.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "5–8 mm"
             },
             {
-              "k": "Surface",
-              "v": "Peeled — smooth finish"
+              "k": "Superficie",
+              "v": "Pelata — finitura liscia"
             },
             {
-              "k": "Price tier",
-              "v": "Mid — strong value"
+              "k": "Fascia di prezzo",
+              "v": "Media — ottimo rapporto qualità-prezzo"
             }
           ],
-          "why": "The everyday balance: thick enough for serious privacy, peeled for a clean refined finish, and priced below the extra-thick top grade.",
+          "why": "L'equilibrio per l'uso quotidiano: abbastanza spessa per una privacy seria, pelata per una finitura pulita e raffinata, e con un prezzo inferiore al grado superiore extra spesso.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural peeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "5–8 mm"
             },
             {
-              "k": "Density",
-              "v": "High density weave"
+              "k": "Densità",
+              "v": "Intreccio ad alta densità"
             },
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Beauty, strength and privacy in balance",
+            "eyebrow": "Il prodotto",
+            "title": "Bellezza, robustezza e privacy in equilibrio",
             "body": [
               {
-                "p": "Our thick peeled reed fence pairs a larger 5–8 mm stem with a high-density weave — the practical middle of the range. The reed is expertly peeled for a smoother, refined finish, and the stems are bound firmly together into a solid, good-looking shield."
+                "p": "La nostra arella di canna pelata spessa unisce uno stelo più grande da 5–8 mm a un intreccio ad alta densità — il punto di equilibrio pratico della gamma. La canna è pelata con perizia per una finitura più liscia e raffinata, e gli steli sono legati saldamente tra loro in una barriera solida e di bell'aspetto."
               },
               {
-                "p": "Thicker reed stems make a more substantial, robust fence that is well equipped to endure weather and everyday knocks, and each fence is treated to resist insect infestation and decay."
+                "p": "Gli steli di canna più spessi danno vita a una recinzione più solida e robusta, ben attrezzata per resistere alle intemperie e agli urti quotidiani; inoltre ogni recinzione è trattata per resistere alle infestazioni di insetti e al deterioramento."
               },
               {
-                "h3": "Simple to fit"
+                "h3": "Semplice da montare"
               },
               {
-                "p": "The fence conveniently unrolls and attaches to any existing fence or structure, and the natural flexibility of reed lets it follow curves and custom shapes. One person can screen a garden boundary in an afternoon."
+                "p": "La recinzione si srotola comodamente e si fissa a qualsiasi recinzione o struttura esistente, e la naturale flessibilità della canna le consente di seguire curve e forme personalizzate. Una sola persona può schermare il confine di un giardino in un pomeriggio."
               }
             ]
           },
           "faq": [
             {
-              "q": "How private is the thick peeled 5–8 mm reed fence?",
-              "a": "Woven at high density, it closes up to about 90% of the view — strong everyday privacy for gardens, balconies and terraces."
+              "q": "Quanta privacy offre l'arella di canna pelata spessa 5–8 mm?",
+              "a": "Intrecciata ad alta densità, chiude fino a circa il 90% della visuale — una solida privacy quotidiana per giardini, balconi e terrazze."
             },
             {
-              "q": "What is the difference with the extra-thick 8–10 mm version?",
-              "a": "The extra-thick grade uses heavier stems at our maximum density and closes up to 100%. This 5–8 mm version is slightly more open but lighter on the budget — the best seller for everyday screening."
+              "q": "Qual è la differenza con la versione extra spessa 8–10 mm?",
+              "a": "Il grado extra spesso utilizza steli più robusti alla nostra densità massima e chiude fino al 100%. Questa versione da 5–8 mm è leggermente più aperta ma più leggera per il budget — la più venduta per la schermatura di tutti i giorni."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "How is it installed?",
-              "a": "Very easy. The fence unrolls and fixes to any existing fence, railing or frame with wire ties — reed is so light that no reinforced frame is needed, and a screen goes up in minutes."
+              "q": "Come si installa?",
+              "a": "Molto facilmente. La recinzione si srotola e si fissa a qualsiasi recinzione, ringhiera o telaio esistente con legacci metallici — la canna è così leggera che non serve alcun telaio rinforzato, e la schermatura si monta in pochi minuti."
             },
             {
-              "q": "Peeled or unpeeled — which should I pick?",
-              "a": "Peeled reed has its skin removed for a smoother, cleaner finish. Unpeeled reed keeps the skin for a slightly rougher, more rustic natural-yellow look and costs a little less. Lifespan and mould resistance are the same, and neither has any smell."
+              "q": "Pelata o non pelata — quale scegliere?",
+              "a": "La canna pelata è privata della corteccia per una finitura più liscia e pulita. La canna non pelata conserva la corteccia per un aspetto giallo naturale leggermente più ruvido e rustico, e costa un po' meno. Durata e resistenza alla muffa sono identiche, e nessuna delle due ha odore."
             }
           ]
         },
         "high-density-fine-3-6mm": {
-          "name": "High-density fine reed fence 3–6 mm",
-          "cardDesc": "Fine stems, refined surface — up to ≈ 80% privacy.",
-          "eyebrow": "Fine stems · Refined look",
-          "pill": "Natural reed · Ø 3–6 mm",
-          "lead": "Fine 3–6 mm peeled reed woven at high density — the smoothest, most refined screen in the range, up to ≈ 80% privacy.",
-          "desc": "Fine reed taken seriously: thin 3–6 mm peeled stems packed at high density. The result is the smoothest, most elegant surface of all our reed fences, with solid everyday privacy.",
+          "name": "Arella di canna fine ad alta densità 3–6 mm",
+          "cardDesc": "Steli fini, superficie raffinata — fino a ≈ 80% di privacy.",
+          "eyebrow": "Steli fini · Aspetto raffinato",
+          "pill": "Canna naturale · Ø 3–6 mm",
+          "lead": "Canna fine pelata da 3–6 mm intrecciata ad alta densità — la schermatura più liscia e raffinata della gamma, fino a ≈ 80% di privacy.",
+          "desc": "La canna fine presa sul serio: sottili steli pelati da 3–6 mm assemblati ad alta densità. Il risultato è la superficie più liscia ed elegante di tutte le nostre arelle di canna, con una solida privacy quotidiana.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to ≈ 80%"
+              "v": "Fino a ≈ 80%"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "3–6 mm"
             },
             {
-              "k": "Surface",
-              "v": "Peeled — smoothest in range"
+              "k": "Superficie",
+              "v": "Pelata — la più liscia della gamma"
             },
             {
-              "k": "Price tier",
-              "v": "Mid"
+              "k": "Fascia di prezzo",
+              "v": "Media"
             }
           ],
-          "why": "Choose it for the look: thin stems give the finest, most refined texture in the range — noticeably smoother than the thick grades — while the high-density weave still closes about 80% of the view.",
+          "why": "Sceglietela per l'estetica: gli steli sottili creano la trama più fine e raffinata della gamma — sensibilmente più liscia dei gradi spessi — mentre l'intreccio ad alta densità chiude comunque circa l'80% della visuale.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural peeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "3–6 mm"
             },
             {
-              "k": "Density",
-              "v": "High density weave"
+              "k": "Densità",
+              "v": "Intreccio ad alta densità"
             },
             {
               "k": "Privacy",
-              "v": "Up to ≈ 80%"
+              "v": "Fino a ≈ 80%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Fine reed with a polished character",
+            "eyebrow": "Il prodotto",
+            "title": "Canna fine dal carattere ricercato",
             "body": [
               {
-                "p": "Our high-density fine reed fence blends strength and elegance. Each thin 3–6 mm stem is peeled for a smooth, polished look and tightly bound to its neighbours, creating a dense layer that shields your space while keeping a delicate, refined texture."
+                "p": "La nostra arella di canna fine ad alta densità unisce robustezza ed eleganza. Ogni sottile stelo da 3–6 mm è pelato per un aspetto liscio e curato e legato strettamente ai suoi vicini, creando uno strato denso che protegge i vostri spazi mantenendo una trama delicata e raffinata."
               },
               {
-                "p": "Despite the fine stems, the high-density weave is robust and hard-wearing, treated to prevent insect infestation and decay, and able to withstand harsh weather season after season."
+                "p": "Nonostante gli steli fini, l'intreccio ad alta densità è robusto e resistente all'usura, trattato per prevenire infestazioni di insetti e deterioramento, e in grado di resistere alle intemperie stagione dopo stagione."
               },
               {
-                "h3": "Quietly elegant"
+                "h3": "Eleganza discreta"
               },
               {
-                "p": "Installation is stress-free — the fence unrolls and fixes to any existing fence or structure, and it can be tailored to fit any shape. Its natural straw colour blends seamlessly into the garden while keeping your space private and serene."
+                "p": "L'installazione è senza stress — la recinzione si srotola e si fissa a qualsiasi recinzione o struttura esistente, e può essere adattata a qualsiasi forma. Il suo colore paglia naturale si fonde armoniosamente nel giardino mantenendo i vostri spazi riservati e tranquilli."
               }
             ]
           },
           "faq": [
             {
-              "q": "Is fine reed less private than thick reed?",
-              "a": "Not necessarily — density matters more than stem size. This fine reed is woven at high density and closes up to about 80% of the view, far more than budget fine reed at around 50%."
+              "q": "La canna fine offre meno privacy della canna spessa?",
+              "a": "Non necessariamente — la densità conta più del diametro degli steli. Questa canna fine è intrecciata ad alta densità e chiude fino a circa l'80% della visuale, molto più della canna fine economica che si ferma intorno al 50%."
             },
             {
-              "q": "Why choose fine reed over a thick grade?",
-              "a": "The look. Thin 3–6 mm stems create the smoothest, most refined surface of all our reed fences — a subtler, more elegant texture than the chunky thick grades."
+              "q": "Perché scegliere la canna fine rispetto a un grado spesso?",
+              "a": "L'estetica. Gli steli sottili da 3–6 mm creano la superficie più liscia e raffinata di tutte le nostre arelle di canna — una trama più sottile ed elegante rispetto ai gradi spessi più massicci."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "Is it suitable for balconies?",
-              "a": "Very — fine reed is the lightest screen in the range, fixes to railings in minutes with wire ties, and its even texture looks good from both sides."
+              "q": "È adatta ai balconi?",
+              "a": "Molto — la canna fine è la schermatura più leggera della gamma, si fissa alle ringhiere in pochi minuti con legacci metallici, e la sua trama uniforme è bella da vedere da entrambi i lati."
             }
           ]
         },
         "cheap-peeled-3-6mm": {
-          "name": "Budget peeled reed fence 3–6 mm",
-          "cardDesc": "Our cheapest peeled reed — light screening, ≈ 50% privacy.",
-          "eyebrow": "Budget choice · Peeled",
-          "pill": "Natural reed · Ø 3–6 mm",
-          "lead": "Our cheapest peeled reed fence — fine 3–6 mm stems with a smooth finish and about 50% privacy at an entry price.",
-          "desc": "A natural, budget-friendly screen: fine 3–6 mm reed stems peeled to a smooth finish at our lowest peeled-reed price. Around 50% privacy — ideal for light screening and natural texture.",
+          "name": "Arella di canna pelata economica 3–6 mm",
+          "cardDesc": "La nostra canna pelata più economica — schermatura leggera, ≈ 50% di privacy.",
+          "eyebrow": "Scelta economica · Pelata",
+          "pill": "Canna naturale · Ø 3–6 mm",
+          "lead": "La nostra arella di canna pelata più economica — steli fini da 3–6 mm con finitura liscia e circa il 50% di privacy a un prezzo d'ingresso.",
+          "desc": "Una schermatura naturale e conveniente: steli fini di canna da 3–6 mm pelati per una finitura liscia, al prezzo più basso della nostra canna pelata. Circa il 50% di privacy — ideale per una schermatura leggera e per una texture naturale.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "≈ 50% — light screening"
+              "v": "≈ 50% — schermatura leggera"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "3–6 mm"
             },
             {
-              "k": "Surface",
-              "v": "Peeled — smooth finish"
+              "k": "Superficie",
+              "v": "Pelata — finitura liscia"
             },
             {
-              "k": "Price tier",
-              "v": "Budget"
+              "k": "Fascia di prezzo",
+              "v": "Economica"
             }
           ],
-          "why": "The lowest-priced peeled reed in the range — pick it where you want natural texture, dappled light and a soft boundary rather than a fully closed screen.",
+          "why": "La canna pelata al prezzo più basso della gamma — sceglietela dove desiderate texture naturale, luce filtrata e un confine morbido piuttosto che una schermatura completamente chiusa.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural peeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "3–6 mm"
             },
             {
-              "k": "Density",
-              "v": "Standard weave"
+              "k": "Densità",
+              "v": "Intreccio standard"
             },
             {
               "k": "Privacy",
               "v": "≈ 50%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5 years"
+              "k": "Durata all'esterno",
+              "v": "3–5 anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Natural screening at an entry price",
+            "eyebrow": "Il prodotto",
+            "title": "Schermatura naturale a un prezzo d'ingresso",
             "body": [
               {
-                "p": "Our budget peeled reed fence is the cost-effective way to bring natural reed into a garden. The thinner 3–6 mm stems are peeled to a smooth, polished finish and firmly bound into an appealing, rustic screen for fences, railings and structures."
+                "p": "La nostra arella di canna pelata economica è il modo più conveniente per portare la canna naturale in giardino. Gli steli più sottili da 3–6 mm sono pelati per una finitura liscia e curata e legati saldamente in una schermatura rustica e gradevole per recinzioni, ringhiere e strutture."
               },
               {
-                "p": "Despite the economical price it does not compromise on the essentials: the reed is robust enough to endure varying weather conditions, and the roll format makes installation hassle-free — unroll, tie, done."
+                "p": "Nonostante il prezzo contenuto non scende a compromessi sull'essenziale: la canna è abbastanza robusta da resistere a condizioni meteorologiche variabili, e il formato in rotolo rende l'installazione senza pensieri — srotolare, legare, fatto."
               },
               {
-                "h3": "Where it fits best"
+                "h3": "Dove rende al meglio"
               },
               {
-                "p": "At roughly 50% coverage this is a light screen rather than a privacy wall: it filters views and sunlight, adds texture to bare fences and walls, and marks boundaries naturally. For full privacy, step up to the high-density or extra-thick grades."
+                "p": "Con una copertura di circa il 50% si tratta di una schermatura leggera piuttosto che di un muro per la privacy: filtra la visuale e la luce del sole, aggiunge texture a recinzioni e muri spogli e delimita i confini in modo naturale. Per una privacy totale, passate ai gradi ad alta densità o extra spessi."
               }
             ]
           },
           "faq": [
             {
-              "q": "Can you see through the budget 3–6 mm reed fence?",
-              "a": "Partially — it closes roughly 50% of the view. It filters sight-lines and sunlight rather than blocking them, which is exactly what many gardens want from a light natural screen."
+              "q": "Si vede attraverso l'arella di canna economica 3–6 mm?",
+              "a": "Parzialmente — chiude circa il 50% della visuale. Filtra gli sguardi e la luce del sole piuttosto che bloccarli, che è esattamente ciò che molti giardini chiedono a una schermatura naturale leggera."
             },
             {
-              "q": "What do I give up versus the dearer grades?",
-              "a": "Density. The stems are the same natural reed, but the weave is more open. High-density fine closes ≈ 80%, thick ≈ 90% and extra-thick up to 100% — each step up adds coverage and price."
+              "q": "A cosa rinuncio rispetto ai gradi più costosi?",
+              "a": "Alla densità. Gli steli sono la stessa canna naturale, ma l'intreccio è più aperto. La fine ad alta densità chiude ≈ 80%, la spessa ≈ 90% e l'extra spessa fino al 100% — ogni passaggio di grado aggiunge copertura e prezzo."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "How is it installed?",
-              "a": "Very easy. The fence unrolls and fixes to any existing fence, railing or frame with wire ties — reed is so light that no reinforced frame is needed, and a screen goes up in minutes."
+              "q": "Come si installa?",
+              "a": "Molto facilmente. La recinzione si srotola e si fissa a qualsiasi recinzione, ringhiera o telaio esistente con legacci metallici — la canna è così leggera che non serve alcun telaio rinforzato, e la schermatura si monta in pochi minuti."
             }
           ]
         },
         "extra-thick-unpeeled-8-10mm": {
-          "name": "Extra-thick unpeeled reed fence 8–10 mm",
-          "cardDesc": "Our best seller — maximum privacy, rustic finish.",
-          "eyebrow": "Best seller · Maximum privacy",
-          "pill": "Natural reed · Ø 8–10 mm",
-          "lead": "Extra-thick unpeeled reed, 8–10 mm — our best-selling fence: near-total privacy with a bold rustic finish.",
-          "desc": "Our best seller. Extra-thick 8–10 mm reed stems with the natural skin left on, woven into a dense screen with unparalleled strength and privacy — the top grade at a friendlier price than its peeled twin.",
+          "name": "Arella di canna non pelata extra spessa 8–10 mm",
+          "cardDesc": "La nostra più venduta — massima privacy, finitura rustica.",
+          "eyebrow": "La più venduta · Massima privacy",
+          "pill": "Canna naturale · Ø 8–10 mm",
+          "lead": "Canna non pelata extra spessa, 8–10 mm — la nostra recinzione più venduta: privacy quasi totale con una decisa finitura rustica.",
+          "desc": "La nostra più venduta. Steli di canna extra spessi da 8–10 mm con la corteccia naturale lasciata intatta, intrecciati in una schermatura densa con robustezza e privacy senza pari — il grado superiore a un prezzo più accessibile rispetto alla gemella pelata.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to ≈ 100%"
+              "v": "Fino a ≈ 100%"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "8–10 mm"
             },
             {
-              "k": "Surface",
-              "v": "Unpeeled — skin on, rustic"
+              "k": "Superficie",
+              "v": "Non pelata — con corteccia, rustica"
             },
             {
-              "k": "Price tier",
-              "v": "Premium — best-seller value"
+              "k": "Fascia di prezzo",
+              "v": "Premium — il valore della più venduta"
             }
           ],
-          "why": "Top-grade density and privacy with the natural skin left on — bold rustic character at a better price than the peeled version. That combination makes it our best-selling reed fence.",
+          "why": "Densità e privacy da grado superiore con la corteccia naturale lasciata intatta — un deciso carattere rustico a un prezzo migliore rispetto alla versione pelata. È questa combinazione a renderla la nostra arella di canna più venduta.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural unpeeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale non pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "8–10 mm"
             },
             {
-              "k": "Density",
-              "v": "Extra-thick, high density"
+              "k": "Densità",
+              "v": "Extra spessa, alta densità"
             },
             {
               "k": "Privacy",
-              "v": "Up to ≈ 100%"
+              "v": "Fino a ≈ 100%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Strength, privacy and rustic charm",
+            "eyebrow": "Il prodotto",
+            "title": "Robustezza, privacy e fascino rustico",
             "body": [
               {
-                "p": "Embrace natural fencing at full strength: our extra-thick unpeeled reed fence uses superior 8–10 mm stems bound tightly together into a dense barrier. It delivers the privacy of our top grade with the warm, rustic look of reed that keeps its natural skin."
+                "p": "La recinzione naturale alla massima potenza: la nostra arella di canna non pelata extra spessa utilizza steli superiori da 8–10 mm legati strettamente tra loro in una barriera densa. Offre la privacy del nostro grado superiore con l'aspetto caldo e rustico della canna che conserva la sua corteccia naturale."
               },
               {
-                "p": "Unpeeled reed reads slightly rougher and a touch more golden than peeled — a rustic natural yellow that weathers gracefully. Lifespan is identical to peeled reed, with no smell and no added mould risk, and the price is a little friendlier."
+                "p": "La canna non pelata appare leggermente più ruvida e un tocco più dorata rispetto a quella pelata — un giallo naturale rustico che invecchia con grazia. La durata è identica a quella della canna pelata, senza odori e senza alcun rischio aggiuntivo di muffa, e il prezzo è un po' più accessibile."
               },
               {
-                "h3": "Built for real gardens"
+                "h3": "Pensata per i giardini veri"
               },
               {
-                "p": "The fence endures wind, rain and sun, is treated against insect infestation and decay, and rolls out for easy fixing to any existing fence or frame. Its flexibility lets it follow curved and angled boundaries without fuss."
+                "p": "La recinzione resiste a vento, pioggia e sole, è trattata contro le infestazioni di insetti e il deterioramento, e si srotola per un facile fissaggio a qualsiasi recinzione o telaio esistente. La sua flessibilità le consente di seguire confini curvi e angolati senza difficoltà."
               }
             ]
           },
           "faq": [
             {
-              "q": "Why is this your best-selling reed fence?",
-              "a": "It combines the density and privacy of our top grade with the lower price of unpeeled reed. Most buyers find that rustic-but-closed combination hits the sweet spot."
+              "q": "Perché è la vostra arella di canna più venduta?",
+              "a": "Combina la densità e la privacy del nostro grado superiore con il prezzo più basso della canna non pelata. La maggior parte degli acquirenti trova che questa combinazione rustica ma chiusa sia il punto di equilibrio ideale."
             },
             {
-              "q": "How private is it?",
-              "a": "Effectively closed — the extra-thick stems woven at high density give up to ≈ 100% coverage, on par with the peeled top grade."
+              "q": "Quanta privacy offre?",
+              "a": "Di fatto è chiusa — gli steli extra spessi intrecciati ad alta densità garantiscono una copertura fino a ≈ 100%, alla pari del grado superiore pelato."
             },
             {
-              "q": "Does unpeeled reed age worse than peeled?",
-              "a": "No. Lifespan and mould resistance are the same, there is no smell, and the rustic natural-yellow colour changes very little over the years."
+              "q": "La canna non pelata invecchia peggio di quella pelata?",
+              "a": "No. Durata e resistenza alla muffa sono le stesse, non c'è alcun odore, e il colore giallo naturale rustico cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "Is it safe near a swimming pool or on the coast?",
-              "a": "Yes. Reed is a natural wetland plant — all our reed fences handle damp, coastal and poolside environments (salt, chlorine, constant moisture) without problems."
+              "q": "È sicura vicino a una piscina o sulla costa?",
+              "a": "Sì. La canna è una pianta naturale delle zone umide — tutte le nostre arelle di canna sopportano senza problemi ambienti umidi, costieri e a bordo piscina (sale, cloro, umidità costante)."
             }
           ]
         },
         "thick-unpeeled-5-8mm": {
-          "name": "Thick unpeeled reed fence 5–8 mm",
-          "cardDesc": "High-density rustic screen — up to ≈ 90% privacy.",
-          "eyebrow": "High density · Rustic natural",
-          "pill": "Natural reed · Ø 5–8 mm",
-          "lead": "High-density 5–8 mm reed with its natural skin left on — a warm rustic screen with up to ≈ 90% privacy.",
-          "desc": "All the density of our thick peeled fence, with the skin left on: a robust 5–8 mm reed screen with a warmer, more rustic tone — up to about 90% privacy at a slightly lower price.",
+          "name": "Arella di canna non pelata spessa 5–8 mm",
+          "cardDesc": "Schermatura rustica ad alta densità — fino a ≈ 90% di privacy.",
+          "eyebrow": "Alta densità · Naturale rustica",
+          "pill": "Canna naturale · Ø 5–8 mm",
+          "lead": "Canna da 5–8 mm ad alta densità con la corteccia naturale lasciata intatta — una calda schermatura rustica con fino a ≈ 90% di privacy.",
+          "desc": "Tutta la densità della nostra arella pelata spessa, con la corteccia lasciata intatta: una robusta schermatura in canna da 5–8 mm con una tonalità più calda e rustica — fino a circa il 90% di privacy a un prezzo leggermente inferiore.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "5–8 mm"
             },
             {
-              "k": "Surface",
-              "v": "Unpeeled — skin on, rustic"
+              "k": "Superficie",
+              "v": "Non pelata — con corteccia, rustica"
             },
             {
-              "k": "Price tier",
-              "v": "Mid — value pick"
+              "k": "Fascia di prezzo",
+              "v": "Media — la scelta conveniente"
             }
           ],
-          "why": "Same density and privacy as the thick peeled version, a touch cheaper, with a warmer rustic natural-yellow tone — the value pick for natural-look gardens.",
+          "why": "Stessa densità e privacy della versione pelata spessa, un tocco più economica, con una tonalità giallo naturale più calda e rustica — la scelta conveniente per i giardini dal look naturale.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural unpeeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale non pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "5–8 mm"
             },
             {
-              "k": "Density",
-              "v": "High density weave"
+              "k": "Densità",
+              "v": "Intreccio ad alta densità"
             },
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A testament of strength and natural charisma",
+            "eyebrow": "Il prodotto",
+            "title": "Un concentrato di robustezza e fascino naturale",
             "body": [
               {
-                "p": "Our thick unpeeled reed fence keeps the reed exactly as nature grew it. The robust 5–8 mm stems are firmly knotted into a high-density screen that holds its own as a solid barrier while radiating warm, rustic charm."
+                "p": "La nostra arella di canna non pelata spessa conserva la canna esattamente come la natura l'ha fatta crescere. I robusti steli da 5–8 mm sono saldamente annodati in una schermatura ad alta densità che funziona da solida barriera irradiando al contempo un caldo fascino rustico."
               },
               {
-                "p": "Keeping the skin on changes the character, not the performance: the surface reads slightly rougher and a more golden natural yellow, while lifespan, weather resistance and mould resistance match the peeled version — at a slightly lower price."
+                "p": "Conservare la corteccia cambia il carattere, non le prestazioni: la superficie appare leggermente più ruvida e di un giallo naturale più dorato, mentre durata, resistenza alle intemperie e resistenza alla muffa eguagliano la versione pelata — a un prezzo leggermente inferiore."
               },
               {
-                "h3": "Easy to live with"
+                "h3": "Facile da gestire"
               },
               {
-                "p": "Treated against decay and insect damage, the fence rolls out for quick fixing to existing structures and flexes naturally around curves. Its straw tones sit beautifully next to planting, timber and stone."
+                "p": "Trattata contro il deterioramento e i danni da insetti, la recinzione si srotola per un rapido fissaggio alle strutture esistenti e si flette naturalmente lungo le curve. Le sue tonalità paglia si accostano splendidamente a piante, legno e pietra."
               }
             ]
           },
           "faq": [
             {
-              "q": "What is the difference between peeled and unpeeled reed?",
-              "a": "Peeled reed has its skin removed for a smoother, cleaner finish. Unpeeled reed keeps the skin for a slightly rougher, more rustic natural-yellow look and costs a little less. Lifespan and mould resistance are the same, and neither has any smell."
+              "q": "Qual è la differenza tra canna pelata e non pelata?",
+              "a": "La canna pelata è privata della corteccia per una finitura più liscia e pulita. La canna non pelata conserva la corteccia per un aspetto giallo naturale leggermente più ruvido e rustico, e costa un po' meno. Durata e resistenza alla muffa sono identiche, e nessuna delle due ha odore."
             },
             {
-              "q": "How private is the thick unpeeled 5–8 mm fence?",
-              "a": "Woven at high density it closes up to about 90% of the view — the same coverage class as our thick peeled fence."
+              "q": "Quanta privacy offre l'arella non pelata spessa 5–8 mm?",
+              "a": "Intrecciata ad alta densità chiude fino a circa il 90% della visuale — la stessa classe di copertura della nostra arella pelata spessa."
             },
             {
-              "q": "Does the skin cause mould or smell?",
-              "a": "No. Unpeeled reed has the same mould resistance as peeled, no smell, and the same 3–5+ year outdoor lifespan."
+              "q": "La corteccia provoca muffa o odori?",
+              "a": "No. La canna non pelata ha la stessa resistenza alla muffa di quella pelata, nessun odore e la stessa durata all'esterno di 3–5+ anni."
             },
             {
-              "q": "How is it installed?",
-              "a": "Very easy. The fence unrolls and fixes to any existing fence, railing or frame with wire ties — reed is so light that no reinforced frame is needed, and a screen goes up in minutes."
+              "q": "Come si installa?",
+              "a": "Molto facilmente. La recinzione si srotola e si fissa a qualsiasi recinzione, ringhiera o telaio esistente con legacci metallici — la canna è così leggera che non serve alcun telaio rinforzato, e la schermatura si monta in pochi minuti."
             }
           ]
         },
         "cheap-unpeeled-3-6mm": {
-          "name": "Budget unpeeled reed fence 3–6 mm",
-          "cardDesc": "The lowest-priced reed fence we make — ≈ 50% privacy.",
-          "eyebrow": "Lowest price · Rustic",
-          "pill": "Natural reed · Ø 3–6 mm",
-          "lead": "The most economical fence in our reed range — fine unpeeled stems, raw natural charm and about 50% privacy.",
-          "desc": "Our entry point into natural fencing: fine 3–6 mm reed stems with the skin left on, skilfully bound into a light rustic screen. The lowest-priced reed fence we make.",
+          "name": "Arella di canna non pelata economica 3–6 mm",
+          "cardDesc": "L'arella di canna al prezzo più basso che produciamo — ≈ 50% di privacy.",
+          "eyebrow": "Prezzo più basso · Rustica",
+          "pill": "Canna naturale · Ø 3–6 mm",
+          "lead": "La recinzione più economica della nostra gamma in canna — steli fini non pelati, fascino naturale grezzo e circa il 50% di privacy.",
+          "desc": "Il nostro punto d'ingresso nelle recinzioni naturali: steli fini di canna da 3–6 mm con la corteccia lasciata intatta, sapientemente legati in una leggera schermatura rustica. L'arella di canna al prezzo più basso che produciamo.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "≈ 50% — light screening"
+              "v": "≈ 50% — schermatura leggera"
             },
             {
-              "k": "Reed diameter",
+              "k": "Diametro della canna",
               "v": "3–6 mm"
             },
             {
-              "k": "Surface",
-              "v": "Unpeeled — raw natural"
+              "k": "Superficie",
+              "v": "Non pelata — naturale grezza"
             },
             {
-              "k": "Price tier",
-              "v": "Budget — lowest price"
+              "k": "Fascia di prezzo",
+              "v": "Economica — il prezzo più basso"
             }
           ],
-          "why": "The cheapest fence in our reed range. Pick it for natural texture, light screening and boundary-marking on a tight budget — gardens, terraces and patios alike.",
+          "why": "La recinzione più economica della nostra gamma in canna. Sceglietela per la texture naturale, la schermatura leggera e la delimitazione dei confini con un budget contenuto — per giardini, terrazze e patii.",
           "spec": [
             {
-              "k": "Material",
-              "v": "100% natural unpeeled reed"
+              "k": "Materiale",
+              "v": "100% canna naturale non pelata"
             },
             {
-              "k": "Stem diameter",
+              "k": "Diametro degli steli",
               "v": "3–6 mm"
             },
             {
-              "k": "Density",
-              "v": "Standard weave"
+              "k": "Densità",
+              "v": "Intreccio standard"
             },
             {
               "k": "Privacy",
               "v": "≈ 50%"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5 years"
+              "k": "Durata all'esterno",
+              "v": "3–5 anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls · custom heights & lengths"
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Function and natural beauty, economically",
+            "eyebrow": "Il prodotto",
+            "title": "Funzionalità e bellezza naturale, in economia",
             "body": [
               {
-                "p": "Our budget unpeeled reed fence is the perfect blend of functionality and natural beauty at the lowest price in the range. The thinner 3–6 mm stems keep their natural skin, showcasing the raw charm of reed in gardens, terraces and patios."
+                "p": "La nostra arella di canna non pelata economica è il connubio perfetto tra funzionalità e bellezza naturale al prezzo più basso della gamma. Gli steli più sottili da 3–6 mm conservano la corteccia naturale, mettendo in mostra il fascino grezzo della canna in giardini, terrazze e patii."
               },
               {
-                "p": "Affordable does not mean fragile: the canes withstand varying weather conditions, are treated to resist insect infestation and decay, and the versatile straw colour harmonises with nearly any setting."
+                "p": "Conveniente non significa fragile: le canne resistono a condizioni meteorologiche variabili, sono trattate per resistere alle infestazioni di insetti e al deterioramento, e il versatile colore paglia si armonizza con quasi ogni ambiente."
               },
               {
-                "h3": "Light screening, easy install"
+                "h3": "Schermatura leggera, installazione facile"
               },
               {
-                "p": "At around 50% coverage this is a light, breathable screen — it softens views, filters sun and defines boundaries rather than walling them off. It unrolls and ties to existing structures in minutes, and the reed flexes to fit different shapes and sizes."
+                "p": "Con una copertura di circa il 50% è una schermatura leggera e traspirante — addolcisce la visuale, filtra il sole e definisce i confini senza chiuderli. Si srotola e si lega alle strutture esistenti in pochi minuti, e la canna si flette per adattarsi a forme e dimensioni diverse."
               }
             ]
           },
           "faq": [
             {
-              "q": "Is this really your cheapest reed fence?",
-              "a": "Yes — fine unpeeled 3–6 mm reed is the most economical fence in our whole reed range, which makes it a popular volume line for garden retail."
+              "q": "È davvero la vostra arella di canna più economica?",
+              "a": "Sì — la canna fine non pelata da 3–6 mm è la recinzione più economica di tutta la nostra gamma in canna, il che la rende una linea a volumi elevati molto apprezzata nel retail per il giardinaggio."
             },
             {
-              "q": "How much privacy does it give?",
-              "a": "About 50% — it filters views and light rather than blocking them. For more coverage, step up to high-density fine (≈ 80%), thick (≈ 90%) or extra-thick (up to 100%)."
+              "q": "Quanta privacy garantisce?",
+              "a": "Circa il 50% — filtra la visuale e la luce piuttosto che bloccarle. Per una copertura maggiore, passate alla fine ad alta densità (≈ 80%), alla spessa (≈ 90%) o all'extra spessa (fino al 100%)."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "Peeled or unpeeled at this size — what changes?",
-              "a": "Peeled reed has its skin removed for a smoother, cleaner finish. Unpeeled reed keeps the skin for a slightly rougher, more rustic natural-yellow look and costs a little less. Lifespan and mould resistance are the same, and neither has any smell."
+              "q": "Pelata o non pelata in questa misura — cosa cambia?",
+              "a": "La canna pelata è privata della corteccia per una finitura più liscia e pulita. La canna non pelata conserva la corteccia per un aspetto giallo naturale leggermente più ruvido e rustico, e costa un po' meno. Durata e resistenza alla muffa sono identiche, e nessuna delle due ha odore."
             }
           ]
         },
         "japanese-with-bamboo": {
-          "name": "Japanese-style reed fence with bamboo",
-          "cardDesc": "Reed bound with Li bamboo — the strongest in the range.",
-          "eyebrow": "Premium · Strongest in the range",
-          "pill": "Reed + natural Li bamboo",
-          "lead": "Thick peeled reed bound with natural Li bamboo — the strongest reed fence we make, with a traditional Japanese character.",
-          "desc": "Traditional aesthetics, remarkable strength: thick peeled reed bound with strips of natural Chinese Li bamboo. The bamboo binding makes this the strongest fence in our reed range — and the most premium.",
+          "name": "Arella di canna in stile giapponese con bambù",
+          "cardDesc": "Canna legata con bambù Li — la più robusta della gamma.",
+          "eyebrow": "Premium · La più robusta della gamma",
+          "pill": "Canna + bambù Li naturale",
+          "lead": "Canna pelata spessa legata con bambù Li naturale — l'arella di canna più robusta che produciamo, con un carattere tradizionale giapponese.",
+          "desc": "Estetica tradizionale, robustezza straordinaria: canna pelata spessa legata con listelli di bambù Li cinese naturale. La legatura in bambù la rende la recinzione più robusta della nostra gamma in canna — e la più pregiata.",
           "facts": [
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Construction",
-              "v": "Thick reed + Li bamboo binding"
+              "k": "Costruzione",
+              "v": "Canna spessa + legatura in bambù Li"
             },
             {
-              "k": "Surface",
-              "v": "Peeled reed, bamboo strips"
+              "k": "Superficie",
+              "v": "Canna pelata, listelli di bambù"
             },
             {
-              "k": "Price tier",
-              "v": "Premium — highest in range"
+              "k": "Fascia di prezzo",
+              "v": "Premium — la più alta della gamma"
             }
           ],
-          "why": "Strength and style in one: the Li bamboo binding makes this the strongest, most durable reed fence we make, and the Japanese-style pattern turns a boundary into a design feature.",
+          "why": "Robustezza e stile in un unico prodotto: la legatura in bambù Li la rende l'arella di canna più robusta e durevole che produciamo, e il motivo in stile giapponese trasforma un confine in un elemento di design.",
           "spec": [
             {
-              "k": "Material",
-              "v": "Natural peeled reed + Li bamboo"
+              "k": "Materiale",
+              "v": "Canna naturale pelata + bambù Li"
             },
             {
-              "k": "Construction",
-              "v": "Reed bound with bamboo strips"
+              "k": "Costruzione",
+              "v": "Canna legata con listelli di bambù"
             },
             {
               "k": "Privacy",
-              "v": "Up to ≈ 90%"
+              "v": "Fino a ≈ 90%"
             },
             {
-              "k": "Strength",
-              "v": "Strongest in the reed range"
+              "k": "Robustezza",
+              "v": "La più robusta della gamma in canna"
             },
             {
-              "k": "Lifespan outdoors",
-              "v": "3–5+ years"
+              "k": "Durata all'esterno",
+              "v": "3–5+ anni"
             },
             {
-              "k": "Format",
-              "v": "Rolls / panels · custom sizes"
+              "k": "Formato",
+              "v": "Rotoli / pannelli · misure personalizzate"
             },
             {
-              "k": "MOQ & OEM",
-              "v": "Negotiable · private label welcome"
+              "k": "MOQ e OEM",
+              "v": "Negoziabili · private label benvenuto"
             },
             {
-              "k": "Loading port",
-              "v": "Xiamen, China"
+              "k": "Porto di imbarco",
+              "v": "Xiamen, Cina"
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "Traditional Japanese style, engineered to last",
+            "eyebrow": "Il prodotto",
+            "title": "Stile tradizionale giapponese, costruita per durare",
             "body": [
               {
-                "p": "Our Japanese-style reed fence combines thick peeled reed with bindings of natural Chinese Li bamboo — a bamboo prized for being strong and endurable. Together the two materials create an impressively dense, rigid structure with an elegance straight out of traditional Japanese garden architecture."
+                "p": "La nostra arella di canna in stile giapponese combina canna pelata spessa con legature di bambù Li cinese naturale — un bambù apprezzato per la sua robustezza e resistenza nel tempo. Insieme, i due materiali creano una struttura straordinariamente densa e rigida, con un'eleganza che richiama direttamente l'architettura tradizionale dei giardini giapponesi."
               },
               {
-                "p": "It is the strongest fence in our reed range, equally at home as a decorative feature and as a working privacy screen for gardens, terraces and balconies. Each fence is treated against insect infestation and decay to ensure its longevity."
+                "p": "È la recinzione più robusta della nostra gamma in canna, perfetta sia come elemento decorativo sia come schermatura privacy funzionale per giardini, terrazze e balconi. Ogni recinzione è trattata contro le infestazioni di insetti e il deterioramento per garantirne la longevità."
               },
               {
-                "h3": "Simple to install, striking to look at"
+                "h3": "Semplice da installare, di grande effetto"
               },
               {
-                "p": "Like the rest of the range it unrolls for easy fixing to any existing fence or structure, and its natural flexibility lets it be custom-fitted to different shapes and sizes. The warm straw hue with dark bamboo accents blends seamlessly into outdoor settings while making a quiet statement."
+                "p": "Come il resto della gamma si srotola per un facile fissaggio a qualsiasi recinzione o struttura esistente, e la sua flessibilità naturale le consente di adattarsi su misura a forme e dimensioni diverse. La calda tonalità paglia con accenti scuri in bambù si fonde armoniosamente negli spazi esterni distinguendosi con discrezione."
               }
             ]
           },
           "faq": [
             {
-              "q": "What bamboo is used in this fence?",
-              "a": "Natural Chinese Li bamboo — a strong, endurable bamboo that is split into strips and used to bind the thick peeled reed. The binding is what makes this the strongest fence in our reed range."
+              "q": "Quale bambù viene utilizzato in questa recinzione?",
+              "a": "Bambù Li cinese naturale — un bambù robusto e durevole che viene diviso in listelli e utilizzato per legare la canna pelata spessa. È la legatura a renderla la recinzione più robusta della nostra gamma in canna."
             },
             {
-              "q": "Is it decorative or a real privacy screen?",
-              "a": "Both. The thick reed core closes up to about 90% of the view, while the bamboo-bound pattern gives it a distinctive Japanese-style look that works as a design feature in its own right."
+              "q": "È decorativa o una vera schermatura privacy?",
+              "a": "Entrambe le cose. Il nucleo in canna spessa chiude fino a circa il 90% della visuale, mentre il motivo legato in bambù le conferisce un caratteristico aspetto in stile giapponese che funziona come elemento di design a sé stante."
             },
             {
-              "q": "Why is it the most expensive reed fence?",
-              "a": "The bamboo binding adds material and handwork, and the result is the strongest, most durable construction in the range — premium build, premium price."
+              "q": "Perché è l'arella di canna più costosa?",
+              "a": "La legatura in bambù aggiunge materiale e lavorazione manuale, e il risultato è la costruzione più robusta e durevole della gamma — fattura premium, prezzo premium."
             },
             {
-              "q": "How long does it last outdoors?",
-              "a": "At least 3–5 years outdoors in a normal European garden. Reed is one of the lightest natural fencing materials, and its natural yellow colour changes very little over the years."
+              "q": "Quanto dura all'esterno?",
+              "a": "Almeno 3–5 anni all'esterno in un normale giardino europeo. La canna è uno dei materiali per recinzioni naturali più leggeri, e il suo colore giallo naturale cambia pochissimo nel corso degli anni."
             },
             {
-              "q": "Is it safe near a swimming pool or on the coast?",
-              "a": "Yes. Reed is a natural wetland plant — all our reed fences handle damp, coastal and poolside environments (salt, chlorine, constant moisture) without problems."
+              "q": "È sicura vicino a una piscina o sulla costa?",
+              "a": "Sì. La canna è una pianta naturale delle zone umide — tutte le nostre arelle di canna sopportano senza problemi ambienti umidi, costieri e a bordo piscina (sale, cloro, umidità costante)."
             }
           ]
         }

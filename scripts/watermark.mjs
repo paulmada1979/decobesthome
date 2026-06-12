@@ -9,7 +9,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 const CORNER = "@DecoBestHome.com";
 const LOGO = "public/logos/logo-wordmark-white.png";
-const LOGO_OPACITY = 0.32;
+const LOGO_OPACITY = 0.22;
 const LOGO_WIDTH_FRAC = 0.27; // of image width
 const LOGO_Y_FRAC = 0.36; // vertical centre of the logo
 
@@ -42,11 +42,11 @@ async function watermark(file) {
     <text x="${width - pad}" y="${height - pad}" text-anchor="end"
       font-family="Arial, Helvetica, sans-serif" font-size="${fs}" font-weight="600"
       letter-spacing="0.5"
-      fill="#000" fill-opacity="0.28" dx="1" dy="1">${CORNER}</text>
+      fill="#000" fill-opacity="0.20" dx="1" dy="1">${CORNER}</text>
     <text x="${width - pad}" y="${height - pad}" text-anchor="end"
       font-family="Arial, Helvetica, sans-serif" font-size="${fs}" font-weight="600"
       letter-spacing="0.5"
-      fill="#fff" fill-opacity="0.55">${CORNER}</text>
+      fill="#fff" fill-opacity="0.42">${CORNER}</text>
   </svg>`;
 
   const buf = await img

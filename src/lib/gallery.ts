@@ -41,6 +41,15 @@ export const gallery: GalleryItem[] = [
   { id: "natural-thatch-roof", image: "/images/natural-thatch-roof.webp", cat: "thatch" },
   { id: "reed-fence-garden-3", image: "/images/reed-fence-garden-3-1.webp", cat: "reed" },
   { id: "natural-bamboo-fence-2", image: "/images/natural-bamboo-fence-2.webp", cat: "fencing" },
+  // Reed series banners (labels reuse the variant names)
+  { id: "reed-banner-extra-thick-peeled-8-10mm", image: "/images/reed/v/extra-thick-peeled-8-10mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-thick-peeled-5-8mm", image: "/images/reed/v/thick-peeled-5-8mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-high-density-fine-3-6mm", image: "/images/reed/v/high-density-fine-3-6mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-cheap-peeled-3-6mm", image: "/images/reed/v/cheap-peeled-3-6mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-extra-thick-unpeeled-8-10mm", image: "/images/reed/v/extra-thick-unpeeled-8-10mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-thick-unpeeled-5-8mm", image: "/images/reed/v/thick-unpeeled-5-8mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-cheap-unpeeled-3-6mm", image: "/images/reed/v/cheap-unpeeled-3-6mm-hero.webp", cat: "reed" },
+  { id: "reed-banner-japanese-with-bamboo", image: "/images/reed/v/japanese-with-bamboo-hero.webp", cat: "reed" },
 ];
 
 /** Filter chips order. Keys map to messages inspiration.cats.{key} (with "all" => inspiration.cats.all). */

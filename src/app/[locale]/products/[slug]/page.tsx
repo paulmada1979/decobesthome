@@ -4,9 +4,11 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { products, listedProducts, getProduct } from "@/lib/products";
+import { reedVariants } from "@/lib/reedVariants";
 import { company } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 import ProductGallery from "@/components/ProductGallery";
+import ShowcaseLightbox from "@/components/ShowcaseLightbox";
 import Chips from "@/components/Chips";
 import QuoteButton from "@/components/QuoteButton";
 
@@ -71,6 +73,7 @@ export default async function ProductDetailPage({
 
   const t = await getTranslations("products.detail");
   const tn = await getTranslations("products.names");
+  const tr = await getTranslations("products.reed");
 
   const name = tn(product.id);
   const heroImage = product.gallery?.[0] || product.image || "/images/natural-bamboo-fence-1.webp";
@@ -195,15 +198,40 @@ export default async function ProductDetailPage({
               <p className="lead pretty" style={{ marginTop: "12px" }}>
                 {t(`items.${product.id}.showcase.lead`)}
               </p>
+              {product.id === "reed-fencing" && (
+                <p className="muted" style={{ marginTop: "10px", fontSize: ".9rem" }}>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" style={{ verticalAlign: "-2px", marginRight: "6px" }}>
+                    <path d="M21 21l-4.3-4.3M11 18a7 7 0 100-14 7 7 0 000 14zM11 8v6M8 11h6" stroke="var(--leaf)" strokeWidth="2" strokeLinecap="round" />
+                  </svg>
+                  {t(`items.${product.id}.showcase.hint`)}
+                </p>
+              )}
             </Reveal>
-            <Reveal as="div" className="showcase-grid" delay={1}>
-              {product.showcasePhotos.map((src, i) => (
-                <div className="ph" key={src}>
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img loading="lazy" src={src} alt={`${name} ${i + 1}`} />
-                </div>
-              ))}
-            </Reveal>
+            {product.id === "reed-fencing" ? (
+              <Reveal delay={1}>
+                <ShowcaseLightbox
+                  images={[
+                    ...product.showcasePhotos.map((src, i) => ({
+                      src,
+                      label: `${name} · ${i + 1}`,
+                    })),
+                    ...reedVariants.map((v) => ({
+                      src: v.hero,
+                      label: tr(`variants.${v.id}.name`),
+                    })),
+                  ]}
+                />
+              </Reveal>
+            ) : (
+              <Reveal as="div" className="showcase-grid" delay={1}>
+                {product.showcasePhotos.map((src, i) => (
+                  <div className="ph" key={src}>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img loading="lazy" src={src} alt={`${name} ${i + 1}`} />
+                  </div>
+                ))}
+              </Reveal>
+            )}
           </div>
         </section>
       )}

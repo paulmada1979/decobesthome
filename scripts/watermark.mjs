@@ -11,7 +11,30 @@ async function watermark(file) {
   const { width, height, format } = await img.metadata();
   const fs = Math.max(16, Math.round(width * 0.014)); // ~23px on a 1659px banner
   const pad = Math.round(fs * 0.9);
+  // Large, very faint diagonal repeats across the image — hard to crop or clone out,
+  // low enough opacity not to spoil the photo.
+  const bigFs = Math.round(width * 0.034);
+  const spots = [
+    [0.24, 0.34],
+    [0.62, 0.58],
+    [0.36, 0.84],
+  ];
+  const diag = spots
+    .map(([fx, fy]) => {
+      const x = Math.round(width * fx);
+      const y = Math.round(height * fy);
+      return `<g transform="rotate(-18 ${x} ${y})">
+        <text x="${x}" y="${y}" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="${bigFs}" font-weight="700"
+          letter-spacing="2" fill="#000" fill-opacity="0.05" dx="1.5" dy="1.5">${TEXT}</text>
+        <text x="${x}" y="${y}" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="${bigFs}" font-weight="700"
+          letter-spacing="2" fill="#fff" fill-opacity="0.11">${TEXT}</text>
+      </g>`;
+    })
+    .join("\n");
   const svg = `<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+    ${diag}
     <text x="${width - pad}" y="${height - pad}" text-anchor="end"
       font-family="Arial, Helvetica, sans-serif" font-size="${fs}" font-weight="600"
       letter-spacing="0.5"

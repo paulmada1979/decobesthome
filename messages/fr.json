@@ -16,7 +16,7 @@
     "utilityLeft": "Demandes des professionnels et de la vente en gros bienvenues",
     "utilityLeft2": "OEM et approvisionnement de projets",
     "brandAria": "BestHome — accueil",
-    "megaFoot": "10 gammes de produits naturels — en direct d'usine.",
+    "megaFoot": "9 gammes de produits naturels — en direct d'usine.",
     "viewAll": "Voir tous les produits",
     "requestQuote": "Demander un devis",
     "openMenu": "Ouvrir le menu",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Produits — Bambou, roseau et chaume naturels",
-        "description": "Découvrez douze gammes de clôtures naturelles et de décoration BestHome — cannes de bambou, poteaux Moso, clôtures, brise-vue en roseau, chaume et plus encore. Vente en gros, OEM et directement de l'usine."
+        "description": "Découvrez la gamme complète de clôtures naturelles et de décoration BestHome — cannes de bambou, poteaux Moso, clôtures, brise-vue en roseau, chaume et plus encore. Vente en gros, OEM et directement de l'usine."
       },
       "hero": {
         "imageAlt": "Brise-vue d'intimité en bambou naturel dans un jardin",
         "crumbHome": "Accueil",
         "crumb": "Produits",
         "eyebrow": "Le catalogue",
-        "title": "Douze gammes de clôtures naturelles et de décoration.",
+        "title": "Notre gamme complète de clôtures naturelles et de décoration.",
         "lead": "Des robustes cannes Tonkin et poteaux décoratifs Moso aux clôtures d'intimité, brise-vue en roseau et chaume naturel — tous cultivés naturellement, sans produits chimiques et fournis directement de l'usine."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "Le catalogue",
-      "title": "Douze gammes de clôtures naturelles et de décoration.",
+      "title": "Notre gamme complète de clôtures naturelles et de décoration.",
       "viewAll": "Voir tous les produits"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Clôtures en bambou",
       "moso": "Poteaux Moso",
       "reed": "Clôtures en roseau",
-      "thatch": "Toiture de chaume"
+      "thatch": "Toiture de chaume",
+      "natural": "Clôtures naturelles"
     },
     "viewProduct": "Voir le produit",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Canisse de roseau non pelé extra-épais 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Canisse de roseau non pelé épais 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Canisse de roseau non pelé économique 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Canisse de roseau style japonais avec bambou"
+      "reed-banner-japanese-with-bamboo": "Canisse de roseau style japonais avec bambou",
+      "willow-natural-hero": "Clôtures naturelles",
+      "willow-scene-brushwood": "Clôture en brande de bruyère",
+      "willow-scene-bark": "Clôture en écorce",
+      "willow-scene-square": "Rouleau d'osier tressé"
     }
   },
   "contact": {

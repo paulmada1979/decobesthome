@@ -116,7 +116,7 @@ export default async function HomePage({
         <div className="container" style={{ marginTop: "clamp(48px,6vw,84px)" }}>
           <Reveal className="stats">
             <div className="stat">
-              <div className="n">12</div>
+              <div className="n">{products.length}</div>
               <div className="l">{t("stats.ranges")}</div>
             </div>
             <div className="stat">

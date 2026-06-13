@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "next-intl";
-import { products } from "@/lib/products";
+import { listedProducts as products } from "@/lib/products";
 import { company } from "@/lib/site";
 import { useQuoteModal } from "./QuoteModalProvider";
 

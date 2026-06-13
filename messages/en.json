@@ -16,7 +16,7 @@
     "utilityLeft": "Trade & wholesale enquiries welcome",
     "utilityLeft2": "OEM & project sourcing",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 natural product ranges — factory-direct.",
+    "megaFoot": "9 natural product ranges — factory-direct.",
     "viewAll": "View all products",
     "requestQuote": "Request a quote",
     "openMenu": "Open menu",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Products — Natural Bamboo, Reed & Thatch",
-        "description": "Explore twelve ranges of natural fencing and décor from BestHome — bamboo canes, Moso poles, fencing, reed screening, thatch and more. Wholesale, OEM and factory-direct."
+        "description": "Explore the full range of natural fencing and décor from BestHome — bamboo canes, Moso poles, fencing, reed screening, thatch and more. Wholesale, OEM and factory-direct."
       },
       "hero": {
         "imageAlt": "Natural bamboo privacy fencing in a garden",
         "crumbHome": "Home",
         "crumb": "Products",
         "eyebrow": "The catalog",
-        "title": "Twelve ranges of natural fencing & décor.",
+        "title": "Our full range of natural fencing & décor.",
         "lead": "From robust Tonkin canes and decorative Moso poles to privacy fencing, reed screening and natural thatch — all naturally grown, chemical-free and supplied factory-direct."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "The catalog",
-      "title": "Twelve ranges of natural fencing & décor.",
+      "title": "Our full range of natural fencing & décor.",
       "viewAll": "View all products"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Bamboo fencing",
       "moso": "Moso poles",
       "reed": "Reed fencing",
-      "thatch": "Thatch roof"
+      "thatch": "Thatch roof",
+      "natural": "Natural fencing"
     },
     "viewProduct": "View product",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Extra-thick unpeeled reed fence 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Thick unpeeled reed fence 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Budget unpeeled reed fence 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Japanese-style reed fence with bamboo"
+      "reed-banner-japanese-with-bamboo": "Japanese-style reed fence with bamboo",
+      "willow-natural-hero": "Natural fencing",
+      "willow-scene-brushwood": "Heather brushwood fence",
+      "willow-scene-bark": "Bark fence",
+      "willow-scene-square": "Willow wicker roll"
     }
   },
   "contact": {

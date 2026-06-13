@@ -16,7 +16,7 @@
     "utilityLeft": "Richieste da rivenditori e ingrosso sono benvenute",
     "utilityLeft2": "OEM e approvvigionamento per progetti",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 linee di prodotti naturali — diretti dalla fabbrica.",
+    "megaFoot": "9 linee di prodotti naturali — diretti dalla fabbrica.",
     "viewAll": "Vedi tutti i prodotti",
     "requestQuote": "Richiedi un preventivo",
     "openMenu": "Apri il menu",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Prodotti — Bambù, canna palustre e paglia naturali",
-        "description": "Scopra dodici linee di recinzioni e décor naturali di BestHome — canne di bambù, pali Moso, recinzioni, frangivista in canna palustre, paglia e altro ancora. Vendita all'ingrosso, OEM e diretta dalla fabbrica."
+        "description": "Scopra la gamma completa di recinzioni e décor naturali di BestHome — canne di bambù, pali Moso, recinzioni, frangivista in canna palustre, paglia e altro ancora. Vendita all'ingrosso, OEM e diretta dalla fabbrica."
       },
       "hero": {
         "imageAlt": "Recinzione frangivista in bambù naturale in un giardino",
         "crumbHome": "Home",
         "crumb": "Prodotti",
         "eyebrow": "Il catalogo",
-        "title": "Dodici linee di recinzioni e décor naturali.",
+        "title": "La nostra gamma completa di recinzioni e décor naturali.",
         "lead": "Dalle robuste canne Tonkin e dai pali decorativi Moso fino alle recinzioni frangivista, ai frangivista in canna palustre e alla paglia naturale — tutto coltivato naturalmente, privo di trattamenti chimici e fornito direttamente dalla fabbrica."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "Il catalogo",
-      "title": "Dodici linee di recinzioni e décor naturali.",
+      "title": "La nostra gamma completa di recinzioni e décor naturali.",
       "viewAll": "Vedi tutti i prodotti"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Recinzioni in bambù",
       "moso": "Pali Moso",
       "reed": "Recinzioni in canna",
-      "thatch": "Tetto di paglia"
+      "thatch": "Tetto di paglia",
+      "natural": "Recinzioni naturali"
     },
     "viewProduct": "Vedi il prodotto",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Arella di canna non pelata extra spessa 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Arella di canna non pelata spessa 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Arella di canna non pelata economica 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Arella di canna in stile giapponese con bambù"
+      "reed-banner-japanese-with-bamboo": "Arella di canna in stile giapponese con bambù",
+      "willow-natural-hero": "Recinzioni naturali",
+      "willow-scene-brushwood": "Recinzione in fascine di erica",
+      "willow-scene-bark": "Recinzione in corteccia",
+      "willow-scene-square": "Arella in vimini di salice"
     }
   },
   "contact": {

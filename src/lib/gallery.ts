@@ -1,4 +1,4 @@
-export type GalleryCategory = "fencing" | "moso" | "reed" | "thatch";
+export type GalleryCategory = "fencing" | "natural" | "moso" | "reed" | "thatch";
 
 export type GalleryItem = {
   id: string;
@@ -8,7 +8,7 @@ export type GalleryItem = {
 
 /** Inspiration gallery. Captions live in messages inspiration.items.{id}; category labels in inspiration.cats.{cat}. */
 export const gallery: GalleryItem[] = [
-  { id: "natural-bamboo-fence-1", image: "/images/natural-bamboo-fence-1.webp", cat: "fencing" },
+  { id: "natural-bamboo-fence-1", image: "/images/home-hero.webp", cat: "fencing" },
   { id: "moso-bamboo-for-sale", image: "/images/Moso-bamboo-for-sale.webp", cat: "moso" },
   { id: "thatch-roof-for-sale", image: "/images/thatch-roof-for-sale.webp", cat: "thatch" },
   { id: "moso-outdoor-constructions-2", image: "/images/moso-outdoor-constructions-2-1024x574.webp", cat: "moso" },
@@ -50,7 +50,12 @@ export const gallery: GalleryItem[] = [
   { id: "reed-banner-thick-unpeeled-5-8mm", image: "/images/reed/v/thick-unpeeled-5-8mm-hero.webp", cat: "reed" },
   { id: "reed-banner-cheap-unpeeled-3-6mm", image: "/images/reed/v/cheap-unpeeled-3-6mm-hero.webp", cat: "reed" },
   { id: "reed-banner-japanese-with-bamboo", image: "/images/reed/v/japanese-with-bamboo-hero.webp", cat: "reed" },
+  // Natural fencing (willow / brushwood / bark)
+  { id: "willow-natural-hero", image: "/images/willow-hero.webp", cat: "natural" },
+  { id: "willow-scene-brushwood", image: "/images/willow/scene-brushwood.webp", cat: "natural" },
+  { id: "willow-scene-bark", image: "/images/willow/scene-bark.webp", cat: "natural" },
+  { id: "willow-scene-square", image: "/images/willow/scene-square.webp", cat: "natural" },
 ];
 
 /** Filter chips order. Keys map to messages inspiration.cats.{key} (with "all" => inspiration.cats.all). */
-export const galleryFilters = ["all", "fencing", "moso", "reed", "thatch"] as const;
+export const galleryFilters = ["all", "fencing", "natural", "moso", "reed", "thatch"] as const;

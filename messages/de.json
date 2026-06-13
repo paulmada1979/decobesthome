@@ -16,7 +16,7 @@
     "utilityLeft": "Anfragen aus Handel & Großhandel willkommen",
     "utilityLeft2": "OEM & Projektbeschaffung",
     "brandAria": "BestHome — Startseite",
-    "megaFoot": "10 natürliche Produktreihen — direkt ab Werk.",
+    "megaFoot": "9 natürliche Produktreihen — direkt ab Werk.",
     "viewAll": "Alle Produkte ansehen",
     "requestQuote": "Angebot anfordern",
     "openMenu": "Menü öffnen",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Produkte — Naturbambus, Schilf & Reet",
-        "description": "Entdecken Sie zwölf Sortimente an natürlichem Sichtschutz und Dekor von BestHome — Bambusstäbe, Moso-Stangen, Zäune, Schilfmatten, Reet und mehr. Großhandel, OEM und direkt ab Werk."
+        "description": "Entdecken Sie das komplette Sortiment an natürlichem Sichtschutz und Dekor von BestHome — Bambusstäbe, Moso-Stangen, Zäune, Schilfmatten, Reet und mehr. Großhandel, OEM und direkt ab Werk."
       },
       "hero": {
         "imageAlt": "Natürlicher Bambus-Sichtschutzzaun in einem Garten",
         "crumbHome": "Startseite",
         "crumb": "Produkte",
         "eyebrow": "Der Katalog",
-        "title": "Zwölf Sortimente an natürlichem Sichtschutz & Dekor.",
+        "title": "Unser komplettes Sortiment an natürlichem Sichtschutz & Dekor.",
         "lead": "Von robusten Tonkin-Stäben und dekorativen Moso-Stangen bis hin zu Sichtschutzzäunen, Schilfmatten und Naturreet — alles natürlich gewachsen, chemiefrei und direkt ab Werk geliefert."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "Der Katalog",
-      "title": "Zwölf Sortimente an natürlichem Sichtschutz & Dekor.",
+      "title": "Unser komplettes Sortiment an natürlichem Sichtschutz & Dekor.",
       "viewAll": "Alle Produkte ansehen"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Bambuszaun",
       "moso": "Moso-Bambusstangen",
       "reed": "Schilfrohrmatten",
-      "thatch": "Reetdach"
+      "thatch": "Reetdach",
+      "natural": "Naturzäune"
     },
     "viewProduct": "Produkt ansehen",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Extra-dicke ungeschälte Schilfrohrmatte 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Dicke ungeschälte Schilfrohrmatte 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Günstige ungeschälte Schilfrohrmatte 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Schilfrohrmatte im japanischen Stil mit Bambus"
+      "reed-banner-japanese-with-bamboo": "Schilfrohrmatte im japanischen Stil mit Bambus",
+      "willow-natural-hero": "Naturzäune",
+      "willow-scene-brushwood": "Heidekraut-Reisigzaun",
+      "willow-scene-bark": "Rindenzaun",
+      "willow-scene-square": "Weidengeflecht-Matte"
     }
   },
   "contact": {

@@ -16,7 +16,7 @@
     "utilityLeft": "Aanvragen voor handel & groothandel welkom",
     "utilityLeft2": "OEM & projectinkoop",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 natuurlijke productlijnen — rechtstreeks van de fabriek.",
+    "megaFoot": "9 natuurlijke productlijnen — rechtstreeks van de fabriek.",
     "viewAll": "Bekijk alle producten",
     "requestQuote": "Offerte aanvragen",
     "openMenu": "Menu openen",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Producten — Natuurlijk bamboe, riet & rieten dak",
-        "description": "Ontdek twaalf assortimenten natuurlijke omheining en decoratie van BestHome — bamboestokken, Moso palen, omheining, rietschermen, rieten dak en meer. Groothandel, OEM en rechtstreeks van de fabriek."
+        "description": "Ontdek het volledige assortiment natuurlijke omheining en decoratie van BestHome — bamboestokken, Moso palen, omheining, rietschermen, rieten dak en meer. Groothandel, OEM en rechtstreeks van de fabriek."
       },
       "hero": {
         "imageAlt": "Natuurlijk bamboe privacyscherm in een tuin",
         "crumbHome": "Home",
         "crumb": "Producten",
         "eyebrow": "De catalogus",
-        "title": "Twaalf assortimenten natuurlijke omheining & decoratie.",
+        "title": "Ons volledige assortiment natuurlijke omheining & decoratie.",
         "lead": "Van robuuste Tonkin stokken en decoratieve Moso palen tot privacyschermen, rietmatten en natuurlijk rieten dak — allemaal natuurlijk gegroeid, chemievrij en geleverd rechtstreeks van de fabriek."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "De catalogus",
-      "title": "Twaalf assortimenten natuurlijke omheining & decoratie.",
+      "title": "Ons volledige assortiment natuurlijke omheining & decoratie.",
       "viewAll": "Bekijk alle producten"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Bamboe-omheining",
       "moso": "Moso-palen",
       "reed": "Riet-omheining",
-      "thatch": "Rieten dak"
+      "thatch": "Rieten dak",
+      "natural": "Natuurlijke omheining"
     },
     "viewProduct": "Bekijk product",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Extra dikke ongeschilde rietmat 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Dikke ongeschilde rietmat 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Voordelige ongeschilde rietmat 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Rietmat in Japanse stijl met bamboe"
+      "reed-banner-japanese-with-bamboo": "Rietmat in Japanse stijl met bamboe",
+      "willow-natural-hero": "Natuurlijke omheining",
+      "willow-scene-brushwood": "Heide-snoeihoutomheining",
+      "willow-scene-bark": "Schorsomheining",
+      "willow-scene-square": "Wilgentenen mat"
     }
   },
   "contact": {

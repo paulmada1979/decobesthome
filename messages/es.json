@@ -16,7 +16,7 @@
     "utilityLeft": "Consultas de profesionales y venta al por mayor bienvenidas",
     "utilityLeft2": "Abastecimiento OEM y de proyectos",
     "brandAria": "BestHome — inicio",
-    "megaFoot": "10 gamas de productos naturales — directo de fábrica.",
+    "megaFoot": "9 gamas de productos naturales — directo de fábrica.",
     "viewAll": "Ver todos los productos",
     "requestQuote": "Solicitar presupuesto",
     "openMenu": "Abrir menú",
@@ -97,14 +97,14 @@
     "index": {
       "meta": {
         "title": "Productos — Bambú, junco y techo de paja naturales",
-        "description": "Descubra doce gamas de vallas naturales y decoración de BestHome: cañas de bambú, postes Moso, vallas, celosías de junco, techo de paja y mucho más. Venta al por mayor, OEM y directo de fábrica."
+        "description": "Descubra la gama completa de vallas naturales y decoración de BestHome: cañas de bambú, postes Moso, vallas, celosías de junco, techo de paja y mucho más. Venta al por mayor, OEM y directo de fábrica."
       },
       "hero": {
         "imageAlt": "Valla de privacidad de bambú natural en un jardín",
         "crumbHome": "Inicio",
         "crumb": "Productos",
         "eyebrow": "El catálogo",
-        "title": "Doce gamas de vallas naturales y decoración.",
+        "title": "Nuestra gama completa de vallas naturales y decoración.",
         "lead": "Desde robustas cañas Tonkin y postes decorativos Moso hasta vallas de privacidad, celosías de junco y techo de paja natural — todo de cultivo natural, libre de productos químicos y suministrado directo de fábrica."
       },
       "cta": {
@@ -2234,7 +2234,7 @@
     },
     "catalog": {
       "eyebrow": "El catálogo",
-      "title": "Doce gamas de vallas naturales y decoración.",
+      "title": "Nuestra gama completa de vallas naturales y decoración.",
       "viewAll": "Ver todos los productos"
     },
     "why": {
@@ -3208,7 +3208,8 @@
       "fencing": "Vallas de bambú",
       "moso": "Postes Moso",
       "reed": "Vallas de junco",
-      "thatch": "Techo de paja"
+      "thatch": "Techo de paja",
+      "natural": "Vallas naturales"
     },
     "viewProduct": "Ver producto",
     "items": {
@@ -3252,7 +3253,11 @@
       "reed-banner-extra-thick-unpeeled-8-10mm": "Cañizo sin pelar extragrueso 8–10 mm",
       "reed-banner-thick-unpeeled-5-8mm": "Cañizo sin pelar grueso 5–8 mm",
       "reed-banner-cheap-unpeeled-3-6mm": "Cañizo sin pelar económico 3–6 mm",
-      "reed-banner-japanese-with-bamboo": "Cañizo estilo japonés con bambú"
+      "reed-banner-japanese-with-bamboo": "Cañizo estilo japonés con bambú",
+      "willow-natural-hero": "Vallas naturales",
+      "willow-scene-brushwood": "Valla de brezo y ramaje",
+      "willow-scene-bark": "Valla de corteza",
+      "willow-scene-square": "Rollo de mimbre"
     }
   },
   "contact": {

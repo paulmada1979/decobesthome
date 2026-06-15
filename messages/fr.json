@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Variantes",
-            "title": "Rouleaux, panneaux, bordures et finitions",
-            "lead": "Bambou naturel, carbonisé ou noir — fourni en rouleaux, brise-vue demi-ronds, panneaux encadrés et bordures pour s'adapter à tout projet.",
+            "title": "Rouleaux, écrans, treillis et bordures",
+            "lead": "Bambou naturel, noir, carbonisé ou acajou — proposé en rouleaux de bambou, écrans en demi-canne, treillis extensible et bordures pour s'adapter à tous vos projets.",
             "items": [
               {
                 "img": "var-natural.webp",
                 "title": "Rouleau de bambou naturel",
-                "desc": "Rouleaux de clôture en bambou beige clair classique pour une intimité de jardin rapide et chaleureuse."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Brise-vue en bambou carbonisé",
-                "desc": "Bambou brun miel traité thermiquement, à la teinte plus riche et plus profonde."
+                "desc": "Rouleau de bambou classique au ton beige clair, pour une intimité chaleureuse et rapide au jardin."
               },
               {
                 "img": "var-black.webp",
                 "title": "Rouleau de bambou noir",
-                "desc": "Rouleaux de bambou foncé spectaculaires pour une délimitation audacieuse et contemporaine."
+                "desc": "Rouleau de bambou aux teintes sombres, pour une délimitation affirmée et contemporaine."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Clôture en bambou demi-rond",
-                "desc": "Rouleaux de cannes fendues à face plus plate et surface raffinée et régulière."
+                "img": "var-carbonised.webp",
+                "title": "Rouleau de bambou carbonisé",
+                "desc": "Bambou traité à la chaleur, d'un brun miel aux nuances plus riches et profondes."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Bordure en bambou",
-                "desc": "Basses bordures en bambou pour massifs, allées et contours de pelouse."
+                "img": "var-mahogany.webp",
+                "title": "Rouleau de bambou acajou",
+                "desc": "Rouleau de bambou d'un brun rougeâtre chaleureux, pour une finition distinctive."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Panneaux de bambou fixes",
-                "desc": "Panneaux de bambou rigides encadrés pour portails et brise-vue structurés."
+                "img": "var-tonkin.webp",
+                "title": "Clôture en bambou Tonkin",
+                "desc": "Cannes de Tonkin fines et régulières, tissées en un écran net et uniforme."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Panneaux à treillis supérieur",
-                "desc": "Panneaux de bambou à cadre bois avec un treillis décoratif sur le dessus."
+                "img": "var-split.webp",
+                "title": "Clôture en lames de bambou fendu",
+                "desc": "Lames plates en cannes fendues, à la surface nette et soignée."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Panneaux de branches de bambou",
-                "desc": "Panneaux de clôture en branches texturés pour un look naturel et rustique."
+                "img": "var-halfround-natural.webp",
+                "title": "Clôture naturelle en demi-canne",
+                "desc": "Grandes cannes naturelles en demi-canne — une couverture totale et une face plus plane."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Clôture noire en demi-canne",
+                "desc": "Grandes cannes en demi-canne d'un noir profond, pour un écran spectaculaire."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Treillis extensible naturel",
+                "desc": "Treillis extensible en bambou naturel, pour les plantes grimpantes et un brise-vue léger."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Treillis extensible noir",
+                "desc": "Treillis extensible en bambou noir, au treillage sombre saisissant."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Bordure en bambou naturel",
+                "desc": "Bordure basse en bambou naturel pour massifs, allées et pelouses."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Bordure en bambou noir",
+                "desc": "Bordure basse en bambou noir, pour une délimitation nette et sombre."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Bordure en bambou sur pieds",
+                "desc": "Bordure en bambou autoportante sur pieds — aucune fixation nécessaire."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Clôture en brindilles de bambou",
+                "desc": "Clôture en brindilles densément liées, pour une texture naturelle douce et rustique."
               }
             ]
           },

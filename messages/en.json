@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Variations",
-            "title": "Rolls, panels, edging and finishes",
-            "lead": "Natural, carbonised or black bamboo — supplied as rolls, half-round screens, framed panels and edging to suit any project.",
+            "title": "Rolls, screens, trellis and edging",
+            "lead": "Natural, black, carbonised or mahogany bamboo — supplied as rolls, half-round screens, expandable trellis and border edging to suit any project.",
             "items": [
               {
                 "img": "var-natural.webp",
                 "title": "Natural bamboo roll",
-                "desc": "Classic light-tan bamboo fence rolls for fast, warm garden privacy."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Carbonised bamboo screen",
-                "desc": "Heat-treated honey-brown bamboo with a richer, deeper tone."
+                "desc": "Classic light-tan rolled bamboo fence for fast, warm garden privacy."
               },
               {
                 "img": "var-black.webp",
                 "title": "Black bamboo roll",
-                "desc": "Dramatic dark-bamboo rolls for a bold, contemporary boundary."
+                "desc": "Dark-toned rolled bamboo for a bold, contemporary boundary."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Half-round bamboo fence",
-                "desc": "Split-cane rolls with a flatter face and a refined, even surface."
+                "img": "var-carbonised.webp",
+                "title": "Carbonised bamboo roll",
+                "desc": "Heat-treated honey-brown bamboo with a richer, deeper tone."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Bamboo edging",
-                "desc": "Low bamboo borders for beds, paths and lawn edges."
+                "img": "var-mahogany.webp",
+                "title": "Mahogany bamboo roll",
+                "desc": "Warm reddish-brown rolled bamboo for a distinctive finish."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Fixed bamboo panels",
-                "desc": "Rigid framed bamboo panels for gates and structured screening."
+                "img": "var-tonkin.webp",
+                "title": "Tonkin bamboo fence",
+                "desc": "Slim, even Tonkin canes woven into a neat, uniform screen."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Lattice-top panels",
-                "desc": "Wood-framed bamboo panels with a decorative lattice top."
+                "img": "var-split.webp",
+                "title": "Split bamboo slat fence",
+                "desc": "Flat split-cane slats with a clean, refined face."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Bamboo branch panels",
-                "desc": "Textured branch-fence panels for a natural, rustic look."
+                "img": "var-halfround-natural.webp",
+                "title": "Half-round natural fence",
+                "desc": "Giant half-round natural canes — full coverage with a flatter front."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Half-round black fence",
+                "desc": "Giant half-round canes in deep black for a dramatic screen."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Expandable natural trellis",
+                "desc": "Expandable natural bamboo trellis for climbers and light screening."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Expandable black trellis",
+                "desc": "Expandable black bamboo trellis with a striking dark lattice."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Natural bamboo edging",
+                "desc": "Low natural bamboo border edging for beds, paths and lawns."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Black bamboo edging",
+                "desc": "Low black bamboo border edging for a crisp, dark border."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Bamboo edging with feet",
+                "desc": "Free-standing bamboo border edging on feet — no fixing needed."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Bamboo twig fence",
+                "desc": "Densely bound twig fencing for a soft, rustic natural texture."
               }
             ]
           },

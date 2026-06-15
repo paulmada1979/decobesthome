@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Varianten",
-            "title": "Matten, panelen, tuinrand en afwerkingen",
-            "lead": "Naturel, gecarboniseerd of zwart bamboe — geleverd als matten, halfronde schermen, ingelijste panelen en tuinrand voor elk project.",
+            "title": "Rolmatten, schermen, klimrek en randafwerking",
+            "lead": "Naturel, zwart, gecarboniseerd of mahonie bamboe — leverbaar als rolmatten, halfronde schermen, uitschuifbaar klimrek en boordafwerking, geschikt voor elk project.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Naturel bamboemat",
-                "desc": "Klassieke lichtgetinte bamboe-omheiningsmatten voor snelle, warme tuinprivacy."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Gecarboniseerd bamboescherm",
-                "desc": "Warmtebehandeld honingbruin bamboe met een rijkere, diepere tint."
+                "title": "Naturel bamboe rolmat",
+                "desc": "Klassieke lichtbruine bamboematten voor snelle, warme privacy in de tuin."
               },
               {
                 "img": "var-black.webp",
-                "title": "Zwarte bamboemat",
-                "desc": "Dramatische donkere bamboematten voor een gedurfde, eigentijdse erfafscheiding."
+                "title": "Zwarte bamboe rolmat",
+                "desc": "Donker getinte bamboematten voor een stoere, eigentijdse erfafscheiding."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Halfronde bamboeomheining",
-                "desc": "Matten van gespleten stokken met een vlakkere voorkant en een verfijnd, egaal oppervlak."
+                "img": "var-carbonised.webp",
+                "title": "Gecarboniseerde bamboe rolmat",
+                "desc": "Warmtebehandelde honingbruine bamboe met een rijkere, diepere tint."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Bamboe tuinrand",
-                "desc": "Lage bamboeranden voor borders, paden en gazonranden."
+                "img": "var-mahogany.webp",
+                "title": "Mahonie bamboe rolmat",
+                "desc": "Warme roodbruine bamboematten voor een onderscheidende afwerking."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Vaste bamboepanelen",
-                "desc": "Stevige ingelijste bamboepanelen voor poorten en gestructureerde afscherming."
+                "img": "var-tonkin.webp",
+                "title": "Tonkin bamboescherm",
+                "desc": "Slanke, gelijkmatige Tonkin-stokken verwerkt tot een strak, uniform scherm."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Panelen met latwerk-bovenrand",
-                "desc": "Houtomlijste bamboepanelen met een decoratieve latwerk-bovenrand."
+                "img": "var-split.webp",
+                "title": "Gespleten bamboe lattenscherm",
+                "desc": "Platte gespleten latten met een strak, verfijnd front."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Bamboe takkenpanelen",
-                "desc": "Getextureerde takken-omheiningspanelen voor een natuurlijke, rustieke uitstraling."
+                "img": "var-halfround-natural.webp",
+                "title": "Halfrond naturel scherm",
+                "desc": "Grote halfronde naturel stokken — volledige afscherming met een vlakker front."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Halfrond zwart scherm",
+                "desc": "Grote halfronde stokken in diep zwart voor een dramatisch scherm."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Uitschuifbaar naturel klimrek",
+                "desc": "Uitschuifbaar naturel bamboe klimrek voor klimplanten en lichte afscherming."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Uitschuifbaar zwart klimrek",
+                "desc": "Uitschuifbaar zwart bamboe klimrek met een opvallend donker latwerk."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Naturel bamboe randafwerking",
+                "desc": "Lage naturel bamboe boordafwerking voor borders, paden en gazons."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Zwarte bamboe randafwerking",
+                "desc": "Lage zwarte bamboe boordafwerking voor een strakke, donkere rand."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Bamboe randafwerking met voetjes",
+                "desc": "Vrijstaande bamboe boordafwerking op voetjes — geen bevestiging nodig."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Bamboe takkenscherm",
+                "desc": "Dicht gebonden takkenscherm voor een zachte, rustieke natuurlijke uitstraling."
               }
             ]
           },

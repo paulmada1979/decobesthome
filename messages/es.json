@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Variantes",
-            "title": "Rollos, paneles, bordes y acabados",
-            "lead": "Bambú natural, carbonizado o negro: suministrado en rollos, celosías de media caña, paneles enmarcados y bordes para adaptarse a cualquier proyecto.",
+            "title": "Rollos, paneles, celosías y bordes",
+            "lead": "Bambú natural, negro, carbonizado o caoba — disponible en rollos de bambú, paneles de media caña, celosías extensibles y bordes para cenefas, adaptados a cualquier proyecto.",
             "items": [
               {
                 "img": "var-natural.webp",
                 "title": "Rollo de bambú natural",
-                "desc": "Clásicos rollos de cañizo de bambú de tono claro para una privacidad de jardín rápida y cálida."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Celosía de bambú carbonizado",
-                "desc": "Bambú tratado al calor de color marrón miel con un tono más rico y profundo."
+                "desc": "Clásico rollo de bambú en tono claro para una privacidad de jardín rápida y cálida."
               },
               {
                 "img": "var-black.webp",
                 "title": "Rollo de bambú negro",
-                "desc": "Rollos de bambú oscuro de gran efecto para un perímetro audaz y contemporáneo."
+                "desc": "Rollo de bambú en tono oscuro para un cerramiento audaz y contemporáneo."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Valla de bambú de media caña",
-                "desc": "Rollos de caña partida con una cara más plana y una superficie refinada y uniforme."
+                "img": "var-carbonised.webp",
+                "title": "Rollo de bambú carbonizado",
+                "desc": "Bambú tratado térmicamente en color marrón miel, con un tono más intenso y profundo."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Borde de bambú",
-                "desc": "Bordes bajos de bambú para parterres, senderos y bordes de césped."
+                "img": "var-mahogany.webp",
+                "title": "Rollo de bambú caoba",
+                "desc": "Rollo de bambú en cálido tono marrón rojizo para un acabado distintivo."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Paneles fijos de bambú",
-                "desc": "Paneles de bambú rígidos y enmarcados para portones y celosías estructuradas."
+                "img": "var-tonkin.webp",
+                "title": "Valla de bambú Tonkin",
+                "desc": "Finas cañas Tonkin de grosor uniforme entretejidas en una celosía limpia y homogénea."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Paneles con celosía superior",
-                "desc": "Paneles de bambú con marco de madera y una celosía decorativa en la parte superior."
+                "img": "var-split.webp",
+                "title": "Valla de listones de bambú partido",
+                "desc": "Listones planos de caña partida con una cara limpia y refinada."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Paneles de ramas de bambú",
-                "desc": "Paneles texturizados de valla de ramas para un aspecto natural y rústico."
+                "img": "var-halfround-natural.webp",
+                "title": "Valla de media caña natural",
+                "desc": "Grandes cañas de media caña natural — cobertura total con un frente más plano."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Valla de media caña negra",
+                "desc": "Grandes cañas de media caña en negro intenso para una celosía de gran efecto."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Celosía extensible natural",
+                "desc": "Celosía extensible de bambú natural para plantas trepadoras y separación ligera."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Celosía extensible negra",
+                "desc": "Celosía extensible de bambú negro con un llamativo enrejado oscuro."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Borde de bambú natural",
+                "desc": "Bajo borde de cenefa de bambú natural para parterres, senderos y céspedes."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Borde de bambú negro",
+                "desc": "Bajo borde de cenefa de bambú negro para una delimitación nítida y oscura."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Borde de bambú con pies",
+                "desc": "Borde de cenefa de bambú autoportante sobre pies — sin necesidad de fijación."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Valla de ramas de bambú",
+                "desc": "Valla de ramas densamente atadas para una textura natural suave y rústica."
               }
             ]
           },

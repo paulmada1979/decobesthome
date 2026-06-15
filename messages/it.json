@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Varianti",
-            "title": "Arelle, pannelli, bordure e finiture",
-            "lead": "Bambù naturale, carbonizzato o nero: fornito come arelle, frangivista a mezza canna, pannelli con telaio e bordure per ogni progetto.",
+            "title": "Rotoli, schermature, tralicci e bordure",
+            "lead": "Bambù naturale, nero, carbonizzato o mogano — fornito in rotoli, schermature a mezza canna, tralicci estensibili e bordure perimetrali, adatto a ogni progetto.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Arella di bambù naturale",
-                "desc": "Classiche arelle di bambù color tabacco chiaro per una privacy da giardino rapida e calda."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Frangivista in bambù carbonizzato",
-                "desc": "Bambù color miele trattato termicamente, dalla tonalità più ricca e profonda."
+                "title": "Rotolo di bambù naturale",
+                "desc": "Classica arella di bambù color sabbia chiaro per una privacy da giardino rapida e accogliente."
               },
               {
                 "img": "var-black.webp",
-                "title": "Arella di bambù nero",
-                "desc": "Arelle in bambù scuro d'effetto per un confine deciso e contemporaneo."
+                "title": "Rotolo di bambù nero",
+                "desc": "Arella di bambù dalle tonalità scure per una recinzione decisa e contemporanea."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Recinzione in bambù a mezza canna",
-                "desc": "Arelle in canna tagliata con faccia più piatta e una superficie raffinata e uniforme."
+                "img": "var-carbonised.webp",
+                "title": "Rotolo di bambù carbonizzato",
+                "desc": "Bambù trattato a caldo color miele, con una tonalità più calda e profonda."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Bordura in bambù",
-                "desc": "Basse cornici in bambù per aiuole, sentieri e bordi del prato."
+                "img": "var-mahogany.webp",
+                "title": "Rotolo di bambù mogano",
+                "desc": "Arella di bambù dal caldo bruno-rossiccio per una finitura distintiva."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Pannelli fissi in bambù",
-                "desc": "Pannelli rigidi in bambù con telaio per cancelli e schermature strutturate."
+                "img": "var-tonkin.webp",
+                "title": "Recinzione in bambù Tonkin",
+                "desc": "Sottili canne Tonkin uniformi intrecciate in una schermatura ordinata e regolare."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Pannelli con grigliato superiore",
-                "desc": "Pannelli in bambù con telaio in legno e un grigliato decorativo nella parte superiore."
+                "img": "var-split.webp",
+                "title": "Recinzione in stecche di bambù spaccato",
+                "desc": "Stecche piatte di canna spaccata dalla superficie pulita e raffinata."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Pannelli in rami di bambù",
-                "desc": "Pannelli di recinzione in rami materici per un aspetto naturale e rustico."
+                "img": "var-halfround-natural.webp",
+                "title": "Recinzione naturale a mezza canna",
+                "desc": "Grandi canne naturali a mezza canna — copertura totale con un fronte più piatto."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Recinzione nera a mezza canna",
+                "desc": "Grandi canne a mezza canna in nero intenso per una schermatura d'effetto."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Traliccio estensibile naturale",
+                "desc": "Traliccio estensibile in bambù naturale per rampicanti e schermature leggere."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Traliccio estensibile nero",
+                "desc": "Traliccio estensibile in bambù nero con un suggestivo reticolo scuro."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Bordura in bambù naturale",
+                "desc": "Bassa bordura perimetrale in bambù naturale per aiuole, vialetti e prati."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Bordura in bambù nero",
+                "desc": "Bassa bordura perimetrale in bambù nero per un bordo netto e scuro."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Bordura in bambù con piedini",
+                "desc": "Bordura perimetrale in bambù autoportante su piedini — nessun fissaggio necessario."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Recinzione in rametti di bambù",
+                "desc": "Recinzione in rametti fittamente legati per una texture naturale, morbida e rustica."
               }
             ]
           },

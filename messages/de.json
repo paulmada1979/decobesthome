@@ -487,48 +487,78 @@
           },
           "variations": {
             "eyebrow": "Varianten",
-            "title": "Matten, Elemente, Einfassungen und Oberflächen",
-            "lead": "Natürlicher, karbonisierter oder schwarzer Bambus – geliefert als Matten, halbrunde Sichtschutzwände, gerahmte Elemente und Beeteinfassungen, passend zu jedem Projekt.",
+            "title": "Rollzäune, Sichtschutz, Spaliere und Beeteinfassungen",
+            "lead": "Naturbelassener, schwarzer, karbonisierter oder Mahagoni-Bambus — geliefert als Bambusmatten, halbrunde Sichtschutzelemente, ausziehbare Spaliere und Randeinfassungen für jedes Projekt.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natürliche Bambusmatte",
-                "desc": "Klassische hellbraune Bambus-Zaunmatten für schnellen, warmen Sichtschutz im Garten."
-              },
-              {
-                "img": "var-carbonised.webp",
-                "title": "Karbonisierter Bambus-Sichtschutz",
-                "desc": "Wärmebehandelter honigbrauner Bambus mit einem satteren, tieferen Ton."
+                "title": "Naturbambus-Rollzaun",
+                "desc": "Klassischer hellbeiger Bambus-Rollzaun für schnellen, warmen Sichtschutz im Garten."
               },
               {
                 "img": "var-black.webp",
-                "title": "Schwarze Bambusmatte",
-                "desc": "Dramatische dunkle Bambusmatten für eine kühne, moderne Abgrenzung."
+                "title": "Schwarzer Bambus-Rollzaun",
+                "desc": "Dunkel getönter Bambus-Rollzaun für eine markante, moderne Grundstücksgrenze."
               },
               {
-                "img": "var-halfround.webp",
-                "title": "Halbrunder Bambuszaun",
-                "desc": "Spaltstab-Matten mit flacherer Vorderseite und einer feinen, gleichmäßigen Oberfläche."
+                "img": "var-carbonised.webp",
+                "title": "Karbonisierter Bambus-Rollzaun",
+                "desc": "Wärmebehandelter honigbrauner Bambus mit kräftigerem, tieferem Farbton."
               },
               {
-                "img": "var-edging.webp",
-                "title": "Bambus-Beeteinfassung",
-                "desc": "Niedrige Bambusborde für Beete, Wege und Rasenkanten."
+                "img": "var-mahogany.webp",
+                "title": "Mahagoni-Bambus-Rollzaun",
+                "desc": "Warmer rotbrauner Bambus-Rollzaun für ein unverwechselbares Finish."
               },
               {
-                "img": "var-fixed.webp",
-                "title": "Feste Bambuselemente",
-                "desc": "Starre gerahmte Bambuselemente für Tore und strukturierten Sichtschutz."
+                "img": "var-tonkin.webp",
+                "title": "Tonkin-Bambuszaun",
+                "desc": "Schlanke, gleichmäßige Tonkin-Rohre, zu einem sauberen, einheitlichen Sichtschutz verarbeitet."
               },
               {
-                "img": "var-lattice.webp",
-                "title": "Elemente mit Gitterabschluss",
-                "desc": "Holzgerahmte Bambuselemente mit dekorativem Gitterabschluss."
+                "img": "var-split.webp",
+                "title": "Bambuslatten-Zaun (gespalten)",
+                "desc": "Flache gespaltene Bambuslatten mit einer klaren, edlen Oberfläche."
               },
               {
-                "img": "var-branch.webp",
-                "title": "Bambus-Reisigelemente",
-                "desc": "Strukturierte Reisigzaun-Elemente für einen natürlichen, rustikalen Look."
+                "img": "var-halfround-natural.webp",
+                "title": "Halbrunder Naturzaun",
+                "desc": "Große halbrunde Naturrohre — volle Abdeckung mit einer flacheren Vorderseite."
+              },
+              {
+                "img": "var-halfround-black.webp",
+                "title": "Halbrunder schwarzer Zaun",
+                "desc": "Große halbrunde Rohre in tiefem Schwarz für einen ausdrucksstarken Sichtschutz."
+              },
+              {
+                "img": "var-trellis-natural.webp",
+                "title": "Ausziehbares Naturspalier",
+                "desc": "Ausziehbares Rankgitter aus Naturbambus für Kletterpflanzen und leichten Sichtschutz."
+              },
+              {
+                "img": "var-trellis-black.webp",
+                "title": "Ausziehbares schwarzes Spalier",
+                "desc": "Ausziehbares Rankgitter aus schwarzem Bambus mit auffälligem dunklem Gitterwerk."
+              },
+              {
+                "img": "var-edging-natural.webp",
+                "title": "Naturbambus-Beeteinfassung",
+                "desc": "Niedrige Beeteinfassung aus Naturbambus für Beete, Wege und Rasenflächen."
+              },
+              {
+                "img": "var-edging-black.webp",
+                "title": "Schwarze Bambus-Beeteinfassung",
+                "desc": "Niedrige Beeteinfassung aus schwarzem Bambus für eine klare, dunkle Randeinfassung."
+              },
+              {
+                "img": "var-edging-feet.webp",
+                "title": "Bambus-Beeteinfassung mit Füßen",
+                "desc": "Freistehende Bambus-Beeteinfassung auf Füßen — ohne Befestigung verwendbar."
+              },
+              {
+                "img": "var-twig.webp",
+                "title": "Bambus-Reisigzaun",
+                "desc": "Dicht gebundener Reisigzaun für eine weiche, rustikale Naturstruktur."
               }
             ]
           },

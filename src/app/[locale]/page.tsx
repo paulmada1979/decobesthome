@@ -109,7 +109,7 @@ export default async function HomePage({
           </Reveal>
           <Reveal className="media square" delay={2}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/home-support.webp" alt={t("intro.imageAlt")} />
+            <img src="/images/home-cottage.webp" alt={t("intro.imageAlt")} />
           </Reveal>
         </div>
 

@@ -198,8 +198,9 @@ export const products: Product[] = [
   {
     id: "bamboo-flower-sticks",
     slug: "bamboo-flower-sticks",
-    image: "/images/sy_bamboo-canes-300x300.jpg",
+    image: "/images/flower-hero.webp",
     icon: "🪴",
+    gallery: ["/images/flower-hero.webp"],
     unlisted: true,
   },
   {

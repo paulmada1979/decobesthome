@@ -85,6 +85,47 @@ export default async function ProductDetailPage({
     .slice(0, 3)
     .map((p) => ({ ...p, order: products.findIndex((x) => x.id === p.id) + 1 }));
 
+  const variationsSection = product.hasVariations ? (
+    <section className="section" style={{ background: "var(--bone-2)" }}>
+      <div className="container">
+        <Reveal style={{ maxWidth: "60ch" }}>
+          <p className="eyebrow">{t(`items.${product.id}.variations.eyebrow`)}</p>
+          <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.8rem,3vw,2.6rem)" }}>
+            {t(`items.${product.id}.variations.title`)}
+          </h2>
+          <p className="lead pretty" style={{ marginTop: "14px" }}>
+            {t(`items.${product.id}.variations.lead`)}
+          </p>
+        </Reveal>
+        <Reveal as="div" className="var-grid" delay={1}>
+          {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => {
+            const inner = (
+              <>
+                <div className="ph">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img loading="lazy" src={`/images/${product.variationDir}/${v.img}`} alt={v.title} />
+                </div>
+                <div className="body">
+                  <h3 className="h4">{v.title}</h3>
+                  <p className="muted">{v.desc}</p>
+                </div>
+              </>
+            );
+            return v.href ? (
+              <Link className="var-card var-card--link" href={v.href} key={v.img}>
+                {inner}
+              </Link>
+            ) : (
+              <div className="var-card" key={v.img}>
+                {inner}
+              </div>
+            );
+          })}
+        </Reveal>
+      </div>
+    </section>
+  ) : null;
+
   return (
     <>
       {/* PAGE HERO */}
@@ -170,6 +211,9 @@ export default async function ProductDetailPage({
           </Reveal>
         </div>
       </section>
+
+      {/* VARIATIONS (moved above About for flagged products) */}
+      {product.variationsFirst && variationsSection}
 
       {/* ABOUT (long-form) */}
       {product.hasAbout && (
@@ -316,47 +360,8 @@ export default async function ProductDetailPage({
         </section>
       )}
 
-      {/* VARIATIONS */}
-      {product.hasVariations && (
-        <section className="section" style={{ background: "var(--bone-2)" }}>
-          <div className="container">
-            <Reveal style={{ maxWidth: "60ch" }}>
-              <p className="eyebrow">{t(`items.${product.id}.variations.eyebrow`)}</p>
-              <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.8rem,3vw,2.6rem)" }}>
-                {t(`items.${product.id}.variations.title`)}
-              </h2>
-              <p className="lead pretty" style={{ marginTop: "14px" }}>
-                {t(`items.${product.id}.variations.lead`)}
-              </p>
-            </Reveal>
-            <Reveal as="div" className="var-grid" delay={1}>
-              {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => {
-                const inner = (
-                  <>
-                    <div className="ph">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img loading="lazy" src={`/images/${product.variationDir}/${v.img}`} alt={v.title} />
-                    </div>
-                    <div className="body">
-                      <h3 className="h4">{v.title}</h3>
-                      <p className="muted">{v.desc}</p>
-                    </div>
-                  </>
-                );
-                return v.href ? (
-                  <Link className="var-card var-card--link" href={v.href} key={v.img}>
-                    {inner}
-                  </Link>
-                ) : (
-                  <div className="var-card" key={v.img}>
-                    {inner}
-                  </div>
-                );
-              })}
-            </Reveal>
-          </div>
-        </section>
-      )}
+      {/* VARIATIONS (default position, unless moved above About) */}
+      {!product.variationsFirst && variationsSection}
 
       {/* RELATED */}
       <section className="section" style={product.hasVariations ? undefined : { background: "var(--bone-2)" }}>

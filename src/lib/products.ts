@@ -18,6 +18,8 @@ export type Product = {
   hasAbout?: boolean;
   /** Render the variations grid (messages.products.detail.items.{id}.variations); images under /images/tonkin etc. */
   hasVariations?: boolean;
+  /** Render the variations grid above the "about" section instead of below it. */
+  variationsFirst?: boolean;
   /** Folder under /images that holds this product's variation thumbnails. */
   variationDir?: string;
   /** Hide from menu/catalog/related listings (page still builds at its URL). For unfinished ranges. */
@@ -157,6 +159,7 @@ export const products: Product[] = [
     hasDetail: true,
     hasAbout: true,
     hasVariations: true,
+    variationsFirst: true,
     variationDir: "fence",
     gallery: [
       "/images/bamboo-fence-hero.webp",
@@ -182,6 +185,7 @@ export const products: Product[] = [
     icon: "▦",
     hasAbout: true,
     hasVariations: true,
+    variationsFirst: true,
     variationDir: "panels",
     gallery: [
       "/images/panels-hero.webp",
@@ -244,6 +248,7 @@ export const products: Product[] = [
     tag: "bestseller",
     hasAbout: true,
     hasVariations: true,
+    variationsFirst: true,
     variationDir: "willow",
     gallery: [
       "/images/willow-hero.webp",

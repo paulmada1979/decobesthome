@@ -12,7 +12,7 @@ export const company = {
 export const socials = {
   facebook: "https://www.facebook.com/profile.php?id=100066615552368",
   instagram: "https://www.instagram.com/decobesthome/",
-  youtube: "https://www.youtube.com/@Decobesthome",
+  youtube: "https://www.youtube.com/@Mindydong168",
   linkedin: "https://www.linkedin.com/in/min-d-a3271617a/?originalSubdomain=cn",
 } as const;
 

@@ -22,12 +22,12 @@ const WHY_ICONS = [
 ];
 
 const TEASER = [
-  { image: "/images/natural-bamboo-fence-1.webp", key: "bambooFence" },
-  { image: "/images/sy_reed-fence-garden-screening-1-300x300.jpg", key: "reedScreening" },
-  { image: "/images/6.jpg", key: "mosoPoles" },
-  { image: "/images/sy_willow-fence-for-outside-screen-300x300.jpg", key: "willowScreen" },
-  { image: "/images/natural-thatch-roof-300x300.webp", key: "thatchRoofing" },
-  { image: "/images/sy_fixed-natural-black-bamboo-fence-screening-300x300.jpg", key: "blackBamboo" },
+  { image: "/images/fence/scene-garden.webp", key: "bambooFence" },
+  { image: "/images/reed-hero.webp", key: "reedScreening" },
+  { image: "/images/moso/scene-16.webp", key: "mosoPoles" },
+  { image: "/images/willow/scene-brushwood.webp", key: "willowScreen" },
+  { image: "/images/thatch/scene-1.webp", key: "thatchRoofing" },
+  { image: "/images/fence/scene-black.webp", key: "blackBamboo" },
 ];
 
 export default async function HomePage({

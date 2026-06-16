@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useTranslations } from "next-intl";
-import { listedProducts as products } from "@/lib/products";
+import { megaProducts as products } from "@/lib/products";
 import { company } from "@/lib/site";
 
 export default function ContactForm() {

@@ -54,8 +54,35 @@ def flush_list():
         flow.append(Spacer(1, 3))
         pending_list = []
 
+code = S("code", fontName="Courier", fontSize=8.4, leading=11.5, textColor=INK)
+
 while i < len(lines):
     ln = lines[i].rstrip()
+    if ln.strip().startswith("```"):
+        # fenced code block — render as a monospace box (good for copy-paste prompts)
+        flush_list()
+        i += 1
+        buf = []
+        while i < len(lines) and not lines[i].strip().startswith("```"):
+            buf.append(lines[i])
+            i += 1
+        i += 1  # skip closing fence
+        esc = "<br/>".join(
+            x.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;") or "&nbsp;"
+            for x in buf)
+        cellp = Paragraph(esc, code)
+        box = Table([[cellp]], colWidths=[170 * mm])
+        box.setStyle(TableStyle([
+            ("BACKGROUND", (0, 0), (-1, -1), colors.HexColor("#F1EEE6")),
+            ("BOX", (0, 0), (-1, -1), 0.5, colors.HexColor("#D9D9D9")),
+            ("LEFTPADDING", (0, 0), (-1, -1), 10),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 10),
+            ("TOPPADDING", (0, 0), (-1, -1), 8),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 8),
+        ]))
+        flow.append(box)
+        flow.append(Spacer(1, 10))
+        continue
     if ln.startswith("| ") and i + 1 < len(lines) and set(lines[i+1].replace("|", "").strip()) <= set("-: "):
         # table
         flush_list()

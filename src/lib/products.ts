@@ -302,22 +302,23 @@ const megaOrder: string[] = [
   "bamboo-fencing-edging",
   "reed-fencing",
   "decor-moso-bamboo-poles",
-  "bamboo-reed-curtains",
   "other-natural-fencing",
   "bamboo-fence-panels",
-  "tonkin-bamboo-canes",
+  "bamboo-reed-curtains",
   "bamboo-room-dividers",
+  "bamboo-flower-sticks",
   "bamboo-household-articles",
   "natural-thatch-roof",
 ];
 
-/** Ranges shown in the header mega menu (the listed set, up to 12). */
-export const megaProducts = [
-  ...megaOrder
-    .map((id) => listedProducts.find((p) => p.id === id))
-    .filter((p): p is Product => Boolean(p)),
-  ...listedProducts.filter((p) => !megaOrder.includes(p.id)),
-].slice(0, 12);
+/**
+ * Ranges shown in the header mega menu, in the exact requested order.
+ * Built from the full product set (not listedProducts) so a menu-only item
+ * like bamboo-flower-sticks can appear here while staying out of the catalog.
+ */
+export const megaProducts = megaOrder
+  .map((id) => products.find((p) => p.id === id))
+  .filter((p): p is Product => Boolean(p));
 
 export function getProduct(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);

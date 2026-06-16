@@ -371,6 +371,16 @@
                 "desc": "Karbonisierte Stangen mit dunkler Oberfläche für einen dramatischen, modernen Look."
               },
               {
+                "img": "var-tonkin.webp",
+                "title": "First-Cut Tonkin-Bambusstangen",
+                "desc": "Erstklassige First-Cut-Tonkinstangen — gerade, flammbehandelte Stäbe für Gärtnereien, Gärten und Konstruktionen."
+              },
+              {
+                "img": "var-large.webp",
+                "title": "Große Stangen, Großlieferung",
+                "desc": "Starkwandige Stangen, sortiert und verpackt für Projekt- und Handelsmengen."
+              },
+              {
                 "img": "var-slats.webp",
                 "title": "Moso-Bambuslatten",
                 "desc": "Flache, maschinell gefertigte Latten für Verkleidungen, Decken und individuelle Tischlerarbeiten."
@@ -379,11 +389,6 @@
                 "img": "var-twig.webp",
                 "title": "Moso-Reisig- & Zweigzaun",
                 "desc": "Natürlicher Zweig-Sichtschutz für rustikale, strukturierte Gartenwände."
-              },
-              {
-                "img": "var-large.webp",
-                "title": "Große Stangen, Großlieferung",
-                "desc": "Starkwandige Stangen, sortiert und verpackt für Projekt- und Handelsmengen."
               }
             ]
           },

@@ -371,6 +371,16 @@
                 "desc": "Cannes à finition foncée carbonisée pour un look spectaculaire et contemporain."
               },
               {
+                "img": "var-tonkin.webp",
+                "title": "Perches de bambou Tonkin de première coupe",
+                "desc": "Perches Tonkin de première coupe haut de gamme : tuteurs droits et traités à la flamme pour pépinières, jardins et structures."
+              },
+              {
+                "img": "var-large.webp",
+                "title": "Grandes cannes, fourniture en gros",
+                "desc": "Cannes de fort calibre, calibrées et conditionnées pour les volumes de projets et de négoce."
+              },
+              {
                 "img": "var-slats.webp",
                 "title": "Lames de bambou Moso",
                 "desc": "Lames plates usinées pour bardages, plafonds et menuiseries sur mesure."
@@ -379,11 +389,6 @@
                 "img": "var-twig.webp",
                 "title": "Clôture en branches et brindilles de Moso",
                 "desc": "Brise-vue en branches naturelles pour des murs de jardin rustiques et texturés."
-              },
-              {
-                "img": "var-large.webp",
-                "title": "Grandes cannes, fourniture en gros",
-                "desc": "Cannes de fort calibre, calibrées et conditionnées pour les volumes de projets et de négoce."
               }
             ]
           },

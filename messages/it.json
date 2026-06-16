@@ -371,6 +371,16 @@
                 "desc": "Canne dalla finitura scura carbonizzata per un look drammatico e contemporaneo."
               },
               {
+                "img": "var-tonkin.webp",
+                "title": "Pali di bambù Tonkin di primo taglio",
+                "desc": "Pali Tonkin di primo taglio di alta qualità: paletti dritti e trattati alla fiamma per vivai, giardini e strutture."
+              },
+              {
+                "img": "var-large.webp",
+                "title": "Grandi canne, fornitura all'ingrosso",
+                "desc": "Canne di sezione pesante selezionate e imballate per volumi di progetto e per il commercio."
+              },
+              {
                 "img": "var-slats.webp",
                 "title": "Doghe di bambù Moso",
                 "desc": "Doghe piatte lavorate a macchina per rivestimenti, controsoffitti e falegnameria su misura."
@@ -379,11 +389,6 @@
                 "img": "var-twig.webp",
                 "title": "Recinzione in rami e ramoscelli di Moso",
                 "desc": "Frangivista in rami naturali per pareti da giardino rustiche e materiche."
-              },
-              {
-                "img": "var-large.webp",
-                "title": "Grandi canne, fornitura all'ingrosso",
-                "desc": "Canne di sezione pesante selezionate e imballate per volumi di progetto e per il commercio."
               }
             ]
           },

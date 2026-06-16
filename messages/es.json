@@ -371,6 +371,16 @@
                 "desc": "Postes con acabado oscuro carbonizado para un aspecto contemporáneo y de gran efecto."
               },
               {
+                "img": "var-tonkin.webp",
+                "title": "Postes de bambú Tonkin de primer corte",
+                "desc": "Postes Tonkin de primer corte de máxima calidad: estacas rectas y tratadas a la llama para viveros, jardines y estructuras."
+              },
+              {
+                "img": "var-large.webp",
+                "title": "Postes grandes, suministro a granel",
+                "desc": "Postes de calibre grueso clasificados y embalados para volúmenes de proyecto y profesionales."
+              },
+              {
                 "img": "var-slats.webp",
                 "title": "Listones de bambú Moso",
                 "desc": "Listones planos mecanizados para revestimientos, techos y carpintería a medida."
@@ -379,11 +389,6 @@
                 "img": "var-twig.webp",
                 "title": "Valla de ramas y ramaje Moso",
                 "desc": "Celosía de ramas naturales para muros de jardín rústicos y texturizados."
-              },
-              {
-                "img": "var-large.webp",
-                "title": "Postes grandes, suministro a granel",
-                "desc": "Postes de calibre grueso clasificados y embalados para volúmenes de proyecto y profesionales."
               }
             ]
           },

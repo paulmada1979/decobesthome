@@ -3,7 +3,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { featuredPost, gridPosts, journalFilters } from "@/lib/posts";
 import Reveal from "@/components/Reveal";
-import Chips from "@/components/Chips";
+import JournalFilterable, { type JournalCard } from "@/components/JournalFilterable";
 import QuoteButton from "@/components/QuoteButton";
 
 export async function generateMetadata({
@@ -25,6 +25,18 @@ export default async function JournalPage({
   setRequestLocale(locale);
   const t = await getTranslations("journal");
 
+  const toCard = (p: typeof featuredPost): JournalCard => ({
+    id: p.id,
+    slug: p.slug,
+    image: p.image,
+    category: p.category,
+    catLabel: t(`posts.${p.id}.cat`),
+    date: t(`posts.${p.id}.date`),
+    readTime: p.readMins ? t("readTime", { mins: p.readMins }) : undefined,
+    title: t(`posts.${p.id}.title`),
+    excerpt: t(`posts.${p.id}.excerpt`),
+  });
+
   return (
     <>
       {/* PAGE HERO */}
@@ -39,105 +51,23 @@ export default async function JournalPage({
           <Reveal as="p" className="lead pretty measure" delay={2} style={{ marginTop: "18px" }}>
             {t("lead")}
           </Reveal>
-          <Reveal delay={3} style={{ marginTop: "26px" }}>
-            <Chips options={journalFilters.map((f) => t(`filters.${f}`))} defaultActive={0} />
-          </Reveal>
         </div>
       </section>
 
-      {/* FEATURED */}
-      <section className="section--tight">
-        <div className="container">
-          <Reveal as="span">
-            <Link className="feature-post" href={`/blog/${featuredPost.slug}`}>
-              <div className="fp-media">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={featuredPost.image} alt={t(`posts.${featuredPost.id}.title`)} />
-              </div>
-              <div className="fp-body">
-                <div className="post-meta">
-                  <span className="post-cat">
-                    {t("featuredBadge")} · {t(`posts.${featuredPost.id}.cat`)}
-                  </span>
-                  <span>{t(`posts.${featuredPost.id}.date`)}</span>
-                  {featuredPost.readMins && (
-                    <span>· {t("readTime", { mins: featuredPost.readMins })}</span>
-                  )}
-                </div>
-                <h2 className="h2" style={{ fontSize: "clamp(1.8rem,3vw,2.7rem)" }}>
-                  {t(`posts.${featuredPost.id}.title`)}
-                </h2>
-                <p className="lead" style={{ marginTop: "14px", maxWidth: "46ch" }}>
-                  {t(`posts.${featuredPost.id}.excerpt`)}
-                </p>
-                <span className="more" style={{ marginTop: "22px", display: "inline-block" }}>
-                  <span className="textlink">
-                    {t("readArticle")} <span className="arr">→</span>
-                  </span>
-                </span>
-              </div>
-            </Link>
-          </Reveal>
-        </div>
-      </section>
-
-      {/* POST GRID */}
-      <section className="section" style={{ paddingTop: "clamp(28px,3vw,48px)" }}>
-        <div className="container">
-          <div className="posts">
-            {gridPosts.map((post, i) => (
-              <Reveal key={post.id} as="span" delay={i % 3}>
-                <Link className="post-card" href={`/blog/${post.slug}`}>
-                  <div className="ph">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img loading="lazy" src={post.image} alt={t(`posts.${post.id}.title`)} />
-                  </div>
-                  <div className="body">
-                    <div className="post-meta">
-                      <span className="post-cat">{t(`posts.${post.id}.cat`)}</span>
-                      <span>{t(`posts.${post.id}.date`)}</span>
-                    </div>
-                    <h3>{t(`posts.${post.id}.title`)}</h3>
-                    <p className="ex">{t(`posts.${post.id}.excerpt`)}</p>
-                    <div className="more">
-                      <span className="textlink">
-                        {t("readMore")} <span className="arr">→</span>
-                      </span>
-                    </div>
-                  </div>
-                </Link>
-              </Reveal>
-            ))}
-
-            <Reveal
-              as="div"
-              className="post-card"
-              delay={2}
-              style={{
-                background: "var(--forest)",
-                color: "var(--bone)",
-                borderColor: "var(--forest)",
-                justifyContent: "center",
-              }}
-            >
-              <div className="body" style={{ textAlign: "center", alignItems: "center" }}>
-                <span className="pill" style={{ background: "rgba(132,190,69,.2)", color: "var(--leaf)" }}>
-                  {t("newsletter.pill")}
-                </span>
-                <h3 style={{ color: "#fff", marginTop: "14px" }}>{t("newsletter.title")}</h3>
-                <p className="ex" style={{ color: "rgba(246,243,236,.75)" }}>
-                  {t("newsletter.lead")}
-                </p>
-                <div className="more" style={{ width: "100%" }}>
-                  <Link className="btn btn-leaf" style={{ width: "100%" }} href="/contact">
-                    {t("newsletter.cta")} <span className="arr">→</span>
-                  </Link>
-                </div>
-              </div>
-            </Reveal>
-          </div>
-        </div>
-      </section>
+      <JournalFilterable
+        filters={journalFilters.map((f) => ({ key: f, label: t(`filters.${f}`) }))}
+        featured={toCard(featuredPost)}
+        featuredBadge={t("featuredBadge")}
+        readArticle={t("readArticle")}
+        posts={gridPosts.map(toCard)}
+        readMore={t("readMore")}
+        newsletter={{
+          pill: t("newsletter.pill"),
+          title: t("newsletter.title"),
+          lead: t("newsletter.lead"),
+          cta: t("newsletter.cta"),
+        }}
+      />
 
       {/* CTA BAND */}
       <section className="section--tight">

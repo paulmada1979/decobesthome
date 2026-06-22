@@ -2436,11 +2436,10 @@
     "lead": "Kaufberatung, Pflegetipps und Materialwissen, die Ihnen helfen, natürlichen Bambus, Schilf und Reet auszuwählen, zu montieren und zu genießen.",
     "filters": {
       "all": "Alle",
-      "buying-guides": "Kaufberatung",
-      "care": "Pflege & Wartung",
-      "materials": "Materialien",
-      "sustainability": "Nachhaltigkeit",
-      "industry": "Branche"
+      "fencing": "Bambuszaun",
+      "moso": "Moso-Bambusstangen",
+      "reed": "Schilfrohrmatten",
+      "thatch": "Reetdach"
     },
     "featuredBadge": "Empfohlen",
     "readTime": "{mins} Min. Lesezeit",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "Wie China zum globalen Marktführer für den Export von Schilfrohrmatten wurde",
         "excerpt": "Ein Blick auf Lieferkette, Handwerkskunst und Größenordnung, die China zur weltweit ersten Adresse für natürlichen Schilfsichtschutz gemacht haben.",
-        "cat": "Branche",
+        "cat": "Schilfrohrmatten",
         "date": "November 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Warum Bambus 2025 in jedes europäische Zuhause gehört",
         "excerpt": "Von Balkonen bis zu Raumteilern — warum Bambus europäische Häuser und Gärten immer wieder für sich gewinnt.",
-        "cat": "Wohnen & Leben",
+        "cat": "Bambuszaun",
         "date": "Juli 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Jiangxi-Gui-Bambus: Das südliche Kraftpaket des nachhaltigen Bauens",
         "excerpt": "Wie ein schnell wachsender Bambus aus dem Süden das nachhaltige Bauen leise neu gestaltet.",
-        "cat": "Nachhaltigkeit",
+        "cat": "Moso-Bambusstangen",
         "date": "Juli 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "So wählen Sie den richtigen Bambuszaun für Ihren Außenbereich",
         "excerpt": "Höhen, Oberflächen und Formate — ein praktischer Leitfaden zur Auswahl des passenden Bambuszauns.",
-        "cat": "Kaufberatung",
+        "cat": "Bambuszaun",
         "date": "April 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "So reinigen und pflegen Sie einen verschmutzten Bambuszaun",
         "excerpt": "Einfache, chemiefreie Schritte, damit ein Bambuszaun über Jahre gut aussieht.",
-        "cat": "Pflege & Wartung",
+        "cat": "Bambuszaun",
         "date": "April 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Vielseitige Anwendungen von Moso-Bambusstangen für Haus und Garten",
         "excerpt": "Pergolen, Verkleidungen, Raumteiler und mehr — die vielen Wege, wie Moso-Stangen einen Raum verwandeln.",
-        "cat": "Haus & Garten",
+        "cat": "Moso-Bambusstangen",
         "date": "April 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "Die Eigenschaften von Moso-Bambus und seine breite Anwendung in Architektur & Dekoration",
         "excerpt": "Was Moso-Bambus so gut für Architektur und dekorative Arbeiten geeignet macht.",
-        "cat": "Materialien",
+        "cat": "Moso-Bambusstangen",
         "date": "April 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "Die Vorteile von Schilfrohrmatten für mehr Privatsphäre in Ihrem Garten",
         "excerpt": "Luftdurchlässig, natürlich und schnell montiert — warum Schilfsichtschutz ein Gartenfavorit ist.",
-        "cat": "Privatsphäre & Sichtschutz",
+        "cat": "Schilfrohrmatten",
         "date": "Juli 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "Der zeitlose Charme natürlicher Palmdach-Paneele",
         "excerpt": "Von Palapas bis zu Resorts — die anhaltende Anziehungskraft natürlicher Palmdächer.",
-        "cat": "Tradition",
+        "cat": "Reetdach",
         "date": "Mai 2025",
         "body": [
           {

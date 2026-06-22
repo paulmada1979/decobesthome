@@ -2435,12 +2435,11 @@
     "title": "Notes de terrain sur l'art de vivre au naturel.",
     "lead": "Guides d'achat, conseils d'entretien et savoir-faire matériaux pour vous aider à choisir, installer et apprécier le bambou, le roseau et le chaume naturels.",
     "filters": {
-      "all": "Tout",
-      "buying-guides": "Guides d'achat",
-      "care": "Entretien et maintenance",
-      "materials": "Matériaux",
-      "sustainability": "Durabilité",
-      "industry": "Secteur"
+      "all": "Tous",
+      "fencing": "Clôtures en bambou",
+      "moso": "Poteaux Moso",
+      "reed": "Clôtures en roseau",
+      "thatch": "Toiture de chaume"
     },
     "featuredBadge": "À la une",
     "readTime": "{mins} min de lecture",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "Comment la Chine est devenue le leader mondial des exportations de canisses de roseau",
         "excerpt": "Au cœur de la chaîne d'approvisionnement, du savoir-faire et de l'échelle qui ont fait de la Chine la source de référence mondiale pour les canisses de roseau naturel.",
-        "cat": "Secteur",
+        "cat": "Clôtures en roseau",
         "date": "novembre 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Pourquoi le bambou a sa place dans chaque foyer européen en 2025",
         "excerpt": "Des balcons aux séparations de pièces, voici pourquoi le bambou continue de séduire les foyers et jardins européens.",
-        "cat": "Maison et art de vivre",
+        "cat": "Clôtures en bambou",
         "date": "juillet 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Le bambou Gui du Jiangxi : la puissance méridionale de la construction durable",
         "excerpt": "Comment un bambou méridional à croissance rapide redéfinit discrètement la construction durable.",
-        "cat": "Durabilité",
+        "cat": "Poteaux Moso",
         "date": "juillet 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "Comment choisir la bonne clôture en bambou pour votre espace extérieur",
         "excerpt": "Hauteurs, finitions et formats — un guide pratique pour choisir la clôture en bambou qui vous convient.",
-        "cat": "Guide d'achat",
+        "cat": "Clôtures en bambou",
         "date": "avril 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "Comment nettoyer une clôture en bambou encrassée et l'entretenir",
         "excerpt": "Des gestes simples et sans produits chimiques pour conserver une belle clôture en bambou pendant des années.",
-        "cat": "Entretien et maintenance",
+        "cat": "Clôtures en bambou",
         "date": "avril 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Les usages polyvalents des cannes de bambou Moso pour embellir la maison et le jardin",
         "excerpt": "Pergolas, bardages, cloisons et bien plus — les multiples façons dont les cannes Moso transforment un espace.",
-        "cat": "Maison et jardin",
+        "cat": "Poteaux Moso",
         "date": "avril 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "Les caractéristiques du bambou Moso et sa large application en architecture et décoration",
         "excerpt": "Ce qui rend le bambou Moso si bien adapté à l'architecture et aux travaux décoratifs.",
-        "cat": "Matériaux",
+        "cat": "Poteaux Moso",
         "date": "avril 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "Les avantages des clôtures en roseau pour préserver l'intimité de votre jardin",
         "excerpt": "Respirantes, naturelles et rapides à installer — pourquoi les canisses de roseau sont les favorites du jardin.",
-        "cat": "Intimité et brise-vue",
+        "cat": "Clôtures en roseau",
         "date": "juillet 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "Le charme intemporel des panneaux de toiture en palme naturelle",
         "excerpt": "Des palapas aux complexes hôteliers, l'attrait durable de la toiture en palme naturelle.",
-        "cat": "Patrimoine",
+        "cat": "Toiture de chaume",
         "date": "mai 2025",
         "body": [
           {

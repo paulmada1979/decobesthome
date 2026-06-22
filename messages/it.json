@@ -2436,11 +2436,10 @@
     "lead": "Guide all'acquisto, consigli per la cura e know-how sui materiali per aiutarLa a scegliere, installare e godere appieno di bambù, canna palustre e paglia naturali.",
     "filters": {
       "all": "Tutti",
-      "buying-guides": "Guide all'acquisto",
-      "care": "Cura e manutenzione",
-      "materials": "Materiali",
-      "sustainability": "Sostenibilità",
-      "industry": "Settore"
+      "fencing": "Recinzioni in bambù",
+      "moso": "Pali Moso",
+      "reed": "Recinzioni in canna",
+      "thatch": "Tetto di paglia"
     },
     "featuredBadge": "In evidenza",
     "readTime": "{mins} min di lettura",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "Come la Cina è diventata leader globale nell'esportazione di arelle in canna palustre",
         "excerpt": "Uno sguardo all'interno della filiera, dell'artigianalità e della scala produttiva che hanno reso la Cina la fonte di riferimento mondiale per la schermatura naturale in canna palustre.",
-        "cat": "Settore",
+        "cat": "Recinzioni in canna",
         "date": "novembre 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Perché il bambù è di casa in ogni abitazione europea nel 2025",
         "excerpt": "Dai balconi ai separé, ecco perché il bambù continua a conquistare case e giardini d'Europa.",
-        "cat": "Casa e abitare",
+        "cat": "Recinzioni in bambù",
         "date": "luglio 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Il bambù Gui dello Jiangxi: la potenza del Sud per l'edilizia sostenibile",
         "excerpt": "Come un bambù meridionale a crescita rapida sta silenziosamente ridisegnando l'edilizia sostenibile.",
-        "cat": "Sostenibilità",
+        "cat": "Pali Moso",
         "date": "luglio 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "Come scegliere la recinzione in bambù giusta per il Suo spazio esterno",
         "excerpt": "Altezze, finiture e formati: una guida pratica per scegliere la recinzione in bambù più adatta.",
-        "cat": "Guida all'acquisto",
+        "cat": "Recinzioni in bambù",
         "date": "aprile 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "Come pulire una recinzione in bambù sporca e mantenerla",
         "excerpt": "Passaggi semplici e privi di sostanze chimiche per mantenere bella una recinzione in bambù negli anni.",
-        "cat": "Cura e manutenzione",
+        "cat": "Recinzioni in bambù",
         "date": "aprile 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Gli usi versatili delle canne di bambù Moso per valorizzare casa e giardino",
         "excerpt": "Pergole, rivestimenti, divisori e molto altro: i tanti modi in cui le canne di Moso trasformano uno spazio.",
-        "cat": "Casa e giardino",
+        "cat": "Pali Moso",
         "date": "aprile 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "Le caratteristiche del bambù Moso e la sua ampia applicazione in architettura e decorazione",
         "excerpt": "Cosa rende il bambù Moso così adatto all'architettura e ai lavori decorativi.",
-        "cat": "Materiali",
+        "cat": "Pali Moso",
         "date": "aprile 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "I vantaggi delle recinzioni in canna palustre per la privacy del Suo giardino",
         "excerpt": "Traspirante, naturale e rapida da installare: ecco perché la schermatura in canna palustre è una delle preferite in giardino.",
-        "cat": "Privacy e schermatura",
+        "cat": "Recinzioni in canna",
         "date": "luglio 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "Il fascino senza tempo dei pannelli per tetto in paglia di palma naturale",
         "excerpt": "Dalle palapa ai resort, l'attrattiva intramontabile della copertura in paglia di palma naturale.",
-        "cat": "Tradizione",
+        "cat": "Tetto di paglia",
         "date": "maggio 2025",
         "body": [
           {

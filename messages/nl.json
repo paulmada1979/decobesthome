@@ -2436,11 +2436,10 @@
     "lead": "Koopgidsen, onderhoudstips en materiaalkennis die u helpen natuurlijk bamboe, riet en rieten dak te kiezen, te installeren en ervan te genieten.",
     "filters": {
       "all": "Alles",
-      "buying-guides": "Koopgidsen",
-      "care": "Onderhoud",
-      "materials": "Materialen",
-      "sustainability": "Duurzaamheid",
-      "industry": "Branche"
+      "fencing": "Bamboe-omheining",
+      "moso": "Moso-palen",
+      "reed": "Riet-omheining",
+      "thatch": "Rieten dak"
     },
     "featuredBadge": "Uitgelicht",
     "readTime": "{mins} min leestijd",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "Hoe China wereldleider werd in de export van rietschermen",
         "excerpt": "Een blik op de toeleveringsketen, het vakmanschap en de schaal die China tot wereldwijd dé bron voor natuurlijke rietafscherming maakten.",
-        "cat": "Branche",
+        "cat": "Riet-omheining",
         "date": "november 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Waarom bamboe in 2025 thuishoort in elk Europees huis",
         "excerpt": "Van balkons tot kamerschermen — waarom bamboe Europese huizen en tuinen blijft veroveren.",
-        "cat": "Wonen & Leven",
+        "cat": "Bamboe-omheining",
         "date": "juli 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Jiangxi Gui-bamboe: de zuidelijke krachtpatser van duurzaam bouwen",
         "excerpt": "Hoe een snelgroeiende zuidelijke bamboesoort het duurzaam bouwen stilletjes hervormt.",
-        "cat": "Duurzaamheid",
+        "cat": "Moso-palen",
         "date": "juli 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "Hoe kiest u de juiste bamboe-omheining voor uw buitenruimte",
         "excerpt": "Hoogtes, afwerkingen en formaten — een praktische gids om de bamboe-omheining te kiezen die past.",
-        "cat": "Koopgids",
+        "cat": "Bamboe-omheining",
         "date": "april 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "Hoe reinigt en onderhoudt u een vuile bamboe-omheining",
         "excerpt": "Eenvoudige, chemievrije stappen om een bamboe-omheining jarenlang mooi te houden.",
-        "cat": "Onderhoud",
+        "cat": "Bamboe-omheining",
         "date": "april 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Veelzijdige toepassingen van Moso-bamboepalen voor huis en tuin",
         "excerpt": "Pergola's, bekleding, scheidingswanden en meer — de vele manieren waarop Moso-palen een ruimte transformeren.",
-        "cat": "Huis & Tuin",
+        "cat": "Moso-palen",
         "date": "april 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "De eigenschappen van Moso-bamboe en de brede toepassing in architectuur en decoratie",
         "excerpt": "Wat Moso-bamboe zo geschikt maakt voor architectuur en decoratief werk.",
-        "cat": "Materialen",
+        "cat": "Moso-palen",
         "date": "april 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "De voordelen van rietomheiningen voor privacy in uw tuin",
         "excerpt": "Ademend, natuurlijk en snel te installeren — waarom rietafscherming een tuinfavoriet is.",
-        "cat": "Privacy & Afscherming",
+        "cat": "Riet-omheining",
         "date": "juli 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "De tijdloze charme van natuurlijke palmdakpanelen",
         "excerpt": "Van palapa's tot resorts, de blijvende aantrekkingskracht van natuurlijke palmdaken.",
-        "cat": "Erfgoed",
+        "cat": "Rieten dak",
         "date": "mei 2025",
         "body": [
           {

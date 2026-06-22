@@ -25,7 +25,7 @@ export const posts: Post[] = [
     date: "2025-11-01",
     readMins: 6,
     featured: true,
-    category: "industry",
+    category: "reed",
     images: [
       "/images/blog/china-reed-screen-exports-1.webp",
       "/images/blog/china-reed-screen-exports-2.webp",
@@ -38,7 +38,7 @@ export const posts: Post[] = [
     image: "/images/blog/bamboo-european-home-2025-hero.webp",
     href: "https://decobesthome.com/why-bamboo-belongs-in-every-european-home-in-2025/",
     date: "2025-07-01",
-    category: "materials",
+    category: "fencing",
     images: [
       "/images/blog/bamboo-european-home-2025-1.webp",
       "/images/blog/bamboo-european-home-2025-2.webp",
@@ -51,7 +51,7 @@ export const posts: Post[] = [
     image: "/images/blog/jiangxi-gui-bamboo-hero.webp",
     href: "https://decobesthome.com/jiangxi-gui-bamboo-the-southern-powerhouse-of-sustainable-construction/",
     date: "2025-07-01",
-    category: "sustainability",
+    category: "moso",
     images: [
       "/images/blog/jiangxi-gui-bamboo-1.webp",
       "/images/blog/jiangxi-gui-bamboo-2.webp",
@@ -64,7 +64,7 @@ export const posts: Post[] = [
     image: "/images/blog/choose-right-bamboo-fence-hero.webp",
     href: "https://decobesthome.com/how-to-choose-the-right-bamboo-fence-for-your-outdoor-space/",
     date: "2025-04-01",
-    category: "buying-guides",
+    category: "fencing",
     images: [
       "/images/blog/choose-right-bamboo-fence-1.webp",
     ],
@@ -75,7 +75,7 @@ export const posts: Post[] = [
     image: "/images/blog/clean-bamboo-fence-hero.webp",
     href: "https://decobesthome.com/how-to-clean-a-dirty-bamboo-fence-and-maintain-it/",
     date: "2025-04-01",
-    category: "care",
+    category: "fencing",
     images: [
       "/images/blog/clean-bamboo-fence-1.webp",
       "/images/blog/clean-bamboo-fence-2.webp",
@@ -89,7 +89,7 @@ export const posts: Post[] = [
     image: "/images/blog/moso-poles-uses-hero.webp",
     href: "https://decobesthome.com/versatile-uses-of-moso-bamboo-poles-for-home-and-garden-enhancements/",
     date: "2025-04-01",
-    category: "materials",
+    category: "moso",
     images: [
       "/images/blog/moso-poles-uses-1.webp",
       "/images/blog/moso-poles-uses-2.webp",
@@ -103,7 +103,7 @@ export const posts: Post[] = [
     image: "/images/blog/moso-characteristics-architecture-hero.webp",
     href: "https://decobesthome.com/the-characteristics-of-moso-bamboo-and-its-wide-application-in-architecture-decoration/",
     date: "2025-04-01",
-    category: "materials",
+    category: "moso",
     images: [
       "/images/blog/moso-characteristics-architecture-1.webp",
       "/images/blog/moso-characteristics-architecture-2.webp",
@@ -115,7 +115,7 @@ export const posts: Post[] = [
     image: "/images/blog/reed-fence-privacy-hero.webp",
     href: "https://decobesthome.com/the-benefits-of-using-reed-fences-for-privacy-in-your-garden/",
     date: "2025-07-01",
-    category: "buying-guides",
+    category: "reed",
     images: [
       "/images/blog/reed-fence-privacy-1.webp",
       "/images/blog/reed-fence-privacy-2.webp",
@@ -127,7 +127,7 @@ export const posts: Post[] = [
     image: "/images/blog/palm-thatch-roof-panels-hero.webp",
     href: "https://decobesthome.com/the-timeless-charm-of-natural-palm-thatch-roof-panels/",
     date: "2025-05-01",
-    category: "materials",
+    category: "thatch",
     images: [
       "/images/blog/palm-thatch-roof-panels-1.webp",
       "/images/blog/palm-thatch-roof-panels-2.webp",
@@ -147,9 +147,8 @@ export function getPost(slug: string): Post | undefined {
 /** Filter chip keys, map to messages journal.filters.{key}. */
 export const journalFilters = [
   "all",
-  "buying-guides",
-  "care",
-  "materials",
-  "sustainability",
-  "industry",
+  "fencing",
+  "moso",
+  "reed",
+  "thatch",
 ] as const;

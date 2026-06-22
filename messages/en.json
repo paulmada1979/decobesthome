@@ -2436,11 +2436,10 @@
     "lead": "Buying guides, care tips and materials know-how to help you choose, install and enjoy natural bamboo, reed and thatch.",
     "filters": {
       "all": "All",
-      "buying-guides": "Buying guides",
-      "care": "Care & maintenance",
-      "materials": "Materials",
-      "sustainability": "Sustainability",
-      "industry": "Industry"
+      "fencing": "Bamboo fencing",
+      "moso": "Moso poles",
+      "reed": "Reed fencing",
+      "thatch": "Thatch roof"
     },
     "featuredBadge": "Featured",
     "readTime": "{mins} min read",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "How China Became the Global Leader in Reed Screen Exports",
         "excerpt": "Inside the supply chain, craftsmanship and scale that made China the world's go-to source for natural reed screening.",
-        "cat": "Industry",
+        "cat": "Reed fencing",
         "date": "November 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Why Bamboo Belongs in Every European Home in 2025",
         "excerpt": "From balconies to room dividers, here's why bamboo keeps winning over European homes and gardens.",
-        "cat": "Home & Living",
+        "cat": "Bamboo fencing",
         "date": "July 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Jiangxi Gui Bamboo: The Southern Powerhouse of Sustainable Construction",
         "excerpt": "How a fast-growing southern bamboo is quietly reshaping sustainable building.",
-        "cat": "Sustainability",
+        "cat": "Moso poles",
         "date": "July 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "How to Choose the Right Bamboo Fence for Your Outdoor Space",
         "excerpt": "Heights, finishes and formats — a practical guide to picking the bamboo fence that fits.",
-        "cat": "Buying Guide",
+        "cat": "Bamboo fencing",
         "date": "April 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "How to Clean a Dirty Bamboo Fence and Maintain It",
         "excerpt": "Simple, chemical-free steps to keep a bamboo fence looking good for years.",
-        "cat": "Care & Maintenance",
+        "cat": "Bamboo fencing",
         "date": "April 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Versatile Uses of Moso Bamboo Poles for Home and Garden Enhancements",
         "excerpt": "Pergolas, cladding, dividers and more — the many ways Moso poles transform a space.",
-        "cat": "Home & Garden",
+        "cat": "Moso poles",
         "date": "April 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "The Characteristics of Moso Bamboo and Its Wide Application in Architecture & Decoration",
         "excerpt": "What makes Moso bamboo so well suited to architecture and decorative work.",
-        "cat": "Materials",
+        "cat": "Moso poles",
         "date": "April 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "The Benefits of Using Reed Fences for Privacy in Your Garden",
         "excerpt": "Breathable, natural and quick to install — why reed screening is a garden favourite.",
-        "cat": "Privacy & Screening",
+        "cat": "Reed fencing",
         "date": "July 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "The Timeless Charm of Natural Palm Thatch Roof Panels",
         "excerpt": "From palapas to resorts, the enduring appeal of natural palm thatch roofing.",
-        "cat": "Heritage",
+        "cat": "Thatch roof",
         "date": "May 2025",
         "body": [
           {

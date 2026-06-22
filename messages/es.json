@@ -2436,11 +2436,10 @@
     "lead": "Guías de compra, consejos de cuidado y conocimiento de materiales para ayudarle a elegir, instalar y disfrutar del bambú, el junco y la paja naturales.",
     "filters": {
       "all": "Todos",
-      "buying-guides": "Guías de compra",
-      "care": "Cuidado y mantenimiento",
-      "materials": "Materiales",
-      "sustainability": "Sostenibilidad",
-      "industry": "Sector"
+      "fencing": "Vallas de bambú",
+      "moso": "Postes Moso",
+      "reed": "Vallas de junco",
+      "thatch": "Techo de paja"
     },
     "featuredBadge": "Destacado",
     "readTime": "{mins} min de lectura",
@@ -2450,7 +2449,7 @@
       "china-reed-screen-exports": {
         "title": "Cómo China se convirtió en el líder mundial en exportación de cañizos de junco",
         "excerpt": "Por dentro de la cadena de suministro, la artesanía y la escala que convirtieron a China en la fuente de referencia mundial para el cañizo natural de junco.",
-        "cat": "Sector",
+        "cat": "Vallas de junco",
         "date": "noviembre de 2025",
         "body": [
           {
@@ -2533,7 +2532,7 @@
       "bamboo-european-home-2025": {
         "title": "Por qué el bambú tiene su lugar en todos los hogares europeos en 2025",
         "excerpt": "Desde balcones hasta separadores de ambientes, estas son las razones por las que el bambú sigue conquistando los hogares y jardines de Europa.",
-        "cat": "Hogar y vida",
+        "cat": "Vallas de bambú",
         "date": "julio de 2025",
         "body": [
           {
@@ -2641,7 +2640,7 @@
       "jiangxi-gui-bamboo": {
         "title": "Bambú Gui de Jiangxi: la potencia del sur para la construcción sostenible",
         "excerpt": "Cómo un bambú de rápido crecimiento del sur está transformando discretamente la construcción sostenible.",
-        "cat": "Sostenibilidad",
+        "cat": "Postes Moso",
         "date": "julio de 2025",
         "body": [
           {
@@ -2687,7 +2686,7 @@
       "choose-right-bamboo-fence": {
         "title": "Cómo elegir la valla de bambú adecuada para su espacio exterior",
         "excerpt": "Alturas, acabados y formatos: una guía práctica para elegir la valla de bambú que mejor encaja.",
-        "cat": "Guía de compra",
+        "cat": "Vallas de bambú",
         "date": "abril de 2025",
         "body": [
           {
@@ -2790,7 +2789,7 @@
       "clean-bamboo-fence": {
         "title": "Cómo limpiar una valla de bambú sucia y mantenerla",
         "excerpt": "Pasos sencillos y sin productos químicos para mantener una valla de bambú con buen aspecto durante años.",
-        "cat": "Cuidado y mantenimiento",
+        "cat": "Vallas de bambú",
         "date": "abril de 2025",
         "body": [
           {
@@ -2877,7 +2876,7 @@
       "moso-poles-uses": {
         "title": "Usos versátiles de las cañas de bambú Moso para mejoras del hogar y el jardín",
         "excerpt": "Pérgolas, revestimientos, separadores y mucho más: las múltiples formas en que las cañas de Moso transforman un espacio.",
-        "cat": "Hogar y jardín",
+        "cat": "Postes Moso",
         "date": "abril de 2025",
         "body": [
           {
@@ -2939,7 +2938,7 @@
       "moso-characteristics-architecture": {
         "title": "Las características del bambú Moso y su amplia aplicación en arquitectura y decoración",
         "excerpt": "Qué hace que el bambú Moso sea tan idóneo para la arquitectura y los trabajos decorativos.",
-        "cat": "Materiales",
+        "cat": "Postes Moso",
         "date": "abril de 2025",
         "body": [
           {
@@ -3016,7 +3015,7 @@
       "reed-fence-privacy": {
         "title": "Las ventajas de usar vallas de junco para la privacidad de su jardín",
         "excerpt": "Transpirable, natural y rápido de instalar: por qué el cañizo de junco es uno de los favoritos del jardín.",
-        "cat": "Privacidad y cerramiento",
+        "cat": "Vallas de junco",
         "date": "julio de 2025",
         "body": [
           {
@@ -3096,7 +3095,7 @@
       "palm-thatch-roof-panels": {
         "title": "El encanto atemporal de los paneles naturales de techo de palma",
         "excerpt": "Desde palapas hasta complejos turísticos, el atractivo perdurable del techo natural de palma.",
-        "cat": "Tradición",
+        "cat": "Techo de paja",
         "date": "mayo de 2025",
         "body": [
           {

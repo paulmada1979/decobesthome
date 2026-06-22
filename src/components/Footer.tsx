@@ -1,15 +1,10 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { company, socials, logos } from "@/lib/site";
+import { megaProducts } from "@/lib/products";
 
-const FOOTER_PRODUCTS = [
-  "tonkin-bamboo-canes",
-  "decor-moso-bamboo-poles",
-  "bamboo-fencing-edging",
-  "bamboo-fence-panels",
-  "reed-fencing",
-  "natural-thatch-roof",
-];
+// Mirror the header mega menu exactly (same items, order and names).
+const FOOTER_PRODUCTS = megaProducts.map((p) => p.id);
 
 function Socials() {
   return (

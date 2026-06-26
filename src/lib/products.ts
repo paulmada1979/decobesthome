@@ -12,6 +12,8 @@ export type Product = {
   placeholder?: boolean;
   /** Extra gallery images for the detail page (first entry is the main image). */
   gallery?: string[];
+  /** Optional separate page-top hero banner (when it should differ from gallery[0]). */
+  heroImage?: string;
   /** Whether the product has the rich detail content block in messages.products.detail.{id}. */
   hasDetail?: boolean;
   /** Render the long-form "about" text section (messages.products.detail.items.{id}.about). */
@@ -204,7 +206,12 @@ export const products: Product[] = [
     slug: "bamboo-flower-sticks",
     image: "/images/flower-hero.webp",
     icon: "🪴",
-    gallery: ["/images/flower-hero.webp"],
+    heroImage: "/images/flower-hero.webp",
+    gallery: ["/images/flower/main.webp"],
+    hasAbout: true,
+    hasVariations: true,
+    variationsFirst: true,
+    variationDir: "flower",
     unlisted: true,
   },
   {

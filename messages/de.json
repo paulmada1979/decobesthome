@@ -749,7 +749,62 @@
               "k": "Verladehafen",
               "v": "Xiamen, China"
             }
-          ]
+          ],
+          "about": {
+            "eyebrow": "The product",
+            "title": "A nursery and florist essential",
+            "body": [
+              {
+                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+              },
+              {
+                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+              },
+              {
+                "h3": "Natural and chemical-free"
+              },
+              {
+                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+              }
+            ]
+          },
+          "variations": {
+            "eyebrow": "Variations",
+            "title": "Finishes and types",
+            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "items": [
+              {
+                "img": "var-natural.webp",
+                "title": "Natural bamboo sticks",
+                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+              },
+              {
+                "img": "var-green.webp",
+                "title": "Green-dyed sticks",
+                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+              },
+              {
+                "img": "var-black.webp",
+                "title": "Black-dyed sticks",
+                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+              },
+              {
+                "img": "var-brown.webp",
+                "title": "Brown-dyed sticks",
+                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+              },
+              {
+                "img": "var-grooved.webp",
+                "title": "Grooved support sticks",
+                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+              },
+              {
+                "img": "var-ushaped.webp",
+                "title": "U-shaped garden pins",
+                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+              }
+            ]
+          }
         },
         "bamboo-plywood": {
           "eyebrow": "Naturbambus",

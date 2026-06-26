@@ -76,7 +76,7 @@ export default async function ProductDetailPage({
   const tr = await getTranslations("products.reed");
 
   const name = tn(product.id);
-  const heroImage = product.gallery?.[0] || product.image || "/images/natural-bamboo-fence-1.webp";
+  const heroImage = product.heroImage || product.gallery?.[0] || product.image || "/images/natural-bamboo-fence-1.webp";
   const galleryImages = product.gallery ?? (product.image ? [product.image] : []);
   const spec = t.raw(`items.${product.id}.spec`) as { k: string; v: string }[];
 

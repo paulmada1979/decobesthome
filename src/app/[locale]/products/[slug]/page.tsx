@@ -98,7 +98,9 @@ export default async function ProductDetailPage({
           </p>
         </Reveal>
         <Reveal as="div" className="var-grid" delay={1}>
-          {(t.raw(`items.${product.id}.variations.items`) as Variation[]).map((v) => {
+          {(t.raw(`items.${product.id}.variations.items`) as Variation[])
+            .filter((v) => !product.hiddenVariations?.includes(v.img))
+            .map((v) => {
             const inner = (
               <>
                 <div className="ph">

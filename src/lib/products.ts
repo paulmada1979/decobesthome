@@ -24,6 +24,8 @@ export type Product = {
   variationsFirst?: boolean;
   /** Folder under /images that holds this product's variation thumbnails. */
   variationDir?: string;
+  /** Variation image filenames to hide (kept in messages, just not rendered). */
+  hiddenVariations?: string[];
   /** Hide from menu/catalog/related listings (page still builds at its URL). For unfinished ranges. */
   unlisted?: boolean;
   /** Optional size chart rows (length + diameter range). Labels live in messages. */
@@ -87,6 +89,7 @@ export const products: Product[] = [
     hasAbout: true,
     hasVariations: true,
     variationDir: "moso",
+    hiddenVariations: ["var-large.webp", "var-slats.webp", "var-twig.webp"],
     gallery: [
       "/images/moso-hero.webp",
       "/images/moso/scene-2.webp",

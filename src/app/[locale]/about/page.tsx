@@ -68,7 +68,7 @@ export default async function AboutPage({
           </Reveal>
           <Reveal className="media square" delay={2}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/about-cottage.webp" alt={t("story.imageAlt")} />
+            <img src="/images/about-daybed.webp" alt={t("story.imageAlt")} />
           </Reveal>
         </div>
       </section>

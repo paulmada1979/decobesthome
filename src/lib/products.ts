@@ -210,7 +210,8 @@ export const products: Product[] = [
     image: "/images/flower-hero.webp",
     icon: "🪴",
     heroImage: "/images/flower-hero.webp",
-    gallery: ["/images/flower/main.webp"],
+    // flower/main.webp (the 4-up stick grid) kept on disk, hidden for now — swap back anytime.
+    gallery: ["/images/flower/main2.webp"],
     hasAbout: true,
     hasVariations: true,
     variationsFirst: true,

@@ -751,57 +751,57 @@
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A nursery and florist essential",
+            "eyebrow": "Das Produkt",
+            "title": "Ein Muss für Gärtnereien und Floristen",
             "body": [
               {
-                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+                "p": "Bambus-Blumenstäbe sind ein vielseitiges Alltagswerkzeug für Gartenarbeit und Blumenarrangements. Sie bestehen aus 100 % Naturbambus, stützen Pflanzen und setzen überall, wo sie zum Einsatz kommen, einen natürlichen, rustikalen Akzent."
               },
               {
-                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+                "p": "Als Pflanzstäbe halten sie Stängel aufrecht – besonders bei hohen oder rankenden Pflanzen –, verhindern ein Abknicken und Umkippen und fördern ein gesünderes, geraderes Wachstum. Dank ihrer leichten, schlanken Form sind sie zudem ein beliebter Favorit für Sträuße und florale Dekorationen."
               },
               {
-                "h3": "Natural and chemical-free"
+                "h3": "Natürlich und frei von Chemikalien"
               },
               {
-                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+                "p": "Bambus ist ein nachwachsender, schnell wachsender Rohstoff, sodass die Stäbe eine umweltfreundliche Wahl ohne schädliche Chemikalien sind. Geliefert werden sie sortiert, gebündelt und in großen Mengen für Gärtnereien, Erzeuger und Garten-Fachhändler – natur oder gefärbt, auf Wunsch mit Private-Label-Verpackung."
               }
             ]
           },
           "variations": {
-            "eyebrow": "Variations",
-            "title": "Finishes and types",
-            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "eyebrow": "Varianten",
+            "title": "Oberflächen und Ausführungen",
+            "lead": "Natur oder gefärbt, fein bis dick, dazu gerillte Stäbe und U-förmige Befestigungshaken – wählen Sie den Blumenstab, der zu Ihrem Sortiment passt.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natural bamboo sticks",
-                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+                "title": "Bambusstäbe natur",
+                "desc": "Klassische Bambus-Pflanzstäbe in Natur für Pflanzen, Setzlinge und Sträuße."
               },
               {
                 "img": "var-green.webp",
-                "title": "Green-dyed sticks",
-                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+                "title": "Grün gefärbte Stäbe",
+                "desc": "Grün gefärbte Stäbe, die sich dezent in Laub und Arrangements einfügen."
               },
               {
                 "img": "var-black.webp",
-                "title": "Black-dyed sticks",
-                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+                "title": "Schwarz gefärbte Stäbe",
+                "desc": "Schlanke, schwarz gefärbte Stäbe für ein modernes, dekoratives Finish."
               },
               {
                 "img": "var-brown.webp",
-                "title": "Brown-dyed sticks",
-                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+                "title": "Braun gefärbte Stäbe",
+                "desc": "Warm braun gefärbte Stäbe mit einem natürlichen, rustikalen Ton."
               },
               {
                 "img": "var-grooved.webp",
-                "title": "Grooved support sticks",
-                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+                "title": "Gerillte Pflanzstäbe",
+                "desc": "Robustere Stäbe mit gerillter Oberfläche für höhere oder rankende Pflanzen."
               },
               {
                 "img": "var-ushaped.webp",
-                "title": "U-shaped garden pins",
-                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+                "title": "U-förmige Gartenhaken",
+                "desc": "U-förmige Bambushaken zum Befestigen von Netzen, Vlies und niedrigen Pflanzen."
               }
             ]
           }

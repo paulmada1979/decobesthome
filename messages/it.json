@@ -751,57 +751,57 @@
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A nursery and florist essential",
+            "eyebrow": "Il prodotto",
+            "title": "Un essenziale per vivai e fioristi",
             "body": [
               {
-                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+                "p": "Le bacchette di bambù per fiori sono uno strumento versatile e di uso quotidiano per il giardinaggio e le composizioni floreali. Realizzate in bambù 100% naturale, sostengono le piante e aggiungono un accento naturale e rustico ovunque vengano impiegate."
               },
               {
-                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+                "p": "Come tutori mantengono gli steli eretti — in particolare quelli delle piante alte o rampicanti — prevenendo piegamenti e cadute e favorendo una crescita più sana e dritta. La loro forma leggera e sottile le rende inoltre molto apprezzate per bouquet e allestimenti floreali."
               },
               {
-                "h3": "Natural and chemical-free"
+                "h3": "Naturali e prive di sostanze chimiche"
               },
               {
-                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+                "p": "Il bambù è una risorsa rinnovabile e a rapida crescita, perciò le bacchette rappresentano una scelta ecologica e priva di sostanze chimiche nocive. Fornite selezionate, in fascine e in grandi quantità per vivai, coltivatori e rivenditori di articoli da giardino — naturali o tinte, con confezionamento private label su richiesta."
               }
             ]
           },
           "variations": {
-            "eyebrow": "Variations",
-            "title": "Finishes and types",
-            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "eyebrow": "Varianti",
+            "title": "Finiture e tipologie",
+            "lead": "Naturali o tinte, da sottili a spesse, oltre a bacchette scanalate e fermi a forma di U — scegli la bacchetta per fiori più adatta alla tua gamma.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natural bamboo sticks",
-                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+                "title": "Bacchette di bambù naturale",
+                "desc": "Classici tutori in bambù naturale per piante, piantine e bouquet."
               },
               {
                 "img": "var-green.webp",
-                "title": "Green-dyed sticks",
-                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+                "title": "Bacchette tinte di verde",
+                "desc": "Bacchette tinte di verde che si fondono discretamente con fogliame e composizioni."
               },
               {
                 "img": "var-black.webp",
-                "title": "Black-dyed sticks",
-                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+                "title": "Bacchette tinte di nero",
+                "desc": "Bacchette sottili tinte di nero per una finitura moderna e decorativa."
               },
               {
                 "img": "var-brown.webp",
-                "title": "Brown-dyed sticks",
-                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+                "title": "Bacchette tinte di marrone",
+                "desc": "Calde bacchette tinte di marrone dal tono naturale e rustico."
               },
               {
                 "img": "var-grooved.webp",
-                "title": "Grooved support sticks",
-                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+                "title": "Tutori scanalati",
+                "desc": "Bacchette più robuste con finitura scanalata per piante alte o rampicanti."
               },
               {
                 "img": "var-ushaped.webp",
-                "title": "U-shaped garden pins",
-                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+                "title": "Fermi da giardino a forma di U",
+                "desc": "Fermi in bambù a forma di U per fissare reti, teli e piante basse."
               }
             ]
           }

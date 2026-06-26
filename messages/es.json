@@ -751,57 +751,57 @@
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A nursery and florist essential",
+            "eyebrow": "El producto",
+            "title": "Un imprescindible para viveros y floristerías",
             "body": [
               {
-                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+                "p": "Las varillas de bambú para flores son una herramienta versátil y de uso diario en jardinería y composiciones florales. Fabricadas con bambú 100 % natural, sostienen las plantas y aportan un acento natural y rústico allá donde se utilizan."
               },
               {
-                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+                "p": "Como tutores, mantienen los tallos erguidos —especialmente en plantas altas o trepadoras—, evitando que se doblen o se vuelquen y favoreciendo un crecimiento más sano y recto. Su forma ligera y esbelta las convierte además en una opción muy apreciada para ramos y arreglos florales."
               },
               {
-                "h3": "Natural and chemical-free"
+                "h3": "Natural y sin productos químicos"
               },
               {
-                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+                "p": "El bambú es un recurso renovable y de rápido crecimiento, por lo que las varillas son una opción ecológica que no contiene productos químicos nocivos. Se suministran clasificadas, agrupadas en haces y a granel para viveros, productores y minoristas de jardinería —naturales o teñidas, con embalaje de marca blanca bajo pedido."
               }
             ]
           },
           "variations": {
-            "eyebrow": "Variations",
-            "title": "Finishes and types",
-            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "eyebrow": "Variantes",
+            "title": "Acabados y tipos",
+            "lead": "Naturales o teñidas, de finas a gruesas, además de varillas ranuradas y horquillas en forma de U: elija la varilla para flores que mejor encaje en su gama.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natural bamboo sticks",
-                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+                "title": "Varillas de bambú natural",
+                "desc": "Tutores clásicos de bambú natural para plantas, plántulas y ramos."
               },
               {
                 "img": "var-green.webp",
-                "title": "Green-dyed sticks",
-                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+                "title": "Varillas teñidas de verde",
+                "desc": "Varillas teñidas de verde que se integran de forma discreta en el follaje y los arreglos."
               },
               {
                 "img": "var-black.webp",
-                "title": "Black-dyed sticks",
-                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+                "title": "Varillas teñidas de negro",
+                "desc": "Varillas esbeltas teñidas de negro para un acabado moderno y decorativo."
               },
               {
                 "img": "var-brown.webp",
-                "title": "Brown-dyed sticks",
-                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+                "title": "Varillas teñidas de marrón",
+                "desc": "Varillas teñidas de marrón cálido con un tono natural y rústico."
               },
               {
                 "img": "var-grooved.webp",
-                "title": "Grooved support sticks",
-                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+                "title": "Tutores ranurados",
+                "desc": "Varillas más resistentes con acabado ranurado para plantas altas o trepadoras."
               },
               {
                 "img": "var-ushaped.webp",
-                "title": "U-shaped garden pins",
-                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+                "title": "Horquillas de jardín en forma de U",
+                "desc": "Horquillas de bambú en forma de U para fijar mallas, tela y plantas bajas."
               }
             ]
           }

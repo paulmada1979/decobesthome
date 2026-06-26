@@ -751,57 +751,57 @@
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A nursery and florist essential",
+            "eyebrow": "Le produit",
+            "title": "Un indispensable pour les pépinières et les fleuristes",
             "body": [
               {
-                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+                "p": "Les tuteurs en bambou sont un outil polyvalent et quotidien pour le jardinage et les compositions florales. Fabriqués en bambou 100 % naturel, ils soutiennent les plantes et apportent une touche naturelle et rustique partout où ils sont utilisés."
               },
               {
-                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+                "p": "En tant que supports de plantes, ils maintiennent les tiges bien droites, en particulier les plantes hautes ou grimpantes, évitant qu'elles ne plient ou ne basculent et favorisant une croissance plus saine et plus rectiligne. Leur forme légère et élancée en fait également un choix de prédilection pour les bouquets et les présentations florales."
               },
               {
-                "h3": "Natural and chemical-free"
+                "h3": "Naturel et sans produits chimiques"
               },
               {
-                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+                "p": "Le bambou est une ressource renouvelable à croissance rapide : les baguettes constituent donc un choix écologique exempt de tout produit chimique nocif. Livrées calibrées, en bottes et en gros pour les pépinières, les producteurs et les jardineries, au naturel ou teintées, avec conditionnement en marque blanche sur demande."
               }
             ]
           },
           "variations": {
-            "eyebrow": "Variations",
-            "title": "Finishes and types",
-            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "eyebrow": "Variantes",
+            "title": "Finitions et types",
+            "lead": "Au naturel ou teinté, du fin au plus épais, avec également des baguettes rainurées et des piquets en forme de U : choisissez le tuteur en bambou adapté à votre gamme.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natural bamboo sticks",
-                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+                "title": "Tuteurs en bambou naturel",
+                "desc": "Tuteurs de soutien en bambou naturel classiques pour plantes, semis et bouquets."
               },
               {
                 "img": "var-green.webp",
-                "title": "Green-dyed sticks",
-                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+                "title": "Baguettes teintées en vert",
+                "desc": "Baguettes teintées en vert qui se fondent discrètement dans le feuillage et les compositions."
               },
               {
                 "img": "var-black.webp",
-                "title": "Black-dyed sticks",
-                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+                "title": "Baguettes teintées en noir",
+                "desc": "Fines baguettes teintées en noir pour une finition moderne et décorative."
               },
               {
                 "img": "var-brown.webp",
-                "title": "Brown-dyed sticks",
-                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+                "title": "Baguettes teintées en brun",
+                "desc": "Baguettes teintées en brun chaleureux, à la teinte naturelle et rustique."
               },
               {
                 "img": "var-grooved.webp",
-                "title": "Grooved support sticks",
-                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+                "title": "Tuteurs de soutien rainurés",
+                "desc": "Baguettes plus robustes à la finition rainurée pour les plantes hautes ou grimpantes."
               },
               {
                 "img": "var-ushaped.webp",
-                "title": "U-shaped garden pins",
-                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+                "title": "Piquets de jardin en forme de U",
+                "desc": "Piquets en bambou en forme de U pour fixer les filets, les toiles et les plantes basses."
               }
             ]
           }

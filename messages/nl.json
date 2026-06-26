@@ -751,57 +751,57 @@
             }
           ],
           "about": {
-            "eyebrow": "The product",
-            "title": "A nursery and florist essential",
+            "eyebrow": "Het product",
+            "title": "Onmisbaar voor kwekerij en bloemist",
             "body": [
               {
-                "p": "Bamboo flower sticks are a versatile, everyday tool for gardening and flower arrangements. Made from 100% natural bamboo, they support plants and add a natural, rustic accent wherever they are used."
+                "p": "Bamboe bloemstokjes zijn een veelzijdig, alledaags hulpmiddel voor de tuin en bloemstukken. Vervaardigd uit 100% natuurlijk bamboe ondersteunen ze planten en geven ze overal waar ze worden gebruikt een natuurlijk, rustiek accent."
               },
               {
-                "p": "As plant supports they keep stems upright — especially tall or climbing plants — preventing bending and toppling and encouraging healthier, straighter growth. Their lightweight, slender form also makes them a favourite for bouquets and floral displays."
+                "p": "Als plantensteun houden ze stengels rechtop — vooral bij hoge of klimmende planten — waardoor doorbuigen en omvallen wordt voorkomen en een gezondere, rechtere groei wordt gestimuleerd. Hun lichte, slanke vorm maakt ze ook geliefd voor boeketten en bloemarrangementen."
               },
               {
-                "h3": "Natural and chemical-free"
+                "h3": "Natuurlijk en chemievrij"
               },
               {
-                "p": "Bamboo is a renewable, fast-growing resource, so the sticks are an eco-friendly choice that contains no harmful chemicals. Supplied graded, bundled and in bulk for nurseries, growers and garden retailers — natural or dyed, with private-label packing on request."
+                "p": "Bamboe is een hernieuwbare, snelgroeiende grondstof, waardoor de stokjes een milieuvriendelijke keuze zijn die geen schadelijke chemicaliën bevat. Geleverd gesorteerd, gebundeld en in bulk voor kwekerijen, telers en tuinwinkels — naturel of geverfd, met private-labelverpakking op aanvraag."
               }
             ]
           },
           "variations": {
-            "eyebrow": "Variations",
-            "title": "Finishes and types",
-            "lead": "Natural or dyed, fine to thick, plus grooved sticks and U-shaped pins — pick the flower stick that fits your range.",
+            "eyebrow": "Variaties",
+            "title": "Afwerkingen en types",
+            "lead": "Naturel of geverfd, fijn tot dik, plus geribbelde stokjes en U-vormige pinnen — kies het bloemstokje dat bij uw assortiment past.",
             "items": [
               {
                 "img": "var-natural.webp",
-                "title": "Natural bamboo sticks",
-                "desc": "Classic natural bamboo support sticks for plants, seedlings and bouquets."
+                "title": "Naturel bamboestokjes",
+                "desc": "Klassieke naturel bamboe plantenstokjes voor planten, zaailingen en boeketten."
               },
               {
                 "img": "var-green.webp",
-                "title": "Green-dyed sticks",
-                "desc": "Green-dyed sticks that blend discreetly into foliage and arrangements."
+                "title": "Groen geverfde stokjes",
+                "desc": "Groen geverfde stokjes die onopvallend opgaan in het gebladerte en in arrangementen."
               },
               {
                 "img": "var-black.webp",
-                "title": "Black-dyed sticks",
-                "desc": "Slim black-dyed sticks for a modern, decorative finish."
+                "title": "Zwart geverfde stokjes",
+                "desc": "Slanke zwart geverfde stokjes voor een moderne, decoratieve afwerking."
               },
               {
                 "img": "var-brown.webp",
-                "title": "Brown-dyed sticks",
-                "desc": "Warm brown-dyed sticks with a natural, rustic tone."
+                "title": "Bruin geverfde stokjes",
+                "desc": "Warm bruin geverfde stokjes met een natuurlijke, rustieke tint."
               },
               {
                 "img": "var-grooved.webp",
-                "title": "Grooved support sticks",
-                "desc": "Sturdier sticks with a grooved finish for taller or climbing plants."
+                "title": "Geribbelde plantenstokjes",
+                "desc": "Stevigere stokjes met een geribbelde afwerking voor hogere of klimmende planten."
               },
               {
                 "img": "var-ushaped.webp",
-                "title": "U-shaped garden pins",
-                "desc": "U-shaped bamboo pins for securing netting, fabric and low plants."
+                "title": "U-vormige tuinpinnen",
+                "desc": "U-vormige bamboepinnen voor het vastzetten van netten, doek en lage planten."
               }
             ]
           }

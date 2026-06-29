@@ -53,7 +53,7 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   return (
-    <html lang={locale} className={`${cormorant.variable} ${hanken.variable}`}>
+    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${cormorant.variable} ${hanken.variable}`}>
       <body>
         <NextIntlClientProvider>
           <QuoteModalProvider>

@@ -13,6 +13,8 @@ const LABELS: Record<string, string> = {
   es: "ES",
   it: "IT",
   fr: "FR",
+  ja: "日本語",
+  ar: "العربية",
 };
 
 export default function LocaleSwitcher({ className }: { className?: string }) {

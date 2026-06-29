@@ -180,7 +180,7 @@ export const products: Product[] = [
     sizeChart: [
       { len: "10 – 20 mm", dia: "Light screening, edging and decorative panels" },
       { len: "20 – 30 mm", dia: "All-round garden privacy fencing" },
-      { len: "30 – 35 mm", dia: "Robust, high-privacy boundary screens" },
+      { len: "40 – 60 mm", dia: "Half-round type fencing" },
     ],
   },
   {

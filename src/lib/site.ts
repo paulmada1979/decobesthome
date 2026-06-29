@@ -1,9 +1,13 @@
+// Wrap a phone number in Unicode isolate marks (LRI…PDI) so it always renders
+// left-to-right, even when shown inside right-to-left (Arabic) text. Invisible in LTR.
+const ltr = (s: string) => `⁦${s}⁩`;
+
 export const company = {
   legalName: "Xiamen BestHome Imp. & Exp. Co., Ltd.",
   email: "sales@decobesthome.com",
-  mobile: "+86 180 5926 5951",
+  mobile: ltr("+86 180 5926 5951"),
   mobileHref: "tel:+8618059265951",
-  telFax: "+86 592 5978725",
+  telFax: ltr("+86 592 5978725"),
   office: "Haijing Rd 278#, Haicang Bonded Port Zone, Xiamen, Fujian 361000, China",
   factory: "Yuting Town, Huangshan 245000, Anhui Province, China",
   loadingPort: "Xiamen, China",

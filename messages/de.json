@@ -578,7 +578,7 @@
             "lead": "Drei Stabdurchmesser-Qualitäten, jede für eine andere Aufgabe geeignet. Jede Matte ist mit rostfreiem, verzinktem Stahldraht verbunden.",
             "colLength": "Stab-Ø",
             "colDiameter": "Am besten geeignet für",
-            "note": "Standard-Mattenlänge 3 m · Höhen 1,0–2,0 m · Sondergrößen auf Anfrage."
+            "note": "Standard-Mattenlänge 1.8 m · Höhen 1,0–2,0 m · Sondergrößen auf Anfrage."
           }
         },
         "bamboo-fence-panels": {
@@ -1343,7 +1343,7 @@
                 "desc": "Ein tieferer, wärmerer Braunton für warme Innenräume."
               },
               {
-                "img": "var-grey.webp",
+                "img": "var-grey2.webp",
                 "title": "Grau",
                 "desc": "Eine sanfte graue Lasur für einen kühlen, modernen Look."
               },

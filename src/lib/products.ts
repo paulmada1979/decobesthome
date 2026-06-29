@@ -137,7 +137,7 @@ export const products: Product[] = [
       "/images/divider/divider-main.webp",
       "/images/divider/scene-natural.webp",
       "/images/divider/scene-brown.webp",
-      "/images/divider/scene-grey.webp",
+      "/images/divider/scene-grey2.webp",
       "/images/divider/scene-moso.webp",
     ],
   },
@@ -240,7 +240,6 @@ export const products: Product[] = [
       "/images/reed-hero.webp",
       "/images/reed-fence-garden-4.webp",
       "/images/reed/gal-extrathick.webp",
-      "/images/reed/gal-halfround.webp",
     ],
     showcasePhotos: [
       "/images/reed-fence-garden-3-1024x574-3.webp",

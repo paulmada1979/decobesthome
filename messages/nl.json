@@ -578,7 +578,7 @@
             "lead": "Drie stokdiameter-sorteringen, elk geschikt voor een andere klus. Elke mat wordt samengebonden met roestvrij gegalvaniseerd staaldraad.",
             "colLength": "Stok-Ø",
             "colDiameter": "Geschikt voor",
-            "note": "Standaard matlengte 3 m · hoogtes 1,0–2,0 m · maatwerk op aanvraag."
+            "note": "Standaard matlengte 1.8 m · hoogtes 1,0–2,0 m · maatwerk op aanvraag."
           }
         },
         "bamboo-fence-panels": {
@@ -1343,7 +1343,7 @@
                 "desc": "Een diepere, warmere bruine tint voor warme interieurs."
               },
               {
-                "img": "var-grey.webp",
+                "img": "var-grey2.webp",
                 "title": "Grijs",
                 "desc": "Een zachte grijze wassing voor een koele, eigentijdse look."
               },

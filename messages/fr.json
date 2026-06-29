@@ -578,7 +578,7 @@
             "lead": "Trois catégories de diamètre de cannes, chacune adaptée à un usage différent. Chaque rouleau est assemblé avec un fil d'acier galvanisé inoxydable.",
             "colLength": "Ø des cannes",
             "colDiameter": "Idéal pour",
-            "note": "Longueur de rouleau standard 3 m · hauteurs 1,0–2,0 m · tailles sur mesure sur demande."
+            "note": "Longueur de rouleau standard 1.8 m · hauteurs 1,0–2,0 m · tailles sur mesure sur demande."
           }
         },
         "bamboo-fence-panels": {
@@ -1343,7 +1343,7 @@
                 "desc": "Un ton brun plus profond et chaleureux pour les intérieurs cosy."
               },
               {
-                "img": "var-grey.webp",
+                "img": "var-grey2.webp",
                 "title": "Gris",
                 "desc": "Un lavis gris doux pour un look frais et contemporain."
               },

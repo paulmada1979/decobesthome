@@ -578,7 +578,7 @@
             "lead": "Tre selezioni per diametro delle canne, ciascuna adatta a un impiego diverso. Ogni arella è assemblata con filo d'acciaio zincato antiruggine.",
             "colLength": "Ø canna",
             "colDiameter": "Ideale per",
-            "note": "Lunghezza standard dell'arella 3 m · altezze 1.0–2.0 m · misure su misura su richiesta."
+            "note": "Lunghezza standard dell'arella 1.8 m · altezze 1.0–2.0 m · misure su misura su richiesta."
           }
         },
         "bamboo-fence-panels": {
@@ -1343,7 +1343,7 @@
                 "desc": "Un tono marrone più profondo e caldo per interni accoglienti."
               },
               {
-                "img": "var-grey.webp",
+                "img": "var-grey2.webp",
                 "title": "Grigio",
                 "desc": "Una delicata patina grigia per un look fresco e contemporaneo."
               },

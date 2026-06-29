@@ -578,7 +578,7 @@
             "lead": "Three cane-diameter grades, each suited to a different job. Every roll is joined with rust-proof galvanised steel wire.",
             "colLength": "Cane Ø",
             "colDiameter": "Best for",
-            "note": "Standard roll length 3 m · heights 1.0–2.0 m · custom sizes on request."
+            "note": "Standard roll length 1.8 m · heights 1.0–2.0 m · custom sizes on request."
           }
         },
         "bamboo-fence-panels": {
@@ -1343,7 +1343,7 @@
                 "desc": "A deeper, richer brown tone for warmer interiors."
               },
               {
-                "img": "var-grey.webp",
+                "img": "var-grey2.webp",
                 "title": "Grey",
                 "desc": "A soft grey wash for a cool, contemporary look."
               },

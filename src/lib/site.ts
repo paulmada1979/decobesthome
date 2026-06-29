@@ -3,7 +3,7 @@
 const ltr = (s: string) => `⁦${s}⁩`;
 
 export const company = {
-  legalName: "Xiamen BestHome Imp. & Exp. Co., Ltd.",
+  legalName: ltr("Xiamen BestHome Imp. & Exp. Co., Ltd."),
   email: "sales@decobesthome.com",
   mobile: ltr("+86 180 5926 5951"),
   mobileHref: "tel:+8618059265951",

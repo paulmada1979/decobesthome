@@ -16,7 +16,7 @@
     "utilityLeft": "Richieste da rivenditori e ingrosso sono benvenute",
     "utilityLeft2": "OEM e approvvigionamento per progetti",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 linee di prodotti naturali — diretti dalla fabbrica.",
+    "megaFoot": "9 linee di prodotti naturali — diretti dalla fabbrica.",
     "viewAll": "Vedi tutti i prodotti",
     "requestQuote": "Richiedi un preventivo",
     "openMenu": "Apri il menu",
@@ -291,7 +291,7 @@
             },
             {
               "k": "Diametro",
-              "v": "30 – 120 mm (opzioni di gamma)"
+              "v": "20 – 120 mm (opzioni di gamma)"
             },
             {
               "k": "Lunghezza",
@@ -303,7 +303,7 @@
             },
             {
               "k": "Impiego",
-              "v": "Pergolati, rivestimenti, divisori, décor"
+              "v": "Pergolati, rivestimenti, divisori, décor e progetti costruttivi"
             },
             {
               "k": "MOQ e OEM",
@@ -437,7 +437,7 @@
             },
             {
               "k": "Diametro delle canne",
-              "v": "8 – 25 mm (opzioni di gamma)"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
             },
             {
               "k": "Legatura",
@@ -445,7 +445,7 @@
             },
             {
               "k": "Arella standard",
-              "v": "Lunghezza 3 m · misure su misura disponibili"
+              "v": "Lunghezza 1.8 / 3 m · misure su misura disponibili"
             },
             {
               "k": "Impiego",
@@ -856,7 +856,7 @@
             },
             {
               "k": "Arella standard",
-              "v": "Lunghezza 3 m · misure su misura disponibili"
+              "v": "3 m · 5 m · 6 m · misure su misura disponibili"
             },
             {
               "k": "Altezze",
@@ -864,7 +864,7 @@
             },
             {
               "k": "Impiego",
-              "v": "Schermatura di giardini, balconi e terrazze"
+              "v": "Schermatura di giardini, balconi e terrazze, copertura tetti"
             },
             {
               "k": "MOQ e OEM",
@@ -978,7 +978,7 @@
           "spec": [
             {
               "k": "Materiale",
-              "v": "Salice e fascine naturali"
+              "v": "Salice e fascine naturali e corteccia"
             },
             {
               "k": "Formato",
@@ -1032,7 +1032,7 @@
           "variations": {
             "eyebrow": "Varianti",
             "title": "Tipi di salice, erica e corteccia",
-            "lead": "Dalle arelle in salice intrecciato a mano e i pannelli a graticcio fino al traliccio estensibile, alle fascine di erica e alla corteccia: schermature naturali per ogni stile di giardino.",
+            "lead": "Dalle arelle in salice intrecciato in modo naturale e i pannelli a graticcio fino al traliccio estensibile, alle fascine di erica e alla corteccia: schermature naturali per ogni stile di giardino.",
             "items": [
               {
                 "img": "var-wicker.webp",
@@ -1330,7 +1330,7 @@
           "variations": {
             "eyebrow": "Finiture e stili",
             "title": "Scelga la finitura",
-            "lead": "Il paravento arrotolabile è disponibile in tre finiture, più uno stile aperto a canne Moso.",
+            "lead": "Il paravento arrotolabile è disponibile in tre finiture.",
             "items": [
               {
                 "img": "var-natural.webp",

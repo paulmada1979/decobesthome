@@ -16,7 +16,7 @@
     "utilityLeft": "Anfragen aus Handel & Großhandel willkommen",
     "utilityLeft2": "OEM & Projektbeschaffung",
     "brandAria": "BestHome — Startseite",
-    "megaFoot": "10 natürliche Produktreihen — direkt ab Werk.",
+    "megaFoot": "9 natürliche Produktreihen — direkt ab Werk.",
     "viewAll": "Alle Produkte ansehen",
     "requestQuote": "Angebot anfordern",
     "openMenu": "Menü öffnen",
@@ -291,7 +291,7 @@
             },
             {
               "k": "Durchmesser",
-              "v": "30 – 120 mm (Bereichsoptionen)"
+              "v": "20 – 120 mm (Bereichsoptionen)"
             },
             {
               "k": "Länge",
@@ -303,7 +303,7 @@
             },
             {
               "k": "Verwendung",
-              "v": "Pergolen, Verkleidungen, Raumteiler, Dekoration"
+              "v": "Pergolen, Verkleidungen, Raumteiler, Dekoration und konstruktive Projekte"
             },
             {
               "k": "MOQ & OEM",
@@ -437,7 +437,7 @@
             },
             {
               "k": "Stabdurchmesser",
-              "v": "8 – 25 mm (Bereichsoptionen)"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
             },
             {
               "k": "Bindung",
@@ -445,7 +445,7 @@
             },
             {
               "k": "Standardmatte",
-              "v": "3 m Länge · Sondergrößen verfügbar"
+              "v": "1.8 / 3 m Länge · Sondergrößen verfügbar"
             },
             {
               "k": "Verwendung",
@@ -856,7 +856,7 @@
             },
             {
               "k": "Standardmatte",
-              "v": "3 m Länge · Sondergrößen verfügbar"
+              "v": "3 m · 5 m · 6 m · Sondergrößen verfügbar"
             },
             {
               "k": "Höhen",
@@ -864,7 +864,7 @@
             },
             {
               "k": "Verwendung",
-              "v": "Sichtschutz für Garten, Balkon & Terrasse"
+              "v": "Sichtschutz für Garten, Balkon & Terrasse, Dacheindeckung"
             },
             {
               "k": "MOQ & OEM",
@@ -978,7 +978,7 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natürliche Weide & Reisig"
+              "v": "Natürliche Weide & Reisig und Rinde"
             },
             {
               "k": "Format",
@@ -1032,7 +1032,7 @@
           "variations": {
             "eyebrow": "Varianten",
             "title": "Weide-, Heidekraut- & Rindenarten",
-            "lead": "Von handgeflochtenen Weidenmatten und Hürdenelementen über ausziehbares Rankgitter bis hin zu Heidekraut, Reisig und Rinde – natürlicher Sichtschutz für jeden Gartenstil.",
+            "lead": "Von naturgeflochtenen Weidenmatten und Hürdenelementen über ausziehbares Rankgitter bis hin zu Heidekraut, Reisig und Rinde – natürlicher Sichtschutz für jeden Gartenstil.",
             "items": [
               {
                 "img": "var-wicker.webp",
@@ -1330,7 +1330,7 @@
           "variations": {
             "eyebrow": "Ausführungen & Stile",
             "title": "Wählen Sie Ihre Ausführung",
-            "lead": "Der aufrollbare Raumteiler ist in drei Ausführungen erhältlich, dazu ein offener Moso-Stab-Stil.",
+            "lead": "Der aufrollbare Raumteiler ist in drei Ausführungen erhältlich.",
             "items": [
               {
                 "img": "var-natural.webp",

@@ -16,7 +16,7 @@
     "utilityLeft": "Aanvragen voor handel & groothandel welkom",
     "utilityLeft2": "OEM & projectinkoop",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 natuurlijke productlijnen — rechtstreeks van de fabriek.",
+    "megaFoot": "9 natuurlijke productlijnen — rechtstreeks van de fabriek.",
     "viewAll": "Bekijk alle producten",
     "requestQuote": "Offerte aanvragen",
     "openMenu": "Menu openen",
@@ -291,7 +291,7 @@
             },
             {
               "k": "Diameter",
-              "v": "30 – 120 mm (maatopties)"
+              "v": "20 – 120 mm (maatopties)"
             },
             {
               "k": "Lengte",
@@ -303,7 +303,7 @@
             },
             {
               "k": "Gebruik",
-              "v": "Pergola's, bekleding, verdelers, decoratie"
+              "v": "Pergola's, bekleding, verdelers, decoratie en constructieve projecten"
             },
             {
               "k": "MOQ & OEM",
@@ -437,7 +437,7 @@
             },
             {
               "k": "Stokdiameter",
-              "v": "8 – 25 mm (maatopties)"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
             },
             {
               "k": "Binding",
@@ -445,7 +445,7 @@
             },
             {
               "k": "Standaardrol",
-              "v": "3 m lengte · maatwerk verkrijgbaar"
+              "v": "1.8 / 3 m lengte · maatwerk verkrijgbaar"
             },
             {
               "k": "Gebruik",
@@ -856,7 +856,7 @@
             },
             {
               "k": "Standaardrol",
-              "v": "3 m lengte · maatwerk verkrijgbaar"
+              "v": "3 m · 5 m · 6 m · maatwerk verkrijgbaar"
             },
             {
               "k": "Hoogtes",
@@ -864,7 +864,7 @@
             },
             {
               "k": "Gebruik",
-              "v": "Afscherming van tuin, balkon & terras"
+              "v": "Afscherming van tuin, balkon & terras, dakbedekking"
             },
             {
               "k": "MOQ & OEM",
@@ -978,7 +978,7 @@
           "spec": [
             {
               "k": "Materiaal",
-              "v": "Natuurlijke wilg & snoeihout"
+              "v": "Natuurlijke wilg & snoeihout en schors"
             },
             {
               "k": "Formaat",
@@ -1032,7 +1032,7 @@
           "variations": {
             "eyebrow": "Varianten",
             "title": "Wilg-, heide- & schorstypes",
-            "lead": "Van handgevlochten wilgenmatten en vlechtschermen tot uitschuifbaar latwerk, heide-snoeihout en schors — natuurlijke afscherming voor elke tuinstijl.",
+            "lead": "Van natuurlijk gevlochten wilgenmatten en vlechtschermen tot uitschuifbaar latwerk, heide-snoeihout en schors — natuurlijke afscherming voor elke tuinstijl.",
             "items": [
               {
                 "img": "var-wicker.webp",
@@ -1330,7 +1330,7 @@
           "variations": {
             "eyebrow": "Afwerkingen & stijlen",
             "title": "Kies uw afwerking",
-            "lead": "Het oprolbare kamerscherm is verkrijgbaar in drie afwerkingen, plus een open Moso-paalstijl.",
+            "lead": "Het oprolbare kamerscherm is verkrijgbaar in drie afwerkingen.",
             "items": [
               {
                 "img": "var-natural.webp",

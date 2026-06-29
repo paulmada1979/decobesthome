@@ -16,7 +16,7 @@
     "utilityLeft": "Trade & wholesale enquiries welcome",
     "utilityLeft2": "OEM & project sourcing",
     "brandAria": "BestHome — home",
-    "megaFoot": "10 natural product ranges — factory-direct.",
+    "megaFoot": "9 natural product ranges — factory-direct.",
     "viewAll": "View all products",
     "requestQuote": "Request a quote",
     "openMenu": "Open menu",
@@ -291,7 +291,7 @@
             },
             {
               "k": "Diameter",
-              "v": "30 – 120 mm (range options)"
+              "v": "20 – 120 mm (range options)"
             },
             {
               "k": "Length",
@@ -303,7 +303,7 @@
             },
             {
               "k": "Use",
-              "v": "Pergolas, cladding, dividers, décor"
+              "v": "Pergolas, cladding, dividers, décor and constructive projects"
             },
             {
               "k": "MOQ & OEM",
@@ -437,7 +437,7 @@
             },
             {
               "k": "Cane diameter",
-              "v": "8 – 25 mm (range options)"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
             },
             {
               "k": "Binding",
@@ -445,7 +445,7 @@
             },
             {
               "k": "Standard roll",
-              "v": "3 m length · custom sizes available"
+              "v": "1.8 / 3 m length · custom sizes available"
             },
             {
               "k": "Use",
@@ -856,7 +856,7 @@
             },
             {
               "k": "Standard roll",
-              "v": "3 m length · custom sizes available"
+              "v": "3 m · 5 m · 6 m · custom sizes available"
             },
             {
               "k": "Heights",
@@ -864,7 +864,7 @@
             },
             {
               "k": "Use",
-              "v": "Garden, balcony & terrace screening"
+              "v": "Garden, balcony & terrace screening, roofing"
             },
             {
               "k": "MOQ & OEM",
@@ -978,7 +978,7 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natural willow & brushwood"
+              "v": "Natural willow & brushwood and bark"
             },
             {
               "k": "Format",
@@ -1032,7 +1032,7 @@
           "variations": {
             "eyebrow": "Variations",
             "title": "Willow, heather & bark types",
-            "lead": "From hand-woven willow rolls and hurdle panels to expandable trellis, heather brushwood and bark — natural screening for every garden style.",
+            "lead": "From natural-woven willow rolls and hurdle panels to expandable trellis, heather brushwood and bark — natural screening for every garden style.",
             "items": [
               {
                 "img": "var-wicker.webp",
@@ -1330,7 +1330,7 @@
           "variations": {
             "eyebrow": "Finishes & styles",
             "title": "Choose your finish",
-            "lead": "The rollable divider comes in three finishes, plus an open Moso-pole style.",
+            "lead": "The rollable divider comes in three finishes.",
             "items": [
               {
                 "img": "var-natural.webp",

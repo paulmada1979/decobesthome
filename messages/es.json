@@ -16,7 +16,7 @@
     "utilityLeft": "Consultas de profesionales y venta al por mayor bienvenidas",
     "utilityLeft2": "Abastecimiento OEM y de proyectos",
     "brandAria": "BestHome — inicio",
-    "megaFoot": "10 gamas de productos naturales — directo de fábrica.",
+    "megaFoot": "9 gamas de productos naturales — directo de fábrica.",
     "viewAll": "Ver todos los productos",
     "requestQuote": "Solicitar presupuesto",
     "openMenu": "Abrir menú",
@@ -291,7 +291,7 @@
             },
             {
               "k": "Diámetro",
-              "v": "30 – 120 mm (opciones de rango)"
+              "v": "20 – 120 mm (opciones de rango)"
             },
             {
               "k": "Longitud",
@@ -303,7 +303,7 @@
             },
             {
               "k": "Uso",
-              "v": "Pérgolas, revestimientos, separadores, decoración"
+              "v": "Pérgolas, revestimientos, separadores, decoración y proyectos constructivos"
             },
             {
               "k": "Pedido mínimo y OEM",
@@ -437,7 +437,7 @@
             },
             {
               "k": "Diámetro de la caña",
-              "v": "8 – 25 mm (opciones de rango)"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
             },
             {
               "k": "Atado",
@@ -445,7 +445,7 @@
             },
             {
               "k": "Rollo estándar",
-              "v": "3 m de longitud · tamaños a medida disponibles"
+              "v": "1.8 / 3 m de longitud · tamaños a medida disponibles"
             },
             {
               "k": "Uso",
@@ -856,7 +856,7 @@
             },
             {
               "k": "Rollo estándar",
-              "v": "3 m de longitud · tamaños a medida disponibles"
+              "v": "3 m · 5 m · 6 m · tamaños a medida disponibles"
             },
             {
               "k": "Alturas",
@@ -864,7 +864,7 @@
             },
             {
               "k": "Uso",
-              "v": "Celosías para jardín, balcón y terraza"
+              "v": "Celosías para jardín, balcón y terraza, techado"
             },
             {
               "k": "Pedido mínimo y OEM",
@@ -978,7 +978,7 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Mimbre y ramaje naturales"
+              "v": "Mimbre y ramaje naturales y corteza"
             },
             {
               "k": "Formato",
@@ -1032,7 +1032,7 @@
           "variations": {
             "eyebrow": "Variantes",
             "title": "Tipos de mimbre, brezo y corteza",
-            "lead": "Desde rollos de mimbre tejidos a mano y paneles de zarzo hasta enrejado extensible, brezo y corteza: celosías naturales para cada estilo de jardín.",
+            "lead": "Desde rollos de mimbre tejidos de forma natural y paneles de zarzo hasta enrejado extensible, brezo y corteza: celosías naturales para cada estilo de jardín.",
             "items": [
               {
                 "img": "var-wicker.webp",
@@ -1330,7 +1330,7 @@
           "variations": {
             "eyebrow": "Acabados y estilos",
             "title": "Elija su acabado",
-            "lead": "El biombo enrollable está disponible en tres acabados, más un estilo abierto de cañas Moso.",
+            "lead": "El biombo enrollable está disponible en tres acabados.",
             "items": [
               {
                 "img": "var-natural.webp",

@@ -131,6 +131,7 @@ export const products: Product[] = [
     hasAbout: true,
     hasVariations: true,
     variationDir: "divider",
+    hiddenVariations: ["var-moso.webp"],
     gallery: [
       "/images/divider-hero.webp",
       "/images/divider/divider-main.webp",
@@ -203,6 +204,7 @@ export const products: Product[] = [
     slug: "bamboo-household-articles",
     image: "/images/Bamboo-room-divider-1024x576.webp",
     icon: "🧺",
+    unlisted: true,
   },
   {
     id: "bamboo-flower-sticks",
@@ -324,7 +326,6 @@ const megaOrder: string[] = [
   "bamboo-reed-curtains",
   "bamboo-room-dividers",
   "bamboo-flower-sticks",
-  "bamboo-household-articles",
   "natural-thatch-roof",
 ];
 

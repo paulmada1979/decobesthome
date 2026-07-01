@@ -46,7 +46,7 @@ export default async function ContactPage({
       <section className="page-hero">
         <div className="bg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/images/contact-hero.webp" alt={t("hero.imageAlt")} />
+          <img src="/images/contact-hero-w.webp" alt={t("hero.imageAlt")} />
         </div>
         <div className="container inner" style={{ paddingBlock: "clamp(64px,9vw,110px)" }}>
           <p className="crumbs">

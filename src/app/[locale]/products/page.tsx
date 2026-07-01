@@ -33,7 +33,7 @@ export default async function ProductsPage({
       <section className="page-hero">
         <div className="bg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/images/products-hero.webp" alt={t("hero.imageAlt")} />
+          <img src="/images/products-hero-w.webp" alt={t("hero.imageAlt")} />
         </div>
         <div className="container inner">
           <p className="crumbs">

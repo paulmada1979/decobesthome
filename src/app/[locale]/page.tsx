@@ -24,9 +24,9 @@ const WHY_ICONS = [
 const TEASER = [
   { image: "/images/fence/scene-garden.webp", key: "bambooFence" },
   { image: "/images/reed-hero.webp", key: "reedScreening" },
-  { image: "/images/moso/scene-16.webp", key: "mosoPoles" },
+  { image: "/images/moso/scene-16-w.webp", key: "mosoPoles" },
   { image: "/images/willow/scene-brushwood.webp", key: "willowScreen" },
-  { image: "/images/thatch/scene-1.webp", key: "thatchRoofing" },
+  { image: "/images/thatch/scene-1-w.webp", key: "thatchRoofing" },
   { image: "/images/fence/scene-black.webp", key: "blackBamboo" },
 ];
 
@@ -174,7 +174,7 @@ export default async function HomePage({
         <div className="container split rev">
           <Reveal className="media tall">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/home-why.webp" alt={t("why.imageAlt")} />
+            <img src="/images/home-why-w.webp" alt={t("why.imageAlt")} />
           </Reveal>
           <Reveal delay={1}>
             <p className="eyebrow">{t("why.eyebrow")}</p>

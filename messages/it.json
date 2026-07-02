@@ -416,7 +416,7 @@
           "finishes": [
             "Naturale",
             "Carbonizzato",
-            "Bambù nero"
+            "Bambù nero naturale"
           ],
           "heightLabel": "Altezza",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Diametro delle canne",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Legatura",
@@ -502,11 +502,11 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Rotolo di bambù nero",
+                "title": "Rotolo di bambù nero naturale",
                 "desc": "Arella di bambù dalle tonalità scure per una recinzione decisa e contemporanea."
               },
               {
-                "img": "var-carbonised.webp",
+                "img": "var-carbonized.webp",
                 "title": "Rotolo di bambù carbonizzato",
                 "desc": "Bambù trattato a caldo color miele, con una tonalità più calda e profonda."
               },
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Recinzione nera a mezza canna",
+                "title": "Recinzione nera naturale a mezza canna",
                 "desc": "Grandi canne a mezza canna in nero intenso per una schermatura d'effetto."
               },
               {
@@ -542,7 +542,7 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Traliccio estensibile nero",
+                "title": "Traliccio estensibile nero naturale",
                 "desc": "Traliccio estensibile in bambù nero con un suggestivo reticolo scuro."
               },
               {
@@ -552,7 +552,7 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Bordura in bambù nero",
+                "title": "Bordura in bambù nero naturale",
                 "desc": "Bassa bordura perimetrale in bambù nero per un bordo netto e scuro."
               },
               {
@@ -966,7 +966,7 @@
             "lead": "Scelga in base allo spessore dello stelo della canna palustre, sbucciata o non sbucciata. Le arelle sono legate con filo antiruggine.",
             "colLength": "Ø canna palustre",
             "colDiameter": "Carattere",
-            "note": "Lunghezza standard dell'arella 3 m · altezze 1.0–2.0 m · sbucciata, non sbucciata e carbonizzata · misure su misura su richiesta."
+            "note": "Lunghezza standard dell'arella 3 m · 5 m · 6 m · altezze 1.0–2.0 m · sbucciata, non sbucciata e carbonizzata · misure su misura su richiesta."
           }
         },
         "other-natural-fencing": {

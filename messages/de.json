@@ -416,7 +416,7 @@
           "finishes": [
             "Natur",
             "Karbonisiert",
-            "Schwarzer Bambus"
+            "Naturschwarzer Bambus"
           ],
           "heightLabel": "Höhe",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Stabdurchmesser",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Bindung",
@@ -502,11 +502,11 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Schwarzer Bambus-Rollzaun",
+                "title": "Naturschwarzer Bambus-Rollzaun",
                 "desc": "Dunkel getönter Bambus-Rollzaun für eine markante, moderne Grundstücksgrenze."
               },
               {
-                "img": "var-carbonised.webp",
+                "img": "var-carbonized.webp",
                 "title": "Karbonisierter Bambus-Rollzaun",
                 "desc": "Wärmebehandelter honigbrauner Bambus mit kräftigerem, tieferem Farbton."
               },
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Halbrunder schwarzer Zaun",
+                "title": "Halbrunder naturschwarzer Zaun",
                 "desc": "Große halbrunde Rohre in tiefem Schwarz für einen ausdrucksstarken Sichtschutz."
               },
               {
@@ -542,7 +542,7 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Ausziehbares schwarzes Spalier",
+                "title": "Ausziehbares naturschwarzes Spalier",
                 "desc": "Ausziehbares Rankgitter aus schwarzem Bambus mit auffälligem dunklem Gitterwerk."
               },
               {
@@ -552,7 +552,7 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Schwarze Bambus-Beeteinfassung",
+                "title": "Naturschwarze Bambus-Beeteinfassung",
                 "desc": "Niedrige Beeteinfassung aus schwarzem Bambus für eine klare, dunkle Randeinfassung."
               },
               {
@@ -966,7 +966,7 @@
             "lead": "Wählen Sie nach Schilfhalm-Dicke, geschält oder ungeschält. Die Matten sind mit rostfreiem Draht gebunden.",
             "colLength": "Schilfrohr-Ø",
             "colDiameter": "Charakter",
-            "note": "Standard-Mattenlänge 3 m · Höhen 1,0–2,0 m · geschält, ungeschält & karbonisiert · Sondergrößen auf Anfrage."
+            "note": "Standard-Mattenlänge 3 m · 5 m · 6 m · Höhen 1,0–2,0 m · geschält, ungeschält & karbonisiert · Sondergrößen auf Anfrage."
           }
         },
         "other-natural-fencing": {

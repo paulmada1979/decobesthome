@@ -416,7 +416,7 @@
           "finishes": [
             "Naturel",
             "Carbonisé",
-            "Bambou noir"
+            "Bambou noir naturel"
           ],
           "heightLabel": "Hauteur",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Diamètre des cannes",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Ligature",
@@ -502,11 +502,11 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Rouleau de bambou noir",
+                "title": "Rouleau de bambou noir naturel",
                 "desc": "Rouleau de bambou aux teintes sombres, pour une délimitation affirmée et contemporaine."
               },
               {
-                "img": "var-carbonised.webp",
+                "img": "var-carbonized.webp",
                 "title": "Rouleau de bambou carbonisé",
                 "desc": "Bambou traité à la chaleur, d'un brun miel aux nuances plus riches et profondes."
               },
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Clôture noire en demi-canne",
+                "title": "Clôture noire naturelle en demi-canne",
                 "desc": "Grandes cannes en demi-canne d'un noir profond, pour un écran spectaculaire."
               },
               {
@@ -542,7 +542,7 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Treillis extensible noir",
+                "title": "Treillis extensible noir naturel",
                 "desc": "Treillis extensible en bambou noir, au treillage sombre saisissant."
               },
               {
@@ -552,7 +552,7 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Bordure en bambou noir",
+                "title": "Bordure en bambou noir naturel",
                 "desc": "Bordure basse en bambou noir, pour une délimitation nette et sombre."
               },
               {
@@ -966,7 +966,7 @@
             "lead": "Choisissez selon l'épaisseur des tiges de roseau, écorcé ou non écorcé. Les rouleaux sont ligaturés avec un fil inoxydable.",
             "colLength": "Ø du roseau",
             "colDiameter": "Caractère",
-            "note": "Longueur de rouleau standard 3 m · hauteurs 1,0–2,0 m · écorcé, non écorcé & carbonisé · tailles sur mesure sur demande."
+            "note": "Longueur de rouleau standard 3 m · 5 m · 6 m · hauteurs 1,0–2,0 m · écorcé, non écorcé & carbonisé · tailles sur mesure sur demande."
           }
         },
         "other-natural-fencing": {

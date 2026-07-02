@@ -299,7 +299,7 @@
             },
             {
               "k": "Finish",
-              "v": "Natural · carbonised options"
+              "v": "Natural · carbonized options"
             },
             {
               "k": "Use",
@@ -415,8 +415,8 @@
           "finishLabel": "Finish",
           "finishes": [
             "Natural",
-            "Carbonised",
-            "Black bamboo"
+            "Carbonized",
+            "Natural black bamboo"
           ],
           "heightLabel": "Height",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Cane diameter",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Binding",
@@ -474,7 +474,7 @@
                 "h3": "Built to last outdoors"
               },
               {
-                "p": "Every fence roll is joined with high-quality, long-life rust-proof steel wire, so panels stay tight and true season after season. Choose a natural, carbonised or black-bamboo finish to match the look you're after."
+                "p": "Every fence roll is joined with high-quality, long-life rust-proof steel wire, so panels stay tight and true season after season. Choose a natural, carbonized or black-bamboo finish to match the look you're after."
               },
               {
                 "h3": "Where bamboo fencing works"
@@ -493,7 +493,7 @@
           "variations": {
             "eyebrow": "Variations",
             "title": "Rolls, screens, trellis and edging",
-            "lead": "Natural, black, carbonised or mahogany bamboo — supplied as rolls, half-round screens, expandable trellis and border edging to suit any project.",
+            "lead": "Natural, black, carbonized or mahogany bamboo — supplied as rolls, half-round screens, expandable trellis and border edging to suit any project.",
             "items": [
               {
                 "img": "var-natural.webp",
@@ -502,12 +502,12 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Black bamboo roll",
+                "title": "Natural black bamboo roll",
                 "desc": "Dark-toned rolled bamboo for a bold, contemporary boundary."
               },
               {
-                "img": "var-carbonised.webp",
-                "title": "Carbonised bamboo roll",
+                "img": "var-carbonized.webp",
+                "title": "Carbonized bamboo roll",
                 "desc": "Heat-treated honey-brown bamboo with a richer, deeper tone."
               },
               {
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Half-round black fence",
+                "title": "Half-round natural black fence",
                 "desc": "Giant half-round canes in deep black for a dramatic screen."
               },
               {
@@ -542,8 +542,8 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Expandable black trellis",
-                "desc": "Expandable black bamboo trellis with a striking dark lattice."
+                "title": "Expandable natural black trellis",
+                "desc": "Expandable natural black bamboo trellis with a striking dark lattice."
               },
               {
                 "img": "var-edging-natural.webp",
@@ -552,8 +552,8 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Black bamboo edging",
-                "desc": "Low black bamboo border edging for a crisp, dark border."
+                "title": "Natural black bamboo edging",
+                "desc": "Low natural black bamboo border edging for a crisp, dark border."
               },
               {
                 "img": "var-edging-feet.webp",
@@ -602,7 +602,7 @@
             },
             {
               "k": "Finish",
-              "v": "Natural · carbonised · black bamboo"
+              "v": "Natural · carbonized · black bamboo"
             },
             {
               "k": "Use",
@@ -892,10 +892,10 @@
                 "p": "Reed fencing is easy to put up and can be attached to a variety of surfaces — existing fences, posts and structures — so you can transform a space in an afternoon."
               },
               {
-                "h3": "Peeled, unpeeled or carbonised"
+                "h3": "Peeled, unpeeled or carbonized"
               },
               {
-                "p": "Choose peeled reed for a clean, refined surface, unpeeled for a more natural rustic look, or carbonised for a warmer, deeper tone — in fine, thick or extra-thick stem grades."
+                "p": "Choose peeled reed for a clean, refined surface, unpeeled for a more natural rustic look, or carbonized for a warmer, deeper tone — in fine, thick or extra-thick stem grades."
               }
             ]
           },
@@ -966,7 +966,7 @@
             "lead": "Choose by reed-stem thickness, peeled or unpeeled. Rolls are bound with rust-proof wire.",
             "colLength": "Reed Ø",
             "colDiameter": "Character",
-            "note": "Standard roll length 3 m · heights 1.0–2.0 m · peeled, unpeeled & carbonised · custom sizes on request."
+            "note": "Standard roll length 3 m · 5 m · 6 m · heights 1.0–2.0 m · peeled, unpeeled & carbonized · custom sizes on request."
           }
         },
         "other-natural-fencing": {
@@ -1372,7 +1372,7 @@
             },
             {
               "k": "Finish",
-              "v": "Natural · carbonised"
+              "v": "Natural · carbonized"
             },
             {
               "k": "Sizes",
@@ -1405,7 +1405,7 @@
                 "h3": "Roller blinds or hanging curtains"
               },
               {
-                "p": "Choose smooth roller blinds with a simple pull mechanism for windows, or free-hanging reed curtains for doorways and room dividers — both in a natural or carbonised (darker) finish."
+                "p": "Choose smooth roller blinds with a simple pull mechanism for windows, or free-hanging reed curtains for doorways and room dividers — both in a natural or carbonized (darker) finish."
               },
               {
                 "h3": "Why natural reed & bamboo"
@@ -1424,7 +1424,7 @@
           "variations": {
             "eyebrow": "Variations",
             "title": "Blinds & curtains",
-            "lead": "Roller blinds or free-hanging curtains, natural or carbonised — choose the style for your window or doorway.",
+            "lead": "Roller blinds or free-hanging curtains, natural or carbonized — choose the style for your window or doorway.",
             "items": [
               {
                 "img": "var-natural.webp",
@@ -1433,7 +1433,7 @@
               },
               {
                 "img": "var-carbonized.webp",
-                "title": "Carbonised roller blind",
+                "title": "Carbonized roller blind",
                 "desc": "Heat-treated darker reed blind with a warm, deep tone."
               },
               {

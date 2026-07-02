@@ -416,7 +416,7 @@
           "finishes": [
             "Natural",
             "Carbonizado",
-            "Bambú negro"
+            "Bambú negro natural"
           ],
           "heightLabel": "Altura",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Diámetro de la caña",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Atado",
@@ -502,11 +502,11 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Rollo de bambú negro",
+                "title": "Rollo de bambú negro natural",
                 "desc": "Rollo de bambú en tono oscuro para un cerramiento audaz y contemporáneo."
               },
               {
-                "img": "var-carbonised.webp",
+                "img": "var-carbonized.webp",
                 "title": "Rollo de bambú carbonizado",
                 "desc": "Bambú tratado térmicamente en color marrón miel, con un tono más intenso y profundo."
               },
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Valla de media caña negra",
+                "title": "Valla de media caña negra natural",
                 "desc": "Grandes cañas de media caña en negro intenso para una celosía de gran efecto."
               },
               {
@@ -542,7 +542,7 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Celosía extensible negra",
+                "title": "Celosía extensible negra natural",
                 "desc": "Celosía extensible de bambú negro con un llamativo enrejado oscuro."
               },
               {
@@ -552,7 +552,7 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Borde de bambú negro",
+                "title": "Borde de bambú negro natural",
                 "desc": "Bajo borde de cenefa de bambú negro para una delimitación nítida y oscura."
               },
               {
@@ -966,7 +966,7 @@
             "lead": "Elija por el grosor del tallo de junco, pelado o sin pelar. Los rollos se atan con alambre antioxidante.",
             "colLength": "Ø del junco",
             "colDiameter": "Carácter",
-            "note": "Longitud de rollo estándar 3 m · alturas 1,0–2,0 m · pelado, sin pelar y carbonizado · tamaños a medida bajo pedido."
+            "note": "Longitud de rollo estándar 3 m · 5 m · 6 m · alturas 1,0–2,0 m · pelado, sin pelar y carbonizado · tamaños a medida bajo pedido."
           }
         },
         "other-natural-fencing": {

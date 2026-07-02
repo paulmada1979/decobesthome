@@ -249,7 +249,8 @@ export const products: Product[] = [
     sizeChart: [
       { len: "3 – 6 mm", dia: "High-density fine reed — smooth, refined screening" },
       { len: "5 – 8 mm", dia: "All-round thick reed for garden privacy" },
-      { len: "8 – 10 mm", dia: "Extra-thick reed — robust, high-coverage screens" },
+      { len: "8 – 10 mm", dia: "Extra peeled thick reed" },
+      { len: "6 – 10 mm", dia: "Thick unpeeled reed" },
     ],
   },
   {

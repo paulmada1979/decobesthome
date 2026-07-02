@@ -416,7 +416,7 @@
           "finishes": [
             "Naturel",
             "Gecarboniseerd",
-            "Zwart bamboe"
+            "Natuurlijk zwart bamboe"
           ],
           "heightLabel": "Hoogte",
           "heights": [
@@ -437,7 +437,7 @@
             },
             {
               "k": "Stokdiameter",
-              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/40 mm"
+              "v": "14/16 mm · 20/30 mm · 30/35 mm · 40/60 mm"
             },
             {
               "k": "Binding",
@@ -502,11 +502,11 @@
               },
               {
                 "img": "var-black.webp",
-                "title": "Zwarte bamboe rolmat",
+                "title": "Natuurlijk zwarte bamboe rolmat",
                 "desc": "Donker getinte bamboematten voor een stoere, eigentijdse erfafscheiding."
               },
               {
-                "img": "var-carbonised.webp",
+                "img": "var-carbonized.webp",
                 "title": "Gecarboniseerde bamboe rolmat",
                 "desc": "Warmtebehandelde honingbruine bamboe met een rijkere, diepere tint."
               },
@@ -532,7 +532,7 @@
               },
               {
                 "img": "var-halfround-black.webp",
-                "title": "Halfrond zwart scherm",
+                "title": "Halfrond natuurlijk zwart scherm",
                 "desc": "Grote halfronde stokken in diep zwart voor een dramatisch scherm."
               },
               {
@@ -542,7 +542,7 @@
               },
               {
                 "img": "var-trellis-black.webp",
-                "title": "Uitschuifbaar zwart klimrek",
+                "title": "Uitschuifbaar natuurlijk zwart klimrek",
                 "desc": "Uitschuifbaar zwart bamboe klimrek met een opvallend donker latwerk."
               },
               {
@@ -552,7 +552,7 @@
               },
               {
                 "img": "var-edging-black.webp",
-                "title": "Zwarte bamboe randafwerking",
+                "title": "Natuurlijk zwarte bamboe randafwerking",
                 "desc": "Lage zwarte bamboe boordafwerking voor een strakke, donkere rand."
               },
               {
@@ -966,7 +966,7 @@
             "lead": "Kies op rietstengeldikte, geschild of ongeschild. Matten worden gebonden met roestvrij draad.",
             "colLength": "Riet-Ø",
             "colDiameter": "Karakter",
-            "note": "Standaard matlengte 3 m · hoogtes 1,0–2,0 m · geschild, ongeschild & gecarboniseerd · maatwerk op aanvraag."
+            "note": "Standaard matlengte 3 m · 5 m · 6 m · hoogtes 1,0–2,0 m · geschild, ongeschild & gecarboniseerd · maatwerk op aanvraag."
           }
         },
         "other-natural-fencing": {

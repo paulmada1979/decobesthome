@@ -42,18 +42,18 @@ async function watermark(file) {
     layers.push({ input: logo, left, top });
   }
 
-  // corner credit
+  // corner credit — white fill + dark outline so it stays legible on both
+  // light (white studio backgrounds) and dark photos. paint-order="stroke"
+  // draws the outline behind the fill so the letters stay crisp.
   const fs = Math.max(16, Math.round(width * 0.014));
   const pad = Math.round(fs * 0.9);
+  const sw = Math.max(1.6, fs * 0.16);
   const corner = `<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
     <text x="${width - pad}" y="${height - pad}" text-anchor="end"
       font-family="Arial, Helvetica, sans-serif" font-size="${fs}" font-weight="600"
-      letter-spacing="0.5"
-      fill="#000" fill-opacity="0.20" dx="1" dy="1">${CORNER}</text>
-    <text x="${width - pad}" y="${height - pad}" text-anchor="end"
-      font-family="Arial, Helvetica, sans-serif" font-size="${fs}" font-weight="600"
-      letter-spacing="0.5"
-      fill="#fff" fill-opacity="0.42">${CORNER}</text>
+      letter-spacing="0.5" paint-order="stroke" stroke-linejoin="round"
+      stroke="#141414" stroke-opacity="0.5" stroke-width="${sw}"
+      fill="#fff" fill-opacity="0.68">${CORNER}</text>
   </svg>`;
 
   layers.push({ input: Buffer.from(corner), top: 0, left: 0 });

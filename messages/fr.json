@@ -55,7 +55,9 @@
     "details": "Détails",
     "detailsPh": "Dimensions, quantités, prix cible, délais…",
     "submit": "Envoyer la demande",
-    "privacy": "Nous n'utiliserons vos informations que pour répondre à cette demande."
+    "privacy": "Nous n'utiliserons vos informations que pour répondre à cette demande.",
+    "sending": "Envoi…",
+    "error": "Une erreur s'est produite. Écrivez-nous directement à"
   },
   "products": {
     "names": {
@@ -3380,7 +3382,9 @@
       "messagePh": "Dimensions, quantités, prix cible, délais…",
       "submit": "Envoyer la demande",
       "privacy": "Nous n'utiliserons vos informations que pour répondre à cette demande.",
-      "success": "Merci — votre demande est en cours d'envoi. Nous vous répondrons sous peu, ou écrivez-nous directement à"
+      "success": "Merci — votre demande est en cours d'envoi. Nous vous répondrons sous peu, ou écrivez-nous directement à",
+      "sending": "Envoi…",
+      "error": "Une erreur s'est produite. Écrivez-nous directement à"
     },
     "info": {
       "email": "E-mail",

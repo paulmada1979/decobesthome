@@ -10,13 +10,30 @@ export default function QuoteModal() {
   const t = useTranslations("quote");
   const tn = useTranslations("products.names");
   const { isOpen, product, close } = useQuoteModal();
-  const [sent, setSent] = useState(false);
+  const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle");
   const firstFieldRef = useRef<HTMLInputElement>(null);
+
+  async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    const data = Object.fromEntries(new FormData(e.currentTarget).entries());
+    setStatus("sending");
+    try {
+      const res = await fetch("/api/enquiry", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...data, source: "quote" }),
+      });
+      if (!res.ok) throw new Error();
+      setStatus("sent");
+    } catch {
+      setStatus("error");
+    }
+  }
 
   useEffect(() => {
     if (!isOpen) return;
     document.body.style.overflow = "hidden";
-    setSent(false);
+    setStatus("idle");
     const id = setTimeout(() => firstFieldRef.current?.focus(), 300);
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") close();
@@ -56,7 +73,7 @@ export default function QuoteModal() {
           </p>
         </div>
         <div className="dbody">
-          {sent ? (
+          {status === "sent" ? (
             <div className="dform-success">
               <div className="success">{t("success")}</div>
               <p className="muted" style={{ marginTop: "14px", fontSize: ".92rem" }}>
@@ -67,13 +84,15 @@ export default function QuoteModal() {
               </p>
             </div>
           ) : (
-            <form
-              className="dform"
-              onSubmit={(e) => {
-                e.preventDefault();
-                setSent(true);
-              }}
-            >
+            <form className="dform" onSubmit={onSubmit}>
+              {status === "error" && (
+                <div className="form-error" role="alert" style={{ marginBottom: "16px" }}>
+                  {t("error")}{" "}
+                  <a className="textlink" href={`mailto:${company.email}`}>
+                    {company.email}
+                  </a>
+                </div>
+              )}
               <div className="row2">
                 <div className="field">
                   <label>
@@ -82,13 +101,14 @@ export default function QuoteModal() {
                   <input
                     ref={firstFieldRef}
                     className="input"
+                    name="name"
                     required
                     placeholder={t("namePh")}
                   />
                 </div>
                 <div className="field">
                   <label>{t("company")}</label>
-                  <input className="input" placeholder={t("companyPh")} />
+                  <input className="input" name="company" placeholder={t("companyPh")} />
                 </div>
               </div>
               <div className="row2">
@@ -96,11 +116,11 @@ export default function QuoteModal() {
                   <label>
                     {t("email")} <span className="req">*</span>
                   </label>
-                  <input className="input" type="email" required placeholder={t("emailPh")} />
+                  <input className="input" name="email" type="email" required placeholder={t("emailPh")} />
                 </div>
                 <div className="field">
                   <label>{t("country")}</label>
-                  <input className="input" placeholder={t("countryPh")} />
+                  <input className="input" name="country" placeholder={t("countryPh")} />
                 </div>
               </div>
               <div className="field">
@@ -113,10 +133,15 @@ export default function QuoteModal() {
               </div>
               <div className="field">
                 <label>{t("details")}</label>
-                <textarea className="textarea" placeholder={t("detailsPh")} />
+                <textarea className="textarea" name="message" placeholder={t("detailsPh")} />
               </div>
-              <button className="btn btn-leaf btn-lg" type="submit" style={{ width: "100%" }}>
-                {t("submit")} <span className="arr">→</span>
+              <button
+                className="btn btn-leaf btn-lg"
+                type="submit"
+                disabled={status === "sending"}
+                style={{ width: "100%", opacity: status === "sending" ? 0.7 : 1 }}
+              >
+                {status === "sending" ? t("sending") : t("submit")} <span className="arr">→</span>
               </button>
               <p className="form-note center" style={{ marginTop: "12px" }}>
                 {t("privacy")}

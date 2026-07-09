@@ -55,7 +55,9 @@
     "details": "Details",
     "detailsPh": "Sizes, quantities, target price, timeline…",
     "submit": "Send enquiry",
-    "privacy": "We'll only use your details to reply to this enquiry."
+    "privacy": "We'll only use your details to reply to this enquiry.",
+    "sending": "Sending…",
+    "error": "Something went wrong. Please email us directly at"
   },
   "products": {
     "names": {
@@ -3380,7 +3382,9 @@
       "messagePh": "Sizes, quantities, target price, timeline…",
       "submit": "Send enquiry",
       "privacy": "We'll only use your details to reply to this enquiry.",
-      "success": "Thank you — your enquiry is on its way. We'll reply shortly, or reach us directly at"
+      "success": "Thank you — your enquiry is on its way. We'll reply shortly, or reach us directly at",
+      "sending": "Sending…",
+      "error": "Something went wrong. Please email us directly at"
     },
     "info": {
       "email": "Email",

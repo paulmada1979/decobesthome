@@ -55,7 +55,9 @@
     "details": "Details",
     "detailsPh": "Maten, aantallen, streefprijs, tijdlijn…",
     "submit": "Aanvraag versturen",
-    "privacy": "We gebruiken uw gegevens uitsluitend om op deze aanvraag te reageren."
+    "privacy": "We gebruiken uw gegevens uitsluitend om op deze aanvraag te reageren.",
+    "sending": "Verzenden…",
+    "error": "Er ging iets mis. Mail ons rechtstreeks op"
   },
   "products": {
     "names": {
@@ -3380,7 +3382,9 @@
       "messagePh": "Maten, aantallen, streefprijs, tijdlijn…",
       "submit": "Aanvraag versturen",
       "privacy": "We gebruiken uw gegevens uitsluitend om op deze aanvraag te reageren.",
-      "success": "Bedankt — uw aanvraag is onderweg. We reageren spoedig, of bereik ons rechtstreeks via"
+      "success": "Bedankt — uw aanvraag is onderweg. We reageren spoedig, of bereik ons rechtstreeks via",
+      "sending": "Verzenden…",
+      "error": "Er ging iets mis. Mail ons rechtstreeks op"
     },
     "info": {
       "email": "E-mail",

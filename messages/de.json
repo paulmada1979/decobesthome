@@ -55,7 +55,9 @@
     "details": "Details",
     "detailsPh": "Maße, Mengen, Zielpreis, Zeitplan…",
     "submit": "Anfrage senden",
-    "privacy": "Wir verwenden Ihre Angaben ausschließlich zur Beantwortung dieser Anfrage."
+    "privacy": "Wir verwenden Ihre Angaben ausschließlich zur Beantwortung dieser Anfrage.",
+    "sending": "Wird gesendet…",
+    "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie uns direkt an"
   },
   "products": {
     "names": {
@@ -3380,7 +3382,9 @@
       "messagePh": "Maße, Mengen, Zielpreis, Zeitplan…",
       "submit": "Anfrage senden",
       "privacy": "Wir verwenden Ihre Angaben ausschließlich zur Beantwortung dieser Anfrage.",
-      "success": "Vielen Dank — Ihre Anfrage ist auf dem Weg. Wir antworten in Kürze, oder erreichen Sie uns direkt unter"
+      "success": "Vielen Dank — Ihre Anfrage ist auf dem Weg. Wir antworten in Kürze, oder erreichen Sie uns direkt unter",
+      "sending": "Wird gesendet…",
+      "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie uns direkt an"
     },
     "info": {
       "email": "E-Mail",

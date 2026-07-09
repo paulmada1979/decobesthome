@@ -55,7 +55,9 @@
     "details": "Detalles",
     "detailsPh": "Medidas, cantidades, precio objetivo, plazos…",
     "submit": "Enviar consulta",
-    "privacy": "Solo utilizaremos sus datos para responder a esta consulta."
+    "privacy": "Solo utilizaremos sus datos para responder a esta consulta.",
+    "sending": "Enviando…",
+    "error": "Algo salió mal. Escríbenos directamente a"
   },
   "products": {
     "names": {
@@ -3380,7 +3382,9 @@
       "messagePh": "Medidas, cantidades, precio objetivo, plazos…",
       "submit": "Enviar consulta",
       "privacy": "Solo utilizaremos sus datos para responder a esta consulta.",
-      "success": "Gracias — su consulta está en camino. Le responderemos en breve, o puede escribirnos directamente a"
+      "success": "Gracias — su consulta está en camino. Le responderemos en breve, o puede escribirnos directamente a",
+      "sending": "Enviando…",
+      "error": "Algo salió mal. Escríbenos directamente a"
     },
     "info": {
       "email": "Correo electrónico",

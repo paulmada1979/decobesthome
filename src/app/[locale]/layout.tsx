@@ -22,7 +22,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   return {
-    metadataBase: new URL("https://decobesthome.com"),
+    metadataBase: new URL("https://www.decobesthome.com"),
     title: {
       default: t("title"),
       template: `%s · ${t("brand")}`,

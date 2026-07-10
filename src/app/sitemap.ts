@@ -4,7 +4,7 @@ import { listedProducts, megaProducts } from "@/lib/products";
 import { reedVariants } from "@/lib/reedVariants";
 import { posts } from "@/lib/posts";
 
-const BASE = "https://decobesthome.com";
+const BASE = "https://www.decobesthome.com";
 const { locales, defaultLocale } = routing;
 
 // localePrefix is "as-needed": the default locale (en) has no /en prefix.

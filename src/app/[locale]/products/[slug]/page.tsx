@@ -26,9 +26,14 @@ export async function generateMetadata({
   if (!product) return {};
   const tn = await getTranslations({ locale, namespace: "products.names" });
   const td = await getTranslations({ locale, namespace: "products.detail" });
+  const tm = await getTranslations({ locale, namespace: "meta" });
+  const lead = td(`items.${product.id}.lead`);
+  const tail = tm("descTag");
+  const description =
+    lead.length < 110 && lead.length + tail.length + 1 <= 160 ? `${lead} ${tail}` : lead;
   return {
-    title: `${tn(product.id)} — BestHome`,
-    description: td(`items.${product.id}.lead`),
+    title: `${tn(product.id)} · ${tm("titleTag")}`,
+    description,
   };
 }
 

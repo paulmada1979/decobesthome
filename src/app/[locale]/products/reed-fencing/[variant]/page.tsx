@@ -22,9 +22,14 @@ export async function generateMetadata({
   const rv = getReedVariant(variant);
   if (!rv) return {};
   const t = await getTranslations({ locale, namespace: "products.reed" });
+  const tm = await getTranslations({ locale, namespace: "meta" });
+  const lead = t(`variants.${rv.id}.lead`);
+  const tail = tm("descTag");
+  const description =
+    lead.length < 110 && lead.length + tail.length + 1 <= 160 ? `${lead} ${tail}` : lead;
   return {
-    title: `${t(`variants.${rv.id}.name`)} — BestHome`,
-    description: t(`variants.${rv.id}.lead`),
+    title: t(`variants.${rv.id}.name`),
+    description,
   };
 }
 

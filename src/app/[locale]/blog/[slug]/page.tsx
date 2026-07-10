@@ -27,7 +27,7 @@ export async function generateMetadata({
   if (!post) return {};
   const t = await getTranslations({ locale, namespace: "journal" });
   return {
-    title: `${t(`posts.${post.id}.title`)} — BestHome`,
+    title: t(`posts.${post.id}.title`),
     description: t(`posts.${post.id}.excerpt`),
   };
 }

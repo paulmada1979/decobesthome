@@ -88,7 +88,7 @@ export default function Header() {
                         <span className="ico">
                           {p.image ? (
                             // eslint-disable-next-line @next/next/no-img-element
-                            <img src={p.image} alt="" loading="lazy" />
+                            <img src={p.image} alt={tn(p.id)} loading="lazy" />
                           ) : (
                             p.icon
                           )}

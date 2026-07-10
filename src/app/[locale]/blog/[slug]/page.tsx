@@ -104,7 +104,7 @@ export default async function BlogPostPage({
               const figure = img ? (
                 <figure key={`fig-${i}`} className="article-fig">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img loading="lazy" src={img} alt="" />
+                  <img loading="lazy" src={img} alt={title} />
                 </figure>
               ) : null;
               let el: ReactNode;

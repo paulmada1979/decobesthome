@@ -27,7 +27,7 @@ export default function ProductGallery({
               aria-label={`${alt} ${i + 1}`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={src} alt="" />
+              <img src={src} alt={`${alt} — view ${i + 1}`} />
             </button>
           ))}
         </div>

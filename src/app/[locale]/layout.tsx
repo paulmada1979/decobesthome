@@ -28,12 +28,21 @@ export async function generateMetadata({
       template: `%s · ${t("brand")}`,
     },
     description: t("description"),
+    alternates: { canonical: locale === "en" ? "/" : `/${locale}` },
     openGraph: {
       title: t("title"),
       description: t("description"),
       siteName: t("brand"),
+      url: locale === "en" ? "/" : `/${locale}`,
       locale,
       type: "website",
+      images: [{ url: "/og.jpg", width: 1200, height: 630, alt: t("brand") }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+      images: ["/og.jpg"],
     },
     icons: { icon: "/logos/favicon.jpg" },
   };

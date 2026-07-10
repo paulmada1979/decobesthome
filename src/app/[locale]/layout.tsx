@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -73,10 +72,11 @@ export default async function LocaleLayout({
             <QuoteModal />
           </QuoteModalProvider>
         </NextIntlClientProvider>
-        <Script
+        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
+        <script
+          async
           src="https://analytics.ahrefs.com/analytics.js"
           data-key="7EItG3EBkRVrrZ9L9XYF9Q"
-          strategy="afterInteractive"
         />
       </body>
     </html>

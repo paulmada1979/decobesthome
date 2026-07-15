@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Artificial fence rolls",
       "artificial-green-wall-panels": "Artificial green wall panels",
       "bamboo-room-dividers": "Bamboo room dividers",
-      "bamboo-reed-curtains": "Bamboo & reed curtains"
+      "bamboo-reed-curtains": "Bamboo & reed curtains",
+      "bamboo-rugs": "Bamboo rugs"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Hedge & ivy panels",
       "artificial-green-wall-panels": "Boxwood green walls",
       "bamboo-room-dividers": "Rollable natural room screens",
-      "bamboo-reed-curtains": "Roller blinds & curtains"
+      "bamboo-reed-curtains": "Roller blinds & curtains",
+      "bamboo-rugs": "Bath & floor rugs"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Fine-stem reed blind for soft, even light filtering."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Natural bamboo",
+          "lead": "Roll-up bamboo rugs with a bound cloth border and non-slip backing — warm, water-friendly floor cover for bathrooms, kitchens and living spaces. Rectangle and round.",
+          "pill": "Water-friendly · Non-slip",
+          "name": "Bamboo rugs",
+          "desc": "Natural bamboo slats laid tight and bound with a fabric edge on a non-slip backing. Water-resistant and hard-wearing, they suit bathrooms, kitchens, hallways and living rooms — and roll up flat for easy shipping. Rectangles and rounds in several sizes, OEM welcome.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natural Moso bamboo slats, cloth-bound edge"
+            },
+            {
+              "k": "Backing",
+              "v": "Non-slip anti-skid underside"
+            },
+            {
+              "k": "Shapes",
+              "v": "Rectangle & round"
+            },
+            {
+              "k": "Sizes",
+              "v": "Standard & custom"
+            },
+            {
+              "k": "Use",
+              "v": "Bathroom, kitchen, hallway, living room"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Two shapes",
+            "title": "Rectangle & round",
+            "lead": "The same natural bamboo slats and bound border, in the shape that fits the space.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Rectangle rug",
+                "desc": "Classic rectangular bamboo rug — bath mats, runners and floor mats in several sizes."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Round rug",
+                "desc": "Round bamboo rug for a softer accent under tables and in living spaces."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "The material",
+            "title": "Warm, water-friendly bamboo underfoot",
+            "body": [
+              {
+                "p": "Bamboo rugs bring the warmth and grain of natural bamboo to floors that get wet or heavy use. Flat bamboo slats are laid tightly side by side, bound with a durable fabric border and mounted on a non-slip backing so the rug stays put on tile or wood."
+              },
+              {
+                "p": "Bamboo is naturally water-resistant and quick-drying, which makes these rugs a practical, good-looking choice for bathrooms and kitchens as well as bedrooms, hallways and living rooms."
+              },
+              {
+                "h3": "Rolls up for easy shipping"
+              },
+              {
+                "p": "Each rug rolls flat, so they pack densely and ship efficiently by the pallet or container — ideal for wholesale and retail programmes."
+              },
+              {
+                "h3": "Rectangle and round"
+              },
+              {
+                "p": "Available as classic rectangles and as round rugs in a range of standard sizes, with custom sizes, colours and private-label packaging on request."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In real spaces",
+            "title": "At home in every room",
+            "lead": "From the bathroom and kitchen to the bedroom and living room."
+          },
+          "sizeChart": {
+            "eyebrow": "Sizes",
+            "title": "Standard sizes",
+            "lead": "Rectangle and round, in the sizes we stock — custom sizes and shapes on request.",
+            "colLength": "Size",
+            "colDiameter": "Type / use",
+            "note": "Standard sizes shown · custom sizes, shapes and colours available · natural bamboo slats with a bound cloth border and non-slip backing."
           }
         }
       }

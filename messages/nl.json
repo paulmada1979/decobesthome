@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Kunststof omheiningsrollen",
       "artificial-green-wall-panels": "Kunststof groene wandpanelen",
       "bamboo-room-dividers": "Bamboe kamerschermen",
-      "bamboo-reed-curtains": "Bamboe- en rietgordijnen"
+      "bamboo-reed-curtains": "Bamboe- en rietgordijnen",
+      "bamboo-rugs": "Bamboe tapijten"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Haag- & klimoppanelen",
       "artificial-green-wall-panels": "Buxus groene wanden",
       "bamboo-room-dividers": "Oprolbare natuurlijke kamerschermen",
-      "bamboo-reed-curtains": "Rolgordijnen & hanggordijnen"
+      "bamboo-reed-curtains": "Rolgordijnen & hanggordijnen",
+      "bamboo-rugs": "Bad- & vloertapijten"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Fijngesteeld rietgordijn voor een zachte, gelijkmatige lichtfiltering."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Natuurlijk bamboe",
+          "lead": "Oprolbare bamboe tapijten met een omzoomde stoffen rand en antislip onderkant — warme, waterbestendige vloerbedekking voor badkamer, keuken en woonruimte. Rechthoekig en rond.",
+          "pill": "Waterbestendig · Antislip",
+          "name": "Bamboe tapijten",
+          "desc": "Natuurlijke bamboelatten strak gelegd en afgewerkt met een stoffen rand op een antislip onderkant. Waterbestendig en slijtvast, geschikt voor badkamer, keuken, hal en woonkamer — en ze rollen plat op voor eenvoudig transport. Rechthoekig en rond in meerdere maten, OEM welkom.",
+          "spec": [
+            {
+              "k": "Materiaal",
+              "v": "Natuurlijke Moso-bamboelatten, stoffen rand"
+            },
+            {
+              "k": "Onderkant",
+              "v": "Antislip onderzijde"
+            },
+            {
+              "k": "Vormen",
+              "v": "Rechthoekig & rond"
+            },
+            {
+              "k": "Maten",
+              "v": "Standaard & op maat"
+            },
+            {
+              "k": "Gebruik",
+              "v": "Badkamer, keuken, hal, woonkamer"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Bespreekbaar · private label welkom"
+            },
+            {
+              "k": "Laadhaven",
+              "v": "Xiamen, China"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Twee vormen",
+            "title": "Rechthoekig & rond",
+            "lead": "Dezelfde natuurlijke bamboelatten en omzoomde rand, in de vorm die bij de ruimte past.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Rechthoekig tapijt",
+                "desc": "Klassiek rechthoekig bamboe tapijt — badmatten, lopers en vloermatten in meerdere maten."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Rond tapijt",
+                "desc": "Rond bamboe tapijt voor een zachter accent onder tafels en in woonruimtes."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "Het materiaal",
+            "title": "Warm, waterbestendig bamboe onder de voet",
+            "body": [
+              {
+                "p": "Bamboe tapijten brengen de warmte en nerf van natuurlijk bamboe naar vloeren die nat worden of veel te verduren krijgen. Platte bamboelatten liggen strak naast elkaar, afgewerkt met een stevige stoffen rand en op een antislip onderkant, zodat het tapijt blijft liggen op tegels of hout."
+              },
+              {
+                "p": "Bamboe is van nature waterbestendig en droogt snel, waardoor deze tapijten een praktische, mooie keuze zijn voor badkamer en keuken én voor slaapkamer, hal en woonkamer."
+              },
+              {
+                "h3": "Rolt op voor eenvoudig transport"
+              },
+              {
+                "p": "Elk tapijt rolt plat op, dus ze pakken compact en verschepen efficiënt per pallet of container — ideaal voor groothandel en retail."
+              },
+              {
+                "h3": "Rechthoekig en rond"
+              },
+              {
+                "p": "Verkrijgbaar als klassieke rechthoeken en als ronde tapijten in diverse standaardmaten, met maatwerk, kleuren en private-label verpakking op aanvraag."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In echte ruimtes",
+            "title": "Thuis in elke kamer",
+            "lead": "Van badkamer en keuken tot slaapkamer en woonkamer."
+          },
+          "sizeChart": {
+            "eyebrow": "Maten",
+            "title": "Standaardmaten",
+            "lead": "Rechthoekig en rond, in de maten die wij voeren — maatwerk en vormen op aanvraag.",
+            "colLength": "Maat",
+            "colDiameter": "Type / gebruik",
+            "note": "Standaardmaten getoond · maatwerk, vormen en kleuren mogelijk · natuurlijke bamboelatten met omzoomde stoffen rand en antislip onderkant."
           }
         }
       }

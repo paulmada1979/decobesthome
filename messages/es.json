@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Rollos de valla artificial",
       "artificial-green-wall-panels": "Paneles de muro verde artificial",
       "bamboo-room-dividers": "Biombos de bambú",
-      "bamboo-reed-curtains": "Cortinas de junco y bambú"
+      "bamboo-reed-curtains": "Cortinas de junco y bambú",
+      "bamboo-rugs": "Alfombras de bambú"
     },
     "tags": {
       "bestseller": "Más vendido",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Paneles de seto y hiedra",
       "artificial-green-wall-panels": "Muros verdes de boj",
       "bamboo-room-dividers": "Biombos naturales enrollables",
-      "bamboo-reed-curtains": "Estores enrollables y cortinas"
+      "bamboo-reed-curtains": "Estores enrollables y cortinas",
+      "bamboo-rugs": "Alfombras de baño y suelo"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Estor de junco de caña fina para un filtrado de luz suave y uniforme."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Bambú natural",
+          "lead": "Alfombras de bambú enrollables con borde de tela ribeteado y base antideslizante: un suelo cálido y resistente al agua para baños, cocinas y salones. Rectangular y redonda.",
+          "pill": "Resistente al agua · Antideslizante",
+          "name": "Alfombras de bambú",
+          "desc": "Listones de bambú natural dispuestos juntos y rematados con un borde de tela sobre una base antideslizante. Resistentes al agua y duraderas, ideales para baño, cocina, pasillo y salón, y se enrollan planas para facilitar el envío. Rectangulares y redondas en varios tamaños, OEM bienvenido.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Listones de bambú Moso natural, borde de tela"
+            },
+            {
+              "k": "Base",
+              "v": "Base antideslizante"
+            },
+            {
+              "k": "Formas",
+              "v": "Rectangular y redonda"
+            },
+            {
+              "k": "Tamaños",
+              "v": "Estándar y a medida"
+            },
+            {
+              "k": "Uso",
+              "v": "Baño, cocina, pasillo, salón"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · marca propia bienvenida"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Xiamen, China"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Dos formas",
+            "title": "Rectangular y redonda",
+            "lead": "Los mismos listones de bambú natural y el borde ribeteado, en la forma que encaja en el espacio.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Alfombra rectangular",
+                "desc": "Alfombra de bambú rectangular clásica: alfombrillas de baño, pasilleras y esteras en varios tamaños."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Alfombra redonda",
+                "desc": "Alfombra de bambú redonda para un toque más suave bajo las mesas y en el salón."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "El material",
+            "title": "Bambú cálido y resistente al agua bajo los pies",
+            "body": [
+              {
+                "p": "Las alfombras de bambú aportan la calidez y la veta del bambú natural a suelos que se mojan o soportan mucho uso. Los listones planos de bambú se disponen muy juntos, se rematan con un borde de tela resistente y se montan sobre una base antideslizante para que la alfombra no se mueva sobre baldosa o madera."
+              },
+              {
+                "p": "El bambú es naturalmente resistente al agua y de secado rápido, lo que convierte a estas alfombras en una opción práctica y atractiva tanto para baños y cocinas como para dormitorios, pasillos y salones."
+              },
+              {
+                "h3": "Se enrolla para un envío fácil"
+              },
+              {
+                "p": "Cada alfombra se enrolla plana, por lo que se embala de forma compacta y se envía con eficiencia por palé o contenedor: ideal para programas de mayoristas y minoristas."
+              },
+              {
+                "h3": "Rectangular y redonda"
+              },
+              {
+                "p": "Disponibles como rectángulos clásicos y como alfombras redondas en una gama de tamaños estándar, con tamaños, colores y embalaje de marca propia a medida bajo pedido."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "En espacios reales",
+            "title": "Como en casa en cada habitación",
+            "lead": "Del baño y la cocina al dormitorio y el salón."
+          },
+          "sizeChart": {
+            "eyebrow": "Tamaños",
+            "title": "Tamaños estándar",
+            "lead": "Rectangular y redonda, en los tamaños que tenemos — tamaños y formas a medida bajo pedido.",
+            "colLength": "Tamaño",
+            "colDiameter": "Tipo / uso",
+            "note": "Tamaños estándar mostrados · tamaños, formas y colores a medida disponibles · listones de bambú natural con borde de tela ribeteado y base antideslizante."
           }
         }
       }

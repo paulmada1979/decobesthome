@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Rotoli di recinzione artificiale",
       "artificial-green-wall-panels": "Pannelli per parete verde artificiale",
       "bamboo-room-dividers": "Paravento in bambù",
-      "bamboo-reed-curtains": "Tende in bambù e canna palustre"
+      "bamboo-reed-curtains": "Tende in bambù e canna palustre",
+      "bamboo-rugs": "Tappeti in bambù"
     },
     "tags": {
       "bestseller": "Più venduto",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Pannelli di siepe ed edera",
       "artificial-green-wall-panels": "Pareti verdi in bosso",
       "bamboo-room-dividers": "Paraventi naturali arrotolabili",
-      "bamboo-reed-curtains": "Tende a rullo e tende a pendere"
+      "bamboo-reed-curtains": "Tende a rullo e tende a pendere",
+      "bamboo-rugs": "Tappeti bagno e pavimento"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Tenda in canna palustre a stelo fine per una filtrazione della luce morbida e uniforme."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Bambù naturale",
+          "lead": "Tappeti in bambù arrotolabili con bordo in tessuto rifinito e fondo antiscivolo: una pavimentazione calda e resistente all'acqua per bagni, cucine e zone living. Rettangolare e rotondo.",
+          "pill": "Resistente all'acqua · Antiscivolo",
+          "name": "Tappeti in bambù",
+          "desc": "Listelli di bambù naturale accostati e rifiniti con un bordo in tessuto su un fondo antiscivolo. Resistenti all'acqua e durevoli, adatti a bagno, cucina, corridoio e soggiorno, e si arrotolano piatti per una spedizione facile. Rettangolari e rotondi in varie misure, OEM benvenuto.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "Listelli di bambù Moso naturale, bordo in tessuto"
+            },
+            {
+              "k": "Fondo",
+              "v": "Fondo antiscivolo"
+            },
+            {
+              "k": "Forme",
+              "v": "Rettangolare e rotondo"
+            },
+            {
+              "k": "Misure",
+              "v": "Standard e su misura"
+            },
+            {
+              "k": "Uso",
+              "v": "Bagno, cucina, corridoio, soggiorno"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Trattabile · private label benvenuto"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Xiamen, Cina"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Due forme",
+            "title": "Rettangolare e rotondo",
+            "lead": "Gli stessi listelli di bambù naturale e il bordo rifinito, nella forma adatta allo spazio.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Tappeto rettangolare",
+                "desc": "Classico tappeto in bambù rettangolare — tappetini bagno, passatoie e stuoie in varie misure."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Tappeto rotondo",
+                "desc": "Tappeto in bambù rotondo per un accento più morbido sotto i tavoli e nelle zone living."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "Il materiale",
+            "title": "Bambù caldo e resistente all'acqua sotto i piedi",
+            "body": [
+              {
+                "p": "I tappeti in bambù portano il calore e la venatura del bambù naturale su pavimenti che si bagnano o sono molto sollecitati. I listelli piatti di bambù sono accostati fitti, rifiniti con un robusto bordo in tessuto e montati su un fondo antiscivolo così che il tappeto resti fermo su piastrelle o legno."
+              },
+              {
+                "p": "Il bambù è naturalmente resistente all'acqua e ad asciugatura rapida, il che rende questi tappeti una scelta pratica e bella per bagni e cucine oltre che per camere, corridoi e soggiorni."
+              },
+              {
+                "h3": "Si arrotola per una spedizione facile"
+              },
+              {
+                "p": "Ogni tappeto si arrotola piatto, quindi si imballa in modo compatto e si spedisce con efficienza su pallet o in container — ideale per programmi wholesale e retail."
+              },
+              {
+                "h3": "Rettangolare e rotondo"
+              },
+              {
+                "p": "Disponibili come classici rettangoli e come tappeti rotondi in una gamma di misure standard, con misure, colori e confezioni private-label su richiesta."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In spazi reali",
+            "title": "A casa in ogni stanza",
+            "lead": "Dal bagno e la cucina alla camera e al soggiorno."
+          },
+          "sizeChart": {
+            "eyebrow": "Misure",
+            "title": "Misure standard",
+            "lead": "Rettangolare e rotondo, nelle misure che teniamo — misure e forme su richiesta.",
+            "colLength": "Misura",
+            "colDiameter": "Tipo / uso",
+            "note": "Misure standard mostrate · misure, forme e colori su misura disponibili · listelli di bambù naturale con bordo in tessuto rifinito e fondo antiscivolo."
           }
         }
       }

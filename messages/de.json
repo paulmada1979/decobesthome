@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Künstliche Zaunmatten",
       "artificial-green-wall-panels": "Künstliche Begrünungspaneele",
       "bamboo-room-dividers": "Bambus-Raumteiler",
-      "bamboo-reed-curtains": "Bambus- & Schilfrohrvorhänge"
+      "bamboo-reed-curtains": "Bambus- & Schilfrohrvorhänge",
+      "bamboo-rugs": "Bambusteppiche"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Hecken- & Efeupaneele",
       "artificial-green-wall-panels": "Buchsbaum-Begrünungswände",
       "bamboo-room-dividers": "Aufrollbare Raumteiler aus Naturmaterial",
-      "bamboo-reed-curtains": "Rollos & Vorhänge"
+      "bamboo-reed-curtains": "Rollos & Vorhänge",
+      "bamboo-rugs": "Bad- & Bodenteppiche"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Feinhalmiges Schilfrohr-Rollo für weiche, gleichmäßige Lichtfilterung."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Natürlicher Bambus",
+          "lead": "Aufrollbare Bambusteppiche mit eingefasstem Stoffrand und rutschfester Unterseite — warmer, wasserfreundlicher Bodenbelag für Bad, Küche und Wohnräume. Rechteckig und rund.",
+          "pill": "Wasserfreundlich · Rutschfest",
+          "name": "Bambusteppiche",
+          "desc": "Natürliche Bambuslamellen dicht verlegt und mit einem Stoffrand eingefasst, auf rutschfester Unterseite. Wasserbeständig und strapazierfähig — für Bad, Küche, Flur und Wohnzimmer, und flach aufrollbar für einfachen Versand. Rechteckig und rund in mehreren Größen, OEM willkommen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natürliche Moso-Bambuslamellen, Stoffrand"
+            },
+            {
+              "k": "Unterseite",
+              "v": "Rutschfeste Anti-Rutsch-Unterseite"
+            },
+            {
+              "k": "Formen",
+              "v": "Rechteckig & rund"
+            },
+            {
+              "k": "Größen",
+              "v": "Standard & Maßanfertigung"
+            },
+            {
+              "k": "Einsatz",
+              "v": "Bad, Küche, Flur, Wohnzimmer"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Private Label willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Zwei Formen",
+            "title": "Rechteckig & rund",
+            "lead": "Dieselben natürlichen Bambuslamellen und der eingefasste Rand, in der Form, die zum Raum passt.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Rechteckiger Teppich",
+                "desc": "Klassischer rechteckiger Bambusteppich — Badematten, Läufer und Bodenmatten in mehreren Größen."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Runder Teppich",
+                "desc": "Runder Bambusteppich als weicherer Akzent unter Tischen und in Wohnräumen."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "Das Material",
+            "title": "Warmer, wasserfreundlicher Bambus unter den Füßen",
+            "body": [
+              {
+                "p": "Bambusteppiche bringen die Wärme und Maserung von natürlichem Bambus auf Böden, die nass werden oder stark beansprucht sind. Flache Bambuslamellen liegen dicht nebeneinander, sind mit einem robusten Stoffrand eingefasst und auf einer rutschfesten Unterseite montiert, damit der Teppich auf Fliesen oder Holz an Ort und Stelle bleibt."
+              },
+              {
+                "p": "Bambus ist von Natur aus wasserbeständig und trocknet schnell, was diese Teppiche zu einer praktischen, schönen Wahl für Bad und Küche wie auch für Schlafzimmer, Flur und Wohnzimmer macht."
+              },
+              {
+                "h3": "Aufrollbar für einfachen Versand"
+              },
+              {
+                "p": "Jeder Teppich lässt sich flach aufrollen, packt kompakt und wird effizient auf Paletten oder im Container verschifft — ideal für Großhandel und Handel."
+              },
+              {
+                "h3": "Rechteckig und rund"
+              },
+              {
+                "p": "Erhältlich als klassische Rechtecke und als runde Teppiche in verschiedenen Standardgrößen, mit Sondergrößen, Farben und Private-Label-Verpackung auf Anfrage."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "In echten Räumen",
+            "title": "Zu Hause in jedem Raum",
+            "lead": "Vom Bad und der Küche bis zum Schlaf- und Wohnzimmer."
+          },
+          "sizeChart": {
+            "eyebrow": "Größen",
+            "title": "Standardgrößen",
+            "lead": "Rechteckig und rund, in den Größen, die wir führen — Sondergrößen und Formen auf Anfrage.",
+            "colLength": "Größe",
+            "colDiameter": "Typ / Einsatz",
+            "note": "Standardgrößen gezeigt · Sondergrößen, Formen und Farben möglich · natürliche Bambuslamellen mit eingefasstem Stoffrand und rutschfester Unterseite."
           }
         }
       }

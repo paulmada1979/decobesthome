@@ -76,7 +76,8 @@
       "artificial-fence-rolls": "Rouleaux de clôture artificielle",
       "artificial-green-wall-panels": "Panneaux de mur végétal artificiel",
       "bamboo-room-dividers": "Paravents en bambou",
-      "bamboo-reed-curtains": "Rideaux en bambou et roseau"
+      "bamboo-reed-curtains": "Rideaux en bambou et roseau",
+      "bamboo-rugs": "Tapis en bambou"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -96,7 +97,8 @@
       "artificial-fence-rolls": "Panneaux de haie et de lierre",
       "artificial-green-wall-panels": "Murs végétaux en buis",
       "bamboo-room-dividers": "Paravents naturels enroulables",
-      "bamboo-reed-curtains": "Stores enrouleurs et rideaux"
+      "bamboo-reed-curtains": "Stores enrouleurs et rideaux",
+      "bamboo-rugs": "Tapis de bain et de sol"
     },
     "index": {
       "meta": {
@@ -1451,6 +1453,97 @@
                 "desc": "Store en roseau à fins brins pour un filtrage de la lumière doux et uniforme."
               }
             ]
+          }
+        },
+        "bamboo-rugs": {
+          "eyebrow": "Bambou naturel",
+          "lead": "Tapis en bambou enroulables à bordure en tissu et sous-face antidérapante : un revêtement de sol chaleureux et résistant à l'eau pour salles de bain, cuisines et pièces de vie. Rectangulaire et rond.",
+          "pill": "Résistant à l'eau · Antidérapant",
+          "name": "Tapis en bambou",
+          "desc": "Lattes de bambou naturel serrées et finies par une bordure en tissu sur une sous-face antidérapante. Résistants à l'eau et robustes, ils conviennent à la salle de bain, la cuisine, l'entrée et le salon, et s'enroulent à plat pour une expédition facile. Rectangulaires et ronds en plusieurs tailles, OEM bienvenu.",
+          "spec": [
+            {
+              "k": "Matière",
+              "v": "Lattes de bambou Moso naturel, bordure tissu"
+            },
+            {
+              "k": "Sous-face",
+              "v": "Sous-face antidérapante"
+            },
+            {
+              "k": "Formes",
+              "v": "Rectangulaire et rond"
+            },
+            {
+              "k": "Tailles",
+              "v": "Standard et sur mesure"
+            },
+            {
+              "k": "Usage",
+              "v": "Salle de bain, cuisine, entrée, salon"
+            },
+            {
+              "k": "MOQ et OEM",
+              "v": "Négociable · marque blanche bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "variations": {
+            "eyebrow": "Deux formes",
+            "title": "Rectangulaire et rond",
+            "lead": "Les mêmes lattes de bambou naturel et la même bordure, dans la forme qui convient à l'espace.",
+            "items": [
+              {
+                "img": "var-rectangle.webp",
+                "title": "Tapis rectangulaire",
+                "desc": "Tapis en bambou rectangulaire classique — tapis de bain, chemins et paillassons en plusieurs tailles."
+              },
+              {
+                "img": "var-round.webp",
+                "title": "Tapis rond",
+                "desc": "Tapis en bambou rond pour une touche plus douce sous les tables et dans les pièces de vie."
+              }
+            ]
+          },
+          "about": {
+            "eyebrow": "La matière",
+            "title": "Un bambou chaleureux et résistant à l'eau sous les pieds",
+            "body": [
+              {
+                "p": "Les tapis en bambou apportent la chaleur et le veinage du bambou naturel aux sols qui se mouillent ou sont très sollicités. Les lattes plates de bambou sont serrées côte à côte, finies par une bordure en tissu résistante et montées sur une sous-face antidérapante afin que le tapis reste en place sur le carrelage ou le bois."
+              },
+              {
+                "p": "Le bambou est naturellement résistant à l'eau et sèche vite, ce qui fait de ces tapis un choix pratique et élégant pour la salle de bain et la cuisine comme pour la chambre, l'entrée et le salon."
+              },
+              {
+                "h3": "S'enroule pour une expédition facile"
+              },
+              {
+                "p": "Chaque tapis s'enroule à plat, s'emballe de façon compacte et s'expédie efficacement en palette ou en conteneur — idéal pour les programmes wholesale et retail."
+              },
+              {
+                "h3": "Rectangulaire et rond"
+              },
+              {
+                "p": "Disponibles en rectangles classiques et en tapis ronds dans une gamme de tailles standard, avec tailles, couleurs et emballage en marque blanche sur demande."
+              }
+            ]
+          },
+          "showcase": {
+            "eyebrow": "Dans de vrais espaces",
+            "title": "Chez soi dans chaque pièce",
+            "lead": "De la salle de bain et la cuisine à la chambre et au salon."
+          },
+          "sizeChart": {
+            "eyebrow": "Tailles",
+            "title": "Tailles standard",
+            "lead": "Rectangulaire et rond, dans les tailles que nous proposons — tailles et formes sur mesure sur demande.",
+            "colLength": "Taille",
+            "colDiameter": "Type / usage",
+            "note": "Tailles standard indiquées · tailles, formes et couleurs sur mesure disponibles · lattes de bambou naturel à bordure en tissu et sous-face antidérapante."
           }
         }
       }

@@ -145,16 +145,13 @@ export default async function ProductDetailPage({
             {t(`items.${product.id}.colors.lead`)}
           </p>
         </Reveal>
-        <Reveal as="div" className="color-grid" delay={1}>
-          {product.colors.map((c) => (
-            <figure className="color-card" key={c.key}>
-              <div className="ph">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img loading="lazy" src={`/images/${product.variationDir}/${c.img}`} alt={t(`items.${product.id}.colors.labels.${c.key}`)} />
-              </div>
-              <figcaption>{t(`items.${product.id}.colors.labels.${c.key}`)}</figcaption>
-            </figure>
-          ))}
+        <Reveal delay={1}>
+          <ShowcaseLightbox
+            images={product.colors.map((c) => ({
+              src: `/images/${product.variationDir}/${c.img}`,
+              label: t(`items.${product.id}.colors.labels.${c.key}`),
+            }))}
+          />
         </Reveal>
       </div>
     </section>

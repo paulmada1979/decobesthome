@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Listones de bambú Moso natural, borde de tela"
+              "v": "100% bambú Moso natural, borde de tela"
+            },
+            {
+              "k": "Listones",
+              "v": "17 mm de ancho · 2,8–3 mm de grosor total"
             },
             {
               "k": "Base",
-              "v": "Base antideslizante"
+              "v": "Base antideslizante de puntos (~1,5–1,8 kg/m²)"
             },
             {
-              "k": "Formas",
-              "v": "Rectangular y redonda"
+              "k": "Colores",
+              "v": "Natural, blanco, chocolate, negro, azul, rojo"
             },
             {
               "k": "Tamaños",
-              "v": "Estándar y a medida"
+              "v": "50 × 80 a 200 × 300 cm · a medida"
+            },
+            {
+              "k": "Borde",
+              "v": "Borde de tela ribeteado o sin rematar"
             },
             {
               "k": "Uso",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Tamaños",
             "title": "Tamaños estándar",
-            "lead": "Rectangular y redonda, en los tamaños que tenemos — tamaños y formas a medida bajo pedido.",
-            "colLength": "Tamaño",
-            "colDiameter": "Tipo / uso",
-            "note": "Tamaños estándar mostrados · tamaños, formas y colores a medida disponibles · listones de bambú natural con borde de tela ribeteado y base antideslizante."
+            "lead": "23 tamaños estándar, de 50 × 80 cm hasta 200 × 300 cm. Alfombras redondas y medidas a medida bajo pedido.",
+            "colLength": "Ancho (cm)",
+            "colDiameter": "Largos disponibles (cm)",
+            "note": "Ancho del listón 17 mm · grosor total 2,8–3 mm · base antideslizante de puntos · con borde de tela ribeteado o sin rematar · redondas y a medida bajo pedido."
+          },
+          "colors": {
+            "eyebrow": "Colores",
+            "title": "Seis colores",
+            "lead": "El mismo bambú natural, tejido y acabado en seis tonos — del natural cálido al negro intenso, más chocolate, azul, rojo y blanco.",
+            "labels": {
+              "natural": "Natural",
+              "chocolate": "Chocolate",
+              "black": "Negro",
+              "white": "Blanco",
+              "blue": "Azul",
+              "red": "Rojo"
+            }
           }
         }
       }

@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natürliche Moso-Bambuslamellen, Stoffrand"
+              "v": "100% natürlicher Moso-Bambus, Stoffrand"
+            },
+            {
+              "k": "Lamellen",
+              "v": "17 mm breit · 2,8–3 mm Gesamtdicke"
             },
             {
               "k": "Unterseite",
-              "v": "Rutschfeste Anti-Rutsch-Unterseite"
+              "v": "Rutschfeste Noppen-Unterseite (~1,5–1,8 kg/m²)"
             },
             {
-              "k": "Formen",
-              "v": "Rechteckig & rund"
+              "k": "Farben",
+              "v": "Natur, Weiß, Schokobraun, Schwarz, Blau, Rot"
             },
             {
               "k": "Größen",
-              "v": "Standard & Maßanfertigung"
+              "v": "50 × 80 bis 200 × 300 cm · Maßanfertigung"
+            },
+            {
+              "k": "Rand",
+              "v": "Eingefasster Stoffrand oder ohne"
             },
             {
               "k": "Einsatz",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Größen",
             "title": "Standardgrößen",
-            "lead": "Rechteckig und rund, in den Größen, die wir führen — Sondergrößen und Formen auf Anfrage.",
-            "colLength": "Größe",
-            "colDiameter": "Typ / Einsatz",
-            "note": "Standardgrößen gezeigt · Sondergrößen, Formen und Farben möglich · natürliche Bambuslamellen mit eingefasstem Stoffrand und rutschfester Unterseite."
+            "lead": "23 Standardgrößen, von 50 × 80 cm bis 200 × 300 cm. Runde Teppiche und Sondergrößen auf Anfrage.",
+            "colLength": "Breite (cm)",
+            "colDiameter": "Verfügbare Längen (cm)",
+            "note": "Bambuslamellen-Breite 17 mm · Gesamtdicke 2,8–3 mm · rutschfeste Noppen-Unterseite · mit eingefasstem Stoffrand oder ohne · rund und Sondergrößen auf Anfrage."
+          },
+          "colors": {
+            "eyebrow": "Farben",
+            "title": "Sechs Farbtöne",
+            "lead": "Derselbe natürliche Bambus, gewebt und veredelt in sechs Tönen — von warmem Natur bis tiefem Schwarz, dazu Schokobraun, Blau, Rot und Weiß.",
+            "labels": {
+              "natural": "Natur",
+              "chocolate": "Schokobraun",
+              "black": "Schwarz",
+              "white": "Weiß",
+              "blue": "Blau",
+              "red": "Rot"
+            }
           }
         }
       }

@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natural Moso bamboo slats, cloth-bound edge"
+              "v": "100% natural Moso bamboo, cloth-bound edge"
+            },
+            {
+              "k": "Slats",
+              "v": "17 mm wide · 2.8–3 mm total thickness"
             },
             {
               "k": "Backing",
-              "v": "Non-slip anti-skid underside"
+              "v": "Anti-slip dot backing (~1.5–1.8 kg/m²)"
             },
             {
-              "k": "Shapes",
-              "v": "Rectangle & round"
+              "k": "Colours",
+              "v": "Natural, white, chocolate, black, blue, red"
             },
             {
               "k": "Sizes",
-              "v": "Standard & custom"
+              "v": "50 × 80 to 200 × 300 cm · custom"
+            },
+            {
+              "k": "Edge",
+              "v": "Bound cloth edge or unwrapped"
             },
             {
               "k": "Use",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Sizes",
             "title": "Standard sizes",
-            "lead": "Rectangle and round, in the sizes we stock — custom sizes and shapes on request.",
-            "colLength": "Size",
-            "colDiameter": "Type / use",
-            "note": "Standard sizes shown · custom sizes, shapes and colours available · natural bamboo slats with a bound cloth border and non-slip backing."
+            "lead": "23 standard sizes, from 50 × 80 cm up to 200 × 300 cm. Round rugs and custom sizes on request.",
+            "colLength": "Width (cm)",
+            "colDiameter": "Available lengths (cm)",
+            "note": "Bamboo slat width 17 mm · total thickness 2.8–3 mm · anti-slip dot backing · finished with a bound cloth edge or unwrapped · round and custom sizes on request."
+          },
+          "colors": {
+            "eyebrow": "Colours",
+            "title": "Six colourways",
+            "lead": "The same natural bamboo, woven and finished in six shades — from warm natural to deep black, plus chocolate, blue, red and white.",
+            "labels": {
+              "natural": "Natural",
+              "chocolate": "Chocolate",
+              "black": "Black",
+              "white": "White",
+              "blue": "Blue",
+              "red": "Red"
+            }
           }
         }
       }

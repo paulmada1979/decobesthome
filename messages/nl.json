@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Materiaal",
-              "v": "Natuurlijke Moso-bamboelatten, stoffen rand"
+              "v": "100% natuurlijk Moso-bamboe, stoffen rand"
+            },
+            {
+              "k": "Latten",
+              "v": "17 mm breed · 2,8–3 mm totale dikte"
             },
             {
               "k": "Onderkant",
-              "v": "Antislip onderzijde"
+              "v": "Antislip noppen-onderkant (~1,5–1,8 kg/m²)"
             },
             {
-              "k": "Vormen",
-              "v": "Rechthoekig & rond"
+              "k": "Kleuren",
+              "v": "Naturel, wit, chocolade, zwart, blauw, rood"
             },
             {
               "k": "Maten",
-              "v": "Standaard & op maat"
+              "v": "50 × 80 tot 200 × 300 cm · op maat"
+            },
+            {
+              "k": "Rand",
+              "v": "Omzoomde stoffen rand of onafgewerkt"
             },
             {
               "k": "Gebruik",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Maten",
             "title": "Standaardmaten",
-            "lead": "Rechthoekig en rond, in de maten die wij voeren — maatwerk en vormen op aanvraag.",
-            "colLength": "Maat",
-            "colDiameter": "Type / gebruik",
-            "note": "Standaardmaten getoond · maatwerk, vormen en kleuren mogelijk · natuurlijke bamboelatten met omzoomde stoffen rand en antislip onderkant."
+            "lead": "23 standaardmaten, van 50 × 80 cm tot 200 × 300 cm. Ronde tapijten en maatwerk op aanvraag.",
+            "colLength": "Breedte (cm)",
+            "colDiameter": "Beschikbare lengtes (cm)",
+            "note": "Bamboelat breedte 17 mm · totale dikte 2,8–3 mm · antislip noppen-onderkant · afgewerkt met omzoomde stoffen rand of onafgewerkt · rond en maatwerk op aanvraag."
+          },
+          "colors": {
+            "eyebrow": "Kleuren",
+            "title": "Zes kleuren",
+            "lead": "Hetzelfde natuurlijke bamboe, geweven en afgewerkt in zes tinten — van warm naturel tot diep zwart, plus chocolade, blauw, rood en wit.",
+            "labels": {
+              "natural": "Naturel",
+              "chocolate": "Chocolade",
+              "black": "Zwart",
+              "white": "Wit",
+              "blue": "Blauw",
+              "red": "Rood"
+            }
           }
         }
       }

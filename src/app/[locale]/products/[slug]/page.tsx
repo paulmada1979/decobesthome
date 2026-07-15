@@ -133,6 +133,33 @@ export default async function ProductDetailPage({
     </section>
   ) : null;
 
+  const colorsSection = product.colors ? (
+    <section className="section" style={{ paddingTop: 0 }}>
+      <div className="container">
+        <Reveal style={{ maxWidth: "60ch" }}>
+          <p className="eyebrow">{t(`items.${product.id}.colors.eyebrow`)}</p>
+          <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
+            {t(`items.${product.id}.colors.title`)}
+          </h2>
+          <p className="lead pretty" style={{ marginTop: "14px" }}>
+            {t(`items.${product.id}.colors.lead`)}
+          </p>
+        </Reveal>
+        <Reveal as="div" className="color-grid" delay={1}>
+          {product.colors.map((c) => (
+            <figure className="color-card" key={c.key}>
+              <div className="ph">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img loading="lazy" src={`/images/${product.variationDir}/${c.img}`} alt={t(`items.${product.id}.colors.labels.${c.key}`)} />
+              </div>
+              <figcaption>{t(`items.${product.id}.colors.labels.${c.key}`)}</figcaption>
+            </figure>
+          ))}
+        </Reveal>
+      </div>
+    </section>
+  ) : null;
+
   return (
     <>
       {/* PAGE HERO */}
@@ -221,6 +248,9 @@ export default async function ProductDetailPage({
 
       {/* VARIATIONS (moved above About for flagged products) */}
       {product.variationsFirst && variationsSection}
+
+      {/* COLOURS */}
+      {colorsSection}
 
       {/* ABOUT (long-form) */}
       {product.hasAbout && (

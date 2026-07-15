@@ -30,6 +30,8 @@ export type Product = {
   unlisted?: boolean;
   /** Optional size chart rows (length + diameter range). Labels live in messages. */
   sizeChart?: { len: string; dia: string }[];
+  /** Optional colour swatches (image under variationDir + label key in messages {id}.colors.labels). */
+  colors?: { img: string; key: string }[];
   /** Render the grades & packing section (messages.products.detail.items.{id}.grades). */
   hasGrades?: boolean;
   /** Photo-strip images (paths) shown in the grades section. */
@@ -178,14 +180,24 @@ export const products: Product[] = [
       "/images/rugs/detail-corner.webp",
       "/images/rugs/detail-backing.webp",
     ],
+    colors: [
+      { img: "color-natural.webp", key: "natural" },
+      { img: "color-chocolate.webp", key: "chocolate" },
+      { img: "color-black.webp", key: "black" },
+      { img: "color-white.webp", key: "white" },
+      { img: "color-blue.webp", key: "blue" },
+      { img: "color-red.webp", key: "red" },
+    ],
     sizeChart: [
-      { len: "50 × 80 cm", dia: "Bath / entry mat — rectangle" },
-      { len: "60 × 90 cm", dia: "Bath / kitchen mat — rectangle" },
-      { len: "50 × 120 cm", dia: "Runner — rectangle" },
-      { len: "60 × 180 cm", dia: "Long runner — rectangle" },
-      { len: "Ø 90 cm", dia: "Round rug" },
-      { len: "Ø 120 cm", dia: "Round rug" },
-      { len: "Ø 150 cm", dia: "Large round rug" },
+      { len: "50 cm", dia: "80 · 110 · 140 · 180 · 240 · 280" },
+      { len: "60 cm", dia: "90 · 110 · 140 · 180 · 240 · 280" },
+      { len: "75 cm", dia: "200" },
+      { len: "80 cm", dia: "200" },
+      { len: "90 cm", dia: "120 · 160" },
+      { len: "120 cm", dia: "160 · 240" },
+      { len: "160 cm", dia: "160 · 240" },
+      { len: "180 cm", dia: "160 · 240" },
+      { len: "200 cm", dia: "300" },
     ],
   },
   {

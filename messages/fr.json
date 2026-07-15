@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Matière",
-              "v": "Lattes de bambou Moso naturel, bordure tissu"
+              "v": "100% bambou Moso naturel, bordure tissu"
+            },
+            {
+              "k": "Lattes",
+              "v": "17 mm de large · 2,8–3 mm d'épaisseur totale"
             },
             {
               "k": "Sous-face",
-              "v": "Sous-face antidérapante"
+              "v": "Sous-face antidérapante à picots (~1,5–1,8 kg/m²)"
             },
             {
-              "k": "Formes",
-              "v": "Rectangulaire et rond"
+              "k": "Couleurs",
+              "v": "Naturel, blanc, chocolat, noir, bleu, rouge"
             },
             {
               "k": "Tailles",
-              "v": "Standard et sur mesure"
+              "v": "50 × 80 à 200 × 300 cm · sur mesure"
+            },
+            {
+              "k": "Bordure",
+              "v": "Bordure en tissu ou sans finition"
             },
             {
               "k": "Usage",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Tailles",
             "title": "Tailles standard",
-            "lead": "Rectangulaire et rond, dans les tailles que nous proposons — tailles et formes sur mesure sur demande.",
-            "colLength": "Taille",
-            "colDiameter": "Type / usage",
-            "note": "Tailles standard indiquées · tailles, formes et couleurs sur mesure disponibles · lattes de bambou naturel à bordure en tissu et sous-face antidérapante."
+            "lead": "23 tailles standard, de 50 × 80 cm jusqu'à 200 × 300 cm. Tapis ronds et tailles sur mesure sur demande.",
+            "colLength": "Largeur (cm)",
+            "colDiameter": "Longueurs disponibles (cm)",
+            "note": "Largeur de latte 17 mm · épaisseur totale 2,8–3 mm · sous-face antidérapante à picots · bordure en tissu ou sans finition · ronds et sur mesure sur demande."
+          },
+          "colors": {
+            "eyebrow": "Couleurs",
+            "title": "Six coloris",
+            "lead": "Le même bambou naturel, tissé et fini en six teintes — du naturel chaleureux au noir profond, plus chocolat, bleu, rouge et blanc.",
+            "labels": {
+              "natural": "Naturel",
+              "chocolate": "Chocolat",
+              "black": "Noir",
+              "white": "Blanc",
+              "blue": "Bleu",
+              "red": "Rouge"
+            }
           }
         }
       }

@@ -1464,19 +1464,27 @@
           "spec": [
             {
               "k": "Materiale",
-              "v": "Listelli di bambù Moso naturale, bordo in tessuto"
+              "v": "100% bambù Moso naturale, bordo in tessuto"
+            },
+            {
+              "k": "Listelli",
+              "v": "17 mm di larghezza · 2,8–3 mm di spessore totale"
             },
             {
               "k": "Fondo",
-              "v": "Fondo antiscivolo"
+              "v": "Fondo antiscivolo a pois (~1,5–1,8 kg/m²)"
             },
             {
-              "k": "Forme",
-              "v": "Rettangolare e rotondo"
+              "k": "Colori",
+              "v": "Naturale, bianco, cioccolato, nero, blu, rosso"
             },
             {
               "k": "Misure",
-              "v": "Standard e su misura"
+              "v": "50 × 80 fino a 200 × 300 cm · su misura"
+            },
+            {
+              "k": "Bordo",
+              "v": "Bordo in tessuto rifinito o non rifinito"
             },
             {
               "k": "Uso",
@@ -1540,10 +1548,23 @@
           "sizeChart": {
             "eyebrow": "Misure",
             "title": "Misure standard",
-            "lead": "Rettangolare e rotondo, nelle misure che teniamo — misure e forme su richiesta.",
-            "colLength": "Misura",
-            "colDiameter": "Tipo / uso",
-            "note": "Misure standard mostrate · misure, forme e colori su misura disponibili · listelli di bambù naturale con bordo in tessuto rifinito e fondo antiscivolo."
+            "lead": "23 misure standard, da 50 × 80 cm fino a 200 × 300 cm. Tappeti rotondi e misure su richiesta.",
+            "colLength": "Larghezza (cm)",
+            "colDiameter": "Lunghezze disponibili (cm)",
+            "note": "Larghezza listello 17 mm · spessore totale 2,8–3 mm · fondo antiscivolo a pois · con bordo in tessuto rifinito o non rifinito · rotondi e su misura su richiesta."
+          },
+          "colors": {
+            "eyebrow": "Colori",
+            "title": "Sei colori",
+            "lead": "Lo stesso bambù naturale, intrecciato e rifinito in sei tonalità — dal naturale caldo al nero intenso, più cioccolato, blu, rosso e bianco.",
+            "labels": {
+              "natural": "Naturale",
+              "chocolate": "Cioccolato",
+              "black": "Nero",
+              "white": "Bianco",
+              "blue": "Blu",
+              "red": "Rosso"
+            }
           }
         }
       }

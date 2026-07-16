@@ -286,7 +286,7 @@
         },
         "decor-moso-bamboo-poles": {
           "eyebrow": "Meilleure vente · Bambou naturel",
-          "lead": "Cannes de Moso de gros diamètre pour pergolas, bardages et réalisations décoratives — droites, robustes et à la finition naturelle.",
+          "lead": "Cannes de bambou et poteaux de grand diamètre pour pergolas, bardages et constructions décoratives — droits, robustes et naturellement finis.",
           "pill": "Écologique · Renouvelable",
           "name": "Cannes de bambou Moso décoratives",
           "desc": "Épaisses et pleines de caractère, les cannes de Moso apportent une présence chaleureuse et architecturale aux projets extérieurs et intérieurs. Idéales pour les pergolas, le bardage mural, les cloisons et la décoration de prestige — denses, robustes et développées naturellement.",
@@ -410,11 +410,12 @@
             "colLength": "Diamètre (Ø)",
             "colDiameter": "Longueurs",
             "note": "Longueurs standard : 100 · 150 · 180 · 200 · 250 · 270 · 300 · 350 · 400 · 450 · 500 · 550 · 600 cm. Dimensions sur mesure sur demande — indiquez-nous votre spécification et nous établirons un devis direct usine."
-          }
+          },
+          "metaTitle": "Cannes de Bambou & Poteaux — Gros"
         },
         "bamboo-fencing-edging": {
           "eyebrow": "Meilleure vente · Bambou naturel",
-          "lead": "Un brise-vue sans traitement chimique qui se fond dans tous les jardins — fourni en rouleaux, panneaux et bordures, en vente en gros et directement de l'usine.",
+          "lead": "Canisse bambou et brise-vue bambou en rouleau, panneau ou bordure — une occultation naturelle sans traitement chimique, en gros et directement de l'usine.",
           "pill": "Écologique · Sans formaldéhyde",
           "name": "Clôture brise-vue en bambou naturel",
           "desc": "Robuste, durable et développée naturellement sans pesticides, formaldéhyde ni colles toxiques. Un choix prisé pour le brise-vue et la décoration — s'harmonisant sans effort avec toute surface et apportant une touche de chaleur élégante et accueillante.",
@@ -585,7 +586,8 @@
             "colLength": "Ø des cannes",
             "colDiameter": "Idéal pour",
             "note": "Longueur de rouleau standard 1.8 m · hauteurs 1,0–2,0 m · tailles sur mesure sur demande."
-          }
+          },
+          "metaTitle": "Canisse Bambou & Brise-Vue Bambou — Gros"
         },
         "bamboo-fence-panels": {
           "eyebrow": "Bambou naturel",
@@ -847,7 +849,7 @@
         },
         "reed-fencing": {
           "eyebrow": "Populaire · Roseau naturel",
-          "lead": "Brise-vue classique en roseau pour jardins, balcons et terrasses — une intimité naturelle et respirante fournie au rouleau.",
+          "lead": "Canisse roseau et brise-vue roseau pour jardins, balcons et terrasses — une occultation naturelle et respirante livrée au rouleau.",
           "pill": "Écologique · Roseau naturel",
           "name": "Clôture en roseau",
           "desc": "Du roseau récolté naturellement et tissé en brise-vue respirants à la texture douce et organique. Un choix intemporel pour jardins, balcons et terrasses — fourni en rouleaux dans une gamme de hauteurs.",
@@ -973,11 +975,12 @@
             "colLength": "Ø du roseau",
             "colDiameter": "Caractère",
             "note": "Longueur de rouleau standard 3 m · 5 m · 6 m · hauteurs 1,0–2,0 m · écorcé, non écorcé & carbonisé · tailles sur mesure sur demande."
-          }
+          },
+          "metaTitle": "Canisse Roseau & Brise-Vue Roseau — Gros"
         },
         "other-natural-fencing": {
           "eyebrow": "Matières naturelles",
-          "lead": "Osier, brande et autres brise-vue naturels pour une délimitation rustique et pleine de caractère — fournis en vente en gros au rouleau.",
+          "lead": "Canisse osier, brande de bruyère et écorce — des clôtures naturelles qui adoucissent et réchauffent chaque jardin.",
           "pill": "Écologique · Naturel",
           "name": "Clôtures naturelles",
           "desc": "Au-delà du bambou et du roseau, notre gamme comprend des brise-vue en osier et en brande pour un aspect chaleureux et rustique. Récoltés naturellement et tissés en rouleaux durables — idéaux pour les jardins et les délimitations décoratives.",
@@ -1071,7 +1074,8 @@
                 "desc": "Clôture en écorce boisée et chaleureuse pour une délimitation rustique et texturée."
               }
             ]
-          }
+          },
+          "metaTitle": "Canisse Osier & Clôtures Naturelles — Gros"
         },
         "natural-thatch-roof": {
           "eyebrow": "Chaume naturel",
@@ -1254,7 +1258,7 @@
         },
         "bamboo-room-dividers": {
           "eyebrow": "Populaire · Décoration d'intérieur",
-          "lead": "Des paravents en bambou enroulables qui préservent l'intimité et structurent les espaces — naturels, légers et prêts à l'emploi en quelques secondes.",
+          "lead": "Paravent bambou enroulable — crée de l'intimité et structure les espaces, naturel, léger et prêt en quelques secondes.",
           "pill": "Écologique · 100 % bambou",
           "name": "Paravent en bambou",
           "desc": "Une manière élégante de préserver l'intimité, de délimiter des espaces ou simplement d'apporter une touche chaleureuse et naturelle à tout intérieur. Chaque paravent est entièrement fabriqué en bambou issu d'une récolte durable, mettant en valeur le grain du matériau et ses variations naturelles de teinte.",
@@ -1359,11 +1363,12 @@
                 "desc": "Un paravent vertical à cannes Moso, ouvert et aéré."
               }
             ]
-          }
+          },
+          "metaTitle": "Paravent Bambou — Gros"
         },
         "bamboo-reed-curtains": {
           "eyebrow": "Populaire · Décoration d'intérieur",
-          "lead": "Stores enrouleurs et rideaux naturels en roseau et bambou — une lumière douce et tamisée et une intimité préservée pour vos fenêtres, vos portes et vos pièces.",
+          "lead": "Rideau bambou et store en roseau — une lumière douce et filtrée et de l'intimité pour fenêtres, portes et pièces.",
           "pill": "Écologique · 100 % naturel",
           "name": "Rideaux en bambou et roseau",
           "desc": "Tissés à partir de roseau et de bambou naturels, ces stores enrouleurs et rideaux suspendus filtrent la lumière du soleil pour la transformer en une lueur chaleureuse et douce, tout en apportant intimité et texture. Une manière naturelle et durable d'habiller fenêtres, portes et cloisons, à l'intérieur comme à l'extérieur.",
@@ -1453,11 +1458,12 @@
                 "desc": "Store en roseau à fins brins pour un filtrage de la lumière doux et uniforme."
               }
             ]
-          }
+          },
+          "metaTitle": "Rideau Bambou & Stores en Roseau — Gros"
         },
         "bamboo-rugs": {
           "eyebrow": "Bambou naturel",
-          "lead": "Tapis en bambou enroulables à bordure en tissu et sous-face antidérapante : un revêtement de sol chaleureux et résistant à l'eau pour salles de bain, cuisines et pièces de vie. Rectangulaire et rond.",
+          "lead": "Tapis bambou et tapis de bain bambou à bordure en tissu et sous-face antidérapante — chaleureux et résistant à l'eau pour la salle de bain, la cuisine et le salon.",
           "pill": "Résistant à l'eau · Antidérapant",
           "name": "Tapis en bambou",
           "desc": "Lattes de bambou naturel serrées et finies par une bordure en tissu sur une sous-face antidérapante. Résistants à l'eau et robustes, ils conviennent à la salle de bain, la cuisine, l'entrée et le salon, et s'enroulent à plat pour une expédition facile. Rectangulaires et ronds en plusieurs tailles, OEM bienvenu.",
@@ -1565,7 +1571,8 @@
               "blue": "Bleu",
               "red": "Rouge"
             }
-          }
+          },
+          "metaTitle": "Tapis Bambou & Tapis de Bain — Gros"
         }
       }
     },

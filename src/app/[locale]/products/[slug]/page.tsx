@@ -31,8 +31,11 @@ export async function generateMetadata({
   const tail = tm("descTag");
   const description =
     lead.length < 110 && lead.length + tail.length + 1 <= 160 ? `${lead} ${tail}` : lead;
+  // Optional per-product SEO title (set where we target a specific head term);
+  // falls back to the standard "<name> · <Wholesale>" pattern.
+  const titleKey = `items.${product.id}.metaTitle`;
   return {
-    title: `${tn(product.id)} · ${tm("titleTag")}`,
+    title: td.has(titleKey) ? td(titleKey) : `${tn(product.id)} · ${tm("titleTag")}`,
     description,
   };
 }

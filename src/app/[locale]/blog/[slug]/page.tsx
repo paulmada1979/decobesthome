@@ -26,9 +26,13 @@ export async function generateMetadata({
   const post = getPost(slug);
   if (!post) return {};
   const t = await getTranslations({ locale, namespace: "journal" });
+  const path = `/blog/${slug}`;
+  const canonical = locale === "en" ? path : `/${locale}${path}`;
   return {
     title: t(`posts.${post.id}.title`),
     description: t(`posts.${post.id}.excerpt`),
+    alternates: { canonical },
+    openGraph: { url: canonical, type: "article" },
   };
 }
 

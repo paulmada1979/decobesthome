@@ -34,9 +34,13 @@ export async function generateMetadata({
   // Optional per-product SEO title (set where we target a specific head term);
   // falls back to the standard "<name> · <Wholesale>" pattern.
   const titleKey = `items.${product.id}.metaTitle`;
+  const path = `/products/${slug}`;
+  const canonical = locale === "en" ? path : `/${locale}${path}`;
   return {
     title: td.has(titleKey) ? td(titleKey) : `${tn(product.id)} · ${tm("titleTag")}`,
     description,
+    alternates: { canonical },
+    openGraph: { url: canonical },
   };
 }
 

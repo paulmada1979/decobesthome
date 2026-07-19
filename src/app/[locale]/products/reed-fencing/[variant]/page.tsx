@@ -27,9 +27,13 @@ export async function generateMetadata({
   const tail = tm("descTag");
   const description =
     lead.length < 110 && lead.length + tail.length + 1 <= 160 ? `${lead} ${tail}` : lead;
+  const path = `/products/reed-fencing/${variant}`;
+  const canonical = locale === "en" ? path : `/${locale}${path}`;
   return {
     title: t(`variants.${rv.id}.name`),
     description,
+    alternates: { canonical },
+    openGraph: { url: canonical },
   };
 }
 

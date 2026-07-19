@@ -28,12 +28,15 @@ export async function generateMetadata({
       template: `%s · ${t("brand")}`,
     },
     description: t("description"),
-    alternates: { canonical: locale === "en" ? "/" : `/${locale}` },
+    // NOTE: never set `alternates.canonical` or `openGraph.url` here — layout
+    // metadata is inherited by every child page, so a value set here makes
+    // every product/blog page canonicalise to the locale homepage (which made
+    // 248 pages non-indexable). Canonicals belong in each page's own
+    // generateMetadata; pages without one self-canonicalise, which is correct.
     openGraph: {
       title: t("title"),
       description: t("description"),
       siteName: t("brand"),
-      url: locale === "en" ? "/" : `/${locale}`,
       locale,
       type: "website",
       images: [{ url: "/og.jpg", width: 1200, height: 630, alt: t("brand") }],

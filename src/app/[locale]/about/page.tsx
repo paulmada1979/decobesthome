@@ -75,7 +75,7 @@ export default async function AboutPage({
 
       {/* FOUNDER */}
       <section className="section" style={{ paddingTop: 0 }}>
-        <div className="container split rev">
+        <div className="container split rev split--founder">
           <Reveal className="media tall">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/images/about/mindy.webp" alt={t("founder.imageAlt")} />

@@ -4,6 +4,9 @@ import { Link } from "@/i18n/navigation";
 import Reveal from "@/components/Reveal";
 import QuoteButton from "@/components/QuoteButton";
 
+/** Founder block on hold pending the owner's wording feedback — flip to true to restore. */
+const SHOW_FOUNDER = false;
+
 export async function generateMetadata({
   params,
 }: {
@@ -73,7 +76,10 @@ export default async function AboutPage({
         </div>
       </section>
 
-      {/* FOUNDER */}
+      {/* FOUNDER — hidden pending the owner's feedback on wording/title.
+          Flip SHOW_FOUNDER to true to bring it back; all 8-locale content
+          stays in messages (about.founder). */}
+      {SHOW_FOUNDER && (
       <section className="section" style={{ paddingTop: 0 }}>
         <div className="container split rev split--founder">
           <Reveal className="media tall">
@@ -100,6 +106,7 @@ export default async function AboutPage({
           </Reveal>
         </div>
       </section>
+      )}
 
       {/* VALUES (DARK) */}
       <section className="section dark">

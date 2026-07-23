@@ -73,6 +73,34 @@ export default async function AboutPage({
         </div>
       </section>
 
+      {/* FOUNDER */}
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container split rev">
+          <Reveal className="media tall">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/images/about/mindy.webp" alt={t("founder.imageAlt")} />
+          </Reveal>
+          <Reveal delay={1}>
+            <p className="eyebrow">{t("founder.eyebrow")}</p>
+            <h2 className="h2 balance" style={{ marginTop: "18px" }}>
+              {t("founder.title")}
+            </h2>
+            <p className="lead pretty" style={{ marginTop: "20px" }}>
+              {t("founder.p1")}
+            </p>
+            <p className="muted pretty" style={{ marginTop: "16px" }}>
+              {t("founder.p2")}
+            </p>
+            <blockquote className="founder-quote">
+              “{t("founder.quote")}”
+              <footer>
+                <strong>{t("founder.name")}</strong> · {t("founder.role")}
+              </footer>
+            </blockquote>
+          </Reveal>
+        </div>
+      </section>
+
       {/* VALUES (DARK) */}
       <section className="section dark">
         <div className="container">

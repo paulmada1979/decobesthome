@@ -13,6 +13,9 @@ export type Post = {
   category: string;
   /** Supporting images interleaved through the article body (in order). */
   images?: string[];
+  /** Draft: content stays in the repo but is hidden from the blog, sitemap and
+   *  detail route until flipped off. Use while images/copy are being finalised. */
+  draft?: boolean;
 };
 
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
@@ -27,6 +30,7 @@ export const posts: Post[] = [
     date: "2026-08-04",
     readMins: 5,
     category: "fencing",
+    draft: true,
     images: ["/images/fence/scene-garden.webp", "/images/fence/scene-natural.webp"],
   },
   {
@@ -149,11 +153,15 @@ export const posts: Post[] = [
   },
 ];
 
-export const featuredPost = posts.find((p) => p.featured)!;
-export const gridPosts = posts.filter((p) => !p.featured);
+/** Live posts only (drafts hidden). Use everywhere public. */
+export const publishedPosts = posts.filter((p) => !p.draft);
 
+export const featuredPost = publishedPosts.find((p) => p.featured) ?? publishedPosts[0];
+export const gridPosts = publishedPosts.filter((p) => p.id !== featuredPost.id);
+
+/** Detail lookup: returns undefined for drafts so the route 404s. */
 export function getPost(slug: string): Post | undefined {
-  return posts.find((p) => p.slug === slug);
+  return publishedPosts.find((p) => p.slug === slug);
 }
 
 /** Filter chip keys, map to messages journal.filters.{key}. */

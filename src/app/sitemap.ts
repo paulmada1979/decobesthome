@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 import { listedProducts, megaProducts } from "@/lib/products";
 import { reedVariants } from "@/lib/reedVariants";
-import { posts } from "@/lib/posts";
+import { publishedPosts as posts } from "@/lib/posts";
 
 const BASE = "https://www.decobesthome.com";
 const { locales, defaultLocale } = routing;

@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { posts, getPost } from "@/lib/posts";
+import { publishedPosts, getPost } from "@/lib/posts";
 import Reveal from "@/components/Reveal";
 import QuoteButton from "@/components/QuoteButton";
 
@@ -15,7 +15,7 @@ type Block =
   | { cta: { label: string; href: string } };
 
 export function generateStaticParams() {
-  return posts.map((p) => ({ slug: p.slug }));
+  return publishedPosts.map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({
@@ -64,7 +64,7 @@ export default async function BlogPostPage({
     if (pos !== undefined && !imageAt.has(pos)) imageAt.set(pos, src);
   });
 
-  const related = posts.filter((p) => p.id !== post.id).slice(0, 3);
+  const related = publishedPosts.filter((p) => p.id !== post.id).slice(0, 3);
 
   return (
     <>

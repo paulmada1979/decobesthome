@@ -18,6 +18,18 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Aug 2026 SEO series #1. Placeholder images (swap with the generated
+    // ChatGPT banner/support shots when ready).
+    id: "attach-bamboo-screening-fence",
+    slug: "how-to-attach-bamboo-screening-to-a-fence",
+    image: "/images/bamboo-fence-hero.webp",
+    href: "https://www.decobesthome.com/blog/how-to-attach-bamboo-screening-to-a-fence",
+    date: "2026-08-04",
+    readMins: 5,
+    category: "fencing",
+    images: ["/images/fence/scene-garden.webp", "/images/fence/scene-natural.webp"],
+  },
+  {
     id: "china-reed-screen-exports",
     slug: "china-reed-screen-exports",
     image: "/images/blog/china-reed-screen-exports-hero.webp",

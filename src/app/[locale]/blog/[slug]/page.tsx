@@ -11,7 +11,8 @@ type Block =
   | { p: string }
   | { h2: string }
   | { h3: string }
-  | { ul: string[] };
+  | { ul: string[] }
+  | { cta: { label: string; href: string } };
 
 export function generateStaticParams() {
   return posts.map((p) => ({ slug: p.slug }));
@@ -121,6 +122,14 @@ export default async function BlogPostPage({
                       <li key={j}>{li}</li>
                     ))}
                   </ul>
+                );
+              else if ("cta" in block)
+                el = (
+                  <p key={i} style={{ margin: "28px 0" }}>
+                    <Link className="btn btn-leaf" href={block.cta.href}>
+                      {block.cta.label} <span className="arr">→</span>
+                    </Link>
+                  </p>
                 );
               else el = <p key={i}>{block.p}</p>;
               return [figure, el];

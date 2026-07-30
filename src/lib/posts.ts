@@ -42,7 +42,6 @@ export const posts: Post[] = [
     date: "2026-08-06",
     readMins: 5,
     category: "reed",
-    draft: true,
     images: ["/images/blog/reed-vs-bamboo-1.webp", "/images/blog/reed-vs-bamboo-2.webp"],
   },
   {

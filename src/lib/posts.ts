@@ -165,11 +165,15 @@ export const posts: Post[] = [
   },
 ];
 
-/** Live posts only (drafts hidden). Use everywhere public. */
-export const publishedPosts = posts.filter((p) => !p.draft);
+/** Live posts only (drafts hidden), newest first by date. */
+export const publishedPosts = [...posts.filter((p) => !p.draft)].sort((a, b) =>
+  a.date < b.date ? 1 : a.date > b.date ? -1 : 0,
+);
 
-export const featuredPost = publishedPosts.find((p) => p.featured) ?? publishedPosts[0];
-export const gridPosts = publishedPosts.filter((p) => p.id !== featuredPost.id);
+/** Newest post takes the big featured slot; the rest fill the grid (newest first).
+ *  A new post automatically rotates onto the top and pushes the previous one down. */
+export const featuredPost = publishedPosts[0];
+export const gridPosts = publishedPosts.slice(1);
 
 /** Detail lookup: finds drafts too, so a draft URL is previewable (the detail
  *  page marks drafts noindex; they stay out of the blog list and sitemap). */

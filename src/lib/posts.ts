@@ -34,6 +34,18 @@ export const posts: Post[] = [
     images: ["/images/fence/scene-garden.webp", "/images/fence/scene-natural.webp"],
   },
   {
+    // Aug 2026 SEO series #2 — reed vs bamboo. Real generated images.
+    id: "reed-vs-bamboo-screening",
+    slug: "reed-vs-bamboo-screening",
+    image: "/images/blog/reed-vs-bamboo-hero.webp",
+    href: "https://www.decobesthome.com/blog/reed-vs-bamboo-screening",
+    date: "2026-08-06",
+    readMins: 5,
+    category: "reed",
+    draft: true,
+    images: ["/images/blog/reed-vs-bamboo-1.webp", "/images/blog/reed-vs-bamboo-2.webp"],
+  },
+  {
     id: "china-reed-screen-exports",
     slug: "china-reed-screen-exports",
     image: "/images/blog/china-reed-screen-exports-hero.webp",
@@ -159,9 +171,10 @@ export const publishedPosts = posts.filter((p) => !p.draft);
 export const featuredPost = publishedPosts.find((p) => p.featured) ?? publishedPosts[0];
 export const gridPosts = publishedPosts.filter((p) => p.id !== featuredPost.id);
 
-/** Detail lookup: returns undefined for drafts so the route 404s. */
+/** Detail lookup: finds drafts too, so a draft URL is previewable (the detail
+ *  page marks drafts noindex; they stay out of the blog list and sitemap). */
 export function getPost(slug: string): Post | undefined {
-  return publishedPosts.find((p) => p.slug === slug);
+  return posts.find((p) => p.slug === slug);
 }
 
 /** Filter chip keys, map to messages journal.filters.{key}. */

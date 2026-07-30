@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { publishedPosts, getPost } from "@/lib/posts";
+import { posts, publishedPosts, getPost } from "@/lib/posts";
 import Reveal from "@/components/Reveal";
 import QuoteButton from "@/components/QuoteButton";
 
@@ -15,7 +15,8 @@ type Block =
   | { cta: { label: string; href: string } };
 
 export function generateStaticParams() {
-  return publishedPosts.map((p) => ({ slug: p.slug }));
+  // Build draft URLs too so they're previewable (they're noindexed + unlinked).
+  return posts.map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({
@@ -34,6 +35,8 @@ export async function generateMetadata({
     description: t(`posts.${post.id}.excerpt`),
     alternates: { canonical },
     openGraph: { url: canonical, type: "article" },
+    // Drafts are reachable for preview but must never be indexed.
+    ...(post.draft ? { robots: { index: false, follow: false } } : {}),
   };
 }
 

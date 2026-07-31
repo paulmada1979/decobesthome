@@ -95,7 +95,46 @@ export default async function ContactPage({
                 boxShadow: "var(--shadow-sm)",
               }}
             >
-              <h3 className="h3">{company.legalName}</h3>
+              {/* personal contact */}
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "16px",
+                  justifyContent: "space-between",
+                }}
+              >
+                <div>
+                  <span style={fieldLabel}>{t("person.eyebrow")}</span>
+                  <p style={{ margin: "2px 0 0", fontWeight: 700, fontSize: "1.15rem", color: "var(--ink)" }}>
+                    {t("person.name")}
+                  </p>
+                  <p style={{ margin: "1px 0 0", color: "var(--leaf-deep)", fontWeight: 600, fontSize: ".9rem" }}>
+                    {t("person.role")}
+                  </p>
+                </div>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/images/about/mindy.webp"
+                  alt={t("person.photoAlt")}
+                  width={84}
+                  height={84}
+                  style={{
+                    width: "84px",
+                    height: "84px",
+                    borderRadius: "16px",
+                    objectFit: "cover",
+                    objectPosition: "center top",
+                    flexShrink: 0,
+                    border: "1px solid var(--line)",
+                  }}
+                />
+              </div>
+              <p className="muted" style={{ margin: "14px 0 0", fontStyle: "italic", fontSize: ".9rem", lineHeight: 1.5 }}>
+                {t("person.line")}
+              </p>
+              <div className="divider" style={{ margin: "20px 0" }} />
+              <h3 className="h3" style={{ fontSize: "1.15rem" }}>{company.legalName}</h3>
               <div className="divider" style={{ margin: "20px 0" }} />
               <div className="foot-contact" style={{ color: "var(--ink-soft)" }}>
                 <p style={{ margin: "0 0 16px" }}>
@@ -154,23 +193,45 @@ export default async function ContactPage({
                 borderRadius: "20px",
                 overflow: "hidden",
                 border: "1px solid var(--line)",
-                height: "220px",
-                background: "linear-gradient(135deg, var(--leaf-soft), var(--bone-2))",
-                display: "grid",
-                placeItems: "center",
-                color: "var(--leaf-deep)",
-                textAlign: "center",
+                boxShadow: "var(--shadow-sm)",
               }}
             >
-              <div>
-                <svg width="34" height="34" viewBox="0 0 24 24" fill="none" style={{ margin: "0 auto" }}>
-                  <path d="M12 21s7-6.3 7-11a7 7 0 10-14 0c0 4.7 7 11 7 11z" stroke="currentColor" strokeWidth="1.6" />
-                  <circle cx="12" cy="10" r="2.4" stroke="currentColor" strokeWidth="1.6" />
-                </svg>
-                <p style={{ fontWeight: 600, marginTop: "8px" }}>{t("map.location")}</p>
-                <p className="muted" style={{ fontSize: ".82rem" }}>
-                  {t("map.note")}
-                </p>
+              <iframe
+                title={company.legalName}
+                src={`https://www.google.com/maps?q=${encodeURIComponent(company.office)}&z=14&output=embed`}
+                width="100%"
+                height="240"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                style={{ border: 0, display: "block" }}
+              />
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  gap: "12px",
+                  padding: "12px 16px",
+                  background: "var(--white)",
+                  borderTop: "1px solid var(--line)",
+                }}
+              >
+                <span style={{ display: "flex", alignItems: "center", gap: "8px", fontWeight: 600, color: "var(--ink)" }}>
+                  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" style={{ color: "var(--leaf-deep)" }}>
+                    <path d="M12 21s7-6.3 7-11a7 7 0 10-14 0c0 4.7 7 11 7 11z" stroke="currentColor" strokeWidth="1.6" />
+                    <circle cx="12" cy="10" r="2.4" stroke="currentColor" strokeWidth="1.6" />
+                  </svg>
+                  {t("map.location")}
+                </span>
+                <a
+                  className="textlink"
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(company.office)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ fontWeight: 600 }}
+                >
+                  {t("map.directions")} →
+                </a>
               </div>
             </div>
           </Reveal>

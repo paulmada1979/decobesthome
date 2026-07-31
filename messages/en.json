@@ -3718,7 +3718,15 @@
     },
     "map": {
       "location": "Xiamen · Fujian, China",
-      "note": "Map placeholder — embed live map on launch"
+      "note": "Map placeholder — embed live map on launch",
+      "directions": "Get directions"
+    },
+    "person": {
+      "eyebrow": "Your contact",
+      "name": "Mindy Dong",
+      "role": "Sales & Marketing",
+      "line": "Reach out any time — I'll personally make sure your enquiry gets a fast, helpful reply.",
+      "photoAlt": "Mindy Dong — Sales & Marketing, BestHome"
     }
   }
 }

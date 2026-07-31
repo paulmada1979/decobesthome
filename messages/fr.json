@@ -3712,7 +3712,15 @@
     },
     "map": {
       "location": "Xiamen · Fujian, Chine",
-      "note": "Emplacement de la carte — intégrer une carte interactive au lancement"
+      "note": "Emplacement de la carte — intégrer une carte interactive au lancement",
+      "directions": "Itinéraire"
+    },
+    "person": {
+      "eyebrow": "Votre contact",
+      "name": "Mindy Dong",
+      "role": "Ventes & Marketing",
+      "line": "Écrivez-moi à tout moment — je veille personnellement à une réponse rapide et utile.",
+      "photoAlt": "Mindy Dong — Ventes & Marketing, BestHome"
     }
   }
 }

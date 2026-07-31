@@ -3705,7 +3705,15 @@
     },
     "map": {
       "location": "Xiamen・福建省、China",
-      "note": "地図のプレースホルダー — 公開時にライブマップを埋め込み"
+      "note": "地図のプレースホルダー — 公開時にライブマップを埋め込み",
+      "directions": "ルートを表示"
+    },
+    "person": {
+      "eyebrow": "ご担当者",
+      "name": "Mindy Dong",
+      "role": "営業・マーケティング",
+      "line": "いつでもお気軽にご連絡ください。担当者として、迅速で丁寧なご返信をお約束します。",
+      "photoAlt": "Mindy Dong — 営業・マーケティング, BestHome"
     }
   }
 }

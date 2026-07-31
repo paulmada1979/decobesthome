@@ -76,8 +76,8 @@ export default async function ContactPage({
             <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.9rem,3vw,2.8rem)" }}>
               {t("form.title")}
             </h2>
-            <p className="muted" style={{ marginTop: "12px", maxWidth: "46ch" }}>
-              {t("form.lead")}
+            <p className="muted" style={{ marginTop: "12px", maxWidth: "48ch", fontSize: "1.02rem", lineHeight: 1.6 }}>
+              {t("person.line")}
             </p>
             <div style={{ marginTop: "26px" }}>
               <ContactForm />
@@ -100,16 +100,16 @@ export default async function ContactPage({
                 style={{
                   display: "flex",
                   alignItems: "center",
-                  gap: "16px",
+                  gap: "18px",
                   justifyContent: "space-between",
                 }}
               >
                 <div>
                   <span style={fieldLabel}>{t("person.eyebrow")}</span>
-                  <p style={{ margin: "2px 0 0", fontWeight: 700, fontSize: "1.15rem", color: "var(--ink)" }}>
+                  <p style={{ margin: "5px 0 0", fontWeight: 700, fontSize: "1.55rem", lineHeight: 1.1, color: "var(--ink)" }}>
                     {t("person.name")}
                   </p>
-                  <p style={{ margin: "1px 0 0", color: "var(--leaf-deep)", fontWeight: 600, fontSize: ".9rem" }}>
+                  <p style={{ margin: "5px 0 0", color: "var(--leaf-deep)", fontWeight: 600, fontSize: "1.05rem" }}>
                     {t("person.role")}
                   </p>
                 </div>
@@ -117,12 +117,12 @@ export default async function ContactPage({
                 <img
                   src="/images/about/mindy.webp"
                   alt={t("person.photoAlt")}
-                  width={84}
-                  height={84}
+                  width={120}
+                  height={120}
                   style={{
-                    width: "84px",
-                    height: "84px",
-                    borderRadius: "16px",
+                    width: "120px",
+                    height: "120px",
+                    borderRadius: "18px",
                     objectFit: "cover",
                     objectPosition: "center top",
                     flexShrink: 0,
@@ -130,10 +130,7 @@ export default async function ContactPage({
                   }}
                 />
               </div>
-              <p className="muted" style={{ margin: "14px 0 0", fontStyle: "italic", fontSize: ".9rem", lineHeight: 1.5 }}>
-                {t("person.line")}
-              </p>
-              <div className="divider" style={{ margin: "20px 0" }} />
+              <div className="divider" style={{ margin: "22px 0" }} />
               <h3 className="h3" style={{ fontSize: "1.15rem" }}>{company.legalName}</h3>
               <div className="divider" style={{ margin: "20px 0" }} />
               <div className="foot-contact" style={{ color: "var(--ink-soft)" }}>
@@ -187,10 +184,15 @@ export default async function ContactPage({
                 </a>
               </div>
             </div>
+          </Reveal>
+        </div>
+
+        {/* full-width map */}
+        <div className="container" style={{ marginTop: "clamp(30px,4.5vw,52px)" }}>
+          <Reveal>
             <div
               style={{
-                marginTop: "18px",
-                borderRadius: "20px",
+                borderRadius: "24px",
                 overflow: "hidden",
                 border: "1px solid var(--line)",
                 boxShadow: "var(--shadow-sm)",
@@ -200,24 +202,24 @@ export default async function ContactPage({
                 title={company.legalName}
                 src={`https://www.google.com/maps?q=${encodeURIComponent(company.office)}&z=14&output=embed`}
                 width="100%"
-                height="240"
+                height="440"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                style={{ border: 0, display: "block" }}
+                style={{ border: 0, display: "block", width: "100%" }}
               />
               <div
                 style={{
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "space-between",
-                  gap: "12px",
-                  padding: "12px 16px",
+                  gap: "14px",
+                  padding: "16px 24px",
                   background: "var(--white)",
                   borderTop: "1px solid var(--line)",
                 }}
               >
-                <span style={{ display: "flex", alignItems: "center", gap: "8px", fontWeight: 600, color: "var(--ink)" }}>
-                  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" style={{ color: "var(--leaf-deep)" }}>
+                <span style={{ display: "flex", alignItems: "center", gap: "10px", fontWeight: 600, color: "var(--ink)" }}>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style={{ color: "var(--leaf-deep)", flexShrink: 0 }}>
                     <path d="M12 21s7-6.3 7-11a7 7 0 10-14 0c0 4.7 7 11 7 11z" stroke="currentColor" strokeWidth="1.6" />
                     <circle cx="12" cy="10" r="2.4" stroke="currentColor" strokeWidth="1.6" />
                   </svg>
@@ -228,7 +230,7 @@ export default async function ContactPage({
                   href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(company.office)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ fontWeight: 600 }}
+                  style={{ fontWeight: 600, whiteSpace: "nowrap" }}
                 >
                   {t("map.directions")} →
                 </a>

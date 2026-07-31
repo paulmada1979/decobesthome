@@ -9,13 +9,15 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { basename, dirname, extname, join } from "node:path";
 
 const CORNER = "@DecoBestHome.com";
+// Platform-first labels so the files are self-explanatory:
+//   "Facebook - <name>.webp", "Instagram feed - <name>.webp", etc.
 const SIZES = [
-  ["blog", 1600, 900], // blog banner / OG / link preview (16:9)
-  ["linkedin", 1200, 627], // LinkedIn shared image (1.91:1)
-  ["facebook", 1200, 630], // Facebook post / link (1.91:1)
-  ["ig-square", 1080, 1080], // Instagram square (1:1)
-  ["ig-portrait", 1080, 1350], // Instagram portrait 4:5 (best reach)
-  ["ig-story", 1080, 1920], // Instagram / FB story & reel cover (9:16)
+  ["Website", 1600, 900], // blog banner / OG / link preview (16:9)
+  ["LinkedIn", 1200, 627], // LinkedIn shared image (1.91:1)
+  ["Facebook", 1200, 630], // Facebook post / link (1.91:1)
+  ["Instagram square", 1080, 1080], // Instagram square (1:1)
+  ["Instagram feed", 1080, 1350], // Instagram portrait 4:5 (best reach)
+  ["Instagram story", 1080, 1920], // Instagram / FB story & reel cover (9:16)
 ];
 
 const input = process.argv[2];
@@ -47,7 +49,8 @@ for (const [name, w, h] of SIZES) {
     .composite([{ input: cornerSvg(w, h), top: 0, left: 0 }])
     .toFormat("webp", { quality: 84 })
     .toBuffer();
-  const file = `${outBase}-${name}.webp`;
+  // Platform-first filename, e.g. "Facebook - reed-vs-bamboo.webp"
+  const file = join(dirname(outBase), `${name} - ${basename(outBase)}.webp`);
   writeFileSync(file, out);
-  console.log(`${name.padEnd(12)} ${w}x${h}  ->  ${file}`);
+  console.log(`${name.padEnd(17)} ${w}x${h}  ->  ${file}`);
 }

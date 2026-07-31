@@ -29,6 +29,30 @@ const outBase =
   process.argv[3] ||
   join(dirname(input), basename(input, extname(input)));
 
+const LOGO = "public/logos/logo-wordmark-white.png";
+const LOGO_OPACITY = 0.22;
+const LOGO_WIDTH_FRAC = 0.27; // of image width
+const LOGO_Y_FRAC = 0.36; // vertical centre of the logo
+
+// Semi-transparent centre wordmark (same as the website hero/scene watermark).
+async function centreLogo(w, h) {
+  const logoW = Math.round(w * LOGO_WIDTH_FRAC);
+  const logo = await sharp(readFileSync(LOGO))
+    .resize(logoW)
+    .composite([
+      {
+        input: Buffer.from([255, 255, 255, Math.round(LOGO_OPACITY * 255)]),
+        raw: { width: 1, height: 1, channels: 4 },
+        tile: true,
+        blend: "dest-in",
+      },
+    ])
+    .png()
+    .toBuffer();
+  const meta = await sharp(logo).metadata();
+  return { input: logo, left: Math.round((w - logoW) / 2), top: Math.round(h * LOGO_Y_FRAC - meta.height / 2) };
+}
+
 function cornerSvg(w, h) {
   const fs = Math.max(16, Math.round(w * 0.014));
   const pad = Math.round(fs * 0.9);
@@ -46,7 +70,7 @@ const src = readFileSync(input);
 for (const [name, w, h] of SIZES) {
   const base = await sharp(src).resize(w, h, { fit: "cover", position: "attention" }).toBuffer();
   const out = await sharp(base)
-    .composite([{ input: cornerSvg(w, h), top: 0, left: 0 }])
+    .composite([await centreLogo(w, h), { input: cornerSvg(w, h), top: 0, left: 0 }])
     .toFormat("webp", { quality: 84 })
     .toBuffer();
   // Platform-first filename, e.g. "Facebook - reed-vs-bamboo.webp"

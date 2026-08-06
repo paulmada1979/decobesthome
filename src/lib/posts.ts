@@ -21,6 +21,22 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Aug 2026 SEO series #5 — bamboo screening ideas (inspiration listicle).
+    // DRAFT until the generated banner + 2 supports are dropped in.
+    id: "bamboo-screening-ideas",
+    slug: "bamboo-screening-ideas",
+    image: "/images/blog/bamboo-screening-ideas-hero.webp",
+    href: "https://www.decobesthome.com/blog/bamboo-screening-ideas",
+    date: "2026-08-18",
+    readMins: 6,
+    category: "fencing",
+    draft: true,
+    images: [
+      "/images/blog/bamboo-screening-ideas-1.webp",
+      "/images/blog/bamboo-screening-ideas-2.webp",
+    ],
+  },
+  {
     // Aug 2026 SEO series #1. Placeholder images (swap with the generated
     // ChatGPT banner/support shots when ready).
     id: "attach-bamboo-screening-fence",

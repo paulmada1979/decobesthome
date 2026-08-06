@@ -22,7 +22,6 @@ export type Post = {
 export const posts: Post[] = [
   {
     // Aug 2026 SEO series #5 — bamboo screening ideas (inspiration listicle).
-    // DRAFT until the generated banner + 2 supports are dropped in.
     id: "bamboo-screening-ideas",
     slug: "bamboo-screening-ideas",
     image: "/images/blog/bamboo-screening-ideas-hero.webp",
@@ -30,7 +29,6 @@ export const posts: Post[] = [
     date: "2026-08-18",
     readMins: 6,
     category: "fencing",
-    draft: true,
     images: [
       "/images/blog/bamboo-screening-ideas-1.webp",
       "/images/blog/bamboo-screening-ideas-2.webp",

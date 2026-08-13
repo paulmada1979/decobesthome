@@ -12,6 +12,7 @@ type Block =
   | { h2: string }
   | { h3: string }
   | { ul: string[] }
+  | { img: string }
   | { cta: { label: string; href: string } };
 
 export function generateStaticParams() {
@@ -125,6 +126,13 @@ export default async function BlogPostPage({
                       <li key={j}>{li}</li>
                     ))}
                   </ul>
+                );
+              else if ("img" in block)
+                el = (
+                  <figure key={i} className="article-fig">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img loading="lazy" src={block.img} alt={title} />
+                  </figure>
                 );
               else if ("cta" in block)
                 el = (

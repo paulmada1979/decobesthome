@@ -29,14 +29,9 @@ export const posts: Post[] = [
     date: "2026-08-20",
     readMins: 5,
     category: "fencing",
-    // Order matters: the detail page spaces supports across the <h2> sections,
-    // so the natural close-up lands at "Natural" and the carbonised at "Carbonised".
-    images: [
-      "/images/blog/bamboo-screening-colour-3.webp", // natural close-up
-      "/images/blog/bamboo-screening-colour-4.webp", // carbonised close-up
-      "/images/blog/bamboo-screening-colour-1.webp",
-      "/images/blog/bamboo-screening-colour-2.webp",
-    ],
+    // Colour close-ups are placed inline in the body (img blocks) so each sits
+    // under its own heading: natural -> Natural, -2 -> Natural black, -4 -> Carbonised.
+    images: [],
   },
   {
     // Aug 2026 SEO series #5 — bamboo screening ideas (inspiration listicle).

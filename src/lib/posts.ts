@@ -21,6 +21,20 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Aug 2026 SEO series #6 — bamboo screening colour (natural/black/carbonised).
+    id: "bamboo-screening-colour",
+    slug: "bamboo-screening-colours",
+    image: "/images/blog/bamboo-screening-colour-hero.webp",
+    href: "https://www.decobesthome.com/blog/bamboo-screening-colours",
+    date: "2026-08-20",
+    readMins: 5,
+    category: "fencing",
+    images: [
+      "/images/blog/bamboo-screening-colour-1.webp",
+      "/images/blog/bamboo-screening-colour-2.webp",
+    ],
+  },
+  {
     // Aug 2026 SEO series #5 — bamboo screening ideas (inspiration listicle).
     id: "bamboo-screening-ideas",
     slug: "bamboo-screening-ideas",

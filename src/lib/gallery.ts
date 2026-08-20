@@ -50,6 +50,15 @@ export const gallery: GalleryItem[] = [
   { id: "reed-banner-thick-unpeeled-5-8mm", image: "/images/reed/v/thick-unpeeled-5-8mm-hero.webp", cat: "reed" },
   { id: "reed-banner-cheap-unpeeled-3-6mm", image: "/images/reed/v/cheap-unpeeled-3-6mm-hero.webp", cat: "reed" },
   { id: "reed-banner-japanese-with-bamboo", image: "/images/reed/v/japanese-with-bamboo-hero.webp", cat: "reed" },
+  // More bamboo fencing scenes (from the product pages + journal)
+  { id: "fence-lounge-deck", image: "/images/fence/scene-garden.webp", cat: "fencing" },
+  { id: "fence-sofa-corner", image: "/images/fence/scene-banner2.webp", cat: "fencing" },
+  { id: "fence-japanese", image: "/images/fence/scene-fixed.webp", cat: "fencing" },
+  { id: "fence-tropical", image: "/images/fence/scene-natural.webp", cat: "fencing" },
+  { id: "fence-poolside", image: "/images/fence/scene-black.webp", cat: "fencing" },
+  { id: "fence-ideas-path", image: "/images/blog/bamboo-screening-ideas-hero.webp", cat: "fencing" },
+  { id: "fence-hottub", image: "/images/blog/bamboo-screening-ideas-1.webp", cat: "fencing" },
+  { id: "fence-balcony", image: "/images/blog/bamboo-screening-ideas-2.webp", cat: "fencing" },
   // Natural fencing (willow / brushwood / bark)
   { id: "willow-natural-hero", image: "/images/willow-hero.webp", cat: "natural" },
   { id: "willow-scene-brushwood", image: "/images/willow/scene-brushwood.webp", cat: "natural" },

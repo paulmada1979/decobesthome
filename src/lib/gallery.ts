@@ -59,7 +59,6 @@ export const gallery: GalleryItem[] = [
   { id: "bark-insp-1", image: "/images/bark/bark-hero.webp", cat: "bark" },
   { id: "bark-insp-2", image: "/images/bark/scene-1.webp", cat: "bark" },
   { id: "bark-insp-3", image: "/images/blog/bark-fencing-hero.webp", cat: "bark" },
-  { id: "bark-insp-4", image: "/images/bark/scene-2.webp", cat: "bark" },
   { id: "bark-insp-5", image: "/images/blog/bark-fencing-2.webp", cat: "bark" },
 ];
 

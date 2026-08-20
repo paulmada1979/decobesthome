@@ -77,7 +77,8 @@
       "artificial-green-wall-panels": "Pannelli per parete verde artificiale",
       "bamboo-room-dividers": "Paravento in bambù",
       "bamboo-reed-curtains": "Tende in bambù e canna palustre",
-      "bamboo-rugs": "Tappeti in bambù"
+      "bamboo-rugs": "Tappeti in bambù",
+      "bark-fencing": "Recinzione in corteccia"
     },
     "tags": {
       "bestseller": "Più venduto",
@@ -1068,7 +1069,8 @@
               {
                 "img": "var-bark-v2.webp",
                 "title": "Recinzione in corteccia",
-                "desc": "Calda recinzione in corteccia boschiva per un confine rustico e materico."
+                "desc": "Calda recinzione in corteccia boschiva per un confine rustico e materico.",
+                "href": "/products/bark-fencing"
               }
             ]
           }
@@ -1565,6 +1567,83 @@
               "blue": "Blu",
               "red": "Rosso"
             }
+          }
+        },
+        "bark-fencing": {
+          "eyebrow": "Arella di corteccia",
+          "lead": "Arelle rustiche di corteccia in rotolo per un confine di giardino caldo e naturale — vera corteccia d'albero su rete, diretto dalla fabbrica.",
+          "pill": "Naturale · Rustico",
+          "name": "Recinzione in corteccia",
+          "desc": "L'arella di corteccia dona subito a ogni giardino un carattere rustico e boschivo. Strisce di vera corteccia d'albero vengono legate su una robusta rete metallica per creare uno schermo caldo e materico che si srotola in pochi minuti e si fissa a qualsiasi recinzione o telaio esistente.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "Corteccia naturale su rete zincata"
+            },
+            {
+              "k": "Altezza",
+              "v": "Rotolo standard 1,8 m"
+            },
+            {
+              "k": "Lunghezza",
+              "v": "Rotolo 3 m · su misura"
+            },
+            {
+              "k": "Colore",
+              "v": "Marrone rustico naturale"
+            },
+            {
+              "k": "Privacy",
+              "v": "Fitta, quasi piena"
+            },
+            {
+              "k": "Fissaggio",
+              "v": "Fascette o graffette a recinzione o telaio"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Trattabile · fornitura per container"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Xiamen, Cina"
+            }
+          ],
+          "about": {
+            "eyebrow": "Il materiale",
+            "title": "Vera corteccia d'albero, in rotolo",
+            "body": [
+              {
+                "p": "L'arella di corteccia è fatta di strisce di corteccia naturale — di solito pino o larice — poste in verticale e legate su una rete metallica zincata. Il risultato è uno schermo caldo e profondamente materico che sembra da sempre appartenere al giardino."
+              },
+              {
+                "p": "Essendo un materiale naturale vero, ogni rotolo ha il suo carattere: ricchi toni bruno-rossastri, corteccia solcata e screpolata e una sottile variazione da striscia a striscia. Si patina dolcemente verso un morbido bruno argenteo negli anni."
+              },
+              {
+                "h3": "Perché scegliere l'arella di corteccia"
+              },
+              {
+                "ul": [
+                  "Privacy rustica e boschiva immediata, senza costruire.",
+                  "I rotoli da 1,8 m si fissano diretti a una recinzione, rete o telaio in legno.",
+                  "Fitta, quasi piena; smorza anche vento e rumore.",
+                  "100% corteccia naturale — niente plastica, calda e piena di carattere.",
+                  "Si abbina magnificamente a piante, mattoni e legno."
+                ]
+              },
+              {
+                "h3": "Dove funziona"
+              },
+              {
+                "ul": [
+                  "Confini di giardino e orto.",
+                  "Coprire una recinzione in rete o pannello logora.",
+                  "Nascondere bidoni, compost o un angolo di lavoro.",
+                  "Balconi, cortili e giardini rustici.",
+                  "Giardini in stile bosco e per la fauna."
+                ]
+              }
+            ]
           }
         }
       }
@@ -3800,6 +3879,77 @@
             "p": "Stai allestendo un progetto o rifornendo il tuo negozio? Forniamo arella di bambù diretta dalla fabbrica nelle finiture naturale, nero naturale e carbonizzata, per container — benvenuti grossisti e OEM."
           }
         ]
+      },
+      "bark-fencing": {
+        "title": "Arella di corteccia: privacy naturale e rustica per il tuo giardino",
+        "excerpt": "Cos'è l'arella di corteccia, come appare e dura, e come montarla — il modo caldo e boschivo per una privacy immediata in giardino.",
+        "cat": "Recinzioni naturali",
+        "date": "Agosto 2026",
+        "body": [
+          {
+            "p": "L'arella di corteccia è il modo più caldo e rustico per aggiungere subito privacy a un giardino. Fatta di strisce di vera corteccia d'albero su un'anima in rete, si srotola in pochi minuti e trasforma un confine spoglio in qualcosa che sembra cresciuto lì. Ecco cos'è, come dura e come montarla."
+          },
+          {
+            "h2": "Cos'è l'arella di corteccia?"
+          },
+          {
+            "p": "L'arella di corteccia è corteccia naturale d'albero — di solito pino o larice — in strisce verticali su una robusta rete metallica zincata. Arriva in rotolo, di solito alto 1,8 m, e dà un aspetto fitto, materico e boschivo. Ogni rotolo è un po' diverso, con ricchi toni bruno-rossastri e il carattere screpolato e solcato della corteccia vera."
+          },
+          {
+            "h2": "Quanta privacy offre?"
+          },
+          {
+            "p": "Molta. Le strisce di corteccia stanno fitte tra loro per una copertura quasi piena, quindi scherma bene la vista lasciando passare un po' d'aria. Smorza anche vento e rumore del traffico, il che la rende amata per confini e zone relax."
+          },
+          {
+            "h2": "Quanto dura l'arella di corteccia?"
+          },
+          {
+            "p": "Tenuta lontana dal terreno umido e fissata a un telaio solido, un'arella di corteccia di qualità dura diversi anni all'aperto. Come ogni materiale naturale si patina con dolcezza — il bruno caldo sfuma nel tempo in un morbido bruno argenteo che a molti piace. Una buona aerazione dietro e una base asciutta la fanno durare di più."
+          },
+          {
+            "h2": "Come montare l'arella di corteccia"
+          },
+          {
+            "ul": [
+              "Fissala a un supporto solido — una recinzione, rete o pali di legno ogni 40–60 cm.",
+              "Srotolala lungo la linea tenendo il bordo superiore in bolla.",
+              "Fissa con fascette o graffette zincate attraverso la rete, ogni 20–30 cm.",
+              "Tieni il bordo inferiore poco sopra il terreno perché resti asciutto.",
+              "Taglia a misura con le cesoie; sovrapponi le giunzioni di qualche centimetro."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Scopri la nostra recinzione in corteccia",
+              "href": "/products/bark-fencing"
+            }
+          },
+          {
+            "h2": "Domande frequenti"
+          },
+          {
+            "h3": "Di cosa è fatta l'arella di corteccia?"
+          },
+          {
+            "p": "Di strisce di corteccia naturale (di solito pino o larice) su una rete metallica zincata — 100% naturale, niente plastica."
+          },
+          {
+            "h3": "Quanto è alto un rotolo?"
+          },
+          {
+            "p": "I nostri rotoli standard sono alti 1,8 m, con altre misure su progetto. La lunghezza è di solito 3 m per rotolo."
+          },
+          {
+            "h3": "Posso fissarla a una recinzione esistente?"
+          },
+          {
+            "p": "Sì — è l'uso più comune. Fissala con fascette o graffette direttamente su una recinzione in rete o pannello per nascondere un confine logoro."
+          },
+          {
+            "p": "Stai allestendo un progetto o rifornendo il tuo negozio? Forniamo arella di corteccia, salice, canna palustre e bambù diretti dalla fabbrica per container — benvenuti grossisti e OEM."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -3846,7 +3996,8 @@
       "moso": "Pali Moso",
       "reed": "Recinzioni in canna",
       "thatch": "Tetto di paglia",
-      "natural": "Recinzioni naturali"
+      "natural": "Recinzioni naturali",
+      "bark": "Recinzioni in corteccia"
     },
     "viewProduct": "Vedi il prodotto",
     "items": {
@@ -3894,7 +4045,12 @@
       "willow-natural-hero": "Recinzioni naturali",
       "willow-scene-brushwood": "Recinzione in fascine di erica",
       "willow-scene-bark": "Recinzione in corteccia",
-      "willow-scene-square": "Arella in vimini di salice"
+      "willow-scene-square": "Arella in vimini di salice",
+      "bark-insp-1": "Recinzione da giardino in corteccia",
+      "bark-insp-2": "Schermo rustico in corteccia",
+      "bark-insp-3": "Recinzione boschiva in corteccia",
+      "bark-insp-4": "Trama della corteccia",
+      "bark-insp-5": "Recinzione in corteccia con piante"
     }
   },
   "contact": {

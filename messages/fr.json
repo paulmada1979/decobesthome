@@ -77,7 +77,8 @@
       "artificial-green-wall-panels": "Panneaux de mur végétal artificiel",
       "bamboo-room-dividers": "Paravents en bambou",
       "bamboo-reed-curtains": "Rideaux en bambou et roseau",
-      "bamboo-rugs": "Tapis en bambou"
+      "bamboo-rugs": "Tapis en bambou",
+      "bark-fencing": "Clôture en écorce"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -1071,7 +1072,8 @@
               {
                 "img": "var-bark-v2.webp",
                 "title": "Clôture en écorce",
-                "desc": "Clôture en écorce boisée et chaleureuse pour une délimitation rustique et texturée."
+                "desc": "Clôture en écorce boisée et chaleureuse pour une délimitation rustique et texturée.",
+                "href": "/products/bark-fencing"
               }
             ]
           },
@@ -1573,6 +1575,83 @@
             }
           },
           "metaTitle": "Tapis Bambou & Tapis de Bain — Gros"
+        },
+        "bark-fencing": {
+          "eyebrow": "Brise-vue en écorce",
+          "lead": "Rouleaux d'écorce rustiques pour une limite de jardin chaleureuse et naturelle — véritable écorce d'arbre sur fil de fer, direct d'usine.",
+          "pill": "Naturel · Rustique",
+          "name": "Clôture en écorce",
+          "desc": "Le brise-vue en écorce apporte aussitôt à tout jardin un caractère rustique et boisé. Des lamelles d'écorce d'arbre véritable sont liées sur une solide armature en fil de fer pour former un écran d'intimité chaleureux et texturé, qui se déroule en quelques minutes et se fixe à toute clôture ou structure existante.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Écorce naturelle sur fil galvanisé"
+            },
+            {
+              "k": "Hauteur",
+              "v": "Rouleau standard 1,8 m"
+            },
+            {
+              "k": "Longueur",
+              "v": "Rouleau 3 m · sur mesure"
+            },
+            {
+              "k": "Couleur",
+              "v": "Brun rustique naturel"
+            },
+            {
+              "k": "Intimité",
+              "v": "Dense, quasi opaque"
+            },
+            {
+              "k": "Fixation",
+              "v": "Colliers ou agrafes sur clôture/cadre"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · livraison par conteneur"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "about": {
+            "eyebrow": "Le matériau",
+            "title": "De la vraie écorce d'arbre, en rouleau",
+            "body": [
+              {
+                "p": "Le brise-vue en écorce est fait de lamelles d'écorce naturelle — généralement pin ou mélèze — posées à la verticale et liées sur une armature en fil galvanisé. Le résultat est un écran chaleureux et profondément texturé qui semble avoir toujours fait partie du jardin."
+              },
+              {
+                "p": "Comme c'est un vrai matériau naturel, chaque rouleau a son caractère : de riches tons brun-roux, une écorce fissurée et nervurée et de subtiles variations d'une lamelle à l'autre. Il patine doucement vers un brun argenté au fil des ans."
+              },
+              {
+                "h3": "Pourquoi choisir le brise-vue en écorce"
+              },
+              {
+                "ul": [
+                  "Intimité rustique et boisée immédiate, sans travaux.",
+                  "Les rouleaux de 1,8 m se fixent directement à une clôture, un grillage ou une ossature bois.",
+                  "Dense, quasi opaque ; atténue aussi le vent et le bruit.",
+                  "100% écorce naturelle — sans plastique, chaleureuse et pleine de caractère.",
+                  "S'accorde à merveille avec les plantes, la brique et le bois."
+                ]
+              },
+              {
+                "h3": "Où il fonctionne"
+              },
+              {
+                "ul": [
+                  "Limites de jardin et de potager.",
+                  "Habiller une clôture grillagée ou à panneaux fatiguée.",
+                  "Cacher poubelles, compost ou un coin travail.",
+                  "Balcons, cours et jardins de cottage.",
+                  "Jardins de style boisé et pour la faune."
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -3807,6 +3886,77 @@
             "p": "Vous équipez un projet ou approvisionnez votre magasin ? Nous fournissons du brise-vue en bambou directement d'usine en finitions naturel, noir naturel et carbonisé, par conteneur — grossistes et OEM bienvenus."
           }
         ]
+      },
+      "bark-fencing": {
+        "title": "Brise-vue en écorce : une intimité naturelle et rustique au jardin",
+        "excerpt": "Ce qu'est le brise-vue en écorce, son allure et sa durée, et comment le poser — la façon chaleureuse et boisée d'obtenir une intimité immédiate.",
+        "cat": "Clôture naturelle",
+        "date": "Août 2026",
+        "body": [
+          {
+            "p": "Le brise-vue en écorce est la façon la plus chaleureuse et rustique d'ajouter aussitôt de l'intimité à un jardin. Fait de lamelles d'écorce d'arbre véritable sur une âme en fil de fer, il se déroule en quelques minutes et transforme une limite banale en quelque chose qui semble avoir poussé là. Voici ce que c'est, comment il dure et comment le poser."
+          },
+          {
+            "h2": "Qu'est-ce que le brise-vue en écorce ?"
+          },
+          {
+            "p": "Le brise-vue en écorce, c'est de l'écorce d'arbre naturelle — généralement pin ou mélèze — en lamelles verticales sur une solide armature en fil galvanisé. Il se présente en rouleau, généralement de 1,8 m de haut, et donne un aspect dense, texturé et boisé. Chaque rouleau est un peu différent, avec de riches tons brun-roux et le caractère fissuré et nervuré de la vraie écorce."
+          },
+          {
+            "h2": "Quelle intimité offre-t-il ?"
+          },
+          {
+            "p": "Beaucoup. Les lamelles d'écorce sont serrées pour une couverture quasi opaque, il masque donc bien les vues tout en laissant passer un peu d'air. Il atténue aussi le vent et le bruit de la circulation, ce qui le rend prisé pour les limites et les coins salon."
+          },
+          {
+            "h2": "Combien de temps dure le brise-vue en écorce ?"
+          },
+          {
+            "p": "Tenu à l'écart du sol humide et fixé à une ossature solide, un brise-vue en écorce de qualité dure plusieurs années dehors. Comme tout matériau naturel, il patine en douceur — le brun chaud s'adoucit avec le temps vers un brun argenté que beaucoup apprécient. Une bonne aération à l'arrière et une base sèche le font durer plus longtemps."
+          },
+          {
+            "h2": "Comment poser le brise-vue en écorce"
+          },
+          {
+            "ul": [
+              "Fixez-le à un support solide — une clôture existante, un grillage ou des poteaux bois tous les 40–60 cm.",
+              "Déroulez-le le long de la ligne en gardant le bord supérieur de niveau.",
+              "Fixez avec des colliers ou des agrafes galvanisées à travers l'armature, tous les 20–30 cm.",
+              "Gardez le bord inférieur légèrement au-dessus du sol pour qu'il reste sec.",
+              "Coupez à longueur au sécateur ; chevauchez les jonctions de quelques centimètres."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Voir notre clôture en écorce",
+              "href": "/products/bark-fencing"
+            }
+          },
+          {
+            "h2": "Foire aux questions"
+          },
+          {
+            "h3": "En quoi est fait le brise-vue en écorce ?"
+          },
+          {
+            "p": "En lamelles d'écorce d'arbre naturelle (généralement pin ou mélèze) sur une âme en fil galvanisé — 100% naturel, sans plastique."
+          },
+          {
+            "h3": "Quelle est la hauteur d'un rouleau ?"
+          },
+          {
+            "p": "Nos rouleaux standard font 1,8 m de haut, d'autres tailles étant possibles sur projet. La longueur est généralement de 3 m par rouleau."
+          },
+          {
+            "h3": "Puis-je le fixer à une clôture existante ?"
+          },
+          {
+            "p": "Oui — c'est l'usage le plus courant. Fixez-le avec des colliers ou des agrafes directement sur une clôture grillagée ou à panneaux pour masquer une limite fatiguée."
+          },
+          {
+            "p": "Vous équipez un projet ou approvisionnez votre magasin ? Nous fournissons brise-vue en écorce, osier, roseau et bambou directement d'usine par conteneur — grossistes et OEM bienvenus."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -3853,7 +4003,8 @@
       "moso": "Poteaux Moso",
       "reed": "Clôtures en roseau",
       "thatch": "Toiture de chaume",
-      "natural": "Clôtures naturelles"
+      "natural": "Clôtures naturelles",
+      "bark": "Clôtures en écorce"
     },
     "viewProduct": "Voir le produit",
     "items": {
@@ -3901,7 +4052,12 @@
       "willow-natural-hero": "Clôtures naturelles",
       "willow-scene-brushwood": "Clôture en brande de bruyère",
       "willow-scene-bark": "Clôture en écorce",
-      "willow-scene-square": "Rouleau d'osier tressé"
+      "willow-scene-square": "Rouleau d'osier tressé",
+      "bark-insp-1": "Clôture de jardin en écorce",
+      "bark-insp-2": "Brise-vue rustique en écorce",
+      "bark-insp-3": "Clôture boisée en écorce",
+      "bark-insp-4": "Texture de l'écorce",
+      "bark-insp-5": "Clôture en écorce avec plantations"
     }
   },
   "contact": {

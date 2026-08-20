@@ -77,7 +77,8 @@
       "artificial-green-wall-panels": "Paneles de muro verde artificial",
       "bamboo-room-dividers": "Biombos de bambú",
       "bamboo-reed-curtains": "Cortinas de junco y bambú",
-      "bamboo-rugs": "Alfombras de bambú"
+      "bamboo-rugs": "Alfombras de bambú",
+      "bark-fencing": "Vallado de corteza"
     },
     "tags": {
       "bestseller": "Más vendido",
@@ -1068,7 +1069,8 @@
               {
                 "img": "var-bark-v2.webp",
                 "title": "Valla de corteza",
-                "desc": "Cálido cerramiento de corteza forestal para un perímetro rústico y texturizado."
+                "desc": "Cálido cerramiento de corteza forestal para un perímetro rústico y texturizado.",
+                "href": "/products/bark-fencing"
               }
             ]
           }
@@ -1565,6 +1567,83 @@
               "blue": "Azul",
               "red": "Rojo"
             }
+          }
+        },
+        "bark-fencing": {
+          "eyebrow": "Cañizo de corteza",
+          "lead": "Rollos rústicos de corteza para un límite de jardín cálido y natural — corteza de árbol real sobre alambre, directo de fábrica.",
+          "pill": "Natural · Rústico",
+          "name": "Vallado de corteza",
+          "desc": "El cañizo de corteza aporta al instante un carácter rústico y boscoso a cualquier jardín. Tiras de corteza de árbol real se atan sobre un resistente entramado de alambre para crear una pantalla de privacidad cálida y texturizada que se despliega en minutos y se fija a cualquier valla o marco existente.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Corteza natural sobre alambre galvanizado"
+            },
+            {
+              "k": "Altura",
+              "v": "Rollo estándar de 1,8 m"
+            },
+            {
+              "k": "Longitud",
+              "v": "Rollo de 3 m · a medida"
+            },
+            {
+              "k": "Color",
+              "v": "Marrón rústico natural"
+            },
+            {
+              "k": "Privacidad",
+              "v": "Densa, casi opaca"
+            },
+            {
+              "k": "Fijación",
+              "v": "Bridas o grapas a valla o marco"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · suministro por contenedor"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "El material",
+            "title": "Corteza de árbol real, en rollo",
+            "body": [
+              {
+                "p": "El cañizo de corteza se hace con tiras de corteza natural de árbol — normalmente pino o alerce — colocadas en vertical y atadas sobre un entramado de alambre galvanizado. El resultado es una pantalla cálida y muy texturizada que parece haber pertenecido siempre al jardín."
+              },
+              {
+                "p": "Al ser un material natural real, cada rollo tiene su propio carácter: ricos tonos marrón rojizo, corteza estriada y agrietada y una sutil variación de tira a tira. Se patina suavemente hacia un marrón plateado con los años."
+              },
+              {
+                "h3": "Por qué elegir cañizo de corteza"
+              },
+              {
+                "ul": [
+                  "Privacidad rústica y boscosa al instante, sin obra.",
+                  "Los rollos de 1,8 m se fijan directos a una valla, alambre o marco de madera.",
+                  "Densa, casi opaca; también suaviza viento y ruido.",
+                  "100% corteza natural — sin plástico, cálida y con carácter.",
+                  "Combina de maravilla con plantas, ladrillo y madera."
+                ]
+              },
+              {
+                "h3": "Dónde funciona"
+              },
+              {
+                "ul": [
+                  "Límites de jardín y huerto.",
+                  "Cubrir una valla de alambre o panel gastada.",
+                  "Ocultar cubos, compost o una zona de trabajo.",
+                  "Balcones, patios y jardines de campo.",
+                  "Jardines de estilo boscoso y para fauna."
+                ]
+              }
+            ]
           }
         }
       }
@@ -3800,6 +3879,77 @@
             "p": "¿Equipas un proyecto o surtes tu tienda? Suministramos panel de bambú directo de fábrica en acabados natural, negro natural y carbonizado, por contenedor — mayoristas y OEM bienvenidos."
           }
         ]
+      },
+      "bark-fencing": {
+        "title": "Cañizo de corteza: privacidad natural y rústica para tu jardín",
+        "excerpt": "Qué es el cañizo de corteza, cómo luce y dura, y cómo instalarlo — la forma cálida y boscosa de lograr privacidad al instante.",
+        "cat": "Vallado natural",
+        "date": "Agosto de 2026",
+        "body": [
+          {
+            "p": "El cañizo de corteza es la forma más cálida y rústica de añadir privacidad al instante a un jardín. Hecho con tiras de corteza de árbol real sobre un alma de alambre, se despliega en minutos y convierte un límite plano en algo que parece haber crecido ahí. Esto es qué es, cómo dura y cómo instalarlo."
+          },
+          {
+            "h2": "¿Qué es el cañizo de corteza?"
+          },
+          {
+            "p": "El cañizo de corteza es corteza natural de árbol — normalmente pino o alerce — en tiras verticales sobre un resistente entramado de alambre galvanizado. Viene en rollo, normalmente de 1,8 m de alto, y da un aspecto denso, texturizado y boscoso. Cada rollo es algo distinto, con ricos tonos marrón rojizo y el carácter agrietado y estriado de la corteza real."
+          },
+          {
+            "h2": "¿Cuánta privacidad da?"
+          },
+          {
+            "p": "Mucha. Las tiras de corteza quedan muy juntas para una cobertura casi opaca, así que oculta bien las vistas dejando pasar algo de aire. También suaviza el viento y el ruido del tráfico, lo que la hace popular para límites y zonas de estar."
+          },
+          {
+            "h2": "¿Cuánto dura el cañizo de corteza?"
+          },
+          {
+            "p": "Lejos del suelo húmedo y fijado a un marco sólido, un cañizo de corteza de calidad dura varios años a la intemperie. Como todo material natural se patina con suavidad — el marrón cálido se atenúa con el tiempo a un marrón plateado que a muchos les encanta. Un buen flujo de aire por detrás y una base seca lo hacen durar más."
+          },
+          {
+            "h2": "Cómo instalar el cañizo de corteza"
+          },
+          {
+            "ul": [
+              "Fíjalo a un soporte sólido — una valla existente, alambre o postes de madera cada 40–60 cm.",
+              "Despliégalo a lo largo de la línea y mantén el borde superior nivelado.",
+              "Sujeta con bridas o grapas galvanizadas a través del alma de alambre, cada 20–30 cm.",
+              "Mantén el borde inferior algo separado del suelo para que quede seco.",
+              "Recorta a medida con tijeras; solapa las uniones unos centímetros."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Ver nuestro vallado de corteza",
+              "href": "/products/bark-fencing"
+            }
+          },
+          {
+            "h2": "Preguntas frecuentes"
+          },
+          {
+            "h3": "¿De qué está hecho el cañizo de corteza?"
+          },
+          {
+            "p": "De tiras de corteza natural de árbol (normalmente pino o alerce) sobre un alma de alambre galvanizado — 100% natural, sin plástico."
+          },
+          {
+            "h3": "¿Qué altura tiene un rollo?"
+          },
+          {
+            "p": "Nuestros rollos estándar miden 1,8 m de alto, con otras medidas a proyecto. La longitud suele ser de 3 m por rollo."
+          },
+          {
+            "h3": "¿Puedo fijarlo a una valla existente?"
+          },
+          {
+            "p": "Sí — es el uso más común. Átalo con bridas o grapas directamente sobre una valla de alambre o panel para ocultar un límite gastado."
+          },
+          {
+            "p": "¿Equipas un proyecto o surtes tu tienda? Suministramos cañizo de corteza, mimbre, junco y bambú directo de fábrica por contenedor — mayoristas y OEM bienvenidos."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -3846,7 +3996,8 @@
       "moso": "Postes Moso",
       "reed": "Vallas de junco",
       "thatch": "Techo de paja",
-      "natural": "Vallas naturales"
+      "natural": "Vallas naturales",
+      "bark": "Vallados de corteza"
     },
     "viewProduct": "Ver producto",
     "items": {
@@ -3894,7 +4045,12 @@
       "willow-natural-hero": "Vallas naturales",
       "willow-scene-brushwood": "Valla de brezo y ramaje",
       "willow-scene-bark": "Valla de corteza",
-      "willow-scene-square": "Rollo de mimbre"
+      "willow-scene-square": "Rollo de mimbre",
+      "bark-insp-1": "Valla de jardín de corteza",
+      "bark-insp-2": "Pantalla rústica de corteza",
+      "bark-insp-3": "Vallado boscoso de corteza",
+      "bark-insp-4": "Textura de corteza",
+      "bark-insp-5": "Valla de corteza con plantas"
     }
   },
   "contact": {

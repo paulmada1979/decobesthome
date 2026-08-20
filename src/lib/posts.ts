@@ -21,6 +21,20 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Bark screening — natural-fencing series. Links to the new bark-fencing page.
+    id: "bark-fencing",
+    slug: "bark-screening-guide",
+    image: "/images/blog/bark-fencing-hero.webp",
+    href: "https://www.decobesthome.com/blog/bark-screening-guide",
+    date: "2026-08-22",
+    readMins: 5,
+    category: "fencing",
+    images: [
+      "/images/blog/bark-fencing-1.webp",
+      "/images/blog/bark-fencing-2.webp",
+    ],
+  },
+  {
     // Aug 2026 SEO series #6 — bamboo screening colour (natural/black/carbonised).
     id: "bamboo-screening-colour",
     slug: "bamboo-screening-colours",

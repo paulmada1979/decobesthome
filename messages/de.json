@@ -77,7 +77,8 @@
       "artificial-green-wall-panels": "Künstliche Begrünungspaneele",
       "bamboo-room-dividers": "Bambus-Raumteiler",
       "bamboo-reed-curtains": "Bambus- & Schilfrohrvorhänge",
-      "bamboo-rugs": "Bambusteppiche"
+      "bamboo-rugs": "Bambusteppiche",
+      "bark-fencing": "Rindenzaun"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -1071,7 +1072,8 @@
               {
                 "img": "var-bark-v2.webp",
                 "title": "Rindenzaun",
-                "desc": "Warmer waldiger Rindenzaun für eine rustikale, strukturierte Abgrenzung."
+                "desc": "Warmer waldiger Rindenzaun für eine rustikale, strukturierte Abgrenzung.",
+                "href": "/products/bark-fencing"
               }
             ]
           },
@@ -1573,6 +1575,83 @@
             }
           },
           "metaTitle": "Bambusteppich & Bambus Badematte — Großhandel"
+        },
+        "bark-fencing": {
+          "eyebrow": "Rinden-Sichtschutz",
+          "lead": "Rustikale Rindenmatten von der Rolle für eine warme, natürliche Gartengrenze — echte Baumrinde auf Drahtgeflecht, fabrikdirekt.",
+          "pill": "Natürlich · Rustikal",
+          "name": "Rindenzaun",
+          "desc": "Natürlicher Rinden-Sichtschutz verleiht jedem Garten sofort einen warmen, waldigen Charakter. Streifen echter Baumrinde werden auf ein stabiles Drahtgeflecht gebunden — ein warmer, strukturierter Sichtschutz, der sich in Minuten ausrollt und an jedem bestehenden Zaun oder Rahmen befestigen lässt.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natürliche Rinde auf verzinktem Draht"
+            },
+            {
+              "k": "Höhe",
+              "v": "1,8 m Standardrolle"
+            },
+            {
+              "k": "Länge",
+              "v": "3 m Rolle · Sondermaße möglich"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürliches rustikales Braun"
+            },
+            {
+              "k": "Sichtschutz",
+              "v": "Dicht, nahezu blickdicht"
+            },
+            {
+              "k": "Befestigung",
+              "v": "Kabelbinder oder Klammern an Zaun/Rahmen"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Containerlieferung"
+            },
+            {
+              "k": "Ladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Das Material",
+            "title": "Echte Baumrinde, ausgerollt",
+            "body": [
+              {
+                "p": "Rinden-Sichtschutz besteht aus Streifen natürlicher Baumrinde — meist Kiefer oder Lärche — vertikal gelegt und auf ein verzinktes Drahtgeflecht gebunden. Das Ergebnis ist ein warmer, tief strukturierter Schutz, der aussieht, als hätte er schon immer in den Garten gehört."
+              },
+              {
+                "p": "Da es ein echtes Naturmaterial ist, hat jede Rolle ihren eigenen Charakter: satte rotbraune Töne, gefurchte, rissige Rindenflächen und feine Unterschiede von Streifen zu Streifen. Sie verwittert sanft zu einem weichen Silberbraun."
+              },
+              {
+                "h3": "Warum Rinden-Sichtschutz"
+              },
+              {
+                "ul": [
+                  "Sofort rustikale, waldige Privatsphäre — ohne Bauen.",
+                  "1,8 m hohe Rollen werden direkt an einem Zaun, Draht oder Holzrahmen befestigt.",
+                  "Dicht, nahezu blickdicht, dämpft auch Wind und Lärm.",
+                  "100% natürliche Rinde — kein Kunststoff, warm und charaktervoll.",
+                  "Harmoniert wunderbar mit Bepflanzung, Backstein und Holz."
+                ]
+              },
+              {
+                "h3": "Wo Rinden-Sichtschutz passt"
+              },
+              {
+                "ul": [
+                  "Garten- und Kleingartengrenzen.",
+                  "Verkleidung eines abgenutzten Draht- oder Elementzauns.",
+                  "Abschirmung von Mülltonnen, Kompost oder Arbeitsecke.",
+                  "Balkone, Innenhöfe und Cottage-Gärten.",
+                  "Naturnahe und Wildgärten."
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -3807,6 +3886,77 @@
             "p": "Statten Sie ein Projekt aus oder bestücken Sie Ihr Geschäft? Wir liefern Bambus-Sichtschutz fabrikdirekt in Natur, Naturschwarz und karbonisiert, per Container — Großhandel und OEM willkommen."
           }
         ]
+      },
+      "bark-fencing": {
+        "title": "Rinden-Sichtschutz: rustikale, natürliche Privatsphäre für den Garten",
+        "excerpt": "Was Rinden-Sichtschutz ist, wie er aussieht und hält, und wie man ihn anbringt — der warme, waldige Weg zu sofortiger Gartenprivatsphäre.",
+        "cat": "Naturzaun",
+        "date": "August 2026",
+        "body": [
+          {
+            "p": "Rinden-Sichtschutz ist der wärmste, rustikalste Weg, einem Garten sofort Privatsphäre zu geben. Aus Streifen echter Baumrinde auf einem Drahtrücken rollt er sich in Minuten aus und macht aus einer schlichten Grenze etwas, das aussieht, als wäre es dort gewachsen. Hier ist, was er ist, wie er hält und wie man ihn anbringt."
+          },
+          {
+            "h2": "Was ist Rinden-Sichtschutz?"
+          },
+          {
+            "p": "Rinden-Sichtschutz ist natürliche Baumrinde — meist Kiefer oder Lärche — in vertikalen Streifen auf einem stabilen verzinkten Drahtgeflecht. Er kommt auf der Rolle, meist 1,8 m hoch, und ergibt einen dichten, strukturierten, waldigen Look. Jede Rolle ist etwas anders, mit satten rotbraunen Tönen und dem rissigen, gefurchten Charakter echter Rinde."
+          },
+          {
+            "h2": "Wie viel Sichtschutz bietet er?"
+          },
+          {
+            "p": "Sehr viel. Die Rindenstreifen liegen dicht beieinander für nahezu blickdichte Deckung, schirmen also Einblicke gut ab und lassen doch etwas Luft durch. Er dämpft auch Wind und Verkehrslärm, was ihn für Grenzen und Sitzecken beliebt macht."
+          },
+          {
+            "h2": "Wie lange hält Rinden-Sichtschutz?"
+          },
+          {
+            "p": "Vom nassen Boden ferngehalten und an einem stabilen Rahmen befestigt, hält hochwertiger Rinden-Sichtschutz mehrere Jahre im Freien. Wie alle Naturmaterialien verwittert er sanft — das warme Braun geht mit der Zeit in ein weiches Silberbraun über, das viele mögen. Gute Luftzirkulation dahinter und ein trockener Fuß verlängern die Lebensdauer."
+          },
+          {
+            "h2": "Wie bringt man Rinden-Sichtschutz an?"
+          },
+          {
+            "ul": [
+              "An einem stabilen Träger befestigen — einem Zaun, Draht oder Holzpfosten alle 40–60 cm.",
+              "Entlang der Linie ausrollen und die Oberkante gerade halten.",
+              "Mit Kabelbindern oder verzinkten Klammern durch das Drahtgeflecht fixieren, alle 20–30 cm.",
+              "Die Unterkante knapp über dem Boden halten, damit sie trocken bleibt.",
+              "Mit einer Schere auf Länge schneiden; Stöße einige Zentimeter überlappen."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Unseren Rindenzaun ansehen",
+              "href": "/products/bark-fencing"
+            }
+          },
+          {
+            "h2": "Häufig gestellte Fragen"
+          },
+          {
+            "h3": "Woraus besteht Rinden-Sichtschutz?"
+          },
+          {
+            "p": "Aus Streifen natürlicher Baumrinde (meist Kiefer oder Lärche) auf einem verzinkten Draht — 100% natürlich, kein Kunststoff."
+          },
+          {
+            "h3": "Wie hoch ist eine Rindenrolle?"
+          },
+          {
+            "p": "Unsere Standardrollen sind 1,8 m hoch, weitere Maße auf Projektbasis. Die Länge beträgt meist 3 m pro Rolle."
+          },
+          {
+            "h3": "Kann ich ihn an einem bestehenden Zaun befestigen?"
+          },
+          {
+            "p": "Ja — das ist die häufigste Verwendung. Mit Kabelbindern oder Klammern direkt über einen Draht- oder Elementzaun befestigen, um eine abgenutzte Grenze zu verbergen."
+          },
+          {
+            "p": "Statten Sie ein Projekt aus oder bestücken Sie Ihr Geschäft? Wir liefern Rinden-, Weiden-, Schilf- und Bambus-Sichtschutz fabrikdirekt per Container — Großhandel und OEM willkommen."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -3853,7 +4003,8 @@
       "moso": "Moso-Bambusstangen",
       "reed": "Schilfrohrmatten",
       "thatch": "Reetdach",
-      "natural": "Naturzäune"
+      "natural": "Naturzäune",
+      "bark": "Rindenzäune"
     },
     "viewProduct": "Produkt ansehen",
     "items": {
@@ -3901,7 +4052,12 @@
       "willow-natural-hero": "Naturzäune",
       "willow-scene-brushwood": "Heidekraut-Reisigzaun",
       "willow-scene-bark": "Rindenzaun",
-      "willow-scene-square": "Weidengeflecht-Matte"
+      "willow-scene-square": "Weidengeflecht-Matte",
+      "bark-insp-1": "Rinden-Sichtschutz Gartenzaun",
+      "bark-insp-2": "Rustikaler Rinden-Sichtschutz",
+      "bark-insp-3": "Waldiger Rindenzaun",
+      "bark-insp-4": "Rinden-Textur",
+      "bark-insp-5": "Rindenzaun mit Bepflanzung"
     }
   },
   "contact": {

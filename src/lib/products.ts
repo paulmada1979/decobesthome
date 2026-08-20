@@ -315,6 +315,24 @@ export const products: Product[] = [
     ],
   },
   {
+    // Standalone bark-screening page, linked from the "Bark fence" card on
+    // other-natural-fencing. Unlisted (not in the main 12-range menu/catalog).
+    id: "bark-fencing",
+    slug: "bark-fencing",
+    image: "/images/bark/bark-hero.webp",
+    icon: "🌲",
+    hasAbout: true,
+    unlisted: true,
+    gallery: [
+      "/images/bark/bark-hero.webp",
+      "/images/bark/roll.webp",
+      "/images/bark/scene-1.webp",
+      "/images/bark/scene-2.webp",
+      "/images/blog/bark-fencing-hero.webp",
+      "/images/blog/bark-fencing-2.webp",
+    ],
+  },
+  {
     id: "natural-thatch-roof",
     slug: "natural-thatch-roof",
     image: "/images/thatch-hero-w.webp",

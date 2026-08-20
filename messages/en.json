@@ -77,7 +77,8 @@
       "artificial-green-wall-panels": "Artificial green wall panels",
       "bamboo-room-dividers": "Bamboo room dividers",
       "bamboo-reed-curtains": "Bamboo & reed curtains",
-      "bamboo-rugs": "Bamboo rugs"
+      "bamboo-rugs": "Bamboo rugs",
+      "bark-fencing": "Bark fencing"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -1072,7 +1073,8 @@
               {
                 "img": "var-bark-v2.webp",
                 "title": "Bark fence",
-                "desc": "Warm woodland bark fencing for a rustic, textured boundary."
+                "desc": "Warm woodland bark fencing for a rustic, textured boundary.",
+                "href": "/products/bark-fencing"
               }
             ]
           }
@@ -1579,6 +1581,83 @@
             }
           },
           "metaTitle": "Bamboo Bath Mats & Rugs — Wholesale"
+        },
+        "bark-fencing": {
+          "eyebrow": "Bark screening",
+          "lead": "Rustic bark screening rolls for a warm, woodland garden boundary — real tree bark on a wire backing, factory-direct.",
+          "pill": "Natural · Rustic",
+          "name": "Bark fencing",
+          "desc": "Natural bark screening brings instant woodland character to any garden. Strips of real tree bark are bound onto a strong wire backing to make a warm, textured privacy screen that rolls out in minutes and fixes to any existing fence or frame.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natural bark on galvanised wire"
+            },
+            {
+              "k": "Height",
+              "v": "1.8 m standard roll"
+            },
+            {
+              "k": "Length",
+              "v": "3 m roll · custom available"
+            },
+            {
+              "k": "Colour",
+              "v": "Natural rustic brown"
+            },
+            {
+              "k": "Privacy",
+              "v": "Dense, near-solid cover"
+            },
+            {
+              "k": "Fixing",
+              "v": "Cable ties or staples to a fence or frame"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · container supply"
+            },
+            {
+              "k": "Loading port",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "The material",
+            "title": "Real tree bark, rolled out",
+            "body": [
+              {
+                "p": "Bark screening is made from strips of natural tree bark — usually pine or larch — laid vertically and bound onto a galvanised wire framework. The result is a warm, deeply textured screen that looks like it has always belonged in the garden."
+              },
+              {
+                "p": "Because it's a real natural material, every roll has its own character: rich reddish-brown tones, ridged, cracked bark faces and subtle variation from strip to strip. It weathers gently to a soft silver-brown over the years."
+              },
+              {
+                "h3": "Why choose bark screening"
+              },
+              {
+                "ul": [
+                  "Instant rustic, woodland privacy — no building required.",
+                  "1.8 m tall rolls fix straight to an existing fence, wire or timber frame.",
+                  "Dense, near-solid cover that also softens wind and noise.",
+                  "100% natural bark — no plastic, warm and full of character.",
+                  "Blends beautifully with planting, brick and timber."
+                ]
+              },
+              {
+                "h3": "Where bark screening works"
+              },
+              {
+                "ul": [
+                  "Garden and allotment boundaries.",
+                  "Covering a tired wire or panel fence.",
+                  "Screening bins, compost or a work corner.",
+                  "Balconies, courtyards and cottage gardens.",
+                  "Woodland-style and wildlife gardens."
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -3813,6 +3892,77 @@
             "p": "Fitting out a project or stocking your store? We supply bamboo screening factory-direct in natural, natural black and carbonised finishes, by the container — wholesale and OEM welcome."
           }
         ]
+      },
+      "bark-fencing": {
+        "title": "Bark Screening: Rustic, Natural Privacy for Your Garden",
+        "excerpt": "What bark screening is, how it looks and lasts, and how to put it up — the warm, woodland way to get instant garden privacy.",
+        "cat": "Natural fencing",
+        "date": "August 2026",
+        "body": [
+          {
+            "p": "Bark screening is the warmest, most rustic way to add instant privacy to a garden. Made from strips of real tree bark bound onto a wire backing, it rolls out in minutes and turns a plain boundary into something that looks like it grew there. Here's what it is, how it lasts and how to put it up."
+          },
+          {
+            "h2": "What is bark screening?"
+          },
+          {
+            "p": "Bark screening is natural tree bark — usually pine or larch — laid in vertical strips and bound onto a strong galvanised wire framework. It comes on a roll, typically 1.8 m tall, and gives a dense, textured, woodland look. Every roll is a little different, with rich reddish-brown tones and the cracked, ridged character of real bark."
+          },
+          {
+            "h2": "How private is it?"
+          },
+          {
+            "p": "Very. The bark strips sit tightly together for near-solid cover, so it screens views well while still letting a little air through. It also softens wind and traffic noise, which makes it popular for boundaries and seating areas."
+          },
+          {
+            "h2": "How long does bark screening last?"
+          },
+          {
+            "p": "Kept off wet ground and fixed to a solid frame, quality bark screening lasts several years outdoors. Like all natural materials it weathers gently — the warm brown mellows to a soft silver-brown over time, which many people love. Good airflow behind it and a dry base help it last longer."
+          },
+          {
+            "h2": "How to put up bark screening"
+          },
+          {
+            "ul": [
+              "Fix it to a solid support — an existing fence, wire, or timber posts every 40–60 cm.",
+              "Unroll along the line and keep the top edge level.",
+              "Fasten with cable ties or galvanised staples through the wire backing, every 20–30 cm.",
+              "Keep the bottom edge just off the ground so it stays dry.",
+              "Trim to length with shears; overlap joins by a few centimetres."
+            ]
+          },
+          {
+            "cta": {
+              "label": "See our bark fencing",
+              "href": "/products/bark-fencing"
+            }
+          },
+          {
+            "h2": "Frequently asked questions"
+          },
+          {
+            "h3": "What is bark screening made of?"
+          },
+          {
+            "p": "Strips of natural tree bark (usually pine or larch) bound onto a galvanised wire backing — 100% natural, no plastic."
+          },
+          {
+            "h3": "How tall is a bark screening roll?"
+          },
+          {
+            "p": "Our standard rolls are 1.8 m tall, with other sizes available to project. Length is typically 3 m per roll."
+          },
+          {
+            "h3": "Can I fix it to an existing fence?"
+          },
+          {
+            "p": "Yes — that's the most common use. Cable-tie or staple it straight over a wire or panel fence to hide a tired boundary."
+          },
+          {
+            "p": "Fitting out a project or stocking your store? We supply bark, willow, reed and bamboo screening factory-direct by the container — wholesale and OEM welcome."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -3859,7 +4009,8 @@
       "moso": "Moso poles",
       "reed": "Reed fencing",
       "thatch": "Thatch roof",
-      "natural": "Natural fencing"
+      "natural": "Natural fencing",
+      "bark": "Bark fences"
     },
     "viewProduct": "View product",
     "items": {
@@ -3907,7 +4058,12 @@
       "willow-natural-hero": "Natural fencing",
       "willow-scene-brushwood": "Heather brushwood fence",
       "willow-scene-bark": "Bark fence",
-      "willow-scene-square": "Willow wicker roll"
+      "willow-scene-square": "Willow wicker roll",
+      "bark-insp-1": "Bark screening garden fence",
+      "bark-insp-2": "Rustic bark privacy screen",
+      "bark-insp-3": "Woodland bark fence",
+      "bark-insp-4": "Bark screening texture",
+      "bark-insp-5": "Bark fence with planting"
     }
   },
   "contact": {

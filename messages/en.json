@@ -1591,11 +1591,11 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natural bark on galvanised wire"
+              "v": "Natural bark on matching coated wire"
             },
             {
               "k": "Height",
-              "v": "1.8 m standard roll"
+              "v": "1 m, 1.5 m, 1.8 m, 2 m"
             },
             {
               "k": "Length",
@@ -1627,7 +1627,7 @@
             "title": "Real tree bark, rolled out",
             "body": [
               {
-                "p": "Bark screening is made from strips of natural tree bark — usually pine or larch — laid vertically and bound onto a galvanised wire framework. The result is a warm, deeply textured screen that looks like it has always belonged in the garden."
+                "p": "Bark screening is made from strips of natural tree bark — usually pine or larch — laid vertically and bound onto a coated steel wire framework in a matching brown tone that blends into the bark. The result is a warm, deeply textured screen that looks like it has always belonged in the garden."
               },
               {
                 "p": "Because it's a real natural material, every roll has its own character: rich reddish-brown tones, ridged, cracked bark faces and subtle variation from strip to strip. It weathers gently to a soft silver-brown over the years."
@@ -1638,10 +1638,11 @@
               {
                 "ul": [
                   "Instant rustic, woodland privacy — no building required.",
-                  "1.8 m tall rolls fix straight to an existing fence, wire or timber frame.",
+                  "Rolls fix straight to an existing fence, wire or timber frame.",
                   "Dense, near-solid cover that also softens wind and noise.",
                   "100% natural bark — no plastic, warm and full of character.",
-                  "Blends beautifully with planting, brick and timber."
+                  "Blends beautifully with planting, brick and timber.",
+                  "Bound with a matching coated wire, so the ties blend into the bark — not shiny galvanised."
                 ]
               },
               {
@@ -3906,7 +3907,7 @@
             "h2": "What is bark screening?"
           },
           {
-            "p": "Bark screening is natural tree bark — usually pine or larch — laid in vertical strips and bound onto a strong galvanised wire framework. It comes on a roll, typically 1.8 m tall, and gives a dense, textured, woodland look. Every roll is a little different, with rich reddish-brown tones and the cracked, ridged character of real bark."
+            "p": "Bark screening is natural tree bark — usually pine or larch — laid in vertical strips and bound onto a strong coated steel wire framework. It comes on a roll in 1, 1.5, 1.8 and 2 m heights, and gives a dense, textured, woodland look. Every roll is a little different, with rich reddish-brown tones and the cracked, ridged character of real bark."
           },
           {
             "h2": "How private is it?"
@@ -3945,13 +3946,13 @@
             "h3": "What is bark screening made of?"
           },
           {
-            "p": "Strips of natural tree bark (usually pine or larch) bound onto a galvanised wire backing — 100% natural, no plastic."
+            "p": "Strips of natural tree bark (usually pine or larch) bound onto a matching coated wire backing — 100% natural, no plastic."
           },
           {
             "h3": "How tall is a bark screening roll?"
           },
           {
-            "p": "Our standard rolls are 1.8 m tall, with other sizes available to project. Length is typically 3 m per roll."
+            "p": "Rolls come in 1 m, 1.5 m, 1.8 m and 2 m heights, with custom sizes to project. Length is typically 3 m per roll."
           },
           {
             "h3": "Can I fix it to an existing fence?"

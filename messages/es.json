@@ -1578,11 +1578,11 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Corteza natural sobre alambre galvanizado"
+              "v": "Corteza natural sobre alambre revestido a juego"
             },
             {
               "k": "Altura",
-              "v": "Rollo estándar de 1,8 m"
+              "v": "1 m, 1,5 m, 1,8 m, 2 m"
             },
             {
               "k": "Longitud",
@@ -1614,7 +1614,7 @@
             "title": "Corteza de árbol real, en rollo",
             "body": [
               {
-                "p": "El cañizo de corteza se hace con tiras de corteza natural de árbol — normalmente pino o alerce — colocadas en vertical y atadas sobre un entramado de alambre galvanizado. El resultado es una pantalla cálida y muy texturizada que parece haber pertenecido siempre al jardín."
+                "p": "El cañizo de corteza se hace con tiras de corteza natural de árbol — normalmente pino o alerce — colocadas en vertical y atadas sobre un entramado de alambre de acero revestido en un tono marrón a juego que se funde con la corteza. El resultado es una pantalla cálida y muy texturizada que parece haber pertenecido siempre al jardín."
               },
               {
                 "p": "Al ser un material natural real, cada rollo tiene su propio carácter: ricos tonos marrón rojizo, corteza estriada y agrietada y una sutil variación de tira a tira. Se patina suavemente hacia un marrón plateado con los años."
@@ -1625,10 +1625,11 @@
               {
                 "ul": [
                   "Privacidad rústica y boscosa al instante, sin obra.",
-                  "Los rollos de 1,8 m se fijan directos a una valla, alambre o marco de madera.",
+                  "Los rollos se fijan directos a una valla, alambre o marco de madera existente.",
                   "Densa, casi opaca; también suaviza viento y ruido.",
                   "100% corteza natural — sin plástico, cálida y con carácter.",
-                  "Combina de maravilla con plantas, ladrillo y madera."
+                  "Combina de maravilla con plantas, ladrillo y madera.",
+                  "Atado con un alambre revestido a juego, para que las ataduras se fundan con la corteza — sin brillo galvanizado."
                 ]
               },
               {
@@ -3893,7 +3894,7 @@
             "h2": "¿Qué es el cañizo de corteza?"
           },
           {
-            "p": "El cañizo de corteza es corteza natural de árbol — normalmente pino o alerce — en tiras verticales sobre un resistente entramado de alambre galvanizado. Viene en rollo, normalmente de 1,8 m de alto, y da un aspecto denso, texturizado y boscoso. Cada rollo es algo distinto, con ricos tonos marrón rojizo y el carácter agrietado y estriado de la corteza real."
+            "p": "El cañizo de corteza es corteza natural de árbol — normalmente pino o alerce — en tiras verticales sobre un resistente entramado de alambre de acero revestido. Viene en rollo en alturas de 1, 1,5, 1,8 y 2 m, y da un aspecto denso, texturizado y boscoso. Cada rollo es algo distinto, con ricos tonos marrón rojizo y el carácter agrietado y estriado de la corteza real."
           },
           {
             "h2": "¿Cuánta privacidad da?"
@@ -3932,13 +3933,13 @@
             "h3": "¿De qué está hecho el cañizo de corteza?"
           },
           {
-            "p": "De tiras de corteza natural de árbol (normalmente pino o alerce) sobre un alma de alambre galvanizado — 100% natural, sin plástico."
+            "p": "Tiras de corteza natural de árbol (normalmente pino o alerce) sobre un alambre revestido a juego — 100% natural, sin plástico."
           },
           {
             "h3": "¿Qué altura tiene un rollo?"
           },
           {
-            "p": "Nuestros rollos estándar miden 1,8 m de alto, con otras medidas a proyecto. La longitud suele ser de 3 m por rollo."
+            "p": "Los rollos vienen en alturas de 1 m, 1,5 m, 1,8 m y 2 m, con medidas a medida a proyecto. La longitud suele ser de 3 m por rollo."
           },
           {
             "h3": "¿Puedo fijarlo a una valla existente?"

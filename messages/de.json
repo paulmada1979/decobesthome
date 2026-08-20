@@ -1585,11 +1585,11 @@
           "spec": [
             {
               "k": "Material",
-              "v": "Natürliche Rinde auf verzinktem Draht"
+              "v": "Natürliche Rinde auf farblich passendem beschichtetem Draht"
             },
             {
               "k": "Höhe",
-              "v": "1,8 m Standardrolle"
+              "v": "1 m, 1,5 m, 1,8 m, 2 m"
             },
             {
               "k": "Länge",
@@ -1621,7 +1621,7 @@
             "title": "Echte Baumrinde, ausgerollt",
             "body": [
               {
-                "p": "Rinden-Sichtschutz besteht aus Streifen natürlicher Baumrinde — meist Kiefer oder Lärche — vertikal gelegt und auf ein verzinktes Drahtgeflecht gebunden. Das Ergebnis ist ein warmer, tief strukturierter Schutz, der aussieht, als hätte er schon immer in den Garten gehört."
+                "p": "Rinden-Sichtschutz besteht aus Streifen natürlicher Baumrinde — meist Kiefer oder Lärche — vertikal gelegt und auf ein beschichtetes Stahldrahtgeflecht in passendem Braunton gebunden, das in der Rinde verschwindet. Das Ergebnis ist ein warmer, tief strukturierter Schutz, der aussieht, als hätte er schon immer in den Garten gehört."
               },
               {
                 "p": "Da es ein echtes Naturmaterial ist, hat jede Rolle ihren eigenen Charakter: satte rotbraune Töne, gefurchte, rissige Rindenflächen und feine Unterschiede von Streifen zu Streifen. Sie verwittert sanft zu einem weichen Silberbraun."
@@ -1632,10 +1632,11 @@
               {
                 "ul": [
                   "Sofort rustikale, waldige Privatsphäre — ohne Bauen.",
-                  "1,8 m hohe Rollen werden direkt an einem Zaun, Draht oder Holzrahmen befestigt.",
+                  "Rollen werden direkt an einem Zaun, Draht oder Holzrahmen befestigt.",
                   "Dicht, nahezu blickdicht, dämpft auch Wind und Lärm.",
                   "100% natürliche Rinde — kein Kunststoff, warm und charaktervoll.",
-                  "Harmoniert wunderbar mit Bepflanzung, Backstein und Holz."
+                  "Harmoniert wunderbar mit Bepflanzung, Backstein und Holz.",
+                  "Mit farblich passendem beschichtetem Draht gebunden, sodass die Bindungen in der Rinde verschwinden — kein glänzend verzinkter Draht."
                 ]
               },
               {
@@ -3900,7 +3901,7 @@
             "h2": "Was ist Rinden-Sichtschutz?"
           },
           {
-            "p": "Rinden-Sichtschutz ist natürliche Baumrinde — meist Kiefer oder Lärche — in vertikalen Streifen auf einem stabilen verzinkten Drahtgeflecht. Er kommt auf der Rolle, meist 1,8 m hoch, und ergibt einen dichten, strukturierten, waldigen Look. Jede Rolle ist etwas anders, mit satten rotbraunen Tönen und dem rissigen, gefurchten Charakter echter Rinde."
+            "p": "Rinden-Sichtschutz ist natürliche Baumrinde — meist Kiefer oder Lärche — in vertikalen Streifen auf einem stabilen beschichteten Stahldrahtgeflecht. Er kommt auf der Rolle in Höhen von 1, 1,5, 1,8 und 2 m und ergibt einen dichten, strukturierten, waldigen Look. Jede Rolle ist etwas anders, mit satten rotbraunen Tönen und dem rissigen, gefurchten Charakter echter Rinde."
           },
           {
             "h2": "Wie viel Sichtschutz bietet er?"
@@ -3939,13 +3940,13 @@
             "h3": "Woraus besteht Rinden-Sichtschutz?"
           },
           {
-            "p": "Aus Streifen natürlicher Baumrinde (meist Kiefer oder Lärche) auf einem verzinkten Draht — 100% natürlich, kein Kunststoff."
+            "p": "Aus Streifen natürlicher Baumrinde (meist Kiefer oder Lärche) auf einem farblich passenden beschichteten Draht — 100% natürlich, kein Kunststoff."
           },
           {
             "h3": "Wie hoch ist eine Rindenrolle?"
           },
           {
-            "p": "Unsere Standardrollen sind 1,8 m hoch, weitere Maße auf Projektbasis. Die Länge beträgt meist 3 m pro Rolle."
+            "p": "Rollen gibt es in Höhen von 1 m, 1,5 m, 1,8 m und 2 m, weitere Maße auf Projektbasis. Die Länge beträgt meist 3 m pro Rolle."
           },
           {
             "h3": "Kann ich ihn an einem bestehenden Zaun befestigen?"

@@ -1585,11 +1585,11 @@
           "spec": [
             {
               "k": "Matériau",
-              "v": "Écorce naturelle sur fil galvanisé"
+              "v": "Écorce naturelle sur fil gainé assorti"
             },
             {
               "k": "Hauteur",
-              "v": "Rouleau standard 1,8 m"
+              "v": "1 m, 1,5 m, 1,8 m, 2 m"
             },
             {
               "k": "Longueur",
@@ -1621,7 +1621,7 @@
             "title": "De la vraie écorce d'arbre, en rouleau",
             "body": [
               {
-                "p": "Le brise-vue en écorce est fait de lamelles d'écorce naturelle — généralement pin ou mélèze — posées à la verticale et liées sur une armature en fil galvanisé. Le résultat est un écran chaleureux et profondément texturé qui semble avoir toujours fait partie du jardin."
+                "p": "Le brise-vue en écorce est fait de lamelles d'écorce naturelle — généralement pin ou mélèze — posées à la verticale et liées sur une armature en fil d'acier gainé d'un brun assorti qui se fond dans l'écorce. Le résultat est un écran chaleureux et profondément texturé qui semble avoir toujours fait partie du jardin."
               },
               {
                 "p": "Comme c'est un vrai matériau naturel, chaque rouleau a son caractère : de riches tons brun-roux, une écorce fissurée et nervurée et de subtiles variations d'une lamelle à l'autre. Il patine doucement vers un brun argenté au fil des ans."
@@ -1632,10 +1632,11 @@
               {
                 "ul": [
                   "Intimité rustique et boisée immédiate, sans travaux.",
-                  "Les rouleaux de 1,8 m se fixent directement à une clôture, un grillage ou une ossature bois.",
+                  "Les rouleaux se fixent directement à une clôture, un grillage ou une ossature bois existante.",
                   "Dense, quasi opaque ; atténue aussi le vent et le bruit.",
                   "100% écorce naturelle — sans plastique, chaleureuse et pleine de caractère.",
-                  "S'accorde à merveille avec les plantes, la brique et le bois."
+                  "S'accorde à merveille avec les plantes, la brique et le bois.",
+                  "Lié avec un fil gainé assorti, pour que les liens se fondent dans l'écorce — sans galvanisé brillant."
                 ]
               },
               {
@@ -3900,7 +3901,7 @@
             "h2": "Qu'est-ce que le brise-vue en écorce ?"
           },
           {
-            "p": "Le brise-vue en écorce, c'est de l'écorce d'arbre naturelle — généralement pin ou mélèze — en lamelles verticales sur une solide armature en fil galvanisé. Il se présente en rouleau, généralement de 1,8 m de haut, et donne un aspect dense, texturé et boisé. Chaque rouleau est un peu différent, avec de riches tons brun-roux et le caractère fissuré et nervuré de la vraie écorce."
+            "p": "Le brise-vue en écorce, c'est de l'écorce d'arbre naturelle — généralement pin ou mélèze — en lamelles verticales sur une solide armature en fil d'acier gainé. Il se présente en rouleau dans les hauteurs de 1, 1,5, 1,8 et 2 m et donne un aspect dense, texturé et boisé. Chaque rouleau est un peu différent, avec de riches tons brun-roux et le caractère fissuré et nervuré de la vraie écorce."
           },
           {
             "h2": "Quelle intimité offre-t-il ?"
@@ -3939,13 +3940,13 @@
             "h3": "En quoi est fait le brise-vue en écorce ?"
           },
           {
-            "p": "En lamelles d'écorce d'arbre naturelle (généralement pin ou mélèze) sur une âme en fil galvanisé — 100% naturel, sans plastique."
+            "p": "Des lamelles d'écorce d'arbre naturelle (généralement pin ou mélèze) sur un fil gainé assorti — 100% naturel, sans plastique."
           },
           {
             "h3": "Quelle est la hauteur d'un rouleau ?"
           },
           {
-            "p": "Nos rouleaux standard font 1,8 m de haut, d'autres tailles étant possibles sur projet. La longueur est généralement de 3 m par rouleau."
+            "p": "Les rouleaux existent dans les hauteurs de 1 m, 1,5 m, 1,8 m et 2 m, avec des tailles sur projet. La longueur est généralement de 3 m par rouleau."
           },
           {
             "h3": "Puis-je le fixer à une clôture existante ?"

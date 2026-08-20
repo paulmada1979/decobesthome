@@ -1578,11 +1578,11 @@
           "spec": [
             {
               "k": "Materiale",
-              "v": "Corteccia naturale su rete zincata"
+              "v": "Corteccia naturale su filo rivestito in tinta"
             },
             {
               "k": "Altezza",
-              "v": "Rotolo standard 1,8 m"
+              "v": "1 m, 1,5 m, 1,8 m, 2 m"
             },
             {
               "k": "Lunghezza",
@@ -1614,7 +1614,7 @@
             "title": "Vera corteccia d'albero, in rotolo",
             "body": [
               {
-                "p": "L'arella di corteccia è fatta di strisce di corteccia naturale — di solito pino o larice — poste in verticale e legate su una rete metallica zincata. Il risultato è uno schermo caldo e profondamente materico che sembra da sempre appartenere al giardino."
+                "p": "L'arella di corteccia è fatta di strisce di corteccia naturale — di solito pino o larice — poste in verticale e legate su una rete in filo d'acciaio rivestito in una tonalità marrone abbinata che si fonde con la corteccia. Il risultato è uno schermo caldo e profondamente materico che sembra da sempre appartenere al giardino."
               },
               {
                 "p": "Essendo un materiale naturale vero, ogni rotolo ha il suo carattere: ricchi toni bruno-rossastri, corteccia solcata e screpolata e una sottile variazione da striscia a striscia. Si patina dolcemente verso un morbido bruno argenteo negli anni."
@@ -1625,10 +1625,11 @@
               {
                 "ul": [
                   "Privacy rustica e boschiva immediata, senza costruire.",
-                  "I rotoli da 1,8 m si fissano diretti a una recinzione, rete o telaio in legno.",
+                  "I rotoli si fissano diretti a una recinzione, rete o telaio in legno esistente.",
                   "Fitta, quasi piena; smorza anche vento e rumore.",
                   "100% corteccia naturale — niente plastica, calda e piena di carattere.",
-                  "Si abbina magnificamente a piante, mattoni e legno."
+                  "Si abbina magnificamente a piante, mattoni e legno.",
+                  "Legata con un filo rivestito in tinta, così le legature si fondono con la corteccia — niente zincato lucido."
                 ]
               },
               {
@@ -3893,7 +3894,7 @@
             "h2": "Cos'è l'arella di corteccia?"
           },
           {
-            "p": "L'arella di corteccia è corteccia naturale d'albero — di solito pino o larice — in strisce verticali su una robusta rete metallica zincata. Arriva in rotolo, di solito alto 1,8 m, e dà un aspetto fitto, materico e boschivo. Ogni rotolo è un po' diverso, con ricchi toni bruno-rossastri e il carattere screpolato e solcato della corteccia vera."
+            "p": "L'arella di corteccia è corteccia naturale d'albero — di solito pino o larice — in strisce verticali su una robusta rete in filo d'acciaio rivestito. Arriva in rotolo nelle altezze di 1, 1,5, 1,8 e 2 m e dà un aspetto fitto, materico e boschivo. Ogni rotolo è un po' diverso, con ricchi toni bruno-rossastri e il carattere screpolato e solcato della corteccia vera."
           },
           {
             "h2": "Quanta privacy offre?"
@@ -3932,13 +3933,13 @@
             "h3": "Di cosa è fatta l'arella di corteccia?"
           },
           {
-            "p": "Di strisce di corteccia naturale (di solito pino o larice) su una rete metallica zincata — 100% naturale, niente plastica."
+            "p": "Strisce di corteccia naturale (di solito pino o larice) su un filo rivestito in tinta — 100% naturale, niente plastica."
           },
           {
             "h3": "Quanto è alto un rotolo?"
           },
           {
-            "p": "I nostri rotoli standard sono alti 1,8 m, con altre misure su progetto. La lunghezza è di solito 3 m per rotolo."
+            "p": "I rotoli sono disponibili nelle altezze di 1 m, 1,5 m, 1,8 m e 2 m, con misure su progetto. La lunghezza è di solito 3 m per rotolo."
           },
           {
             "h3": "Posso fissarla a una recinzione esistente?"

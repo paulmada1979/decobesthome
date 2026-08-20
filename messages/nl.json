@@ -1585,11 +1585,11 @@
           "spec": [
             {
               "k": "Materiaal",
-              "v": "Natuurlijke schors op verzinkt gaas"
+              "v": "Natuurlijke schors op bijpassend gecoat draad"
             },
             {
               "k": "Hoogte",
-              "v": "1,8 m standaardrol"
+              "v": "1 m, 1,5 m, 1,8 m, 2 m"
             },
             {
               "k": "Lengte",
@@ -1621,7 +1621,7 @@
             "title": "Echte boomschors, uitgerold",
             "body": [
               {
-                "p": "Barkscherm is gemaakt van stroken natuurlijke boomschors — meestal grenen of lariks — verticaal gelegd en bevestigd op een verzinkt gaasframe. Het resultaat is een warm, rijk getextureerd scherm dat lijkt alsof het er altijd al hoorde."
+                "p": "Barkscherm is gemaakt van stroken natuurlijke boomschors — meestal grenen of lariks — verticaal gelegd en bevestigd op een gecoat stalen draadframe in een bijpassende bruine tint die opgaat in de schors. Het resultaat is een warm, rijk getextureerd scherm dat lijkt alsof het er altijd al hoorde."
               },
               {
                 "p": "Omdat het een echt natuurlijk materiaal is, heeft elke rol zijn eigen karakter: rijke roodbruine tinten, geribbelde, gebarsten schors en subtiele variatie per strook. Het verweert langzaam tot een zacht zilverbruin."
@@ -1632,10 +1632,11 @@
               {
                 "ul": [
                   "Direct rustieke, bosrijke privacy — zonder bouwen.",
-                  "Rollen van 1,8 m bevestig je direct aan een bestaande schutting, gaas of houten frame.",
+                  "Rollen bevestig je direct aan een bestaande schutting, gaas of houten frame.",
                   "Dicht, nagenoeg gesloten, dempt ook wind en geluid.",
                   "100% natuurlijke schors — geen plastic, warm en karaktervol.",
-                  "Combineert prachtig met beplanting, baksteen en hout."
+                  "Combineert prachtig met beplanting, baksteen en hout.",
+                  "Gebonden met een bijpassend gecoat draad, zodat de bindingen opgaan in de schors — geen glimmend verzinkt."
                 ]
               },
               {
@@ -3900,7 +3901,7 @@
             "h2": "Wat is barkscherm?"
           },
           {
-            "p": "Barkscherm is natuurlijke boomschors — meestal grenen of lariks — in verticale stroken op een stevig verzinkt gaasframe. Het komt op rol, meestal 1,8 m hoog, en geeft een dichte, getextureerde, bosrijke look. Elke rol is net iets anders, met rijke roodbruine tinten en het gebarsten, geribbelde karakter van echte schors."
+            "p": "Barkscherm is natuurlijke boomschors — meestal grenen of lariks — in verticale stroken op een stevig gecoat stalen draadframe. Het komt op rol in hoogtes van 1, 1,5, 1,8 en 2 m en geeft een dichte, getextureerde, bosrijke look. Elke rol is net iets anders, met rijke roodbruine tinten en het gebarsten, geribbelde karakter van echte schors."
           },
           {
             "h2": "Hoeveel privacy geeft het?"
@@ -3939,13 +3940,13 @@
             "h3": "Waar is barkscherm van gemaakt?"
           },
           {
-            "p": "Stroken natuurlijke boomschors (meestal grenen of lariks) op een verzinkt gaas — 100% natuurlijk, geen plastic."
+            "p": "Stroken natuurlijke boomschors (meestal grenen of lariks) op een bijpassend gecoat draad — 100% natuurlijk, geen plastic."
           },
           {
             "h3": "Hoe hoog is een barkschermrol?"
           },
           {
-            "p": "Onze standaardrollen zijn 1,8 m hoog, met andere maten op aanvraag. De lengte is meestal 3 m per rol."
+            "p": "Rollen zijn er in hoogtes van 1 m, 1,5 m, 1,8 m en 2 m, met maatwerk op aanvraag. De lengte is meestal 3 m per rol."
           },
           {
             "h3": "Kan ik het aan een bestaande schutting bevestigen?"

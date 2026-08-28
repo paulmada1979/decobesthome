@@ -78,7 +78,8 @@
       "bamboo-room-dividers": "Paravents en bambou",
       "bamboo-reed-curtains": "Rideaux en bambou et roseau",
       "bamboo-rugs": "Tapis en bambou",
-      "bark-fencing": "Clôture en écorce"
+      "bark-fencing": "Clôture en écorce",
+      "split-bamboo-slat-fence": "Clôture à lattes de bambou"
     },
     "tags": {
       "bestseller": "Meilleure vente",
@@ -531,7 +532,8 @@
               {
                 "img": "var-split.webp",
                 "title": "Clôture en lames de bambou fendu",
-                "desc": "Lames plates en cannes fendues, à la surface nette et soignée."
+                "desc": "Lames plates en cannes fendues, à la surface nette et soignée.",
+                "href": "/products/split-bamboo-slat-fence"
               },
               {
                 "img": "var-halfround-natural.webp",
@@ -1649,6 +1651,87 @@
                   "Cacher poubelles, compost ou un coin travail.",
                   "Balcons, cours et jardins de cottage.",
                   "Jardins de style boisé et pour la faune."
+                ]
+              }
+            ]
+          }
+        },
+        "split-bamboo-slat-fence": {
+          "eyebrow": "Brise-vue en bambou fendu",
+          "lead": "Brise-vue plat à lattes de bambou fendu, à la face nette et raffinée — intimité naturelle immédiate, direct d'usine.",
+          "pill": "Naturel · Raffiné",
+          "name": "Clôture à lattes de bambou",
+          "desc": "Le brise-vue à lattes de bambou fendu offre une finition fine, régulière et raffinée — des cannes de bambou fendues en lattes plates et tissées sur fil galvanisé. La face plate épouse la clôture et procure une intimité naturelle dense qui se déroule en quelques minutes.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Lattes de bambou fendu sur fil galvanisé"
+            },
+            {
+              "k": "Largeur de latte",
+              "v": "9–13 mm, lattes plates"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "100 · 150 · 180 · 200 cm"
+            },
+            {
+              "k": "Longueur du rouleau",
+              "v": "4 m ou 5 m"
+            },
+            {
+              "k": "Tissage",
+              "v": "Fil galvanisé tous les 10 cm ou 20 cm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturel (noir disponible)"
+            },
+            {
+              "k": "Intimité",
+              "v": "Dense, quasi opaque"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · livraison par conteneur"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "about": {
+            "eyebrow": "Le matériau",
+            "title": "Une face plate et nette en bambou fendu",
+            "body": [
+              {
+                "p": "Le brise-vue à lattes de bambou fendu se fabrique en fendant les cannes dans la longueur en lattes étroites et plates, puis en les tissant côte à côte sur une armature en fil galvanisé. La face plate donne un aspect plus fin, plus raffiné et régulier qu'un brise-vue en cannes entières — des lignes nettes qui épousent une clôture ou une ossature."
+              },
+              {
+                "p": "C'est du bambou 100% naturel : chaque rouleau porte de subtils tons dorés et des variations de veinage. Les rouleaux standard font 4 m et 5 m de long, dans les hauteurs de 100, 150, 180 et 200 cm, avec un choix de densité de tissage (fil tous les 10 ou 20 cm) et une finition naturelle ou noire."
+              },
+              {
+                "h3": "Pourquoi choisir les lattes de bambou fendu"
+              },
+              {
+                "ul": [
+                  "Une face plus fine, plus plate et plus raffinée que le bambou rond.",
+                  "Une intimité dense et quasi opaque qui se fixe sur n'importe quelle clôture ou ossature.",
+                  "Quatre hauteurs (100–200 cm) et des rouleaux de 4 m / 5 m.",
+                  "Choix de densité de tissage et couleur naturelle ou noire.",
+                  "Bambou 100% naturel — chaleureux, léger et facile à poser."
+                ]
+              },
+              {
+                "h3": "Où il fonctionne"
+              },
+              {
+                "ul": [
+                  "Limites de jardin et de terrasse.",
+                  "Habiller une clôture grillagée ou à panneaux fatiguée.",
+                  "Balcons et toits-terrasses.",
+                  "Délimiter une terrasse ou un coin salon.",
+                  "Cours et jardins contemporains."
                 ]
               }
             ]
@@ -3958,6 +4041,77 @@
             "p": "Vous équipez un projet ou approvisionnez votre magasin ? Nous fournissons brise-vue en écorce, osier, roseau et bambou directement d'usine par conteneur — grossistes et OEM bienvenus."
           }
         ]
+      },
+      "split-bamboo-slat-fence": {
+        "title": "Clôture à lattes de bambou : un brise-vue naturel net et raffiné",
+        "excerpt": "Ce qu'est la clôture à lattes de bambou, en quoi elle diffère du brise-vue en cannes entières, les tailles et la pose — raffinée et intimité immédiate.",
+        "cat": "Clôture en bambou",
+        "date": "Août 2026",
+        "body": [
+          {
+            "p": "La clôture à lattes de bambou fendu est l'une des façons les plus nettes d'obtenir aussitôt une intimité naturelle au jardin. Les cannes sont fendues en lattes plates et tissées sur fil, pour une face plus fine et raffinée qu'un brise-vue en cannes entières. Voici ce que c'est, les tailles et la pose."
+          },
+          {
+            "h2": "Qu'est-ce que la clôture à lattes de bambou ?"
+          },
+          {
+            "p": "C'est du bambou naturel fendu dans la longueur en lattes étroites et plates, tissées côte à côte sur une armature en fil galvanisé et livrées en rouleau. La face plate épouse la clôture pour un écran net, régulier et dense aux tons dorés chaleureux."
+          },
+          {
+            "h2": "Lattes fendues vs brise-vue en cannes entières"
+          },
+          {
+            "p": "Le brise-vue en cannes entières garde la canne complète, avec une ligne plus épaisse et rustique. Les lattes fendues sont plus plates et fines, donc plus raffinées et contemporaines, et épousent mieux une clôture plane. Les deux offrent une excellente intimité — question de look recherché."
+          },
+          {
+            "h2": "Tailles et finitions"
+          },
+          {
+            "p": "Les rouleaux standard font 4 m et 5 m de long, dans les hauteurs de 100, 150, 180 et 200 cm. Les lattes font environ 9–13 mm de large, tissées au fil galvanisé tous les 10 cm (plus dense) ou 20 cm, en naturel ou noir. Tailles sur mesure sur projet."
+          },
+          {
+            "h2": "Comment poser la clôture à lattes de bambou"
+          },
+          {
+            "ul": [
+              "Fixez-la à un support solide — une clôture existante, un grillage ou des poteaux bois tous les 40–60 cm.",
+              "Déroulez-la le long de la ligne, face plate vers l'extérieur, en gardant le bord supérieur de niveau.",
+              "Fixez avec des colliers ou des agrafes à travers le fil, tous les 20–30 cm.",
+              "Gardez le bord inférieur légèrement au-dessus du sol pour qu'il reste sec.",
+              "Coupez à longueur au sécateur ; chevauchez les jonctions de quelques centimètres."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Voir notre clôture à lattes de bambou",
+              "href": "/products/split-bamboo-slat-fence"
+            }
+          },
+          {
+            "h2": "Foire aux questions"
+          },
+          {
+            "h3": "En quelles hauteurs existe-t-elle ?"
+          },
+          {
+            "p": "Les hauteurs standard sont 100, 150, 180 et 200 cm, en rouleaux de 4 m et 5 m, avec des tailles sur projet."
+          },
+          {
+            "h3": "Est-elle plus opaque que le bambou rond ?"
+          },
+          {
+            "p": "Les deux sont denses et quasi opaques. Les lattes fendues donnent une face plus plate et fine ; les cannes entières une plus épaisse et rustique — l'intimité est similaire."
+          },
+          {
+            "h3": "Puis-je la fixer à une clôture existante ?"
+          },
+          {
+            "p": "Oui — c'est l'usage le plus courant. Fixez-la avec des colliers ou des agrafes directement sur une clôture grillagée ou à panneaux pour masquer une limite fatiguée."
+          },
+          {
+            "p": "Vous équipez un projet ou approvisionnez votre magasin ? Nous fournissons brise-vue à lattes, en cannes entières, en roseau et en écorce directement d'usine par conteneur — grossistes et OEM bienvenus."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4065,7 +4219,9 @@
       "fence-poolside": "Brise-vue en bambou foncé au bord de la piscine",
       "fence-ideas-path": "Allée de jardin avec brise-vue en bambou",
       "fence-hottub": "Spa avec brise-vue en bambou",
-      "fence-balcony": "Brise-vue en bambou sur un balcon"
+      "fence-balcony": "Brise-vue en bambou sur un balcon",
+      "slat-boundary": "Clôture de jardin à lattes de bambou",
+      "slat-balcony": "Brise-vue en bambou fendu sur un balcon"
     }
   },
   "contact": {

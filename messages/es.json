@@ -78,7 +78,8 @@
       "bamboo-room-dividers": "Biombos de bambú",
       "bamboo-reed-curtains": "Cortinas de junco y bambú",
       "bamboo-rugs": "Alfombras de bambú",
-      "bark-fencing": "Vallado de corteza"
+      "bark-fencing": "Vallado de corteza",
+      "split-bamboo-slat-fence": "Cañizo de listones de bambú"
     },
     "tags": {
       "bestseller": "Más vendido",
@@ -530,7 +531,8 @@
               {
                 "img": "var-split.webp",
                 "title": "Valla de listones de bambú partido",
-                "desc": "Listones planos de caña partida con una cara limpia y refinada."
+                "desc": "Listones planos de caña partida con una cara limpia y refinada.",
+                "href": "/products/split-bamboo-slat-fence"
               },
               {
                 "img": "var-halfround-natural.webp",
@@ -1642,6 +1644,87 @@
                   "Ocultar cubos, compost o una zona de trabajo.",
                   "Balcones, patios y jardines de campo.",
                   "Jardines de estilo boscoso y para fauna."
+                ]
+              }
+            ]
+          }
+        },
+        "split-bamboo-slat-fence": {
+          "eyebrow": "Cañizo de bambú partido",
+          "lead": "Cañizo plano de listones de bambú partido con una cara limpia y refinada — privacidad natural al instante, directo de fábrica.",
+          "pill": "Natural · Refinado",
+          "name": "Cañizo de listones de bambú",
+          "desc": "El cañizo de listones de bambú partido da un acabado fino, uniforme y refinado — cañas de bambú partidas en listones planos y tejidas sobre alambre galvanizado. La cara plana queda pegada a la valla y aporta una privacidad natural y densa que se despliega en minutos.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Listones de bambú partido sobre alambre galvanizado"
+            },
+            {
+              "k": "Ancho del listón",
+              "v": "9–13 mm, listones planos"
+            },
+            {
+              "k": "Alturas",
+              "v": "100 · 150 · 180 · 200 cm"
+            },
+            {
+              "k": "Longitud del rollo",
+              "v": "4 m o 5 m"
+            },
+            {
+              "k": "Tejido",
+              "v": "Alambre galvanizado cada 10 cm o 20 cm"
+            },
+            {
+              "k": "Color",
+              "v": "Natural (negro disponible)"
+            },
+            {
+              "k": "Privacidad",
+              "v": "Densa, casi opaca"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · suministro por contenedor"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "El material",
+            "title": "Una cara plana y limpia de caña partida",
+            "body": [
+              {
+                "p": "El cañizo de listones de bambú partido se hace partiendo las cañas a lo largo en listones estrechos y planos, y tejiéndolos uno al lado del otro sobre un entramado de alambre galvanizado. La cara plana ofrece un aspecto más fino, refinado y uniforme que el cañizo de caña entera — líneas limpias que quedan a ras de la valla o el marco."
+              },
+              {
+                "p": "Es 100% bambú natural, así que cada rollo tiene sutiles tonos dorados y variación de veta. Los rollos estándar miden 4 m y 5 m de largo, en alturas de 100, 150, 180 y 200 cm, con elección de densidad de tejido (alambre cada 10 o 20 cm) y acabado natural o negro."
+              },
+              {
+                "h3": "Por qué elegir listones de bambú partido"
+              },
+              {
+                "ul": [
+                  "Una cara más fina, plana y refinada que el bambú redondo.",
+                  "Privacidad densa y casi opaca que se fija sobre cualquier valla o marco.",
+                  "Cuatro alturas (100–200 cm) y rollos de 4 m / 5 m.",
+                  "Elección de densidad de tejido y color natural o negro.",
+                  "100% bambú natural — cálido, ligero y fácil de montar."
+                ]
+              },
+              {
+                "h3": "Dónde funciona"
+              },
+              {
+                "ul": [
+                  "Límites de jardín y terraza.",
+                  "Cubrir una valla de alambre o panel gastada.",
+                  "Balcones y azoteas.",
+                  "Delimitar una terraza o zona de estar.",
+                  "Patios y jardines contemporáneos."
                 ]
               }
             ]
@@ -3951,6 +4034,77 @@
             "p": "¿Equipas un proyecto o surtes tu tienda? Suministramos cañizo de corteza, mimbre, junco y bambú directo de fábrica por contenedor — mayoristas y OEM bienvenidos."
           }
         ]
+      },
+      "split-bamboo-slat-fence": {
+        "title": "Cañizo de listones de bambú: una pantalla natural limpia y refinada",
+        "excerpt": "Qué es el cañizo de listones de bambú, en qué se diferencia del de caña entera, las medidas y cómo instalarlo — refinado y con privacidad al instante.",
+        "cat": "Vallado de bambú",
+        "date": "Agosto de 2026",
+        "body": [
+          {
+            "p": "El cañizo de listones de bambú partido es una de las formas más pulcras de lograr privacidad natural al instante en el jardín. Las cañas se parten en listones planos y se tejen sobre alambre, dando una cara más fina y refinada que el cañizo de caña entera. Esto es qué es, las medidas y cómo instalarlo."
+          },
+          {
+            "h2": "¿Qué es el cañizo de listones de bambú?"
+          },
+          {
+            "p": "Es bambú natural partido a lo largo en listones estrechos y planos, tejidos uno al lado del otro sobre un entramado de alambre galvanizado y suministrados en rollo. La cara plana queda a ras de la valla para una pantalla limpia, uniforme y densa de cálidos tonos dorados."
+          },
+          {
+            "h2": "Listones partidos vs cañizo de caña entera"
+          },
+          {
+            "p": "El cañizo de caña entera conserva la caña completa, con una línea más robusta y rústica. Los listones partidos son más planos y finos, así que resultan más refinados y contemporáneos y quedan más pegados a una valla plana. Ambos dan una privacidad excelente — es cuestión del aspecto que busques."
+          },
+          {
+            "h2": "Medidas y acabados"
+          },
+          {
+            "p": "Los rollos estándar miden 4 m y 5 m de largo, en alturas de 100, 150, 180 y 200 cm. Los listones tienen unos 9–13 mm de ancho, tejidos con alambre galvanizado cada 10 cm (más denso) o 20 cm, en acabado natural o negro. Medidas a medida a proyecto."
+          },
+          {
+            "h2": "Cómo instalar el cañizo de listones de bambú"
+          },
+          {
+            "ul": [
+              "Fíjalo a un soporte sólido — una valla existente, alambre o postes de madera cada 40–60 cm.",
+              "Despliégalo a lo largo de la línea con la cara plana hacia fuera y el borde superior nivelado.",
+              "Sujeta con bridas o grapas a través del alambre, cada 20–30 cm.",
+              "Mantén el borde inferior algo separado del suelo para que quede seco.",
+              "Recorta a medida con tijeras; solapa las uniones unos centímetros."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Ver nuestro cañizo de listones de bambú",
+              "href": "/products/split-bamboo-slat-fence"
+            }
+          },
+          {
+            "h2": "Preguntas frecuentes"
+          },
+          {
+            "h3": "¿En qué alturas viene?"
+          },
+          {
+            "p": "Las alturas estándar son 100, 150, 180 y 200 cm, en rollos de 4 m y 5 m, con medidas a medida a proyecto."
+          },
+          {
+            "h3": "¿Da más privacidad que el bambú redondo?"
+          },
+          {
+            "p": "Ambos son densos y casi opacos. Los listones partidos dan una cara más plana y fina; la caña entera una más robusta y rústica — la privacidad es similar."
+          },
+          {
+            "h3": "¿Puedo fijarlo a una valla existente?"
+          },
+          {
+            "p": "Sí — es el uso más común. Átalo con bridas o grapas directamente sobre una valla de alambre o panel para ocultar un límite gastado."
+          },
+          {
+            "p": "¿Equipas un proyecto o surtes tu tienda? Suministramos cañizo de listones, de caña entera, de junco y de corteza directo de fábrica por contenedor — mayoristas y OEM bienvenidos."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4058,7 +4212,9 @@
       "fence-poolside": "Cañizo de bambú oscuro junto a la piscina",
       "fence-ideas-path": "Sendero de jardín con cañizo de bambú",
       "fence-hottub": "Jacuzzi con cañizo de bambú",
-      "fence-balcony": "Cañizo de bambú en un balcón"
+      "fence-balcony": "Cañizo de bambú en un balcón",
+      "slat-boundary": "Valla de jardín de listones de bambú",
+      "slat-balcony": "Cañizo de bambú partido en un balcón"
     }
   },
   "contact": {

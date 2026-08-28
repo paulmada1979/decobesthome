@@ -59,6 +59,8 @@ export const gallery: GalleryItem[] = [
   { id: "fence-ideas-path", image: "/images/blog/bamboo-screening-ideas-hero.webp", cat: "fencing" },
   { id: "fence-hottub", image: "/images/blog/bamboo-screening-ideas-1.webp", cat: "fencing" },
   { id: "fence-balcony", image: "/images/blog/bamboo-screening-ideas-2.webp", cat: "fencing" },
+  { id: "slat-boundary", image: "/images/blog/split-bamboo-slat-fence-hero.webp", cat: "fencing" },
+  { id: "slat-balcony", image: "/images/blog/split-bamboo-slat-fence-2.webp", cat: "fencing" },
   // Natural fencing (willow / brushwood / bark)
   { id: "willow-natural-hero", image: "/images/willow-hero.webp", cat: "natural" },
   { id: "willow-scene-brushwood", image: "/images/willow/scene-brushwood.webp", cat: "natural" },

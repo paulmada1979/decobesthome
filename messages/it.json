@@ -78,7 +78,8 @@
       "bamboo-room-dividers": "Paravento in bambù",
       "bamboo-reed-curtains": "Tende in bambù e canna palustre",
       "bamboo-rugs": "Tappeti in bambù",
-      "bark-fencing": "Recinzione in corteccia"
+      "bark-fencing": "Recinzione in corteccia",
+      "split-bamboo-slat-fence": "Arella a listelli di bambù"
     },
     "tags": {
       "bestseller": "Più venduto",
@@ -530,7 +531,8 @@
               {
                 "img": "var-split.webp",
                 "title": "Recinzione in stecche di bambù spaccato",
-                "desc": "Stecche piatte di canna spaccata dalla superficie pulita e raffinata."
+                "desc": "Stecche piatte di canna spaccata dalla superficie pulita e raffinata.",
+                "href": "/products/split-bamboo-slat-fence"
               },
               {
                 "img": "var-halfround-natural.webp",
@@ -1642,6 +1644,87 @@
                   "Nascondere bidoni, compost o un angolo di lavoro.",
                   "Balconi, cortili e giardini rustici.",
                   "Giardini in stile bosco e per la fauna."
+                ]
+              }
+            ]
+          }
+        },
+        "split-bamboo-slat-fence": {
+          "eyebrow": "Arella di bambù spaccato",
+          "lead": "Arella piatta a listelli di bambù spaccato con una faccia pulita e raffinata — privacy naturale immediata, diretto dalla fabbrica.",
+          "pill": "Naturale · Raffinato",
+          "name": "Arella a listelli di bambù",
+          "desc": "L'arella a listelli di bambù spaccato dà una finitura fine, uniforme e raffinata — canne di bambù spaccate in listelli piatti e intrecciate su filo zincato. La faccia piatta aderisce bene alla recinzione e offre una privacy naturale e fitta che si srotola in pochi minuti.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "Listelli di bambù spaccato su filo zincato"
+            },
+            {
+              "k": "Larghezza listello",
+              "v": "9–13 mm, listelli piatti"
+            },
+            {
+              "k": "Altezze",
+              "v": "100 · 150 · 180 · 200 cm"
+            },
+            {
+              "k": "Lunghezza rotolo",
+              "v": "4 m o 5 m"
+            },
+            {
+              "k": "Intreccio",
+              "v": "Filo zincato ogni 10 cm o 20 cm"
+            },
+            {
+              "k": "Colore",
+              "v": "Naturale (nero disponibile)"
+            },
+            {
+              "k": "Privacy",
+              "v": "Fitta, quasi piena"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Trattabile · fornitura per container"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Xiamen, Cina"
+            }
+          ],
+          "about": {
+            "eyebrow": "Il materiale",
+            "title": "Una faccia piatta e pulita di canna spaccata",
+            "body": [
+              {
+                "p": "L'arella a listelli di bambù spaccato si realizza spaccando le canne per lungo in listelli stretti e piatti, poi intrecciandoli fianco a fianco su una rete in filo zincato. La faccia piatta dà un aspetto più fine, raffinato e uniforme rispetto all'arella di canna intera — linee pulite che aderiscono a una recinzione o un telaio."
+              },
+              {
+                "p": "È bambù naturale al 100%, quindi ogni rotolo ha delicati toni dorati e variazione di venatura. I rotoli standard sono lunghi 4 m e 5 m, nelle altezze di 100, 150, 180 e 200 cm, con scelta della densità d'intreccio (filo ogni 10 o 20 cm) e finitura naturale o nera."
+              },
+              {
+                "h3": "Perché scegliere i listelli di bambù spaccato"
+              },
+              {
+                "ul": [
+                  "Una faccia più fine, piatta e raffinata rispetto al bambù tondo.",
+                  "Privacy fitta e quasi piena che si fissa su qualsiasi recinzione o telaio.",
+                  "Quattro altezze (100–200 cm) e rotoli da 4 m / 5 m.",
+                  "Scelta della densità d'intreccio e colore naturale o nero.",
+                  "Bambù naturale al 100% — caldo, leggero e facile da montare."
+                ]
+              },
+              {
+                "h3": "Dove funziona"
+              },
+              {
+                "ul": [
+                  "Confini di giardino e terrazzo.",
+                  "Coprire una recinzione in rete o pannello logora.",
+                  "Balconi e terrazze sul tetto.",
+                  "Delimitare un patio o una zona relax.",
+                  "Cortili e giardini contemporanei."
                 ]
               }
             ]
@@ -3951,6 +4034,77 @@
             "p": "Stai allestendo un progetto o rifornendo il tuo negozio? Forniamo arella di corteccia, salice, canna palustre e bambù diretti dalla fabbrica per container — benvenuti grossisti e OEM."
           }
         ]
+      },
+      "split-bamboo-slat-fence": {
+        "title": "Arella a listelli di bambù: uno schermo naturale pulito e raffinato",
+        "excerpt": "Cos'è l'arella a listelli di bambù, come si distingue da quella di canna intera, le misure e come montarla — raffinata e con privacy immediata.",
+        "cat": "Recinzioni in bambù",
+        "date": "Agosto 2026",
+        "body": [
+          {
+            "p": "L'arella a listelli di bambù spaccato è uno dei modi più ordinati per avere subito privacy naturale in giardino. Le canne vengono spaccate in listelli piatti e intrecciate su filo, dando una faccia più fine e raffinata rispetto all'arella di canna intera. Ecco cos'è, le misure e come montarla."
+          },
+          {
+            "h2": "Cos'è l'arella a listelli di bambù?"
+          },
+          {
+            "p": "È bambù naturale spaccato per lungo in listelli stretti e piatti, intrecciati fianco a fianco su una rete in filo zincato e forniti in rotolo. La faccia piatta aderisce alla recinzione per uno schermo pulito, uniforme e fitto dai caldi toni dorati."
+          },
+          {
+            "h2": "Listelli spaccati vs arella di canna intera"
+          },
+          {
+            "p": "L'arella di canna intera mantiene la canna intera, con una linea più robusta e rustica. I listelli spaccati sono più piatti e fini, quindi più raffinati e contemporanei, e aderiscono meglio a una recinzione piatta. Entrambe offrono ottima privacy — dipende dall'aspetto che vuoi."
+          },
+          {
+            "h2": "Misure e finiture"
+          },
+          {
+            "p": "I rotoli standard sono lunghi 4 m e 5 m, nelle altezze di 100, 150, 180 e 200 cm. I listelli sono larghi circa 9–13 mm, intrecciati con filo zincato ogni 10 cm (più fitto) o 20 cm, in naturale o nero. Misure su progetto."
+          },
+          {
+            "h2": "Come montare l'arella a listelli di bambù"
+          },
+          {
+            "ul": [
+              "Fissala a un supporto solido — una recinzione, rete o pali di legno ogni 40–60 cm.",
+              "Srotolala lungo la linea con la faccia piatta verso l'esterno e il bordo superiore in bolla.",
+              "Fissa con fascette o graffette attraverso il filo, ogni 20–30 cm.",
+              "Tieni il bordo inferiore poco sopra il terreno perché resti asciutto.",
+              "Taglia a misura con le cesoie; sovrapponi le giunzioni di qualche centimetro."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Scopri la nostra arella a listelli di bambù",
+              "href": "/products/split-bamboo-slat-fence"
+            }
+          },
+          {
+            "h2": "Domande frequenti"
+          },
+          {
+            "h3": "In quali altezze è disponibile?"
+          },
+          {
+            "p": "Le altezze standard sono 100, 150, 180 e 200 cm, su rotoli da 4 m e 5 m, con misure su progetto."
+          },
+          {
+            "h3": "È più privata del bambù tondo?"
+          },
+          {
+            "p": "Entrambe sono fitte e quasi piene. I listelli spaccati danno una faccia più piatta e fine; la canna intera una più robusta e rustica — la privacy è simile."
+          },
+          {
+            "h3": "Posso fissarla a una recinzione esistente?"
+          },
+          {
+            "p": "Sì — è l'uso più comune. Fissala con fascette o graffette direttamente su una recinzione in rete o pannello per nascondere un confine logoro."
+          },
+          {
+            "p": "Stai allestendo un progetto o rifornendo il tuo negozio? Forniamo arella a listelli, di canna intera, di canna palustre e di corteccia diretti dalla fabbrica per container — benvenuti grossisti e OEM."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4058,7 +4212,9 @@
       "fence-poolside": "Arella di bambù scura a bordo piscina",
       "fence-ideas-path": "Vialetto con arella di bambù",
       "fence-hottub": "Vasca idromassaggio con arella di bambù",
-      "fence-balcony": "Arella di bambù su un balcone"
+      "fence-balcony": "Arella di bambù su un balcone",
+      "slat-boundary": "Recinzione da giardino a listelli di bambù",
+      "slat-balcony": "Arella di bambù spaccato su un balcone"
     }
   },
   "contact": {

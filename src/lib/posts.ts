@@ -21,6 +21,20 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Split bamboo slat fence — bamboo-fencing series. Links to its product page.
+    id: "split-bamboo-slat-fence",
+    slug: "split-bamboo-slat-fence-guide",
+    image: "/images/blog/split-bamboo-slat-fence-hero.webp",
+    href: "https://www.decobesthome.com/blog/split-bamboo-slat-fence-guide",
+    date: "2026-08-28",
+    readMins: 5,
+    category: "fencing",
+    images: [
+      "/images/blog/split-bamboo-slat-fence-1.webp",
+      "/images/blog/split-bamboo-slat-fence-2.webp",
+    ],
+  },
+  {
     // Bark screening — natural-fencing series. Links to the new bark-fencing page.
     id: "bark-fencing",
     slug: "bark-screening-guide",

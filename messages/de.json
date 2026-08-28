@@ -78,7 +78,8 @@
       "bamboo-room-dividers": "Bambus-Raumteiler",
       "bamboo-reed-curtains": "Bambus- & Schilfrohrvorhänge",
       "bamboo-rugs": "Bambusteppiche",
-      "bark-fencing": "Rindenzaun"
+      "bark-fencing": "Rindenzaun",
+      "split-bamboo-slat-fence": "Bambus-Lamellenzaun (gespalten)"
     },
     "tags": {
       "bestseller": "Bestseller",
@@ -531,7 +532,8 @@
               {
                 "img": "var-split.webp",
                 "title": "Bambuslatten-Zaun (gespalten)",
-                "desc": "Flache gespaltene Bambuslatten mit einer klaren, edlen Oberfläche."
+                "desc": "Flache gespaltene Bambuslatten mit einer klaren, edlen Oberfläche.",
+                "href": "/products/split-bamboo-slat-fence"
               },
               {
                 "img": "var-halfround-natural.webp",
@@ -1649,6 +1651,87 @@
                   "Abschirmung von Mülltonnen, Kompost oder Arbeitsecke.",
                   "Balkone, Innenhöfe und Cottage-Gärten.",
                   "Naturnahe und Wildgärten."
+                ]
+              }
+            ]
+          }
+        },
+        "split-bamboo-slat-fence": {
+          "eyebrow": "Gespaltener Bambus-Sichtschutz",
+          "lead": "Flacher Sichtschutz aus gespaltenen Bambuslamellen mit sauberer, feiner Oberfläche — sofort natürliche Privatsphäre, fabrikdirekt.",
+          "pill": "Natürlich · Fein",
+          "name": "Bambus-Lamellenzaun (gespalten)",
+          "desc": "Gespaltener Bambus-Lamellen-Sichtschutz gibt eine feine, gleichmäßige Oberfläche — Bambusrohre in flache Lamellen gespalten und auf verzinkten Draht gewebt. Die flache Seite liegt sauber am Zaun und liefert dichte, natürliche Privatsphäre, die sich in Minuten ausrollt.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Gespaltene Bambuslamellen auf verzinktem Draht"
+            },
+            {
+              "k": "Lamellenbreite",
+              "v": "9–13 mm flache Lamellen"
+            },
+            {
+              "k": "Höhen",
+              "v": "100 · 150 · 180 · 200 cm"
+            },
+            {
+              "k": "Rollenlänge",
+              "v": "4 m oder 5 m"
+            },
+            {
+              "k": "Gewebe",
+              "v": "Verzinkter Draht alle 10 cm oder 20 cm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natur (Schwarz möglich)"
+            },
+            {
+              "k": "Sichtschutz",
+              "v": "Dicht, nahezu blickdicht"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Containerlieferung"
+            },
+            {
+              "k": "Ladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Das Material",
+            "title": "Eine saubere, flache Lamellenoberfläche",
+            "body": [
+              {
+                "p": "Gespaltener Bambus-Lamellen-Sichtschutz entsteht, indem Bambusrohre längs in schmale, flache Lamellen gespalten und Seite an Seite auf ein verzinktes Drahtgeflecht gewebt werden. Die flache Seite wirkt feiner, edler und gleichmäßiger als Sichtschutz aus ganzen Rohren — klare Linien, die flach am Zaun oder Rahmen liegen."
+              },
+              {
+                "p": "Er ist 100% natürlicher Bambus, jede Rolle trägt also feine Goldtöne und Maserungsvariation. Standardrollen sind 4 m und 5 m lang, in Höhen von 100, 150, 180 und 200 cm, mit Wahl der Webdichte (Draht alle 10 oder 20 cm) und natur- oder schwarzfarbener Oberfläche."
+              },
+              {
+                "h3": "Warum gespaltene Bambuslamellen"
+              },
+              {
+                "ul": [
+                  "Feinere, flachere, edlere Oberfläche als rundes Bambus.",
+                  "Dichte, nahezu blickdichte Privatsphäre, die über jeden Zaun oder Rahmen kommt.",
+                  "Vier Höhen (100–200 cm) und Rollen von 4 m / 5 m.",
+                  "Wahl der Webdichte und natur oder schwarz.",
+                  "100% natürlicher Bambus — warm, leicht und einfach zu montieren."
+                ]
+              },
+              {
+                "h3": "Wo er passt"
+              },
+              {
+                "ul": [
+                  "Garten- und Terrassengrenzen.",
+                  "Verkleidung eines abgenutzten Draht- oder Elementzauns.",
+                  "Balkone und Dachterrassen.",
+                  "Zonierung einer Terrasse oder Sitzecke.",
+                  "Innenhöfe und moderne Gärten."
                 ]
               }
             ]
@@ -3958,6 +4041,77 @@
             "p": "Statten Sie ein Projekt aus oder bestücken Sie Ihr Geschäft? Wir liefern Rinden-, Weiden-, Schilf- und Bambus-Sichtschutz fabrikdirekt per Container — Großhandel und OEM willkommen."
           }
         ]
+      },
+      "split-bamboo-slat-fence": {
+        "title": "Gespaltener Bambus-Lamellenzaun: ein sauberer, natürlicher Sichtschutz",
+        "excerpt": "Was ein gespaltener Bambus-Lamellenzaun ist, wie er sich von Sichtschutz aus ganzen Rohren unterscheidet, die Größen und die Montage — edel und sofort Privatsphäre.",
+        "cat": "Bambuszaun",
+        "date": "August 2026",
+        "body": [
+          {
+            "p": "Ein gespaltener Bambus-Lamellenzaun ist einer der saubersten Wege, einem Garten sofort natürliche Privatsphäre zu geben. Bambusrohre werden in flache Lamellen gespalten und auf Draht gewebt, was eine feinere, edlere Oberfläche als Sichtschutz aus ganzen Rohren ergibt. Hier ist, was er ist, die Größen und die Montage."
+          },
+          {
+            "h2": "Was ist ein gespaltener Bambus-Lamellenzaun?"
+          },
+          {
+            "p": "Es ist natürlicher Bambus, längs in schmale, flache Lamellen gespalten, Seite an Seite auf ein verzinktes Drahtgeflecht gewebt und auf der Rolle geliefert. Die flache Seite liegt flach am Zaun für einen sauberen, gleichmäßigen, dichten Schutz mit warmen Goldtönen."
+          },
+          {
+            "h2": "Gespaltene Lamellen vs. ganze Rohre"
+          },
+          {
+            "p": "Sichtschutz aus ganzen Rohren behält das ganze Rohr, mit kräftigerer, rustikalerer Linie. Gespaltene Lamellen sind flacher und feiner, also edler und zeitgemäßer, und liegen näher an einem flachen Zaun. Beide bieten hervorragenden Sichtschutz — es kommt auf den gewünschten Look an."
+          },
+          {
+            "h2": "Größen und Ausführungen"
+          },
+          {
+            "p": "Standardrollen sind 4 m und 5 m lang, in Höhen von 100, 150, 180 und 200 cm. Lamellen sind etwa 9–13 mm breit, mit verzinktem Draht alle 10 cm (dichter) oder 20 cm gewebt, in Natur oder Schwarz. Sondermaße auf Projektbasis."
+          },
+          {
+            "h2": "Wie montiert man einen gespaltenen Bambus-Lamellenzaun?"
+          },
+          {
+            "ul": [
+              "An einem stabilen Träger befestigen — einem Zaun, Draht oder Holzpfosten alle 40–60 cm.",
+              "Entlang der Linie mit der flachen Seite nach außen ausrollen und die Oberkante gerade halten.",
+              "Mit Kabelbindern oder Klammern durch den Draht fixieren, alle 20–30 cm.",
+              "Die Unterkante knapp über dem Boden halten, damit sie trocken bleibt.",
+              "Mit einer Schere auf Länge schneiden; Stöße einige Zentimeter überlappen."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Unseren Bambus-Lamellenzaun ansehen",
+              "href": "/products/split-bamboo-slat-fence"
+            }
+          },
+          {
+            "h2": "Häufig gestellte Fragen"
+          },
+          {
+            "h3": "In welchen Höhen gibt es ihn?"
+          },
+          {
+            "p": "Standardhöhen sind 100, 150, 180 und 200 cm, auf 4-m- und 5-m-Rollen, mit Sondermaßen auf Projektbasis."
+          },
+          {
+            "h3": "Ist er blickdichter als rundes Bambus?"
+          },
+          {
+            "p": "Beide sind dicht und nahezu blickdicht. Gespaltene Lamellen geben eine flachere, feinere Oberfläche; ganze Rohre eine kräftigere, rustikalere — der Sichtschutz ist ähnlich."
+          },
+          {
+            "h3": "Kann ich ihn an einem bestehenden Zaun befestigen?"
+          },
+          {
+            "p": "Ja — das ist die häufigste Verwendung. Mit Kabelbindern oder Klammern direkt über einen Draht- oder Elementzaun befestigen, um eine abgenutzte Grenze zu verbergen."
+          },
+          {
+            "p": "Statten Sie ein Projekt aus oder bestücken Sie Ihr Geschäft? Wir liefern Lamellen-, Rundrohr-, Schilf- und Rinden-Sichtschutz fabrikdirekt per Container — Großhandel und OEM willkommen."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4065,7 +4219,9 @@
       "fence-poolside": "Dunkler Bambus-Sichtschutz am Pool",
       "fence-ideas-path": "Bambus-Sichtschutz Gartenweg",
       "fence-hottub": "Whirlpool mit Bambus-Sichtschutz",
-      "fence-balcony": "Bambus-Sichtschutz auf dem Balkon"
+      "fence-balcony": "Bambus-Sichtschutz auf dem Balkon",
+      "slat-boundary": "Gespaltener Bambus-Gartenzaun",
+      "slat-balcony": "Gespaltener Bambus-Sichtschutz am Balkon"
     }
   },
   "contact": {

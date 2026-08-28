@@ -333,6 +333,23 @@ export const products: Product[] = [
     ],
   },
   {
+    // Standalone split-bamboo-slat page, linked from the "Split bamboo slat fence"
+    // card on bamboo-fencing-edging. Unlisted (not in the main menu/catalog).
+    id: "split-bamboo-slat-fence",
+    slug: "split-bamboo-slat-fence",
+    image: "/images/blog/split-bamboo-slat-fence-hero.webp",
+    icon: "🎍",
+    hasAbout: true,
+    unlisted: true,
+    gallery: [
+      "/images/blog/split-bamboo-slat-fence-hero.webp",
+      "/images/split-slat/front.webp",
+      "/images/split-slat/detail.webp",
+      "/images/blog/split-bamboo-slat-fence-1.webp",
+      "/images/blog/split-bamboo-slat-fence-2.webp",
+    ],
+  },
+  {
     id: "natural-thatch-roof",
     slug: "natural-thatch-roof",
     image: "/images/thatch-hero-w.webp",

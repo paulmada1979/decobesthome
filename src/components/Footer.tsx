@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { company, socials, logos } from "@/lib/site";
+import { company, socials, socialsVisible, logos } from "@/lib/site";
 import { megaProducts } from "@/lib/products";
 
 // Mirror the header mega menu exactly (same items, order and names).
@@ -21,16 +21,20 @@ function Socials() {
           <circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" />
         </svg>
       </a>
-      <a href={socials.youtube} aria-label="YouTube" target="_blank" rel="noopener noreferrer">
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M22 12s0-3-.4-4.4a2.5 2.5 0 00-1.7-1.7C18.5 5.5 12 5.5 12 5.5s-6.5 0-7.9.4A2.5 2.5 0 002.4 7.6C2 9 2 12 2 12s0 3 .4 4.4a2.5 2.5 0 001.7 1.7c1.4.4 7.9.4 7.9.4s6.5 0 7.9-.4a2.5 2.5 0 001.7-1.7C22 15 22 12 22 12zm-12 2.5v-5l4.5 2.5-4.5 2.5z" />
-        </svg>
-      </a>
-      <a href={socials.linkedin} aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M6.5 8.5a2 2 0 100-4 2 2 0 000 4zM4.8 10h3.4v9.5H4.8V10zm6 0h3.2v1.3c.5-.8 1.6-1.6 3.2-1.6 3 0 3.8 1.9 3.8 4.6v5.2h-3.4v-4.6c0-1.2 0-2.7-1.7-2.7s-1.9 1.3-1.9 2.6v4.7h-3.2V10z" />
-        </svg>
-      </a>
+      {socialsVisible.youtube && (
+        <a href={socials.youtube} aria-label="YouTube" target="_blank" rel="noopener noreferrer">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M22 12s0-3-.4-4.4a2.5 2.5 0 00-1.7-1.7C18.5 5.5 12 5.5 12 5.5s-6.5 0-7.9.4A2.5 2.5 0 002.4 7.6C2 9 2 12 2 12s0 3 .4 4.4a2.5 2.5 0 001.7 1.7c1.4.4 7.9.4 7.9.4s6.5 0 7.9-.4a2.5 2.5 0 001.7-1.7C22 15 22 12 22 12zm-12 2.5v-5l4.5 2.5-4.5 2.5z" />
+          </svg>
+        </a>
+      )}
+      {socialsVisible.linkedin && (
+        <a href={socials.linkedin} aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M6.5 8.5a2 2 0 100-4 2 2 0 000 4zM4.8 10h3.4v9.5H4.8V10zm6 0h3.2v1.3c.5-.8 1.6-1.6 3.2-1.6 3 0 3.8 1.9 3.8 4.6v5.2h-3.4v-4.6c0-1.2 0-2.7-1.7-2.7s-1.9 1.3-1.9 2.6v4.7h-3.2V10z" />
+          </svg>
+        </a>
+      )}
     </div>
   );
 }

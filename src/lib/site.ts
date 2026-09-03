@@ -20,6 +20,15 @@ export const socials = {
   linkedin: "https://www.linkedin.com/in/min-d-a3271617a/?originalSubdomain=cn",
 } as const;
 
+/** Which social icons are shown site-wide. YouTube & LinkedIn hidden until the
+ *  channel/company account are properly set up — flip to true to re-enable. */
+export const socialsVisible = {
+  facebook: true,
+  instagram: true,
+  youtube: false,
+  linkedin: false,
+} as const;
+
 export const logos = {
   wordmark: "/logos/logo-wordmark.png",
   wordmarkWhite: "/logos/logo-wordmark-white.png",

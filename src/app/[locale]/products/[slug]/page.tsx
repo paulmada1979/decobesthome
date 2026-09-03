@@ -98,7 +98,14 @@ export default async function ProductDetailPage({
     .map((p) => ({ ...p, order: products.findIndex((x) => x.id === p.id) + 1 }));
 
   const variationsSection = product.hasVariations ? (
-    <section className="section" style={{ background: "var(--bone-2)" }}>
+    <section
+      className="section"
+      style={{
+        background: "var(--bone-2)",
+        // When the range sits first (right under the spec), tighten the top gap.
+        ...(product.variationsFirst ? { paddingTop: "clamp(28px, 4vw, 56px)" } : {}),
+      }}
+    >
       <div className="container">
         <Reveal style={{ maxWidth: "60ch" }}>
           <p className="eyebrow">{t(`items.${product.id}.variations.eyebrow`)}</p>

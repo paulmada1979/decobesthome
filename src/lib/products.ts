@@ -279,6 +279,7 @@ export const products: Product[] = [
     tag: "bestseller",
     hasAbout: true,
     hasVariations: true,
+    variationsFirst: true,
     variationDir: "reed",
     gallery: [
       "/images/reed-hero.webp",

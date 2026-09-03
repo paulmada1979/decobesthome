@@ -24,7 +24,20 @@ export const reedVariants: ReedVariant[] = [
   { id: "high-density-fine-3-6mm", privacyPct: 80, ...v("high-density-fine-3-6mm", 2) },
   { id: "cheap-peeled-3-6mm", privacyPct: 50, ...v("cheap-peeled-3-6mm", 4) },
   { id: "extra-thick-unpeeled-8-10mm", privacyPct: 100, ...v("extra-thick-unpeeled-8-10mm", 2) },
-  { id: "thick-unpeeled-5-8mm", privacyPct: 90, ...v("thick-unpeeled-5-8mm", 4, 2) },
+  {
+    id: "thick-unpeeled-5-8mm",
+    privacyPct: 90,
+    // Explicit gallery: drop the washed-out -w1 shot (kept on disk, just unlisted).
+    hero: "/images/reed/v/thick-unpeeled-5-8mm-hero.webp",
+    gallery: [
+      "/images/reed/v/thick-unpeeled-5-8mm-main.webp",
+      "/images/reed/v/thick-unpeeled-5-8mm-g1.webp",
+      "/images/reed/v/thick-unpeeled-5-8mm-g2.webp",
+      "/images/reed/v/thick-unpeeled-5-8mm-g3.webp",
+      "/images/reed/v/thick-unpeeled-5-8mm-g4.webp",
+      "/images/reed/v/thick-unpeeled-5-8mm-w2.webp",
+    ],
+  },
   { id: "cheap-unpeeled-3-6mm", privacyPct: 50, ...v("cheap-unpeeled-3-6mm", 2) },
   { id: "japanese-with-bamboo", privacyPct: 90, ...v("japanese-with-bamboo", 4) },
   { id: "split-reed", privacyPct: 70, ...v("split-reed", 2) },

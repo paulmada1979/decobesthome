@@ -27,6 +27,8 @@ export const reedVariants: ReedVariant[] = [
   { id: "thick-unpeeled-5-8mm", privacyPct: 90, ...v("thick-unpeeled-5-8mm", 4, 2) },
   { id: "cheap-unpeeled-3-6mm", privacyPct: 50, ...v("cheap-unpeeled-3-6mm", 2) },
   { id: "japanese-with-bamboo", privacyPct: 90, ...v("japanese-with-bamboo", 4) },
+  { id: "split-reed", privacyPct: 70, ...v("split-reed", 2) },
+  { id: "italian-style-peeled", privacyPct: 70, ...v("italian-style-peeled", 2) },
 ];
 
 export function getReedVariant(id: string): ReedVariant | undefined {

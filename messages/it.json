@@ -910,7 +910,7 @@
           },
           "variations": {
             "eyebrow": "La gamma",
-            "title": "Otto arelle di canna, una per ogni esigenza",
+            "title": "Dieci arelle di canna, una per ogni esigenza",
             "lead": "Dalla canna fine economica alla qualità superiore extra spessa — aprite qualsiasi versione per specifiche complete, foto e risposte alle domande più comuni.",
             "items": [
               {
@@ -960,6 +960,18 @@
                 "href": "/products/reed-fencing/japanese-with-bamboo",
                 "title": "Arella di canna in stile giapponese con bambù",
                 "desc": "Canna legata con bambù Li — la più robusta della gamma."
+              },
+              {
+                "img": "v/split-reed-main.webp",
+                "href": "/products/reed-fencing/split-reed",
+                "title": "Arella di canna spaccata",
+                "desc": "Canna spaccata a metà — una faccia più piatta e ordinata."
+              },
+              {
+                "img": "v/italian-style-peeled-main.webp",
+                "href": "/products/reed-fencing/italian-style-peeled",
+                "title": "Arella di canna sbucciata stile italiano",
+                "desc": "Canna sbucciata intrecciata con nylon verde — decorativa e durevole."
               }
             ]
           },
@@ -2561,6 +2573,184 @@
             {
               "q": "È sicura vicino a una piscina o sulla costa?",
               "a": "Sì. La canna è una pianta naturale delle zone umide — tutte le nostre arelle di canna sopportano senza problemi ambienti umidi, costieri e a bordo piscina (sale, cloro, umidità costante)."
+            }
+          ]
+        },
+        "split-reed": {
+          "name": "Arella di canna spaccata",
+          "cardDesc": "Canna spaccata a metà — una faccia più piatta e ordinata.",
+          "eyebrow": "Spaccata a metà · Rustica",
+          "pill": "Canna sbucciata naturale · Spaccata",
+          "lead": "Canna sbucciata spaccata in pezzi a mezza canna e legata con il lato piatto all'esterno — uno schermo rustico e uniforme, dalla faccia più liscia e piatta della canna tonda.",
+          "desc": "Canna spaccata per lungo in pezzi a mezza canna e legata insieme, con una faccia più piatta e uniforme della canna tonda intera, mantenendo il carattere caldo e rustico e una buona privacy quotidiana.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Fino a ≈ 70%"
+            },
+            {
+              "k": "Canna",
+              "v": "Mezza canna spaccata, sbucciata"
+            },
+            {
+              "k": "Superficie",
+              "v": "Più piatta e ordinata"
+            },
+            {
+              "k": "Fascia di prezzo",
+              "v": "Media"
+            }
+          ],
+          "why": "Scegliila per una faccia più piatta e ordinata — le canne sono spaccate così da stare a filo, per una superficie più liscia e uniforme della canna tonda, mantenendo il colore paglierino naturale.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "100% canna sbucciata naturale, spaccata a metà"
+            },
+            {
+              "k": "Legatura",
+              "v": "Filo zincato"
+            },
+            {
+              "k": "Privacy",
+              "v": "Fino a ≈ 70%"
+            },
+            {
+              "k": "Durata all'aperto",
+              "v": "3–5+ anni"
+            },
+            {
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze su misura"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Trattabile · private label benvenuto"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Tianjin, Cina"
+            }
+          ],
+          "about": {
+            "eyebrow": "Il prodotto",
+            "title": "Canna spaccata a metà, piatta e rustica",
+            "body": [
+              {
+                "p": "La nostra arella di canna spaccata è fatta di canna sbucciata spaccata per lungo in pezzi a mezza canna, legati stretti fianco a fianco. Con il lato piatto all'esterno, la canna sta a filo per una faccia più liscia e uniforme della canna tonda intera — un look rustico e pulito per giardino, patio e terrazzo."
+              },
+              {
+                "p": "È robusta e resistente alle intemperie, trattata contro insetti e marciume, e regge stagione dopo stagione all'aperto. Leggera e flessibile: si srotola e si fissa a qualsiasi recinzione o telaio in pochi minuti e si può tagliare a misura."
+              },
+              {
+                "h3": "Rustica, ma raffinata"
+              },
+              {
+                "p": "La faccia spaccata offre una superficie più ordinata e rifinita della canna tonda, mantenendo il caldo colore paglierino naturale — un modo semplice per una privacy piena di carattere."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Cosa distingue la canna spaccata da quella tonda?",
+              "a": "La canna è spaccata per lungo in pezzi a mezza canna e posata con il lato piatto all'esterno, quindi sta a filo per una faccia più piatta e ordinata della canna tonda intera."
+            },
+            {
+              "q": "Quanta privacy offre?",
+              "a": "Fino a circa il 70% — un buon schermo quotidiano. Per una privacy quasi totale, scegli un grado spesso o extra-spesso ad alta densità."
+            },
+            {
+              "q": "Quanto dura all'aperto?",
+              "a": "Almeno 3–5 anni in un giardino normale. Tenuta lontana dal terreno umido dura di più, e il colore naturale cambia poco."
+            }
+          ]
+        },
+        "italian-style-peeled": {
+          "name": "Arella di canna sbucciata stile italiano",
+          "cardDesc": "Canna sbucciata intrecciata con nylon verde — decorativa e durevole.",
+          "eyebrow": "Intrecciata con nylon verde · Decorativa",
+          "pill": "Canna sbucciata naturale · Nylon verde",
+          "lead": "Canna sbucciata intrecciata con robusto filo di nylon verde — uno schermo decorativo paglia-e-verde, resistente e stabile al colore all'aperto.",
+          "desc": "Canna sbucciata legata con durevoli fili di nylon verde. Il contrasto verde-paglia dà un look distintivo e decorativo, mentre l'intreccio in nylon aggiunge resistenza e stabilità del colore per anni all'aperto.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Fino a ≈ 70%"
+            },
+            {
+              "k": "Legatura",
+              "v": "Filo di nylon verde"
+            },
+            {
+              "k": "Superficie",
+              "v": "Canna sbucciata"
+            },
+            {
+              "k": "Fascia di prezzo",
+              "v": "Media"
+            }
+          ],
+          "why": "Scegliila per l'estetica e l'intreccio: robusti fili di nylon verde legano la canna sbucciata per una finitura decorativa paglia-e-verde che resta viva e regge il maltempo.",
+          "spec": [
+            {
+              "k": "Materiale",
+              "v": "100% canna sbucciata naturale"
+            },
+            {
+              "k": "Legatura",
+              "v": "Robusto filo di nylon verde"
+            },
+            {
+              "k": "Privacy",
+              "v": "Fino a ≈ 70%"
+            },
+            {
+              "k": "Durata all'aperto",
+              "v": "3–5+ anni"
+            },
+            {
+              "k": "Formato",
+              "v": "Rotoli · altezze e lunghezze su misura"
+            },
+            {
+              "k": "MOQ e OEM",
+              "v": "Trattabile · private label benvenuto"
+            },
+            {
+              "k": "Porto di carico",
+              "v": "Tianjin, Cina"
+            }
+          ],
+          "about": {
+            "eyebrow": "Il prodotto",
+            "title": "Canna sbucciata, intrecciata in verde",
+            "body": [
+              {
+                "p": "La nostra arella stile italiano è canna sbucciata intrecciata con cura con robusti fili di nylon verde. Il verde intenso sulla calda canna paglierina crea un effetto deciso e decorativo che spicca in qualsiasi giardino, patio o terrazzo."
+              },
+              {
+                "p": "Nonostante l'aspetto naturale, è molto durevole: la canna è robusta e resistente alle intemperie, e il nylon verde aggiunge resistenza e stabilità del colore, mantenendo la vivacità anche col maltempo. Si srotola e si fissa a qualsiasi struttura in pochi minuti."
+              },
+              {
+                "h3": "Decorativa e resistente"
+              },
+              {
+                "p": "L'intreccio verde-paglia è la firma — uno schermo versatile e pieno di carattere che unisce eleganza naturale e vera praticità per spazi esterni riparati."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Cos'è il filo verde?",
+              "a": "Robusto nylon verde, usato per intrecciare e legare la canna sbucciata. Aggiunge stabilità e resistenza del colore, e dà all'arella il suo look decorativo distintivo."
+            },
+            {
+              "q": "Quanta privacy offre?",
+              "a": "Fino a circa il 70% — buon schermo quotidiano con finitura decorativa. Per la massima privacy, scegli un grado spesso o extra-spesso ad alta densità."
+            },
+            {
+              "q": "Il nylon è resistente alle intemperie?",
+              "a": "Sì — il nylon verde è stabile al colore e regge sole e pioggia, mantenendo la vivacità stagione dopo stagione."
             }
           ]
         }

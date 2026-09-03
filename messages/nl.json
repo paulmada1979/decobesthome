@@ -912,7 +912,7 @@
           },
           "variations": {
             "eyebrow": "Het assortiment",
-            "title": "Acht rietmatten, voor elke toepassing één",
+            "title": "Tien rietmatten, voor elke toepassing één",
             "lead": "Van voordelig fijn riet tot extra dik in topkwaliteit — open een uitvoering voor volledige specificaties, foto's en antwoorden op veelgestelde vragen.",
             "items": [
               {
@@ -962,6 +962,18 @@
                 "href": "/products/reed-fencing/japanese-with-bamboo",
                 "title": "Rietmat in Japanse stijl met bamboe",
                 "desc": "Riet gebonden met Li-bamboe — de sterkste van het assortiment."
+              },
+              {
+                "img": "v/split-reed-main.webp",
+                "href": "/products/reed-fencing/split-reed",
+                "title": "Gespleten rietscherm",
+                "desc": "Halfrond gespleten riet — een vlakker, netter front."
+              },
+              {
+                "img": "v/italian-style-peeled-main.webp",
+                "href": "/products/reed-fencing/italian-style-peeled",
+                "title": "Italiaans gepeld rietscherm",
+                "desc": "Gepeld riet geweven met groen nylon — decoratief & duurzaam."
               }
             ]
           },
@@ -2568,6 +2580,184 @@
             {
               "q": "Is hij veilig bij een zwembad of aan de kust?",
               "a": "Ja. Riet is van nature een moerasplant — al onze rietmatten doorstaan vochtige omgevingen, kustklimaat en zwembadomgevingen (zout, chloor, constante vochtigheid) zonder problemen."
+            }
+          ]
+        },
+        "split-reed": {
+          "name": "Gespleten rietscherm",
+          "cardDesc": "Halfrond gespleten riet — een vlakker, netter front.",
+          "eyebrow": "Halfrond gespleten · Rustiek",
+          "pill": "Natuurlijk gepeld riet · Gespleten",
+          "lead": "Gepeld riet in de lengte gespleten tot halfronde delen, met de platte kant naar buiten — een rustiek, naadloos scherm met een gladder, vlakker front dan rond riet.",
+          "desc": "Riet in de lengte gespleten tot halfronde delen en samengebonden, met een vlakker, gelijkmatiger front dan heel rond riet, terwijl het de warme, rustieke uitstraling en degelijke privacy behoudt.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Tot ≈ 70%"
+            },
+            {
+              "k": "Riet",
+              "v": "Halfrond gespleten, gepeld"
+            },
+            {
+              "k": "Oppervlak",
+              "v": "Vlakker, netter front"
+            },
+            {
+              "k": "Prijsklasse",
+              "v": "Middens"
+            }
+          ],
+          "why": "Kies het voor een vlakker, netter front — het riet is gespleten zodat het strak ligt, voor een gladder, gelijkmatiger oppervlak dan rond riet, met behoud van de natuurlijke strokleur.",
+          "spec": [
+            {
+              "k": "Materiaal",
+              "v": "100% natuurlijk gepeld riet, halfrond gespleten"
+            },
+            {
+              "k": "Weefsel",
+              "v": "Verzinkt draad"
+            },
+            {
+              "k": "Privacy",
+              "v": "Tot ≈ 70%"
+            },
+            {
+              "k": "Levensduur buiten",
+              "v": "3–5+ jaar"
+            },
+            {
+              "k": "Formaat",
+              "v": "Rollen · maatwerk hoogtes & lengtes"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Bespreekbaar · private label welkom"
+            },
+            {
+              "k": "Laadhaven",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Het product",
+            "title": "Halfrond gespleten riet, vlak en rustiek",
+            "body": [
+              {
+                "p": "Ons gespleten rietscherm is gemaakt van gepeld riet dat in de lengte tot halfronde delen is gespleten en strak naast elkaar gebonden. Met de platte kant naar buiten ligt het riet vlak, voor een gladder, gelijkmatiger front dan heel rond riet — een strakke, rustieke look voor tuin, terras en patio."
+              },
+              {
+                "p": "Het is sterk en weerbestendig, behandeld tegen insecten en rotting, en gaat seizoen na seizoen buiten mee. Licht en flexibel: het rolt uit en bevestig je in enkele minuten aan elke bestaande schutting of frame, en je kunt het op maat snijden."
+              },
+              {
+                "h3": "Rustiek, maar verfijnd"
+              },
+              {
+                "p": "Het gespleten front geeft een netter, meer afgewerkt oppervlak dan rond riet, met behoud van de warme natuurlijke strokleur — een makkelijke manier voor karaktervolle privacy."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Wat maakt gespleten riet anders dan rond riet?",
+              "a": "Het riet is in de lengte gespleten tot halfronde delen en met de platte kant naar buiten gelegd, dus het ligt strak voor een vlakker, netter front dan heel rond riet."
+            },
+            {
+              "q": "Hoeveel privacy geeft het?",
+              "a": "Tot ongeveer 70% — een degelijk dagelijks scherm. Voor bijna volledige privacy kies je een dichtgeweven dik of extra-dik type."
+            },
+            {
+              "q": "Hoe lang gaat het buiten mee?",
+              "a": "Minstens 3–5 jaar in een normale tuin. Van natte grond gehouden gaat het langer mee en verandert de natuurlijke kleur nauwelijks."
+            }
+          ]
+        },
+        "italian-style-peeled": {
+          "name": "Italiaans gepeld rietscherm",
+          "cardDesc": "Gepeld riet geweven met groen nylon — decoratief & duurzaam.",
+          "eyebrow": "Groen-nylon geweven · Decoratief",
+          "pill": "Natuurlijk gepeld riet · Groen nylon",
+          "lead": "Gepeld riet geweven met sterk groen nylondraad — een decoratief stro-en-groen scherm dat sterk en kleurvast is buiten.",
+          "desc": "Gepeld riet gebonden met duurzaam groen nylondraad. Het groen-en-stro contrast geeft een kenmerkende, decoratieve look, terwijl het nylonweefsel sterkte en kleurvastheid toevoegt voor jaren buiten.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Tot ≈ 70%"
+            },
+            {
+              "k": "Weefsel",
+              "v": "Groen nylondraad"
+            },
+            {
+              "k": "Oppervlak",
+              "v": "Gepeld riet"
+            },
+            {
+              "k": "Prijsklasse",
+              "v": "Middens"
+            }
+          ],
+          "why": "Kies het voor de look en het weefsel: sterk groen nylondraad bindt het gepelde riet tot een decoratieve stro-en-groen afwerking die levendig blijft en bestand is tegen ruw weer.",
+          "spec": [
+            {
+              "k": "Materiaal",
+              "v": "100% natuurlijk gepeld riet"
+            },
+            {
+              "k": "Weefsel",
+              "v": "Sterk groen nylondraad"
+            },
+            {
+              "k": "Privacy",
+              "v": "Tot ≈ 70%"
+            },
+            {
+              "k": "Levensduur buiten",
+              "v": "3–5+ jaar"
+            },
+            {
+              "k": "Formaat",
+              "v": "Rollen · maatwerk hoogtes & lengtes"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Bespreekbaar · private label welkom"
+            },
+            {
+              "k": "Laadhaven",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "Het product",
+            "title": "Gepeld riet, geweven in groen",
+            "body": [
+              {
+                "p": "Ons Italiaanse rietscherm is gepeld riet, zorgvuldig geweven met sterk groen nylondraad. Het weelderige groen tegen het warme strogele riet geeft een opvallend, decoratief effect dat in elke tuin, patio of terras opvalt."
+              },
+              {
+                "p": "Ondanks de natuurlijke look is het zeer duurzaam: het riet is sterk en weerbestendig, en het groene nylon voegt sterkte en kleurvastheid toe, zodat het levendig blijft, zelfs bij ruw weer. Het rolt uit en bevestig je in enkele minuten aan elke constructie."
+              },
+              {
+                "h3": "Decoratief en slijtvast"
+              },
+              {
+                "p": "Het groen-en-stro weefsel is het kenmerk — een veelzijdig, karaktervol scherm dat natuurlijke elegantie combineert met echte praktische waarde voor beschutte buitenruimtes."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Wat is de groene draad?",
+              "a": "Sterk groen nylon, gebruikt om het gepelde riet te weven en te binden. Het geeft stabiliteit en kleurvastheid, en zorgt voor de kenmerkende decoratieve look."
+            },
+            {
+              "q": "Hoeveel privacy geeft het?",
+              "a": "Tot ongeveer 70% — goede dagelijkse afscherming met een decoratieve afwerking. Voor maximale privacy kies je een dichtgeweven dik of extra-dik type."
+            },
+            {
+              "q": "Is het nylon weerbestendig?",
+              "a": "Ja — het groene nylon is kleurvast en bestand tegen zon en regen, en blijft seizoen na seizoen levendig."
             }
           ]
         }

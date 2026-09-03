@@ -912,7 +912,7 @@
           },
           "variations": {
             "eyebrow": "La gamme",
-            "title": "Huit canisses de roseau, une pour chaque usage",
+            "title": "Dix canisses de roseau, une pour chaque usage",
             "lead": "Du roseau fin économique à l'extra-épais de qualité supérieure — ouvrez chaque version pour les spécifications complètes, les photos et les réponses aux questions courantes.",
             "items": [
               {
@@ -962,6 +962,18 @@
                 "href": "/products/reed-fencing/japanese-with-bamboo",
                 "title": "Canisse de roseau style japonais avec bambou",
                 "desc": "Roseau lié avec du bambou Li — la plus solide de la gamme."
+              },
+              {
+                "img": "v/split-reed-main.webp",
+                "href": "/products/reed-fencing/split-reed",
+                "title": "Canisse de roseau fendu",
+                "desc": "Roseau fendu à demi-rond — une face plus plate et nette."
+              },
+              {
+                "img": "v/italian-style-peeled-main.webp",
+                "href": "/products/reed-fencing/italian-style-peeled",
+                "title": "Canisse de roseau pelé style italien",
+                "desc": "Roseau pelé tissé au nylon vert — décoratif et durable."
               }
             ]
           },
@@ -2568,6 +2580,184 @@
             {
               "q": "Est-elle sûre à proximité d'une piscine ou en bord de mer ?",
               "a": "Oui. Le roseau est une plante naturelle des zones humides — toutes nos canisses de roseau supportent sans problème les environnements humides, côtiers et de bord de piscine (sel, chlore, humidité constante)."
+            }
+          ]
+        },
+        "split-reed": {
+          "name": "Canisse de roseau fendu",
+          "cardDesc": "Roseau fendu à demi-rond — une face plus plate et nette.",
+          "eyebrow": "Fendu demi-rond · Rustique",
+          "pill": "Roseau pelé naturel · Fendu",
+          "lead": "Roseau pelé fendu en demi-rond et lié face plate vers l'extérieur — un écran rustique et régulier, à la face plus lisse et plate que le roseau rond.",
+          "desc": "Roseau fendu dans la longueur en demi-rond et lié ensemble, avec une face plus plate et régulière que le roseau rond entier, tout en gardant son caractère chaleureux et rustique et une bonne intimité au quotidien.",
+          "facts": [
+            {
+              "k": "Intimité",
+              "v": "Jusqu'à ≈ 70%"
+            },
+            {
+              "k": "Roseau",
+              "v": "Demi-rond fendu, pelé"
+            },
+            {
+              "k": "Surface",
+              "v": "Plus plate et nette"
+            },
+            {
+              "k": "Gamme de prix",
+              "v": "Moyenne"
+            }
+          ],
+          "why": "Choisissez-la pour une face plus plate et nette — le roseau est fendu pour rester à fleur, pour une surface plus lisse et régulière que le roseau rond, en gardant la couleur paille naturelle.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% roseau pelé naturel, fendu demi-rond"
+            },
+            {
+              "k": "Liage",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Intimité",
+              "v": "Jusqu'à ≈ 70%"
+            },
+            {
+              "k": "Durée à l'extérieur",
+              "v": "3–5+ ans"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux · hauteurs et longueurs sur mesure"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque blanche bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Tianjin, Chine"
+            }
+          ],
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Roseau fendu demi-rond, plat et rustique",
+            "body": [
+              {
+                "p": "Notre canisse de roseau fendu est faite de roseau pelé fendu dans la longueur en demi-rond, lié serré côte à côte. Face plate vers l'extérieur, le roseau reste à fleur pour une face plus lisse et régulière que le roseau rond entier — un look rustique et net pour jardin, terrasse et patio."
+              },
+              {
+                "p": "Elle est solide et résistante aux intempéries, traitée contre les insectes et la pourriture, et tient saison après saison dehors. Légère et souple : elle se déroule et se fixe à toute clôture ou ossature en quelques minutes et se coupe à la forme voulue."
+              },
+              {
+                "h3": "Rustique, mais soignée"
+              },
+              {
+                "p": "La face fendue offre une surface plus nette et finie que le roseau rond, en gardant la chaude couleur paille naturelle — une façon simple d'obtenir une intimité pleine de caractère."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce qui distingue le roseau fendu du rond ?",
+              "a": "Le roseau est fendu dans la longueur en demi-rond et posé face plate vers l'extérieur, il reste donc à fleur pour une face plus plate et nette que le roseau rond entier."
+            },
+            {
+              "q": "Quelle intimité offre-t-elle ?",
+              "a": "Jusqu'à environ 70% — un bon écran au quotidien. Pour une intimité quasi totale, choisissez un roseau épais ou extra-épais haute densité."
+            },
+            {
+              "q": "Combien de temps dure-t-elle dehors ?",
+              "a": "Au moins 3–5 ans dans un jardin normal. À l'écart du sol humide elle dure plus longtemps, et la couleur naturelle change peu."
+            }
+          ]
+        },
+        "italian-style-peeled": {
+          "name": "Canisse de roseau pelé style italien",
+          "cardDesc": "Roseau pelé tissé au nylon vert — décoratif et durable.",
+          "eyebrow": "Tissé au nylon vert · Décoratif",
+          "pill": "Roseau pelé naturel · Nylon vert",
+          "lead": "Roseau pelé tissé avec un solide fil de nylon vert — un écran décoratif paille-et-vert, résistant et grand teint à l'extérieur.",
+          "desc": "Roseau pelé lié avec de durables fils de nylon vert. Le contraste vert-paille donne un look distinctif et décoratif, tandis que le tissage nylon ajoute solidité et tenue des couleurs pendant des années dehors.",
+          "facts": [
+            {
+              "k": "Intimité",
+              "v": "Jusqu'à ≈ 70%"
+            },
+            {
+              "k": "Liage",
+              "v": "Fil de nylon vert"
+            },
+            {
+              "k": "Surface",
+              "v": "Roseau pelé"
+            },
+            {
+              "k": "Gamme de prix",
+              "v": "Moyenne"
+            }
+          ],
+          "why": "Choisissez-la pour le look et le tissage : de solides fils de nylon vert lient le roseau pelé pour une finition décorative paille-et-vert qui reste vive et résiste aux intempéries.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% roseau pelé naturel"
+            },
+            {
+              "k": "Liage",
+              "v": "Solide fil de nylon vert"
+            },
+            {
+              "k": "Intimité",
+              "v": "Jusqu'à ≈ 70%"
+            },
+            {
+              "k": "Durée à l'extérieur",
+              "v": "3–5+ ans"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux · hauteurs et longueurs sur mesure"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque blanche bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Tianjin, Chine"
+            }
+          ],
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Roseau pelé, tissé en vert",
+            "body": [
+              {
+                "p": "Notre canisse style italien est du roseau pelé tissé avec soin de solides fils de nylon vert. Le vert intense sur le roseau paille chaleureux crée un effet marquant et décoratif qui ressort dans tout jardin, patio ou terrasse."
+              },
+              {
+                "p": "Malgré son aspect naturel, elle est très durable : le roseau est solide et résistant aux intempéries, et le nylon vert ajoute solidité et tenue des couleurs, gardant son éclat même par mauvais temps. Elle se déroule et se fixe à toute structure en quelques minutes."
+              },
+              {
+                "h3": "Décoratif et résistant"
+              },
+              {
+                "p": "Le tissage vert-paille est la signature — un écran polyvalent et plein de caractère qui allie élégance naturelle et vraie praticité pour des espaces extérieurs abrités."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce que le fil vert ?",
+              "a": "Un solide nylon vert, utilisé pour tisser et lier le roseau pelé. Il apporte stabilité et tenue des couleurs, et donne à la canisse son look décoratif distinctif."
+            },
+            {
+              "q": "Quelle intimité offre-t-elle ?",
+              "a": "Jusqu'à environ 70% — bon écran au quotidien avec une finition décorative. Pour une intimité maximale, choisissez un roseau épais ou extra-épais haute densité."
+            },
+            {
+              "q": "Le nylon résiste-t-il aux intempéries ?",
+              "a": "Oui — le nylon vert est grand teint et résiste au soleil et à la pluie, gardant son éclat saison après saison."
             }
           ]
         }

@@ -910,7 +910,7 @@
           },
           "variations": {
             "eyebrow": "La gama",
-            "title": "Ocho cañizos, uno para cada necesidad",
+            "title": "Diez cañizos, uno para cada necesidad",
             "lead": "Desde el cañizo fino económico hasta el extragrueso de máxima calidad — abra cualquier versión para ver las especificaciones completas, fotos y respuestas a las preguntas habituales.",
             "items": [
               {
@@ -960,6 +960,18 @@
                 "href": "/products/reed-fencing/japanese-with-bamboo",
                 "title": "Cañizo estilo japonés con bambú",
                 "desc": "Caña ligada con bambú Li — el más resistente de la gama."
+              },
+              {
+                "img": "v/split-reed-main.webp",
+                "href": "/products/reed-fencing/split-reed",
+                "title": "Cañizo de junco partido",
+                "desc": "Junco partido a media caña — una cara más plana y pulcra."
+              },
+              {
+                "img": "v/italian-style-peeled-main.webp",
+                "href": "/products/reed-fencing/italian-style-peeled",
+                "title": "Cañizo de junco pelado estilo italiano",
+                "desc": "Junco pelado tejido con nailon verde — decorativo y duradero."
               }
             ]
           },
@@ -2561,6 +2573,184 @@
             {
               "q": "¿Es seguro junto a una piscina o en la costa?",
               "a": "Sí. La caña es una planta natural de humedal — todos nuestros cañizos soportan sin problemas entornos húmedos, costeros y junto a la piscina (sal, cloro, humedad constante)."
+            }
+          ]
+        },
+        "split-reed": {
+          "name": "Cañizo de junco partido",
+          "cardDesc": "Junco partido a media caña — una cara más plana y pulcra.",
+          "eyebrow": "Partido a media caña · Rústico",
+          "pill": "Junco pelado natural · Partido",
+          "lead": "Junco pelado partido en piezas de media caña y atado con la cara plana hacia fuera — una pantalla rústica y uniforme con una cara más lisa y plana que el junco redondo.",
+          "desc": "Junco partido a lo largo en piezas de media caña y atado, con una cara más plana y uniforme que el junco redondo entero, manteniendo su carácter cálido y rústico y una buena privacidad diaria.",
+          "facts": [
+            {
+              "k": "Privacidad",
+              "v": "Hasta ≈ 70%"
+            },
+            {
+              "k": "Junco",
+              "v": "Media caña partida, pelado"
+            },
+            {
+              "k": "Superficie",
+              "v": "Cara más plana y pulcra"
+            },
+            {
+              "k": "Gama de precio",
+              "v": "Media"
+            }
+          ],
+          "why": "Elígelo por una cara más plana y pulcra — el junco está partido para quedar a ras, con una superficie más lisa y uniforme que el junco redondo, manteniendo el color pajizo natural.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% junco pelado natural, partido a media caña"
+            },
+            {
+              "k": "Tejido",
+              "v": "Alambre galvanizado"
+            },
+            {
+              "k": "Privacidad",
+              "v": "Hasta ≈ 70%"
+            },
+            {
+              "k": "Vida útil exterior",
+              "v": "3–5+ años"
+            },
+            {
+              "k": "Formato",
+              "v": "Rollos · alturas y largos a medida"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · marca blanca bienvenida"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "El producto",
+            "title": "Junco partido a media caña, plano y rústico",
+            "body": [
+              {
+                "p": "Nuestro cañizo de junco partido se hace con junco pelado partido a lo largo en piezas de media caña, atadas bien juntas. Con la cara plana hacia fuera, el junco queda a ras para una cara más lisa y uniforme que el junco redondo entero — un aspecto rústico y limpio para jardín, patio y terraza."
+              },
+              {
+                "p": "Es resistente y aguanta la intemperie, tratado contra insectos y pudrición, y aguanta temporada tras temporada al exterior. Ligero y flexible: se despliega y se fija a cualquier valla o marco en minutos, y se puede recortar a medida."
+              },
+              {
+                "h3": "Rústico, pero pulido"
+              },
+              {
+                "p": "La cara partida ofrece una superficie más pulcra y acabada que el junco redondo, manteniendo su cálido color pajizo natural — una forma sencilla de lograr privacidad con carácter."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "¿Qué diferencia el junco partido del redondo?",
+              "a": "El junco se parte a lo largo en piezas de media caña y se coloca con la cara plana hacia fuera, así que queda a ras para una cara más plana y pulcra que el junco redondo entero."
+            },
+            {
+              "q": "¿Cuánta privacidad da?",
+              "a": "Hasta un 70% aprox. — una buena pantalla diaria. Para privacidad casi total, elige un grado grueso o extra-grueso de alta densidad."
+            },
+            {
+              "q": "¿Cuánto dura a la intemperie?",
+              "a": "Al menos 3–5 años en un jardín normal. Lejos del suelo húmedo dura más, y el color natural cambia poco."
+            }
+          ]
+        },
+        "italian-style-peeled": {
+          "name": "Cañizo de junco pelado estilo italiano",
+          "cardDesc": "Junco pelado tejido con nailon verde — decorativo y duradero.",
+          "eyebrow": "Tejido con nailon verde · Decorativo",
+          "pill": "Junco pelado natural · Nailon verde",
+          "lead": "Junco pelado tejido con fuerte hilo de nailon verde — una pantalla decorativa de paja y verde, resistente y de color estable al exterior.",
+          "desc": "Junco pelado atado con hilos de nailon verde duraderos. El contraste verde-paja da un aspecto distintivo y decorativo, mientras el tejido de nailon aporta resistencia y estabilidad de color durante años al exterior.",
+          "facts": [
+            {
+              "k": "Privacidad",
+              "v": "Hasta ≈ 70%"
+            },
+            {
+              "k": "Tejido",
+              "v": "Hilo de nailon verde"
+            },
+            {
+              "k": "Superficie",
+              "v": "Junco pelado"
+            },
+            {
+              "k": "Gama de precio",
+              "v": "Media"
+            }
+          ],
+          "why": "Elígelo por el aspecto y el tejido: fuertes hilos de nailon verde atan el junco pelado para un acabado decorativo verde-paja que se mantiene vivo y aguanta el clima duro.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% junco pelado natural"
+            },
+            {
+              "k": "Tejido",
+              "v": "Fuerte hilo de nailon verde"
+            },
+            {
+              "k": "Privacidad",
+              "v": "Hasta ≈ 70%"
+            },
+            {
+              "k": "Vida útil exterior",
+              "v": "3–5+ años"
+            },
+            {
+              "k": "Formato",
+              "v": "Rollos · alturas y largos a medida"
+            },
+            {
+              "k": "MOQ y OEM",
+              "v": "Negociable · marca blanca bienvenida"
+            },
+            {
+              "k": "Puerto de carga",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "El producto",
+            "title": "Junco pelado, tejido en verde",
+            "body": [
+              {
+                "p": "Nuestro cañizo estilo italiano es junco pelado tejido con cuidado con fuertes hilos de nailon verde. El verde intenso sobre el cálido junco pajizo crea un efecto llamativo y decorativo que destaca en cualquier jardín, patio o terraza."
+              },
+              {
+                "p": "A pesar de su aspecto natural, es muy duradero: el junco es resistente y aguanta la intemperie, y el nailon verde añade resistencia y estabilidad de color, manteniendo su viveza incluso con clima duro. Se despliega y se fija a cualquier estructura en minutos."
+              },
+              {
+                "h3": "Decorativo y resistente"
+              },
+              {
+                "p": "El tejido verde-paja es su sello — una pantalla versátil y con carácter que combina elegancia natural con verdadera practicidad para espacios exteriores resguardados."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "¿Qué es el hilo verde?",
+              "a": "Nailon verde resistente, usado para tejer y atar el junco pelado. Aporta estabilidad y resistencia de color, y da al cañizo su aspecto decorativo distintivo."
+            },
+            {
+              "q": "¿Cuánta privacidad da?",
+              "a": "Hasta un 70% aprox. — buena pantalla diaria con acabado decorativo. Para máxima privacidad, elige un grado grueso o extra-grueso de alta densidad."
+            },
+            {
+              "q": "¿El nailon resiste la intemperie?",
+              "a": "Sí — el nailon verde es de color estable y aguanta el sol y la lluvia, manteniendo su viveza temporada tras temporada."
             }
           ]
         }

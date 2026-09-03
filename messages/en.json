@@ -913,7 +913,7 @@
           },
           "variations": {
             "eyebrow": "The range",
-            "title": "Eight reed fences, one for every job",
+            "title": "Ten reed fences, one for every job",
             "lead": "From budget fine reed to top-quality extra-thick — open any version for full specs, photos and answers to common questions.",
             "items": [
               {
@@ -963,6 +963,18 @@
                 "href": "/products/reed-fencing/japanese-with-bamboo",
                 "title": "Japanese-style reed fence with bamboo",
                 "desc": "Reed bound with Li bamboo — the strongest in the range."
+              },
+              {
+                "img": "v/split-reed-main.webp",
+                "href": "/products/reed-fencing/split-reed",
+                "title": "Split reed fence",
+                "desc": "Half-round split reed — a flatter, tidier face."
+              },
+              {
+                "img": "v/italian-style-peeled-main.webp",
+                "href": "/products/reed-fencing/italian-style-peeled",
+                "title": "Italian-style peeled reed fence",
+                "desc": "Peeled reed woven with green nylon — decorative & durable."
               }
             ]
           },
@@ -2574,6 +2586,184 @@
             {
               "q": "Is it safe near a swimming pool or on the coast?",
               "a": "Yes. Reed is a natural wetland plant — all our reed fences handle damp, coastal and poolside environments (salt, chlorine, constant moisture) without problems."
+            }
+          ]
+        },
+        "split-reed": {
+          "name": "Split reed fence",
+          "cardDesc": "Half-round split reed — a flatter, tidier face.",
+          "eyebrow": "Half-round split · Rustic",
+          "pill": "Natural peeled reed · Split",
+          "lead": "Peeled reed split into half-round pieces and bound flat-side out — a rustic, seamless screen with a smoother, flatter face than round reed.",
+          "desc": "Reed split lengthwise into half-round pieces and bound together, giving a flatter, more even face than whole-round reed while keeping reed's warm, rustic character and solid everyday privacy.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Up to ≈ 70%"
+            },
+            {
+              "k": "Reed",
+              "v": "Half-round split, peeled"
+            },
+            {
+              "k": "Surface",
+              "v": "Flatter, tidier face"
+            },
+            {
+              "k": "Price tier",
+              "v": "Mid"
+            }
+          ],
+          "why": "Choose it for a flatter, tidier face — the reeds are split so they lie flush, giving a smoother, more even surface than round reed while keeping the natural straw look.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natural peeled reed, half-round split"
+            },
+            {
+              "k": "Weave",
+              "v": "Galvanised wire"
+            },
+            {
+              "k": "Privacy",
+              "v": "Up to ≈ 70%"
+            },
+            {
+              "k": "Lifespan outdoors",
+              "v": "3–5+ years"
+            },
+            {
+              "k": "Format",
+              "v": "Rolls · custom heights & lengths"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "The product",
+            "title": "Half-round split reed, flat and rustic",
+            "body": [
+              {
+                "p": "Our split reed fence is made from peeled reed split lengthwise into half-round pieces, then bound tightly side by side. Laid flat-side out, the reeds lie flush for a smoother, more even face than whole-round reed — a clean rustic look that suits gardens, patios and terraces."
+              },
+              {
+                "p": "It's tough and weather-resistant, treated against insects and decay, and stands up to season after season outdoors. Light and flexible, it unrolls and fixes to any existing fence or frame in minutes and can be trimmed to shape."
+              },
+              {
+                "h3": "Rustic, but refined"
+              },
+              {
+                "p": "The split face gives a tidier, more finished surface than round reed while keeping reed's warm natural straw colour — an easy way to add private, characterful screening."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "What makes split reed different from round reed?",
+              "a": "The reeds are split lengthwise into half-round pieces and laid flat-side out, so they sit flush for a flatter, tidier, more even face than whole-round reed."
+            },
+            {
+              "q": "How much privacy does it give?",
+              "a": "Up to about 70% — a solid everyday screen. For near-total privacy, choose a high-density thick or extra-thick grade."
+            },
+            {
+              "q": "How long does it last outdoors?",
+              "a": "At least 3–5 years in a normal European garden. Kept off wet ground it lasts longer, and reed's natural colour changes little over time."
+            }
+          ]
+        },
+        "italian-style-peeled": {
+          "name": "Italian-style peeled reed fence",
+          "cardDesc": "Peeled reed woven with green nylon — decorative & durable.",
+          "eyebrow": "Green-nylon woven · Decorative",
+          "pill": "Natural peeled reed · Green nylon",
+          "lead": "Peeled reed woven with strong green nylon thread — a decorative straw-and-green screen that's tough and colour-fast outdoors.",
+          "desc": "Peeled reed bound with durable green nylon threads. The green-and-straw contrast gives a distinctive, decorative look, while the nylon weave adds strength and colour resistance for years outdoors.",
+          "facts": [
+            {
+              "k": "Privacy",
+              "v": "Up to ≈ 70%"
+            },
+            {
+              "k": "Weave",
+              "v": "Green nylon thread"
+            },
+            {
+              "k": "Surface",
+              "v": "Peeled reed"
+            },
+            {
+              "k": "Price tier",
+              "v": "Mid"
+            }
+          ],
+          "why": "Choose it for the look and the weave: strong green nylon threads bind the peeled reed for a decorative straw-and-green finish that stays vibrant and holds up to harsh weather.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natural peeled reed"
+            },
+            {
+              "k": "Weave",
+              "v": "Strong green nylon thread"
+            },
+            {
+              "k": "Privacy",
+              "v": "Up to ≈ 70%"
+            },
+            {
+              "k": "Lifespan outdoors",
+              "v": "3–5+ years"
+            },
+            {
+              "k": "Format",
+              "v": "Rolls · custom heights & lengths"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Negotiable · private label welcome"
+            },
+            {
+              "k": "Loading port",
+              "v": "Tianjin, China"
+            }
+          ],
+          "about": {
+            "eyebrow": "The product",
+            "title": "Peeled reed, woven in green",
+            "body": [
+              {
+                "p": "Our Italian-style reed fence is peeled reed carefully woven with strong green nylon threads. The lush green against the warm straw reed creates a striking, decorative effect that stands out in any garden, patio or terrace."
+              },
+              {
+                "p": "Despite its organic look, it's highly durable: the reed is tough and weather-resistant, and the green nylon adds strength and colour resistance, keeping its vibrancy even in harsh weather. It rolls out and fixes to any structure in minutes."
+              },
+              {
+                "h3": "Decorative and hard-wearing"
+              },
+              {
+                "p": "The green-and-straw weave is the signature — a versatile, characterful screen that blends natural elegance with real practicality for private, sheltered outdoor spaces."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "What is the green thread?",
+              "a": "Strong green nylon, used to weave and bind the peeled reed. It adds stability and colour resistance, and gives the fence its distinctive decorative look."
+            },
+            {
+              "q": "How much privacy does it give?",
+              "a": "Up to about 70% — good everyday screening with a decorative finish. For maximum privacy, choose a high-density thick or extra-thick grade."
+            },
+            {
+              "q": "Is the nylon weatherproof?",
+              "a": "Yes — the green nylon is colour-fast and holds up to sun and rain, keeping its vibrancy season after season."
             }
           ]
         }

@@ -4295,6 +4295,110 @@
             "p": "Stai allestendo un progetto o rifornendo il tuo negozio? Forniamo arella a listelli, di canna intera, di canna palustre e di corteccia diretti dalla fabbrica per container — benvenuti grossisti e OEM."
           }
         ]
+      },
+      "bamboo-reed-ceilings": {
+        "title": "Soffitti in bambù e canna: controsoffitti naturali, fatti bene",
+        "excerpt": "I rotoli di stuoia di bambù e di canna creano soffitti decorativi e controsoffitti caldi e naturali — per ristoranti, bar, resort, terrazze e hall. Ecco come.",
+        "cat": "Soffitti",
+        "date": "Settembre 2026",
+        "body": [
+          {
+            "p": "Gli stessi rotoli naturali di bambù e canna che forniamo per le arelle da giardino creano alcuni dei soffitti più belli che vedrai. Srotolati in alto — su una pergola, un graticcio di travi o un telaio sospeso — trasformano un soffitto spoglio in una dichiarazione calda, materica e naturale. Ecco come i rotoli di stuoia di bambù e di canna funzionano come soffitti decorativi e controsoffitti, e dove brillano."
+          },
+          {
+            "h2": "Perché bambù e canna creano bei soffitti"
+          },
+          {
+            "p": "Sono leggeri, flessibili e in rotolo, quindi coprono grandi luci in fretta e seguono curve, pendenze e travi. Il materiale naturale aggiunge subito calore e una texture tattile e organica che i soffitti rigidi non eguagliano — e si abbina senza sforzo a legno, pietra, rattan e verde. In alto e al riparo dal meteo, dura anche a lungo e quasi senza manutenzione."
+          },
+          {
+            "h2": "Bambù giallo naturale"
+          },
+          {
+            "p": "Il caldo bambù dorato è la scelta classica — luminoso, accogliente e pieno di carattere. Posato su un graticcio di travi o una pergola filtra la luce splendidamente e dà a ristoranti, bar e terrazze di resort quell'aria rilassata e tropical-luxe."
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-2.webp"
+          },
+          {
+            "h2": "Bambù nero naturale"
+          },
+          {
+            "p": "Per qualcosa di più deciso, il bambù nero naturale crea un soffitto profondo e d'atmosfera che fa risplendere lampade a sospensione e interni caldi. Un preferito per ristoranti intimi, lounge e zone d'effetto dove vuoi che sia il soffitto a dare il tono."
+          },
+          {
+            "img": "/images/blog/ceilings-black.webp"
+          },
+          {
+            "h2": "Rotoli di canna per un soffitto più fine e morbido"
+          },
+          {
+            "p": "I rotoli di canna danno una texture più fine e delicata del bambù — sottili linee verticali che appaiono calme e raffinate. Ideali per controsoffitti con luce a gola nascosta, dove un bagliore caldo scorre sulla canna, e per spazi più morbidi, costieri e spa."
+          },
+          {
+            "img": "/images/blog/ceilings-reed-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-reed-2.webp"
+          },
+          {
+            "h2": "Soffitto decorativo vs controsoffitto"
+          },
+          {
+            "p": "Come soffitto decorativo, la stuoia si fissa direttamente sotto una pergola, un graticcio di travi o un soffitto esistente, per texture e calore. Come controsoffitto, si monta su un telaio leggero poco sotto la struttura — perfetto per nascondere impianti, canalizzazioni o cavi e per integrare luce a gola nascosta."
+          },
+          {
+            "h2": "Come montare un soffitto in bambù o canna"
+          },
+          {
+            "ul": [
+              "Fissa un graticcio di listelli di legno o un telaio metallico al soffitto o alle travi, ogni 40–60 cm.",
+              "Srotola la stuoia di bambù o canna sul telaio, in un'unica direzione.",
+              "Fissala con graffette o filo a ogni listello, con tensione uniforme e giunzioni sovrapposte.",
+              "Per un controsoffitto, abbassa il telaio sotto la struttura e lascia una fessura per la luce a gola.",
+              "In alto e al riparo dalla pioggia, non richiede quasi manutenzione."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Scopri i nostri rotoli di bambù — naturale e nero",
+              "href": "/products/bamboo-fencing-edging"
+            }
+          },
+          {
+            "cta": {
+              "label": "Scopri i nostri rotoli di canna",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Domande frequenti"
+          },
+          {
+            "h3": "Si può usare l'arella da giardino in bambù o canna su un soffitto?"
+          },
+          {
+            "p": "Sì — gli stessi rotoli rendono benissimo in alto. Al riparo dal meteo durano ancora di più e sono leggeri per un semplice telaio di listelli."
+          },
+          {
+            "h3": "Che differenza c'è tra giallo, nero e canna?"
+          },
+          {
+            "p": "Il bambù giallo naturale è caldo e classico, il nero naturale deciso e d'atmosfera, e la canna più fine e morbida. Tutti e tre sono 100% naturali."
+          },
+          {
+            "h3": "Posso nascondere l'illuminazione dietro?"
+          },
+          {
+            "p": "Assolutamente — un controsoffitto sospeso in canna o bambù con una fessura per luce a gola LED è uno dei look più amati, con un bagliore caldo sulla texture naturale."
+          },
+          {
+            "p": "Stai allestendo un ristorante, bar, resort o casa? Forniamo rotoli di bambù (naturale e nero) e di canna diretti dalla fabbrica per container — benvenuti grossisti e OEM."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4342,7 +4446,8 @@
       "reed": "Recinzioni in canna",
       "thatch": "Tetto di paglia",
       "natural": "Recinzioni naturali",
-      "bark": "Recinzioni in corteccia"
+      "bark": "Recinzioni in corteccia",
+      "ceilings": "Soffitti"
     },
     "viewProduct": "Vedi il prodotto",
     "items": {
@@ -4404,7 +4509,13 @@
       "fence-hottub": "Vasca idromassaggio con arella di bambù",
       "fence-balcony": "Arella di bambù su un balcone",
       "slat-boundary": "Recinzione da giardino a listelli di bambù",
-      "slat-balcony": "Arella di bambù spaccato su un balcone"
+      "slat-balcony": "Arella di bambù spaccato su un balcone",
+      "ceiling-insp-1": "Soffitto in bambù su una terrazza da giardino",
+      "ceiling-insp-2": "Soffitto di ristorante in bambù nero naturale",
+      "ceiling-insp-3": "Soffitto in bambù sopra un bar",
+      "ceiling-insp-4": "Soffitto di terrazza resort in bambù",
+      "ceiling-insp-5": "Controsoffitto in canna con luce a gola",
+      "ceiling-insp-6": "Soffitto in canna su una lounge esterna"
     }
   },
   "contact": {

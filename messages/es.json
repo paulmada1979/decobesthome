@@ -4295,6 +4295,110 @@
             "p": "¿Equipas un proyecto o surtes tu tienda? Suministramos cañizo de listones, de caña entera, de junco y de corteza directo de fábrica por contenedor — mayoristas y OEM bienvenidos."
           }
         ]
+      },
+      "bamboo-reed-ceilings": {
+        "title": "Techos de bambú y junco: falsos techos naturales, con estilo",
+        "excerpt": "Los rollos de estera de bambú y de junco crean techos decorativos y falsos techos cálidos y naturales — para restaurantes, bares, resorts, terrazas y recepciones. Así se hace.",
+        "cat": "Techos",
+        "date": "Septiembre de 2026",
+        "body": [
+          {
+            "p": "Los mismos rollos naturales de bambú y junco que suministramos para cañizos de jardín crean algunos de los techos más bonitos que verás. Desplegados en lo alto — sobre una pérgola, una retícula de vigas o un marco suspendido — convierten un techo plano en una declaración cálida, texturizada y natural. Así funcionan los rollos de estera de bambú y de junco como techos decorativos y falsos techos, y dónde brillan."
+          },
+          {
+            "h2": "Por qué el bambú y el junco crean techos bonitos"
+          },
+          {
+            "p": "Son ligeros, flexibles y vienen en rollo, así que cubren grandes luces rápido y siguen curvas, pendientes y vigas. El material natural aporta calidez al instante y una textura táctil y orgánica que los techos duros no igualan — y combina sin esfuerzo con madera, piedra, ratán y verde. En lo alto y a resguardo del clima, además dura mucho y casi sin mantenimiento."
+          },
+          {
+            "h2": "Bambú amarillo natural"
+          },
+          {
+            "p": "El cálido bambú dorado es la opción clásica — luminoso, acogedor y lleno de carácter. Colocado sobre una retícula de vigas o pérgola filtra la luz de maravilla y da a restaurantes, bares y terrazas de resort ese aire relajado y tropical-lujo."
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-2.webp"
+          },
+          {
+            "h2": "Bambú negro natural"
+          },
+          {
+            "p": "Para algo más dramático, el bambú negro natural crea un techo profundo y envolvente que hace brillar las lámparas colgantes y los interiores cálidos. Un favorito para restaurantes íntimos, lounges y zonas destacadas donde quieres que el techo marque el ambiente."
+          },
+          {
+            "img": "/images/blog/ceilings-black.webp"
+          },
+          {
+            "h2": "Rollos de junco para un techo más fino y suave"
+          },
+          {
+            "p": "Los rollos de junco dan una textura más fina y delicada que el bambú — sutiles líneas verticales que se leen tranquilas y refinadas. Ideales para falsos techos con luz de cornisa oculta, donde un resplandor cálido baña el junco, y para espacios más suaves, costeros y de spa."
+          },
+          {
+            "img": "/images/blog/ceilings-reed-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-reed-2.webp"
+          },
+          {
+            "h2": "Techo decorativo vs falso techo"
+          },
+          {
+            "p": "Como techo decorativo, la estera se fija directamente bajo una pérgola, retícula de vigas o techo existente, por textura y calidez. Como falso techo, se monta sobre un marco ligero algo por debajo de la estructura — perfecto para ocultar instalaciones, conductos o cableado y para integrar luz de cornisa oculta."
+          },
+          {
+            "h2": "Cómo instalar un techo de bambú o junco"
+          },
+          {
+            "ul": [
+              "Fija una retícula de listones de madera o marco metálico al techo o las vigas, cada 40–60 cm.",
+              "Despliega la estera de bambú o junco sobre el marco, en una sola dirección.",
+              "Grápala o átala a cada listón, con tensión uniforme y solapando las uniones.",
+              "Para un falso techo, baja el marco bajo la estructura y deja un hueco para luz de cornisa.",
+              "En lo alto y a resguardo de la lluvia, casi no necesita mantenimiento."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Descubre nuestros rollos de bambú — natural y negro",
+              "href": "/products/bamboo-fencing-edging"
+            }
+          },
+          {
+            "cta": {
+              "label": "Descubre nuestros rollos de junco",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Preguntas frecuentes"
+          },
+          {
+            "h3": "¿Se puede usar cañizo de bambú o junco de jardín en un techo?"
+          },
+          {
+            "p": "Sí — los mismos rollos quedan de maravilla en lo alto. A resguardo del clima duran aún más, y son ligeros para fijarse a un simple marco de listones."
+          },
+          {
+            "h3": "¿Qué diferencia hay entre amarillo, negro y junco?"
+          },
+          {
+            "p": "El bambú amarillo natural es cálido y clásico, el negro natural es dramático y envolvente, y el junco es más fino y suave. Los tres son 100% naturales."
+          },
+          {
+            "h3": "¿Puedo ocultar iluminación detrás?"
+          },
+          {
+            "p": "Por supuesto — un falso techo suspendido de junco o bambú con un hueco para luz de cornisa LED es uno de los looks más populares, con un resplandor cálido sobre la textura natural."
+          },
+          {
+            "p": "¿Equipas un restaurante, bar, resort o vivienda? Suministramos rollos de bambú (natural y negro) y de junco directo de fábrica por contenedor — mayoristas y OEM bienvenidos."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4342,7 +4446,8 @@
       "reed": "Vallas de junco",
       "thatch": "Techo de paja",
       "natural": "Vallas naturales",
-      "bark": "Vallados de corteza"
+      "bark": "Vallados de corteza",
+      "ceilings": "Techos"
     },
     "viewProduct": "Ver producto",
     "items": {
@@ -4404,7 +4509,13 @@
       "fence-hottub": "Jacuzzi con cañizo de bambú",
       "fence-balcony": "Cañizo de bambú en un balcón",
       "slat-boundary": "Valla de jardín de listones de bambú",
-      "slat-balcony": "Cañizo de bambú partido en un balcón"
+      "slat-balcony": "Cañizo de bambú partido en un balcón",
+      "ceiling-insp-1": "Techo de bambú en una terraza de jardín",
+      "ceiling-insp-2": "Techo de restaurante en bambú negro natural",
+      "ceiling-insp-3": "Techo de bambú sobre una barra",
+      "ceiling-insp-4": "Techo de terraza de resort en bambú",
+      "ceiling-insp-5": "Falso techo de junco con luz de cornisa",
+      "ceiling-insp-6": "Techo de junco en un lounge exterior"
     }
   },
   "contact": {

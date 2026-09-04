@@ -1,4 +1,4 @@
-export type GalleryCategory = "fencing" | "natural" | "bark" | "moso" | "reed" | "thatch";
+export type GalleryCategory = "fencing" | "natural" | "bark" | "ceilings" | "moso" | "reed" | "thatch";
 
 export type GalleryItem = {
   id: string;
@@ -71,7 +71,14 @@ export const gallery: GalleryItem[] = [
   { id: "bark-insp-2", image: "/images/bark/scene-1.webp", cat: "bark" },
   { id: "bark-insp-3", image: "/images/blog/bark-fencing-hero.webp", cat: "bark" },
   { id: "bark-insp-5", image: "/images/blog/bark-fencing-2.webp", cat: "bark" },
+  // Ceilings (bamboo & reed rolls overhead)
+  { id: "ceiling-insp-1", image: "/images/blog/ceilings-hero.webp", cat: "ceilings" },
+  { id: "ceiling-insp-2", image: "/images/blog/ceilings-yellow-1.webp", cat: "ceilings" },
+  { id: "ceiling-insp-3", image: "/images/blog/ceilings-yellow-2.webp", cat: "ceilings" },
+  { id: "ceiling-insp-4", image: "/images/blog/ceilings-black.webp", cat: "ceilings" },
+  { id: "ceiling-insp-5", image: "/images/blog/ceilings-reed-1.webp", cat: "ceilings" },
+  { id: "ceiling-insp-6", image: "/images/blog/ceilings-reed-2.webp", cat: "ceilings" },
 ];
 
 /** Filter chips order. Keys map to messages inspiration.cats.{key} (with "all" => inspiration.cats.all). */
-export const galleryFilters = ["all", "fencing", "natural", "bark", "moso", "reed", "thatch"] as const;
+export const galleryFilters = ["all", "fencing", "natural", "bark", "ceilings", "moso", "reed", "thatch"] as const;

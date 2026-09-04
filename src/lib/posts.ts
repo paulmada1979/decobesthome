@@ -21,6 +21,17 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Bamboo & reed rolls as decorative / false ceilings. Images placed inline.
+    id: "bamboo-reed-ceilings",
+    slug: "bamboo-reed-ceilings",
+    image: "/images/blog/ceilings-hero.webp",
+    href: "https://www.decobesthome.com/blog/bamboo-reed-ceilings",
+    date: "2026-09-04",
+    readMins: 6,
+    category: "fencing",
+    images: [],
+  },
+  {
     // Split bamboo slat fence — bamboo-fencing series. Links to its product page.
     id: "split-bamboo-slat-fence",
     slug: "split-bamboo-slat-fence-guide",

@@ -4308,6 +4308,110 @@
             "p": "Fitting out a project or stocking your store? We supply split-slat, round-cane, reed and bark screening factory-direct by the container — wholesale and OEM welcome."
           }
         ]
+      },
+      "bamboo-reed-ceilings": {
+        "title": "Bamboo & Reed Ceilings: Natural False Ceilings, Done Beautifully",
+        "excerpt": "Bamboo mat rolls and reed rolls make warm, natural decorative ceilings and false ceilings — for restaurants, bars, resorts, terraces and lobbies. Here's how.",
+        "cat": "Ceilings",
+        "date": "September 2026",
+        "body": [
+          {
+            "p": "The same natural bamboo and reed rolls we supply for garden screening make some of the most beautiful ceilings you'll ever see. Rolled overhead — over a pergola, a beam grid or a suspended frame — they turn a plain ceiling into a warm, textured, natural statement. Here's how bamboo mat rolls and reed rolls work as decorative and false ceilings, and where they shine."
+          },
+          {
+            "h2": "Why bamboo and reed make beautiful ceilings"
+          },
+          {
+            "p": "They're light, flexible and come on a roll, so they cover large spans quickly and follow curves, slopes and beams. The natural material adds instant warmth and a tactile, organic texture that hard ceilings can't match — and it pairs effortlessly with timber, stone, rattan and greenery. Overhead and out of the weather, it also lasts a long time with almost no maintenance."
+          },
+          {
+            "h2": "Natural yellow bamboo"
+          },
+          {
+            "p": "Warm golden bamboo is the classic choice — bright, welcoming and full of character. Laid over a beam grid or pergola it filters light beautifully and gives restaurants, bars and resort terraces that relaxed, tropical-luxe feel."
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-yellow-2.webp"
+          },
+          {
+            "h2": "Natural black bamboo"
+          },
+          {
+            "p": "For something more dramatic, natural black bamboo creates a deep, moody ceiling that makes pendant lighting and warm interiors glow. It's a favourite for intimate restaurants, lounges and feature areas where you want the ceiling to set the mood."
+          },
+          {
+            "img": "/images/blog/ceilings-black.webp"
+          },
+          {
+            "h2": "Reed rolls for a finer, softer ceiling"
+          },
+          {
+            "p": "Reed rolls give a finer, more delicate texture than bamboo — subtle vertical lines that read as calm and refined. They're ideal for false ceilings with hidden cove lighting, where a warm glow washes across the reed, and for softer, coastal and spa-like spaces."
+          },
+          {
+            "img": "/images/blog/ceilings-reed-1.webp"
+          },
+          {
+            "img": "/images/blog/ceilings-reed-2.webp"
+          },
+          {
+            "h2": "Decorative ceiling vs false ceiling"
+          },
+          {
+            "p": "As a decorative ceiling, the mat is fixed directly to the underside of a pergola, beam grid or existing ceiling for texture and warmth. As a false ceiling, it's mounted on a lightweight suspended frame a little below the structure — perfect for hiding services, ducts or wiring and for building in concealed cove lighting."
+          },
+          {
+            "h2": "How to put up a bamboo or reed ceiling"
+          },
+          {
+            "ul": [
+              "Fix a timber batten or metal frame grid to the ceiling or beams, spaced about 40–60 cm.",
+              "Unroll the bamboo or reed mat across the frame, running it in one direction.",
+              "Staple or wire it to each batten, keeping the tension even and overlapping the joins.",
+              "For a false ceiling, drop the frame below the structure and leave a gap for cove lighting.",
+              "Overhead and out of the rain, it needs almost no upkeep."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Explore our bamboo rolls — natural & black",
+              "href": "/products/bamboo-fencing-edging"
+            }
+          },
+          {
+            "cta": {
+              "label": "Explore our reed rolls",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Frequently asked questions"
+          },
+          {
+            "h3": "Can garden bamboo or reed screening be used on a ceiling?"
+          },
+          {
+            "p": "Yes — the same rolls work beautifully overhead. Out of the weather they last even longer, and they're light enough to fix to a simple batten frame."
+          },
+          {
+            "h3": "What's the difference between yellow, black and reed?"
+          },
+          {
+            "p": "Natural yellow bamboo is warm and classic, natural black bamboo is dramatic and moody, and reed is finer and softer. All three are 100% natural."
+          },
+          {
+            "h3": "Can I hide lighting behind it?"
+          },
+          {
+            "p": "Absolutely — a suspended reed or bamboo false ceiling with a gap for LED cove lighting is one of the most popular looks, giving a warm glow across the natural texture."
+          },
+          {
+            "p": "Fitting out a restaurant, bar, resort or home? We supply bamboo (natural & black) and reed rolls factory-direct by the container — wholesale and OEM welcome."
+          }
+        ]
       }
     },
     "newsletter": {
@@ -4355,7 +4459,8 @@
       "reed": "Reed fencing",
       "thatch": "Thatch roof",
       "natural": "Natural fencing",
-      "bark": "Bark fences"
+      "bark": "Bark fences",
+      "ceilings": "Ceilings"
     },
     "viewProduct": "View product",
     "items": {
@@ -4417,7 +4522,13 @@
       "fence-hottub": "Bamboo-screened hot tub",
       "fence-balcony": "Bamboo screening on a balcony",
       "slat-boundary": "Split bamboo slat garden fence",
-      "slat-balcony": "Split bamboo screening on a balcony"
+      "slat-balcony": "Split bamboo screening on a balcony",
+      "ceiling-insp-1": "Bamboo ceiling on a garden terrace",
+      "ceiling-insp-2": "Natural black bamboo restaurant ceiling",
+      "ceiling-insp-3": "Bamboo ceiling over a bar",
+      "ceiling-insp-4": "Bamboo-clad resort terrace ceiling",
+      "ceiling-insp-5": "Reed false ceiling with cove lighting",
+      "ceiling-insp-6": "Reed ceiling on an outdoor lounge"
     }
   },
   "contact": {

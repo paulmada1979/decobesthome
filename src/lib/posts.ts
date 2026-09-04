@@ -22,10 +22,10 @@ export type Post = {
 export const posts: Post[] = [
   {
     // Bamboo & reed rolls as decorative / false ceilings. Images placed inline.
-    id: "bamboo-reed-ceilings",
-    slug: "bamboo-reed-ceilings",
+    id: "bamboo-ceilings",
+    slug: "bamboo-ceilings",
     image: "/images/blog/ceilings-hero.webp",
-    href: "https://www.decobesthome.com/blog/bamboo-reed-ceilings",
+    href: "https://www.decobesthome.com/blog/bamboo-ceilings",
     date: "2026-09-04",
     readMins: 6,
     category: "fencing",

@@ -76,8 +76,9 @@ export const gallery: GalleryItem[] = [
   { id: "ceiling-insp-2", image: "/images/blog/ceilings-yellow-1.webp", cat: "ceilings" },
   { id: "ceiling-insp-3", image: "/images/blog/ceilings-yellow-2.webp", cat: "ceilings" },
   { id: "ceiling-insp-4", image: "/images/blog/ceilings-black.webp", cat: "ceilings" },
-  { id: "ceiling-insp-5", image: "/images/blog/ceilings-reed-1.webp", cat: "ceilings" },
-  { id: "ceiling-insp-6", image: "/images/blog/ceilings-reed-2.webp", cat: "ceilings" },
+  // Reed ceiling scenes hidden for now (bamboo-only feature); files kept on disk.
+  // { id: "ceiling-insp-5", image: "/images/blog/ceilings-reed-1.webp", cat: "ceilings" },
+  // { id: "ceiling-insp-6", image: "/images/blog/ceilings-reed-2.webp", cat: "ceilings" },
 ];
 
 /** Filter chips order. Keys map to messages inspiration.cats.{key} (with "all" => inspiration.cats.all). */

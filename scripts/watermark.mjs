@@ -9,6 +9,9 @@ import sharp from "sharp";
 import { readFileSync, writeFileSync } from "node:fs";
 
 const CORNER_ONLY = process.argv.includes("--corner");
+// --centre: add ONLY the centre wordmark (no corner credit). Use on images that
+// already carry the corner credit so it isn't doubled.
+const CENTRE_ONLY = process.argv.includes("--centre");
 const CORNER = "@DecoBestHome.com";
 const LOGO = "public/logos/logo-wordmark-white.png";
 const LOGO_OPACITY = 0.22;
@@ -56,14 +59,14 @@ async function watermark(file) {
       fill="#fff" fill-opacity="0.68">${CORNER}</text>
   </svg>`;
 
-  layers.push({ input: Buffer.from(corner), top: 0, left: 0 });
+  if (!CENTRE_ONLY) layers.push({ input: Buffer.from(corner), top: 0, left: 0 });
 
   const buf = await img
     .composite(layers)
     .toFormat(format === "webp" ? "webp" : "jpeg", { quality: 82 })
     .toBuffer();
   writeFileSync(file, buf);
-  console.log(CORNER_ONLY ? "corner" : "watermark", "->", file, `(${width}x${height})`);
+  console.log(CENTRE_ONLY ? "centre" : CORNER_ONLY ? "corner" : "watermark", "->", file, `(${width}x${height})`);
 }
 
-for (const f of process.argv.slice(2)) if (f !== "--corner") await watermark(f);
+for (const f of process.argv.slice(2)) if (f !== "--corner" && f !== "--centre") await watermark(f);

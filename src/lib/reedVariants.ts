@@ -19,7 +19,20 @@ const v = (slug: string, n: number, wides = 0) => {
 
 /** Display order: peeled family (top → budget), unpeeled family, Japanese specialty. */
 export const reedVariants: ReedVariant[] = [
-  { id: "extra-thick-peeled-8-10mm", privacyPct: 100, ...v("extra-thick-peeled-8-10mm", 4) },
+  {
+    id: "extra-thick-peeled-8-10mm",
+    privacyPct: 100,
+    // Explicit gallery: the main shot was re-cropped to drop the supplier logo,
+    // and renamed -main-v2 so caches can't keep serving the old square.
+    hero: "/images/reed/v/extra-thick-peeled-8-10mm-hero.webp",
+    gallery: [
+      "/images/reed/v/extra-thick-peeled-8-10mm-main-v2.webp",
+      "/images/reed/v/extra-thick-peeled-8-10mm-g1.webp",
+      "/images/reed/v/extra-thick-peeled-8-10mm-g2.webp",
+      "/images/reed/v/extra-thick-peeled-8-10mm-g3.webp",
+      "/images/reed/v/extra-thick-peeled-8-10mm-g4.webp",
+    ],
+  },
   { id: "thick-peeled-5-8mm", privacyPct: 90, ...v("thick-peeled-5-8mm", 4, 1) },
   { id: "high-density-fine-3-6mm", privacyPct: 80, ...v("high-density-fine-3-6mm", 2) },
   { id: "cheap-peeled-3-6mm", privacyPct: 50, ...v("cheap-peeled-3-6mm", 4) },

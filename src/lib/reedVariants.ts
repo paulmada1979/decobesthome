@@ -22,11 +22,13 @@ export const reedVariants: ReedVariant[] = [
   {
     id: "extra-thick-peeled-8-10mm",
     privacyPct: 100,
-    // Explicit gallery: the main shot was re-cropped to drop the supplier logo,
-    // and renamed -main-v2 so caches can't keep serving the old square.
+    // Explicit gallery: the main shot was re-cropped to 640x400 to drop the
+    // supplier logo at the top and the white wedge at the bottom. Renamed on
+    // each recrop (-v3) because replacing it in place left caches serving the
+    // old image.
     hero: "/images/reed/v/extra-thick-peeled-8-10mm-hero.webp",
     gallery: [
-      "/images/reed/v/extra-thick-peeled-8-10mm-main-v2.webp",
+      "/images/reed/v/extra-thick-peeled-8-10mm-main-v3.webp",
       "/images/reed/v/extra-thick-peeled-8-10mm-g1.webp",
       "/images/reed/v/extra-thick-peeled-8-10mm-g2.webp",
       "/images/reed/v/extra-thick-peeled-8-10mm-g3.webp",

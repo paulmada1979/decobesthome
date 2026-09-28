@@ -21,6 +21,19 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Top-grade reed: extra-thick peeled 8-10 mm. Links to its variant page.
+    // Images placed inline; draft until the garden scenes are shot/watermarked.
+    id: "extra-thick-peeled-reed-fence",
+    slug: "extra-thick-peeled-reed-fence",
+    image: "/images/blog/extra-thick-peeled-reed-hero.webp",
+    href: "https://www.decobesthome.com/blog/extra-thick-peeled-reed-fence",
+    date: "2026-09-28",
+    readMins: 7,
+    category: "reed",
+    images: [],
+    draft: true,
+  },
+  {
     // Bamboo & reed rolls as decorative / false ceilings. Images placed inline.
     id: "bamboo-ceilings",
     slug: "bamboo-ceilings",

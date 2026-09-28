@@ -3017,7 +3017,7 @@
             "p": "Montiert bietet diese Qualität bis zu 100% Sichtschutz. Man sieht in keine Richtung hindurch, und es entstehen keine wandernden Lücken, wenn das Licht im Tagesverlauf dreht. Das Ergebnis ist kein Sichtschutz mit Muster. Es ist eine Wand — eine warme, helle, natürliche Wand, die zufällig aus Schilf besteht."
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "Das ist die Qualität, die man wählt, wenn Sichtschutz kein netter Nebeneffekt ist, sondern der ganze Zweck: eine Terrasse, auf die ein Nachbarfenster blickt, ein Pool, den man ohne Publikum nutzen möchte, ein Restauranthof, der geschlossen wirken muss."
@@ -3038,9 +3038,6 @@
             "h2": "Wo sich die Spitzenqualität bezahlt macht"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "Schilf ist eine Wasserpflanze, Feuchtigkeit ist also sein natürliches Zuhause. Salzluft, Poolchlor, dauerhafte Nässe und Küstenwind machen ihm nichts aus — was die extra dicke Qualität rund ums Wasser besonders passend macht. Es ist einer der wenigen Naturzäune, den wir ohne Zögern neben einen Pool setzen würden."
           },
           {
@@ -3059,7 +3056,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "Montage: leicht genug für das, was schon da ist"
@@ -4661,7 +4658,12 @@
       "ceiling-insp-3": "Bambusdecke über einer Bar",
       "ceiling-insp-4": "Bambusverkleidete Resortterrassen-Decke",
       "ceiling-insp-7": "Naturschwarze Bambusdecke mit Voutenlicht",
-      "ceiling-insp-8": "Schwarze Bambus-Pavillondecke"
+      "ceiling-insp-8": "Schwarze Bambus-Pavillondecke",
+      "reed-top-terrace-lounge": "Terrasse mit extra dickem geschältem Schilf im Sonnenuntergang",
+      "reed-top-pergola-dining": "Schilfsichtschutz hinter einer Essterrasse mit Pergola",
+      "reed-top-poolside": "Geschälter Schilfsichtschutz am Pool",
+      "reed-top-rooftop": "Schilfsichtschutz auf einer Dachterrasse in der Stadt",
+      "reed-top-balcony": "Schilfsichtschutz rund um einen Stadtbalkon"
     }
   },
   "contact": {

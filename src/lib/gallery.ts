@@ -50,6 +50,12 @@ export const gallery: GalleryItem[] = [
   { id: "reed-banner-thick-unpeeled-5-8mm", image: "/images/reed/v/thick-unpeeled-5-8mm-hero.webp", cat: "reed" },
   { id: "reed-banner-cheap-unpeeled-3-6mm", image: "/images/reed/v/cheap-unpeeled-3-6mm-hero.webp", cat: "reed" },
   { id: "reed-banner-japanese-with-bamboo", image: "/images/reed/v/japanese-with-bamboo-hero.webp", cat: "reed" },
+  // Extra-thick peeled 8-10 mm garden scenes (from the top-grade blog post)
+  { id: "reed-top-terrace-lounge", image: "/images/blog/extra-thick-peeled-reed-hero.webp", cat: "reed" },
+  { id: "reed-top-pergola-dining", image: "/images/blog/extra-thick-peeled-reed-1.webp", cat: "reed" },
+  { id: "reed-top-poolside", image: "/images/blog/extra-thick-peeled-reed-2.webp", cat: "reed" },
+  { id: "reed-top-rooftop", image: "/images/blog/extra-thick-peeled-reed-3.webp", cat: "reed" },
+  { id: "reed-top-balcony", image: "/images/blog/extra-thick-peeled-reed-4.webp", cat: "reed" },
   // More bamboo fencing scenes (from the product pages + journal)
   { id: "fence-lounge-deck", image: "/images/fence/scene-garden.webp", cat: "fencing" },
   { id: "fence-sofa-corner", image: "/images/fence/scene-banner2.webp", cat: "fencing" },

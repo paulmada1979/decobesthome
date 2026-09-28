@@ -3010,7 +3010,7 @@
             "p": "Una vez instalada, esta gama ofrece hasta un 100% de privacidad. No se ve a través de ella en ninguna dirección, y no aparecen huecos cambiantes según gira la luz a lo largo del día. Lo que queda no es una pantalla con un dibujo. Es un muro: un muro cálido, claro y natural que resulta estar hecho de caña."
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "Es la gama que hay que elegir cuando la privacidad no es un extra, sino todo el objetivo del trabajo: una terraza a la que asoma la ventana del vecino, una piscina que quieres usar sin público, un patio de restaurante que tiene que sentirse cerrado."
@@ -3031,9 +3031,6 @@
             "h2": "Dónde justifica su precio la gama alta"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "La caña es una planta de humedal, así que la humedad es su hábitat natural. El aire salino, el cloro de la piscina, la humedad permanente y el viento de costa no le afectan, lo que hace que la gama extragruesa encaje de forma natural alrededor del agua. Es una de las poquísimas pantallas naturales que pondríamos junto a una piscina sin dudarlo."
           },
           {
@@ -3052,7 +3049,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "Montaje: lo bastante ligera para colgarla de lo que ya tienes"
@@ -4654,7 +4651,12 @@
       "ceiling-insp-3": "Techo de bambú sobre una barra",
       "ceiling-insp-4": "Techo de terraza de resort en bambú",
       "ceiling-insp-7": "Techo de bambú negro natural con luz de cornisa",
-      "ceiling-insp-8": "Techo de pabellón en bambú negro"
+      "ceiling-insp-8": "Techo de pabellón en bambú negro",
+      "reed-top-terrace-lounge": "Terraza con caña pelada extragruesa al atardecer",
+      "reed-top-pergola-dining": "Pantalla de caña tras una terraza comedor con pérgola",
+      "reed-top-poolside": "Pantalla de caña pelada para privacidad junto a la piscina",
+      "reed-top-rooftop": "Cañizo en una azotea urbana",
+      "reed-top-balcony": "Cañizo envolviendo un balcón de ciudad"
     }
   },
   "contact": {

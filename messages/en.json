@@ -3023,7 +3023,7 @@
             "p": "Installed, this grade gives up to 100% privacy. There is no view through it in either direction, and no shifting gaps as the light moves round during the day. What you end up with is not a screen with a pattern in it. It is a wall — a warm, pale, natural wall that happens to be made of reed."
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "This is the grade to choose when privacy is not a nice-to-have but the entire point of the job: a terrace overlooked by a neighbouring window, a pool you want to use without an audience, a restaurant courtyard that has to feel enclosed."
@@ -3044,9 +3044,6 @@
             "h2": "Where the top grade earns its price"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "Reed is a wetland plant, so damp is its natural home. Salt air, pool chlorine, permanent moisture and coastal wind do not trouble it — which makes the extra-thick grade a natural fit around water. It is one of the very few natural screens we would put beside a pool without hesitating."
           },
           {
@@ -3065,7 +3062,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "Fitting: light enough to hang on what you already have"
@@ -4667,7 +4664,12 @@
       "ceiling-insp-3": "Bamboo ceiling over a bar",
       "ceiling-insp-4": "Bamboo-clad resort terrace ceiling",
       "ceiling-insp-7": "Natural black bamboo ceiling with cove lighting",
-      "ceiling-insp-8": "Black bamboo pavilion ceiling"
+      "ceiling-insp-8": "Black bamboo pavilion ceiling",
+      "reed-top-terrace-lounge": "Extra-thick peeled reed terrace at sunset",
+      "reed-top-pergola-dining": "Reed screen behind a pergola dining terrace",
+      "reed-top-poolside": "Peeled reed privacy screen by the pool",
+      "reed-top-rooftop": "Reed screening on a city rooftop terrace",
+      "reed-top-balcony": "Reed screen wrapping a city balcony"
     }
   },
   "contact": {

@@ -3017,7 +3017,7 @@
             "p": "Une fois posée, cette gamme offre jusqu'à 100% d'intimité. On ne voit à travers dans aucun sens, et aucun jour mouvant n'apparaît quand la lumière tourne au fil de la journée. Ce que l'on obtient n'est pas un brise-vue avec un motif : c'est un mur — un mur chaleureux, clair et naturel, qui se trouve être en roseau."
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "C'est la gamme à choisir quand l'intimité n'est pas un bonus mais tout l'objet du chantier : une terrasse en vis-à-vis avec la fenêtre du voisin, une piscine dont on veut profiter sans public, une cour de restaurant qui doit se sentir close."
@@ -3038,9 +3038,6 @@
             "h2": "Là où le haut de gamme justifie son prix"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "Le roseau est une plante des zones humides : l'humidité est son milieu naturel. L'air salin, le chlore de la piscine, l'humidité permanente et le vent du littoral ne l'atteignent pas — ce qui rend la gamme extra-épaisse tout indiquée autour de l'eau. C'est l'un des très rares brise-vue naturels que nous installerions au bord d'une piscine sans hésiter."
           },
           {
@@ -3059,7 +3056,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "Pose : assez léger pour se fixer sur l'existant"
@@ -4661,7 +4658,12 @@
       "ceiling-insp-3": "Plafond en bambou au-dessus d'un bar",
       "ceiling-insp-4": "Plafond de terrasse de resort en bambou",
       "ceiling-insp-7": "Plafond en bambou noir naturel avec éclairage de corniche",
-      "ceiling-insp-8": "Plafond de pavillon en bambou noir"
+      "ceiling-insp-8": "Plafond de pavillon en bambou noir",
+      "reed-top-terrace-lounge": "Terrasse en roseau pelé extra-épais au coucher du soleil",
+      "reed-top-pergola-dining": "Canisse de roseau derrière une terrasse-repas sous pergola",
+      "reed-top-poolside": "Brise-vue en roseau pelé au bord de la piscine",
+      "reed-top-rooftop": "Canisse de roseau sur un toit-terrasse en ville",
+      "reed-top-balcony": "Canisse de roseau entourant un balcon de ville"
     }
   },
   "contact": {

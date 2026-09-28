@@ -3010,7 +3010,7 @@
             "p": "設置すると、このグレードは最大100%の目隠しになります。どちらの方向からも透けて見えることはなく、日中に光の向きが変わっても隙間が現れることもありません。出来上がるのは模様の入ったスクリーンではありません。壁です ― たまたま葦でできている、温かく淡い色の自然の壁です。"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "目隠しが「あれば良いもの」ではなく仕事の目的そのものであるとき、選ぶべきはこのグレードです。隣家の窓から見下ろされるテラス、人目を気にせず使いたいプール、囲まれた雰囲気が必要なレストランの中庭などです。"
@@ -3031,9 +3031,6 @@
             "h2": "最上級グレードが価格に見合う場面"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "葦は湿地の植物なので、湿気は本来の住みかです。潮風、プールの塩素、常時の湿気、海沿いの風にも影響されません ― だからこそ極太グレードは水まわりに自然に合います。当社がためらわずプールサイドに設置する、数少ない自然素材のスクリーンのひとつです。"
           },
           {
@@ -3052,7 +3049,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "取り付け：今あるものに掛けられる軽さ"
@@ -4654,7 +4651,12 @@
       "ceiling-insp-3": "バー上の竹天井",
       "ceiling-insp-4": "竹張りのリゾートテラス天井",
       "ceiling-insp-7": "間接照明のナチュラルブラック竹天井",
-      "ceiling-insp-8": "黒竹のパビリオン天井"
+      "ceiling-insp-8": "黒竹のパビリオン天井",
+      "reed-top-terrace-lounge": "夕暮れの極太皮むき葦のテラス",
+      "reed-top-pergola-dining": "パーゴラのある食事テラスの葦スクリーン",
+      "reed-top-poolside": "プールサイドの皮むき葦の目隠しスクリーン",
+      "reed-top-rooftop": "都市のルーフテラスの葦スクリーン",
+      "reed-top-balcony": "都市のバルコニーを囲む葦スクリーン"
     }
   },
   "contact": {

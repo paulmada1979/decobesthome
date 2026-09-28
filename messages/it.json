@@ -3010,7 +3010,7 @@
             "p": "Una volta installata, questa fascia offre fino al 100% di privacy. Non si vede attraverso in nessuna delle due direzioni e non compaiono fessure mutevoli quando la luce gira nel corso della giornata. Il risultato non è uno schermo con un disegno: è una parete — una parete calda, chiara e naturale che si dà il caso sia fatta di canna."
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
           },
           {
             "p": "È la fascia da scegliere quando la privacy non è un di più ma l'obiettivo di tutto il lavoro: una terrazza sotto la finestra del vicino, una piscina da usare senza pubblico, una corte di ristorante che deve sembrare chiusa."
@@ -3031,9 +3031,6 @@
             "h2": "Dove la fascia alta si ripaga"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-1.webp"
-          },
-          {
             "p": "La canna è una pianta palustre, quindi l'umidità è casa sua. Aria salmastra, cloro della piscina, umidità permanente e vento di mare non la intaccano — il che rende la fascia extra spessa perfetta attorno all'acqua. È uno dei pochissimi schermi naturali che metteremmo accanto a una piscina senza esitare."
           },
           {
@@ -3052,7 +3049,7 @@
             "img": "/images/blog/extra-thick-peeled-reed-3.webp"
           },
           {
-            "img": "/images/blog/extra-thick-peeled-reed-5.webp"
+            "img": "/images/blog/extra-thick-peeled-reed-4.webp"
           },
           {
             "h2": "Montaggio: abbastanza leggera da appendere a ciò che già hai"
@@ -4654,7 +4651,12 @@
       "ceiling-insp-3": "Soffitto in bambù sopra un bar",
       "ceiling-insp-4": "Soffitto di terrazza resort in bambù",
       "ceiling-insp-7": "Soffitto in bambù nero naturale con luce a gola",
-      "ceiling-insp-8": "Soffitto di padiglione in bambù nero"
+      "ceiling-insp-8": "Soffitto di padiglione in bambù nero",
+      "reed-top-terrace-lounge": "Terrazza con canna pelata extra spessa al tramonto",
+      "reed-top-pergola-dining": "Arella di canna dietro una terrazza da pranzo con pergola",
+      "reed-top-poolside": "Arella di canna pelata per la privacy a bordo piscina",
+      "reed-top-rooftop": "Arella di canna su un terrazzo cittadino",
+      "reed-top-balcony": "Arella di canna attorno a un balcone di città"
     }
   },
   "contact": {

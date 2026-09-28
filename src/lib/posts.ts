@@ -22,7 +22,7 @@ export type Post = {
 export const posts: Post[] = [
   {
     // Top-grade reed: extra-thick peeled 8-10 mm. Links to its variant page.
-    // Images placed inline; draft until the garden scenes are shot/watermarked.
+    // Images placed inline via {img} blocks, so images[] stays empty.
     id: "extra-thick-peeled-reed-fence",
     slug: "extra-thick-peeled-reed-fence",
     image: "/images/blog/extra-thick-peeled-reed-hero.webp",
@@ -31,7 +31,6 @@ export const posts: Post[] = [
     readMins: 7,
     category: "reed",
     images: [],
-    draft: true,
   },
   {
     // Bamboo & reed rolls as decorative / false ceilings. Images placed inline.

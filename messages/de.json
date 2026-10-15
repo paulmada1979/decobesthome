@@ -922,7 +922,7 @@
                 "desc": "Spitzenqualität — bis zu 100% Sichtschutz, vollständig geschlossen."
               },
               {
-                "img": "v/thick-peeled-5-8mm-main.webp",
+                "img": "v/thick-peeled-5-8mm-main-v2.webp",
                 "href": "/products/reed-fencing/thick-peeled-5-8mm",
                 "title": "Dicke geschälte Schilfrohrmatte 5–8 mm",
                 "desc": "Allrounder mit hoher Dichte — bis zu ≈ 90% Sichtschutz."
@@ -934,7 +934,7 @@
                 "desc": "Feine Halme, edle Oberfläche — bis zu ≈ 80% Sichtschutz."
               },
               {
-                "img": "v/cheap-peeled-3-6mm-main.webp",
+                "img": "v/cheap-peeled-3-6mm-main-v2.webp",
                 "href": "/products/reed-fencing/cheap-peeled-3-6mm",
                 "title": "Günstige geschälte Schilfrohrmatte 3–6 mm",
                 "desc": "Unser günstigstes geschältes Schilf — leichte Abschirmung, ≈ 50% Sichtschutz."
@@ -2989,6 +2989,189 @@
     "readArticle": "Artikel lesen",
     "readMore": "Mehr lesen",
     "posts": {
+      "reed-fencing-grades": {
+        "title": "Schilfrohrmatten nach Stärke: 3–6, 5–8 und 8–10 mm erklärt",
+        "excerpt": "Die Halmstärke entscheidet über Sichtschutz, Preis und Lebensdauer. Ein klarer Leitfaden zu den drei Schilfqualitäten, geschält oder ungeschält, und welche Sie bestellen sollten.",
+        "cat": "Schilfrohrzaun",
+        "date": "Oktober 2026",
+        "body": [
+          {
+            "p": "Auf einem Foto sieht jede Schilfrohrmatte ungefähr gleich aus. Steht man davor, ist der Unterschied offensichtlich: Der eine Sichtschutz schließt einen Garten vollständig, durch den anderen erkennt man Formen und Bewegung. Dieser Unterschied hat nichts mit Marke oder Preis zu tun. Er hängt an einem einzigen Maß — dem Durchmesser der Halme und daran, wie dicht sie verwoben sind."
+          },
+          {
+            "h2": "Die eine Zahl, die alles entscheidet"
+          },
+          {
+            "p": "Schilf wird nach Halmdurchmesser in Millimetern eingeteilt. Drei Qualitäten decken fast jede Aufgabe ab, und der Sprung dazwischen ist größer, als die Zahlen vermuten lassen: Ein dickerer Halm hält mehr Licht ab und liegt zugleich enger an seinen Nachbarn."
+          },
+          {
+            "ul": [
+              "3–6 mm — feines Schilf. Leicht, günstig, etwa die Hälfte der Sicht geschlossen. Ein Windschutz und ein Weichzeichner, keine Wand.",
+              "5–8 mm — dickes Schilf. Die Standardqualität für den Garten. Rund 90% geschlossen: solider Sichtschutz zu einem vernünftigen Preis.",
+              "8–10 mm — extra dickes Schilf. Bis zu 100% geschlossen. Kein Durchblick, in keine Richtung."
+            ]
+          },
+          {
+            "p": "Der Preis folgt derselben Leiter, und das Gewicht einer Rolle ebenso — was zählt, wenn Sie 5 Meter allein an einem vorhandenen Zaun befestigen."
+          },
+          {
+            "h2": "Feines Schilf, 3–6 mm — die günstige Qualität"
+          },
+          {
+            "p": "Feines Schilf ist die Einstiegsqualität und macht kein Geheimnis daraus. Die Halme sind schlank, die Rolle ist leicht, und mit der Sonne dahinter sehen Sie Tageslicht zwischen den Halmen. Etwa die Hälfte der Sicht ist geschlossen."
+          },
+          {
+            "img": "/images/blog/reed-grades-1.webp"
+          },
+          {
+            "img": "/images/reed/v/cheap-peeled-3-6mm-main-v2.webp"
+          },
+          {
+            "p": "Damit passt es für Aufgaben, bei denen vollständiger Sichtschutz nicht das Ziel ist: ein Windschutz im Schrebergarten, das Kaschieren eines Maschendrahtzauns, eine leichte Abschirmung um Mülltonnen oder eine Kompostecke, oder eine Saisonlösung, die Sie in ein paar Jahren ersetzen. Es ist der günstigste Weg, eine Grenze natürlich wirken zu lassen, und am leichtesten allein zu handhaben."
+          },
+          {
+            "cta": {
+              "label": "Zum feinen geschälten Schilfrohrzaun 3–6 mm",
+              "href": "/products/reed-fencing/cheap-peeled-3-6mm"
+            }
+          },
+          {
+            "h2": "Dickes Schilf, 5–8 mm — der Standard"
+          },
+          {
+            "p": "Dickes Schilf ist die Qualität, die die meisten eigentlich wollen. Die Halme sind kräftig genug, um dicht aneinanderzuliegen, und ein montierter Sichtschutz schließt rund 90% der Sicht — genug, dass der Nachbar eine Wand sieht und keine Silhouette."
+          },
+          {
+            "img": "/images/blog/reed-grades-2.webp"
+          },
+          {
+            "img": "/images/reed/v/thick-peeled-5-8mm-main-v2.webp"
+          },
+          {
+            "p": "Es ist die vernünftige Standardwahl für Grundstücksgrenze, Terrasse, Balkon oder Poolumrandung: solider Sichtschutz, ein Gewicht, das Sie noch allein an den Zaun heben, und ein Preis, der funktioniert, wenn zwanzig oder dreißig Meter zu decken sind. Wenn Sie unsicher sind, bestellen Sie diese."
+          },
+          {
+            "cta": {
+              "label": "Zum dicken geschälten Schilfrohrzaun 5–8 mm",
+              "href": "/products/reed-fencing/thick-peeled-5-8mm"
+            }
+          },
+          {
+            "h2": "Extra dickes Schilf, 8–10 mm — die Spitzenqualität"
+          },
+          {
+            "p": "Extra dickes Schilf ist die Spitze des Sortiments. Die Halme ähneln fast schlanken Rohren, und in unserer höchsten Webdichte bleibt nichts dazwischen — bis zu 100% Sichtschutz, ohne Lücken, die sich auftun, wenn das Licht im Tagesverlauf wandert."
+          },
+          {
+            "img": "/images/reed/v/extra-thick-peeled-8-10mm-main-v3.webp"
+          },
+          {
+            "p": "Wählen Sie sie, wenn Sichtschutz der ganze Zweck ist und kein netter Nebeneffekt: eine Terrasse, auf die ein Nachbarfenster blickt, ein Pool, den Sie ohne Publikum nutzen möchten, ein Restauranthof, der geschlossen wirken muss. Sie kostet mehr und wiegt mehr, und in diesen Fällen ist sie die einzige Qualität, die die Aufgabe wirklich löst."
+          },
+          {
+            "cta": {
+              "label": "Zum extra dicken geschälten Schilfrohrzaun 8–10 mm",
+              "href": "/products/reed-fencing/extra-thick-peeled-8-10mm"
+            }
+          },
+          {
+            "h2": "Geschält oder ungeschält?"
+          },
+          {
+            "p": "Die Stärke entscheidet über den Sichtschutz. Die Haut entscheidet über die Optik. Bei geschältem Schilf ist die äußere Schicht entfernt, übrig bleibt ein glatter, sauberer, hellblonder Halm mit gleichmäßiger Farbe. Ungeschältes Schilf behält die Haut: rauer, fleckiger, goldbrauner — und etwas günstiger."
+          },
+          {
+            "img": "/images/blog/reed-grades-3.webp"
+          },
+          {
+            "p": "Keines hält länger als das andere, beide sind schimmelresistent, und keines riecht. Geschält wirkt wie eine bewusste Materialwahl und passt mühelos zu weißem Putz, Kalkstein, dunklem Stahl und Glas — deshalb findet es sich auf architektengeplanten Terrassen. Ungeschält wirkt rustikal und gehört in einen Bauerngarten, auf einen kleinen Hof oder überall dorthin, wo etwas Patina zum Charme gehört."
+          },
+          {
+            "h2": "Drei Spezialitäten, die man kennen sollte"
+          },
+          {
+            "p": "Neben den Hauptqualitäten fertigen wir drei Sichtschutzarten für besondere Aufgaben:"
+          },
+          {
+            "ul": [
+              "Schilf im japanischen Stil mit Bambus — Schilfpaneele mit Bambus eingefasst, für eine formale, fertige Kante.",
+              "Gespaltenes Schilf — halbrund gespaltene Halme für eine flachere, ruhigere Fläche als rundes Schilf.",
+              "Geschältes Schilf im italienischen Stil — geschältes Schilf mit grünem Nylonfaden verwoben, für eine dekorative Stroh-Grün-Optik."
+            ]
+          },
+          {
+            "h2": "Welche Qualität sollten Sie bestellen?"
+          },
+          {
+            "ul": [
+              "Sie wollen Windschutz oder einen Maschendrahtzaun kaschieren und stört es nicht, Licht hindurchzusehen → 3–6 mm.",
+              "Sie wollen Ihren Garten zu einem vernünftigen Preis vor den Nachbarn schützen → 5–8 mm. Das ist meistens die richtige Antwort.",
+              "Sie wollen überhaupt keinen Durchblick, oder der Sichtschutz ist das Hauptelement des Raums → 8–10 mm.",
+              "Sie wollen rustikal statt fein, unabhängig von der Stärke → nehmen Sie ungeschält."
+            ]
+          },
+          {
+            "h2": "Lebensdauer und Montage"
+          },
+          {
+            "ul": [
+              "Rechnen Sie mit mindestens 3–5 Jahren im Freien in einem normalen europäischen Garten, an geschützter Stelle länger. Die natürliche Farbe verändert sich in dieser Zeit kaum.",
+              "Schilf ist eine Wasserpflanze: Salzluft, Poolchlor und dauerhafte Feuchtigkeit sind kein Problem, weshalb es an Küste und Pool gut passt.",
+              "Befestigen Sie es an dem, was schon da ist — Drahtzaun, Holzrahmen oder Balkongeländer. Schilf ist leicht genug, dass es selten eigene Pfosten braucht.",
+              "Alle 30–40 cm befestigen, zuerst oben, dann unten, dann in der Mitte, mit UV-beständigen Kabelbindern oder verzinktem Bindedraht.",
+              "Stoßen Sie die Rollen an den Nahtstellen Kante an Kante statt überlappend, und lassen Sie unten einen kleinen Abstand, damit Wasser abläuft und Luft hinter dem Sichtschutz zirkuliert."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Zum kompletten Schilfrohr-Sortiment",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Häufige Fragen"
+          },
+          {
+            "h3": "Welche Schilfqualität bietet den meisten Sichtschutz?"
+          },
+          {
+            "p": "8–10 mm extra dick, das bis zu 100% der Sicht schließt. 5–8 mm schließt rund 90%, 3–6 mm etwa die Hälfte. Genau dieser Unterschied ist das, was die meisten beim Bestellen falsch einschätzen."
+          },
+          {
+            "h3": "Ist dickeres Schilf immer besser?"
+          },
+          {
+            "p": "Nein. Dicker kostet mehr und wiegt mehr, und für einen Windschutz oder eine dekorative Abschirmung ist das verschenkt. Passen Sie die Qualität der Aufgabe an: Wenn die Sicht nicht vollständig geschlossen sein muss, sind 5–8 mm oder sogar 3–6 mm der bessere Kauf."
+          },
+          {
+            "h3": "Was ist der Unterschied zwischen geschältem und ungeschältem Schilf?"
+          },
+          {
+            "p": "Nur die Oberfläche. Geschält hat die Haut entfernt für ein glattes, gleichmäßiges, helles Finish; ungeschält behält sie für eine rauere, fleckigere, goldbraune Optik zu einem etwas niedrigeren Preis. Lebensdauer, Dichte und Schimmelresistenz sind identisch."
+          },
+          {
+            "h3": "Wie lange hält ein Schilfrohrzaun?"
+          },
+          {
+            "p": "Mindestens 3–5 Jahre im Freien in einem normalen europäischen Garten, an geschützter Stelle oft länger. Schilf vergraut deutlich weniger sichtbar als unbehandeltes Holz — die natürliche helle Farbe verschiebt sich kaum."
+          },
+          {
+            "h3": "Eignet sich Schilf am Pool oder an der Küste?"
+          },
+          {
+            "p": "Ja, dort ist es sogar eine der besseren Wahlen. Schilf wächst im Wasser, deshalb machen ihm Chlornebel, Salzluft und dauerhafte Feuchtigkeit nichts aus."
+          },
+          {
+            "h3": "Fertigen Sie Sonderhöhen und -längen?"
+          },
+          {
+            "p": "Ja. Jede Qualität wird nach Maß gefertigt und als kompakte Rollen mit vier verkaufsfertigen Verpackungsoptionen geliefert. Private Label und OEM-Verpackung sind willkommen."
+          },
+          {
+            "p": "Sie kaufen für ein Gartencenter, eine Baumarktkette oder den Garten- und Landschaftsbau ein? Wir fertigen alle zehn Schilfvarianten in unserer eigenen Fabrik und verschiffen containerweise an Großhändler in Europa, den USA und Japan — Großhandel und OEM willkommen."
+          }
+        ]
+      },
       "extra-thick-peeled-reed-fence": {
         "title": "Der beste Schilfrohrzaun, den es gibt: extra dickes geschältes Schilf 8–10 mm",
         "excerpt": "Extra dickes geschältes Schilf, 8–10 mm starke Halme in höchster Dichte zu einem vollständig geschlossenen Sichtschutz verwoben — bis zu 100% Sichtschutz und unser hochwertigster Schilfzaun.",
@@ -4663,7 +4846,11 @@
       "reed-top-pergola-dining": "Schilfsichtschutz hinter einer Essterrasse mit Pergola",
       "reed-top-poolside": "Geschälter Schilfsichtschutz am Pool",
       "reed-top-rooftop": "Schilfsichtschutz auf einer Dachterrasse in der Stadt",
-      "reed-top-balcony": "Schilfsichtschutz rund um einen Stadtbalkon"
+      "reed-top-balcony": "Schilfsichtschutz rund um einen Stadtbalkon",
+      "reed-grades-boundary": "Schilfsichtschutz entlang einer langen Grundstücksgrenze",
+      "reed-grades-allotment": "Feiner Schilf-Windschutz im Schrebergarten",
+      "reed-grades-patio": "Schilfsichtschutz über einem Gartenzaun",
+      "reed-grades-cottage": "Ungeschälter Schilfsichtschutz im Bauerngarten"
     }
   },
   "contact": {

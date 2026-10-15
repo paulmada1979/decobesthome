@@ -21,6 +21,19 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Hub guide for the reed range: the 3-6 / 5-8 / 8-10 mm ladder. Links out to
+    // three variant pages and the range page, which is the point of it -- those
+    // pages are what need the internal links. Images placed inline via {img}.
+    id: "reed-fencing-grades",
+    slug: "reed-fencing-grades",
+    image: "/images/blog/reed-grades-hero.webp",
+    href: "https://www.decobesthome.com/blog/reed-fencing-grades",
+    date: "2026-10-15",
+    readMins: 8,
+    category: "reed",
+    images: [],
+  },
+  {
     // Top-grade reed: extra-thick peeled 8-10 mm. Links to its variant page.
     // Images placed inline via {img} blocks, so images[] stays empty.
     id: "extra-thick-peeled-reed-fence",

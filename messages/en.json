@@ -923,7 +923,7 @@
                 "desc": "Top quality — up to 100% privacy, fully closed."
               },
               {
-                "img": "v/thick-peeled-5-8mm-main.webp",
+                "img": "v/thick-peeled-5-8mm-main-v2.webp",
                 "href": "/products/reed-fencing/thick-peeled-5-8mm",
                 "title": "Thick peeled reed fence 5–8 mm",
                 "desc": "High-density all-rounder — up to ≈ 90% privacy."
@@ -935,7 +935,7 @@
                 "desc": "Fine stems, refined surface — up to ≈ 80% privacy."
               },
               {
-                "img": "v/cheap-peeled-3-6mm-main.webp",
+                "img": "v/cheap-peeled-3-6mm-main-v2.webp",
                 "href": "/products/reed-fencing/cheap-peeled-3-6mm",
                 "title": "Budget peeled reed fence 3–6 mm",
                 "desc": "Our cheapest peeled reed — light screening, ≈ 50% privacy."
@@ -2995,6 +2995,189 @@
     "readArticle": "Read the article",
     "readMore": "Read more",
     "posts": {
+      "reed-fencing-grades": {
+        "title": "Reed Fencing Grades Explained: 3–6, 5–8 and 8–10 mm",
+        "excerpt": "Stem thickness is what decides privacy, price and lifespan. A straight guide to the three reed grades, peeled versus unpeeled, and which one to order.",
+        "cat": "Reed fencing",
+        "date": "October 2026",
+        "body": [
+          {
+            "p": "Every reed fence looks roughly the same in a photograph. Standing in front of one, the difference is obvious — one screen closes a garden completely, another lets you see shapes and movement through it. That difference is not about brand or price. It comes down to a single measurement: the diameter of the reed stems, and how tightly they are woven."
+          },
+          {
+            "h2": "The one number that decides everything"
+          },
+          {
+            "p": "Reed is graded by stem diameter in millimetres. Three grades cover almost every job, and the jump between them is bigger than the numbers suggest, because a thicker stem both blocks more light and sits more tightly against its neighbours."
+          },
+          {
+            "ul": [
+              "3–6 mm — fine reed. Light, inexpensive, roughly half the view closed. A windbreak and a softener, not a wall.",
+              "5–8 mm — thick reed. The standard garden grade. Around 90% closed: solid privacy at a sensible price.",
+              "8–10 mm — extra-thick reed. Up to 100% closed. No view through, in either direction."
+            ]
+          },
+          {
+            "p": "Price follows the same ladder, and so does the weight of a roll — which matters when you are fixing a 5 m length to an existing fence on your own."
+          },
+          {
+            "h2": "Fine reed, 3–6 mm — the budget grade"
+          },
+          {
+            "p": "Fine reed is the entry grade and it is honest about what it does. The stems are slim, the roll is light, and with the sun behind it you will see daylight between the stems. Roughly half the view is closed."
+          },
+          {
+            "img": "/images/blog/reed-grades-1.webp"
+          },
+          {
+            "img": "/images/reed/v/cheap-peeled-3-6mm-main-v2.webp"
+          },
+          {
+            "p": "That makes it right for jobs where total privacy is not the point: a windbreak on an allotment, softening a wire mesh fence, a light screen around bins or a compost corner, or a seasonal cover you expect to replace in a few years. It is the cheapest way to make a boundary look natural, and the easiest to handle single-handed."
+          },
+          {
+            "cta": {
+              "label": "See the fine peeled reed fence 3–6 mm",
+              "href": "/products/reed-fencing/cheap-peeled-3-6mm"
+            }
+          },
+          {
+            "h2": "Thick reed, 5–8 mm — the standard"
+          },
+          {
+            "p": "Thick reed is the grade most people actually want. The stems are substantial enough to sit tight against one another, and an installed screen closes roughly 90% of the view — enough that a neighbour sees a wall, not a silhouette."
+          },
+          {
+            "img": "/images/blog/reed-grades-2.webp"
+          },
+          {
+            "img": "/images/reed/v/thick-peeled-5-8mm-main-v2.webp"
+          },
+          {
+            "p": "It is the sensible default for a garden boundary, a patio, a balcony or a pool surround: solid privacy, a weight you can still lift onto a fence alone, and a price that works when you are covering twenty or thirty metres. If you are not sure which grade to order, order this one."
+          },
+          {
+            "cta": {
+              "label": "See the thick peeled reed fence 5–8 mm",
+              "href": "/products/reed-fencing/thick-peeled-5-8mm"
+            }
+          },
+          {
+            "h2": "Extra-thick reed, 8–10 mm — the top grade"
+          },
+          {
+            "p": "Extra-thick reed is the top of the range. The stems are almost like slim canes, and at our highest weaving density they leave nothing in between — up to 100% privacy, with no gaps that open up as the light moves round during the day."
+          },
+          {
+            "img": "/images/reed/v/extra-thick-peeled-8-10mm-main-v3.webp"
+          },
+          {
+            "p": "Choose it when privacy is the whole point of the job rather than a nice-to-have: a terrace overlooked by a neighbouring window, a pool you want to use without an audience, a restaurant courtyard that has to feel enclosed. It costs more and weighs more, and in those situations it is the only grade that actually finishes the job."
+          },
+          {
+            "cta": {
+              "label": "See the extra-thick peeled reed fence 8–10 mm",
+              "href": "/products/reed-fencing/extra-thick-peeled-8-10mm"
+            }
+          },
+          {
+            "h2": "Peeled or unpeeled?"
+          },
+          {
+            "p": "Thickness decides privacy. The skin decides how it looks. Peeled reed has had its outer layer removed, leaving a smooth, clean, pale blond stem with an even colour. Unpeeled reed keeps the skin: rougher, more mottled, more golden-brown — and a little cheaper."
+          },
+          {
+            "img": "/images/blog/reed-grades-3.webp"
+          },
+          {
+            "p": "Neither lasts longer than the other, both resist mould, and neither has any smell. Peeled reads as a deliberate material and sits comfortably against white render, limestone, dark steel and glass, which is why it turns up on architect-led terraces. Unpeeled reads rustic and belongs in a cottage garden, on a smallholding, or anywhere a little weathering is part of the charm."
+          },
+          {
+            "h2": "Three specialities worth knowing"
+          },
+          {
+            "p": "Alongside the main grades we make three screens that solve particular problems:"
+          },
+          {
+            "ul": [
+              "Japanese-style reed with bamboo — reed panels framed with bamboo, for a formal, finished edge.",
+              "Split reed — half-round split stems that give a flatter, tidier face than round reed.",
+              "Italian-style peeled reed — peeled reed woven with green nylon thread, for a decorative straw-and-green look."
+            ]
+          },
+          {
+            "h2": "Which grade should you order?"
+          },
+          {
+            "ul": [
+              "You want a windbreak, or to hide a wire fence, and you do not mind seeing light through it → 3–6 mm.",
+              "You want your garden private from the neighbours at a sensible price → 5–8 mm. This is the right answer most of the time.",
+              "You want no view through at all, or the screen is the main feature of the space → 8–10 mm.",
+              "You want rustic rather than refined, whatever the thickness → choose unpeeled."
+            ]
+          },
+          {
+            "h2": "Lifespan and fitting"
+          },
+          {
+            "ul": [
+              "Expect at least 3–5 years outdoors in a normal European garden, longer in a sheltered spot. The natural colour changes very little over that time.",
+              "Reed is a wetland plant: salt air, pool chlorine and permanent damp are not a problem, which is why it suits coastal and poolside positions.",
+              "Fix it to what you already have — a wire fence, a timber frame or a balcony railing. Reed is light enough that it rarely needs posts of its own.",
+              "Fix every 30–40 cm along the top first, then the bottom, then the middle, using UV-stable cable ties or galvanised binding wire.",
+              "Butt the rolls edge to edge at joins rather than overlapping, and leave a small gap at ground level so water drains and air moves behind the screen."
+            ]
+          },
+          {
+            "cta": {
+              "label": "See the full reed fencing range",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Frequently asked questions"
+          },
+          {
+            "h3": "Which reed grade is the most private?"
+          },
+          {
+            "p": "8–10 mm extra-thick, which closes up to 100% of the view. 5–8 mm closes around 90% and 3–6 mm around half. That gap is the single thing most people get wrong when ordering."
+          },
+          {
+            "h3": "Is thicker reed always better?"
+          },
+          {
+            "p": "No. Thicker costs more and weighs more, and for a windbreak or a decorative screen it is wasted. Match the grade to the job: if you do not need to block the view completely, 5–8 mm or even 3–6 mm is the better buy."
+          },
+          {
+            "h3": "What is the difference between peeled and unpeeled reed?"
+          },
+          {
+            "p": "Only the surface. Peeled has the skin removed for a smooth, even, pale finish; unpeeled keeps it for a rougher, more mottled, golden-brown look at a slightly lower price. Lifespan, density and mould resistance are identical."
+          },
+          {
+            "h3": "How long does a reed fence last?"
+          },
+          {
+            "p": "At least 3–5 years outdoors in a normal European garden, and often longer in a sheltered position. Reed weathers far less visibly than untreated timber — the natural pale colour barely shifts."
+          },
+          {
+            "h3": "Can reed fencing be used by a pool or on the coast?"
+          },
+          {
+            "p": "Yes, and it is one of the better choices there. Reed grows in water, so chlorine spray, salt air and permanent damp do not trouble it."
+          },
+          {
+            "h3": "Do you make custom heights and lengths?"
+          },
+          {
+            "p": "Yes. Every grade is made to size and ships as compact rolls with four retail-ready packing options. Private label and OEM packaging are welcome."
+          },
+          {
+            "p": "Buying for a garden centre, DIY chain or the landscape trade? We make all ten reed types at our own factory and ship by the container to wholesalers across Europe, the USA and Japan — wholesale and OEM welcome."
+          }
+        ]
+      },
       "extra-thick-peeled-reed-fence": {
         "title": "The Best Reed Fence You Can Buy: Extra-Thick Peeled Reed 8–10 mm",
         "excerpt": "Extra-thick peeled reed, 8–10 mm stems woven at maximum density into a fully closed screen — up to 100% privacy and the most premium reed fence we make.",
@@ -4669,7 +4852,11 @@
       "reed-top-pergola-dining": "Reed screen behind a pergola dining terrace",
       "reed-top-poolside": "Peeled reed privacy screen by the pool",
       "reed-top-rooftop": "Reed screening on a city rooftop terrace",
-      "reed-top-balcony": "Reed screen wrapping a city balcony"
+      "reed-top-balcony": "Reed screen wrapping a city balcony",
+      "reed-grades-boundary": "Reed screen along a long garden boundary",
+      "reed-grades-allotment": "Fine reed windbreak on an allotment",
+      "reed-grades-patio": "Reed screening over a suburban garden fence",
+      "reed-grades-cottage": "Unpeeled reed screen in a cottage garden"
     }
   },
   "contact": {

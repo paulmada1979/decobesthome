@@ -35,9 +35,35 @@ export const reedVariants: ReedVariant[] = [
       "/images/reed/v/extra-thick-peeled-8-10mm-g4.webp",
     ],
   },
-  { id: "thick-peeled-5-8mm", privacyPct: 90, ...v("thick-peeled-5-8mm", 4, 1) },
+  {
+    id: "thick-peeled-5-8mm",
+    privacyPct: 90,
+    // Main shot re-cropped to 640x400 (supplier logo off the top), matching the
+    // 8-10 mm crop so the grades compare like for like in the grades guide.
+    hero: "/images/reed/v/thick-peeled-5-8mm-hero.webp",
+    gallery: [
+      "/images/reed/v/thick-peeled-5-8mm-main-v2.webp",
+      "/images/reed/v/thick-peeled-5-8mm-g1.webp",
+      "/images/reed/v/thick-peeled-5-8mm-g2.webp",
+      "/images/reed/v/thick-peeled-5-8mm-g3.webp",
+      "/images/reed/v/thick-peeled-5-8mm-g4.webp",
+      "/images/reed/v/thick-peeled-5-8mm-w1.webp",
+    ],
+  },
   { id: "high-density-fine-3-6mm", privacyPct: 80, ...v("high-density-fine-3-6mm", 2) },
-  { id: "cheap-peeled-3-6mm", privacyPct: 50, ...v("cheap-peeled-3-6mm", 4) },
+  {
+    id: "cheap-peeled-3-6mm",
+    privacyPct: 50,
+    // Same re-crop as above.
+    hero: "/images/reed/v/cheap-peeled-3-6mm-hero.webp",
+    gallery: [
+      "/images/reed/v/cheap-peeled-3-6mm-main-v2.webp",
+      "/images/reed/v/cheap-peeled-3-6mm-g1.webp",
+      "/images/reed/v/cheap-peeled-3-6mm-g2.webp",
+      "/images/reed/v/cheap-peeled-3-6mm-g3.webp",
+      "/images/reed/v/cheap-peeled-3-6mm-g4.webp",
+    ],
+  },
   { id: "extra-thick-unpeeled-8-10mm", privacyPct: 100, ...v("extra-thick-unpeeled-8-10mm", 2) },
   {
     id: "thick-unpeeled-5-8mm",

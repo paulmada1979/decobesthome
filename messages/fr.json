@@ -922,7 +922,7 @@
                 "desc": "Qualité supérieure — jusqu'à 100% d'occultation, entièrement fermée."
               },
               {
-                "img": "v/thick-peeled-5-8mm-main.webp",
+                "img": "v/thick-peeled-5-8mm-main-v2.webp",
                 "href": "/products/reed-fencing/thick-peeled-5-8mm",
                 "title": "Canisse de roseau pelé épais 5–8 mm",
                 "desc": "Polyvalente haute densité — jusqu'à ≈ 90% d'occultation."
@@ -934,7 +934,7 @@
                 "desc": "Tiges fines, surface raffinée — jusqu'à ≈ 80% d'occultation."
               },
               {
-                "img": "v/cheap-peeled-3-6mm-main.webp",
+                "img": "v/cheap-peeled-3-6mm-main-v2.webp",
                 "href": "/products/reed-fencing/cheap-peeled-3-6mm",
                 "title": "Canisse de roseau pelé économique 3–6 mm",
                 "desc": "Notre roseau pelé le moins cher — occultation légère, ≈ 50% d'intimité."
@@ -2989,6 +2989,189 @@
     "readArticle": "Lire l'article",
     "readMore": "Lire la suite",
     "posts": {
+      "reed-fencing-grades": {
+        "title": "Canisses de roseau par épaisseur : 3–6, 5–8 et 8–10 mm",
+        "excerpt": "L'épaisseur des tiges décide de l'intimité, du prix et de la durée de vie. Un guide clair des trois qualités de roseau, pelé ou brut, et laquelle commander.",
+        "cat": "Canisses de roseau",
+        "date": "Octobre 2026",
+        "body": [
+          {
+            "p": "Sur une photo, toutes les canisses de roseau se ressemblent. Devant l'une d'elles, la différence saute aux yeux : un brise-vue ferme complètement un jardin, à travers un autre on distingue les formes et les mouvements. Cette différence ne tient ni à la marque ni au prix. Elle tient à une seule mesure : le diamètre des tiges et la densité du tissage."
+          },
+          {
+            "h2": "Le seul chiffre qui décide de tout"
+          },
+          {
+            "p": "Le roseau se classe selon le diamètre des tiges, en millimètres. Trois qualités couvrent presque tous les chantiers, et l'écart entre elles est plus grand que les chiffres ne le laissent croire : une tige plus épaisse arrête davantage de lumière et se serre aussi davantage contre ses voisines."
+          },
+          {
+            "ul": [
+              "3–6 mm — roseau fin. Léger, bon marché, environ la moitié de la vue fermée. Un brise-vent et un adoucisseur, pas un mur.",
+              "5–8 mm — roseau épais. La qualité standard pour un jardin. Environ 90% fermé : une intimité solide à un prix raisonnable.",
+              "8–10 mm — roseau extra-épais. Jusqu'à 100% fermé. Aucune vue à travers, dans un sens comme dans l'autre."
+            ]
+          },
+          {
+            "p": "Le prix suit la même échelle, et le poids d'un rouleau aussi — ce qui compte quand on fixe 5 mètres sur une clôture existante tout seul."
+          },
+          {
+            "h2": "Roseau fin, 3–6 mm — l'entrée de gamme"
+          },
+          {
+            "p": "Le roseau fin est l'entrée de gamme et il est honnête sur ce qu'il fait. Les tiges sont minces, le rouleau est léger, et avec le soleil derrière on voit la lumière du jour passer entre les tiges. Environ la moitié de la vue est fermée."
+          },
+          {
+            "img": "/images/blog/reed-grades-1.webp"
+          },
+          {
+            "img": "/images/reed/v/cheap-peeled-3-6mm-main-v2.webp"
+          },
+          {
+            "p": "Cela le rend adapté aux chantiers où l'intimité totale n'est pas le but : un brise-vent sur un jardin ouvrier, masquer un grillage, un écran léger autour des poubelles ou d'un coin compost, ou une protection saisonnière que l'on compte remplacer dans quelques années. C'est la façon la moins chère de rendre une limite naturelle, et la plus facile à manipuler seul."
+          },
+          {
+            "cta": {
+              "label": "Voir la canisse de roseau pelé fin 3–6 mm",
+              "href": "/products/reed-fencing/cheap-peeled-3-6mm"
+            }
+          },
+          {
+            "h2": "Roseau épais, 5–8 mm — le standard"
+          },
+          {
+            "p": "Le roseau épais est la qualité que la plupart des gens veulent réellement. Les tiges sont assez solides pour se serrer les unes contre les autres, et un brise-vue posé ferme environ 90% de la vue — assez pour que le voisin voie un mur et non une silhouette."
+          },
+          {
+            "img": "/images/blog/reed-grades-2.webp"
+          },
+          {
+            "img": "/images/reed/v/thick-peeled-5-8mm-main-v2.webp"
+          },
+          {
+            "p": "C'est le choix par défaut raisonnable pour une limite de propriété, une terrasse, un balcon ou un tour de piscine : une intimité solide, un poids que l'on soulève encore seul jusqu'à la clôture, et un prix qui tient quand il faut couvrir vingt ou trente mètres. Si vous hésitez sur la qualité à commander, prenez celle-ci."
+          },
+          {
+            "cta": {
+              "label": "Voir la canisse de roseau pelé épais 5–8 mm",
+              "href": "/products/reed-fencing/thick-peeled-5-8mm"
+            }
+          },
+          {
+            "h2": "Roseau extra-épais, 8–10 mm — le haut de gamme"
+          },
+          {
+            "p": "Le roseau extra-épais est le sommet de la gamme. Les tiges ressemblent presque à de fines cannes et, à notre densité de tissage maximale, elles ne laissent rien entre elles : jusqu'à 100% d'intimité, sans jours qui s'ouvrent quand la lumière tourne au fil de la journée."
+          },
+          {
+            "img": "/images/reed/v/extra-thick-peeled-8-10mm-main-v3.webp"
+          },
+          {
+            "p": "Choisissez-le quand l'intimité est tout l'objet du chantier et non un bonus : une terrasse en vis-à-vis avec la fenêtre du voisin, une piscine dont on veut profiter sans public, une cour de restaurant qui doit se sentir close. Il coûte plus cher et pèse plus lourd, et dans ces situations c'est la seule qualité qui termine vraiment le travail."
+          },
+          {
+            "cta": {
+              "label": "Voir la canisse de roseau pelé extra-épais 8–10 mm",
+              "href": "/products/reed-fencing/extra-thick-peeled-8-10mm"
+            }
+          },
+          {
+            "h2": "Pelé ou brut ?"
+          },
+          {
+            "p": "L'épaisseur décide de l'intimité. La peau décide de l'allure. Le roseau pelé a été débarrassé de sa couche extérieure : il en reste une tige lisse, nette, blond clair, de couleur régulière. Le roseau non pelé garde sa peau : plus rugueux, plus marbré, plus brun doré — et un peu moins cher."
+          },
+          {
+            "img": "/images/blog/reed-grades-3.webp"
+          },
+          {
+            "p": "Aucun ne dure plus que l'autre, les deux résistent aux moisissures et aucun ne dégage d'odeur. Le pelé se lit comme un choix de matériau assumé et s'accorde sans effort avec un enduit blanc, la pierre calcaire, l'acier sombre et le verre, ce qui explique sa présence sur les terrasses dessinées par des architectes. Le brut se lit rustique et a sa place dans un jardin de campagne, sur une petite ferme, ou partout où un peu de patine fait partie du charme."
+          },
+          {
+            "h2": "Trois spécialités à connaître"
+          },
+          {
+            "p": "À côté des qualités principales, nous fabriquons trois brise-vue qui répondent à des besoins particuliers :"
+          },
+          {
+            "ul": [
+              "Roseau de style japonais avec bambou — des panneaux de roseau encadrés de bambou, pour une bordure formelle et finie.",
+              "Roseau fendu — des tiges fendues en demi-rond qui donnent une face plus plate et plus nette que le roseau rond.",
+              "Roseau pelé de style italien — du roseau pelé tissé avec un fil de nylon vert, pour un effet décoratif paille et vert."
+            ]
+          },
+          {
+            "h2": "Quelle qualité commander ?"
+          },
+          {
+            "ul": [
+              "Vous voulez un brise-vent, ou masquer un grillage, et voir un peu de lumière à travers ne vous dérange pas → 3–6 mm.",
+              "Vous voulez un jardin à l'abri des voisins à un prix raisonnable → 5–8 mm. C'est la bonne réponse la plupart du temps.",
+              "Vous ne voulez aucune vue à travers, ou le brise-vue est l'élément principal de l'espace → 8–10 mm.",
+              "Vous voulez du rustique plutôt que du raffiné, quelle que soit l'épaisseur → prenez du brut."
+            ]
+          },
+          {
+            "h2": "Durée de vie et pose"
+          },
+          {
+            "ul": [
+              "Comptez au moins 3–5 ans en extérieur dans un jardin européen classique, davantage en situation abritée. La couleur naturelle évolue très peu sur cette durée.",
+              "Le roseau est une plante des zones humides : l'air salin, le chlore de la piscine et l'humidité permanente ne posent pas de problème, d'où sa place en bord de mer et au bord d'une piscine.",
+              "Fixez-le sur l'existant — un grillage, un cadre bois ou un garde-corps de balcon. Le roseau est assez léger pour rarement exiger ses propres poteaux.",
+              "Fixez tous les 30–40 cm, d'abord en haut, puis en bas, puis au milieu, avec des colliers résistants aux UV ou du fil de ligature galvanisé.",
+              "Aux raccords, aboutez les rouleaux bord à bord plutôt que de les superposer, et laissez un petit jeu au sol pour que l'eau s'évacue et que l'air circule derrière."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Voir toute la gamme de canisses de roseau",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Questions fréquentes"
+          },
+          {
+            "h3": "Quelle qualité de roseau est la plus occultante ?"
+          },
+          {
+            "p": "L'extra-épais 8–10 mm, qui ferme jusqu'à 100% de la vue. Le 5–8 mm ferme environ 90% et le 3–6 mm environ la moitié. C'est précisément cet écart que la plupart des gens évaluent mal au moment de commander."
+          },
+          {
+            "h3": "Un roseau plus épais est-il toujours meilleur ?"
+          },
+          {
+            "p": "Non. Plus épais coûte plus cher et pèse plus lourd, et pour un brise-vent ou un écran décoratif c'est de l'argent perdu. Adaptez la qualité au chantier : s'il n'est pas nécessaire d'occulter complètement, le 5–8 mm ou même le 3–6 mm est le meilleur achat."
+          },
+          {
+            "h3": "Quelle est la différence entre roseau pelé et non pelé ?"
+          },
+          {
+            "p": "Uniquement la surface. Le pelé a sa peau retirée pour un rendu lisse, régulier et clair ; le non pelé la conserve pour un aspect plus rugueux, plus marbré, brun doré, à un prix légèrement inférieur. Durée de vie, densité et résistance aux moisissures sont identiques."
+          },
+          {
+            "h3": "Combien de temps dure une canisse de roseau ?"
+          },
+          {
+            "p": "Au moins 3–5 ans en extérieur dans un jardin européen classique, souvent plus en situation abritée. Le roseau grise bien moins visiblement que le bois non traité : la couleur claire naturelle bouge à peine."
+          },
+          {
+            "h3": "Peut-on poser du roseau au bord d'une piscine ou en bord de mer ?"
+          },
+          {
+            "p": "Oui, et c'est même l'un des meilleurs choix dans ces situations. Le roseau pousse dans l'eau : les embruns de chlore, l'air salin et l'humidité permanente ne l'atteignent pas."
+          },
+          {
+            "h3": "Fabriquez-vous des hauteurs et longueurs sur mesure ?"
+          },
+          {
+            "p": "Oui. Chaque qualité est fabriquée sur mesure et expédiée en rouleaux compacts avec quatre options de conditionnement prêtes pour la vente. Marque blanche et emballage OEM bienvenus."
+          },
+          {
+            "p": "Vous achetez pour une jardinerie, une enseigne de bricolage ou le secteur du paysage ? Nous fabriquons les dix types de roseau dans notre propre usine et expédions par conteneur aux grossistes d'Europe, des États-Unis et du Japon — grossistes et OEM bienvenus."
+          }
+        ]
+      },
       "extra-thick-peeled-reed-fence": {
         "title": "La meilleure canisse de roseau : roseau pelé extra-épais 8–10 mm",
         "excerpt": "Roseau pelé extra-épais, tiges de 8–10 mm tissées à densité maximale en un brise-vue totalement fermé : jusqu'à 100% d'intimité et la canisse de roseau la plus haut de gamme que nous fabriquions.",
@@ -4663,7 +4846,11 @@
       "reed-top-pergola-dining": "Canisse de roseau derrière une terrasse-repas sous pergola",
       "reed-top-poolside": "Brise-vue en roseau pelé au bord de la piscine",
       "reed-top-rooftop": "Canisse de roseau sur un toit-terrasse en ville",
-      "reed-top-balcony": "Canisse de roseau entourant un balcon de ville"
+      "reed-top-balcony": "Canisse de roseau entourant un balcon de ville",
+      "reed-grades-boundary": "Canisse de roseau le long d'une longue limite",
+      "reed-grades-allotment": "Brise-vent en roseau fin sur un jardin ouvrier",
+      "reed-grades-patio": "Canisse de roseau sur une clôture de jardin",
+      "reed-grades-cottage": "Canisse de roseau brut dans un jardin de campagne"
     }
   },
   "contact": {

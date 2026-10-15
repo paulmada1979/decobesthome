@@ -920,7 +920,7 @@
                 "desc": "Calidad superior — hasta el 100% de ocultación, totalmente cerrado."
               },
               {
-                "img": "v/thick-peeled-5-8mm-main.webp",
+                "img": "v/thick-peeled-5-8mm-main-v2.webp",
                 "href": "/products/reed-fencing/thick-peeled-5-8mm",
                 "title": "Cañizo pelado grueso 5–8 mm",
                 "desc": "El todoterreno de alta densidad — hasta ≈ 90% de ocultación."
@@ -932,7 +932,7 @@
                 "desc": "Cañas finas, superficie refinada — hasta ≈ 80% de ocultación."
               },
               {
-                "img": "v/cheap-peeled-3-6mm-main.webp",
+                "img": "v/cheap-peeled-3-6mm-main-v2.webp",
                 "href": "/products/reed-fencing/cheap-peeled-3-6mm",
                 "title": "Cañizo pelado económico 3–6 mm",
                 "desc": "Nuestra caña pelada más barata — ocultación ligera, ≈ 50% de privacidad."
@@ -2982,6 +2982,189 @@
     "readArticle": "Leer el artículo",
     "readMore": "Leer más",
     "posts": {
+      "reed-fencing-grades": {
+        "title": "Cañizos por grosor: 3–6, 5–8 y 8–10 mm explicados",
+        "excerpt": "El grosor del tallo es lo que decide la privacidad, el precio y la duración. Una guía clara de los tres grados de caña, pelada o sin pelar, y cuál pedir.",
+        "cat": "Vallas de caña",
+        "date": "Octubre de 2026",
+        "body": [
+          {
+            "p": "En una foto todos los cañizos se parecen. Delante de uno, la diferencia es evidente: una pantalla cierra el jardín por completo y a través de otra se ven formas y movimiento. Esa diferencia no tiene que ver con la marca ni con el precio. Se reduce a una sola medida: el diámetro de los tallos y lo apretado del tejido."
+          },
+          {
+            "h2": "El único número que lo decide todo"
+          },
+          {
+            "p": "La caña se clasifica por el diámetro del tallo en milímetros. Tres grados cubren casi cualquier trabajo, y el salto entre ellos es mayor de lo que sugieren las cifras, porque un tallo más grueso bloquea más luz y además queda más apretado contra sus vecinos."
+          },
+          {
+            "ul": [
+              "3–6 mm — caña fina. Ligera, barata, cierra aproximadamente la mitad de la vista. Un cortavientos y un suavizante, no un muro.",
+              "5–8 mm — caña gruesa. El grado estándar de jardín. Alrededor del 90% cerrada: privacidad sólida a un precio sensato.",
+              "8–10 mm — caña extragruesa. Hasta el 100% cerrada. Sin vista a través, en ninguna dirección."
+            ]
+          },
+          {
+            "p": "El precio sigue la misma escalera, y el peso del rollo también, lo que importa cuando está fijando 5 metros a una valla existente usted solo."
+          },
+          {
+            "h2": "Caña fina, 3–6 mm — el grado económico"
+          },
+          {
+            "p": "La caña fina es el grado de entrada y es honesta sobre lo que hace. Los tallos son delgados, el rollo es ligero y, con el sol detrás, verá la luz del día entre los tallos. Cierra aproximadamente la mitad de la vista."
+          },
+          {
+            "img": "/images/blog/reed-grades-1.webp"
+          },
+          {
+            "img": "/images/reed/v/cheap-peeled-3-6mm-main-v2.webp"
+          },
+          {
+            "p": "Eso la hace adecuada para trabajos donde la privacidad total no es el objetivo: un cortavientos en un huerto, disimular una valla de malla metálica, una pantalla ligera alrededor de los cubos de basura o un rincón de compost, o una cubierta de temporada que piensa reemplazar en unos años. Es la forma más barata de hacer que un lindero parezca natural y la más fácil de manejar en solitario."
+          },
+          {
+            "cta": {
+              "label": "Ver la valla de caña pelada fina 3–6 mm",
+              "href": "/products/reed-fencing/cheap-peeled-3-6mm"
+            }
+          },
+          {
+            "h2": "Caña gruesa, 5–8 mm — el estándar"
+          },
+          {
+            "p": "La caña gruesa es el grado que la mayoría quiere en realidad. Los tallos son lo bastante robustos para quedar apretados entre sí, y una pantalla instalada cierra en torno al 90% de la vista: suficiente para que el vecino vea un muro y no una silueta."
+          },
+          {
+            "img": "/images/blog/reed-grades-2.webp"
+          },
+          {
+            "img": "/images/reed/v/thick-peeled-5-8mm-main-v2.webp"
+          },
+          {
+            "p": "Es la opción sensata por defecto para un lindero, una terraza, un balcón o el perímetro de una piscina: privacidad sólida, un peso que aún puede levantar solo hasta la valla y un precio que funciona cuando hay que cubrir veinte o treinta metros. Si no está seguro de qué grado pedir, pida este."
+          },
+          {
+            "cta": {
+              "label": "Ver la valla de caña pelada gruesa 5–8 mm",
+              "href": "/products/reed-fencing/thick-peeled-5-8mm"
+            }
+          },
+          {
+            "h2": "Caña extragruesa, 8–10 mm — el grado superior"
+          },
+          {
+            "p": "La caña extragruesa es lo más alto de la gama. Los tallos son casi como cañas delgadas y, a nuestra máxima densidad de tejido, no dejan nada en medio: hasta un 100% de privacidad, sin huecos que se abran según gira la luz a lo largo del día."
+          },
+          {
+            "img": "/images/reed/v/extra-thick-peeled-8-10mm-main-v3.webp"
+          },
+          {
+            "p": "Elíjala cuando la privacidad sea todo el objetivo del trabajo y no un extra: una terraza a la que asoma la ventana del vecino, una piscina que quiere usar sin público, un patio de restaurante que debe sentirse cerrado. Cuesta más y pesa más, y en esas situaciones es el único grado que realmente termina el trabajo."
+          },
+          {
+            "cta": {
+              "label": "Ver la valla de caña pelada extragruesa 8–10 mm",
+              "href": "/products/reed-fencing/extra-thick-peeled-8-10mm"
+            }
+          },
+          {
+            "h2": "¿Pelada o sin pelar?"
+          },
+          {
+            "p": "El grosor decide la privacidad. La piel decide el aspecto. A la caña pelada se le ha retirado la capa exterior, dejando un tallo liso, limpio y rubio claro de color uniforme. La caña sin pelar conserva la piel: más rugosa, más moteada, más marrón dorada… y algo más barata."
+          },
+          {
+            "img": "/images/blog/reed-grades-3.webp"
+          },
+          {
+            "p": "Ninguna dura más que la otra, ambas resisten el moho y ninguna desprende olor. La pelada se lee como una elección de material deliberada y convive sin esfuerzo con el revoco blanco, la piedra caliza, el acero oscuro y el vidrio, por eso aparece en terrazas firmadas por arquitectos. La sin pelar se lee rústica y pertenece a un jardín de campo, a una pequeña finca o a cualquier sitio donde un poco de desgaste forme parte del encanto."
+          },
+          {
+            "h2": "Tres especialidades que conviene conocer"
+          },
+          {
+            "p": "Junto a los grados principales fabricamos tres pantallas que resuelven problemas concretos:"
+          },
+          {
+            "ul": [
+              "Caña de estilo japonés con bambú — paneles de caña enmarcados con bambú, para un borde formal y acabado.",
+              "Caña partida — tallos partidos en media caña que dan una cara más plana y ordenada que la caña redonda.",
+              "Caña pelada de estilo italiano — caña pelada tejida con hilo de nailon verde, para un aspecto decorativo de paja y verde."
+            ]
+          },
+          {
+            "h2": "¿Qué grado debe pedir?"
+          },
+          {
+            "ul": [
+              "Quiere un cortavientos, o tapar una valla metálica, y no le importa ver luz a través → 3–6 mm.",
+              "Quiere su jardín privado frente a los vecinos a un precio sensato → 5–8 mm. Esta es la respuesta correcta la mayoría de las veces.",
+              "No quiere ninguna vista a través, o la pantalla es el elemento principal del espacio → 8–10 mm.",
+              "Quiere rústico en lugar de refinado, sea cual sea el grosor → elija sin pelar."
+            ]
+          },
+          {
+            "h2": "Duración y montaje"
+          },
+          {
+            "ul": [
+              "Cuente con al menos 3–5 años en el exterior en un jardín europeo normal, más en una posición resguardada. El color natural cambia muy poco en ese tiempo.",
+              "La caña es una planta de humedal: el aire salino, el cloro de la piscina y la humedad permanente no son un problema, por eso encaja en posiciones costeras y junto a la piscina.",
+              "Fíjela a lo que ya tiene: una valla de alambre, un bastidor de madera o una barandilla de balcón. La caña es lo bastante ligera como para rara vez necesitar postes propios.",
+              "Fije cada 30–40 cm, primero por arriba, luego por abajo y después por el centro, con bridas resistentes a los rayos UV o alambre galvanizado.",
+              "En las uniones, junte los rollos borde con borde en lugar de solaparlos, y deje una pequeña separación a ras de suelo para que el agua drene y el aire circule por detrás."
+            ]
+          },
+          {
+            "cta": {
+              "label": "Ver toda la gama de vallas de caña",
+              "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "h2": "Preguntas frecuentes"
+          },
+          {
+            "h3": "¿Qué grado de caña da más privacidad?"
+          },
+          {
+            "p": "El extragrueso de 8–10 mm, que cierra hasta el 100% de la vista. El de 5–8 mm cierra alrededor del 90% y el de 3–6 mm alrededor de la mitad. Esa diferencia es lo único que la mayoría calcula mal al pedir."
+          },
+          {
+            "h3": "¿La caña más gruesa es siempre mejor?"
+          },
+          {
+            "p": "No. Más gruesa cuesta más y pesa más, y para un cortavientos o una pantalla decorativa es dinero tirado. Ajuste el grado al trabajo: si no necesita bloquear la vista por completo, 5–8 mm o incluso 3–6 mm es la mejor compra."
+          },
+          {
+            "h3": "¿Cuál es la diferencia entre caña pelada y sin pelar?"
+          },
+          {
+            "p": "Solo la superficie. La pelada tiene la piel retirada para un acabado liso, uniforme y claro; la sin pelar la conserva para un aspecto más rugoso, moteado y marrón dorado a un precio algo menor. La duración, la densidad y la resistencia al moho son idénticas."
+          },
+          {
+            "h3": "¿Cuánto dura un cañizo?"
+          },
+          {
+            "p": "Al menos 3–5 años en el exterior en un jardín europeo normal, y a menudo más en una posición resguardada. La caña envejece de forma mucho menos visible que la madera sin tratar: el color claro natural apenas se mueve."
+          },
+          {
+            "h3": "¿Se puede usar cañizo junto a una piscina o en la costa?"
+          },
+          {
+            "p": "Sí, y allí es una de las mejores opciones. La caña crece en el agua, así que la neblina de cloro, el aire salino y la humedad permanente no le afectan."
+          },
+          {
+            "h3": "¿Fabrican alturas y longitudes a medida?"
+          },
+          {
+            "p": "Sí. Cada grado se fabrica a medida y se envía en rollos compactos con cuatro opciones de embalaje listas para retail. Aceptamos marca blanca y embalaje OEM."
+          },
+          {
+            "p": "¿Compra para un centro de jardinería, una cadena de bricolaje o el sector del paisajismo? Fabricamos los diez tipos de caña en nuestra propia fábrica y enviamos por contenedor a mayoristas de Europa, Estados Unidos y Japón: mayoristas y OEM bienvenidos."
+          }
+        ]
+      },
       "extra-thick-peeled-reed-fence": {
         "title": "La mejor valla de caña que puedes comprar: caña pelada extragruesa de 8–10 mm",
         "excerpt": "Caña pelada extragruesa, tallos de 8–10 mm tejidos a la máxima densidad en una pantalla totalmente cerrada: hasta un 100% de privacidad y la valla de caña más premium que fabricamos.",
@@ -4656,7 +4839,11 @@
       "reed-top-pergola-dining": "Pantalla de caña tras una terraza comedor con pérgola",
       "reed-top-poolside": "Pantalla de caña pelada para privacidad junto a la piscina",
       "reed-top-rooftop": "Cañizo en una azotea urbana",
-      "reed-top-balcony": "Cañizo envolviendo un balcón de ciudad"
+      "reed-top-balcony": "Cañizo envolviendo un balcón de ciudad",
+      "reed-grades-boundary": "Cañizo a lo largo de un lindero largo",
+      "reed-grades-allotment": "Cortavientos de caña fina en un huerto",
+      "reed-grades-patio": "Cañizo sobre una valla de jardín",
+      "reed-grades-cottage": "Cañizo sin pelar en un jardín de campo"
     }
   },
   "contact": {

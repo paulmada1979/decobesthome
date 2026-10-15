@@ -56,6 +56,11 @@ export const gallery: GalleryItem[] = [
   { id: "reed-top-poolside", image: "/images/blog/extra-thick-peeled-reed-2.webp", cat: "reed" },
   { id: "reed-top-rooftop", image: "/images/blog/extra-thick-peeled-reed-3.webp", cat: "reed" },
   { id: "reed-top-balcony", image: "/images/blog/extra-thick-peeled-reed-4.webp", cat: "reed" },
+  // Grade-guide scenes (fine 3-6 mm, thick 5-8 mm, unpeeled)
+  { id: "reed-grades-boundary", image: "/images/blog/reed-grades-hero.webp", cat: "reed" },
+  { id: "reed-grades-allotment", image: "/images/blog/reed-grades-1.webp", cat: "reed" },
+  { id: "reed-grades-patio", image: "/images/blog/reed-grades-2.webp", cat: "reed" },
+  { id: "reed-grades-cottage", image: "/images/blog/reed-grades-3.webp", cat: "reed" },
   // More bamboo fencing scenes (from the product pages + journal)
   { id: "fence-lounge-deck", image: "/images/fence/scene-garden.webp", cat: "fencing" },
   { id: "fence-sofa-corner", image: "/images/fence/scene-banner2.webp", cat: "fencing" },

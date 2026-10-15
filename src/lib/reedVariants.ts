@@ -64,7 +64,18 @@ export const reedVariants: ReedVariant[] = [
       "/images/reed/v/cheap-peeled-3-6mm-g4.webp",
     ],
   },
-  { id: "extra-thick-unpeeled-8-10mm", privacyPct: 100, ...v("extra-thick-unpeeled-8-10mm", 2) },
+  {
+    id: "extra-thick-unpeeled-8-10mm",
+    privacyPct: 100,
+    // Main shot re-cropped to 640x400 like the peeled grades, so peeled and
+    // unpeeled can be compared with framing held constant.
+    hero: "/images/reed/v/extra-thick-unpeeled-8-10mm-hero.webp",
+    gallery: [
+      "/images/reed/v/extra-thick-unpeeled-8-10mm-main-v2.webp",
+      "/images/reed/v/extra-thick-unpeeled-8-10mm-g1.webp",
+      "/images/reed/v/extra-thick-unpeeled-8-10mm-g2.webp",
+    ],
+  },
   {
     id: "thick-unpeeled-5-8mm",
     privacyPct: 90,

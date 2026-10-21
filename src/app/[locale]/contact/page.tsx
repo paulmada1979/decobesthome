@@ -245,8 +245,8 @@ export default async function ContactPage({
         </div>
       </section>
 
-      {/* CTA BAND: reuses the About page's "work with us" copy */}
-      <CtaBand ns="about" />
+      {/* CTA BAND: brochure only. The header button and this page's form already cover quotes. */}
+      <CtaBand ns="about" quote={false} />
     </>
   );
 }

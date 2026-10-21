@@ -8,6 +8,9 @@ type Props = {
   ns: string;
   /** Anchor id, for pages whose nav links jump to the band (the homepage's #contact). */
   id?: string;
+  /** Show the "Request a quote" button. Off on the contact page, where the header
+   *  button and the page's own form already cover it. Default true. */
+  quote?: boolean;
 };
 
 /**
@@ -16,7 +19,7 @@ type Props = {
  * `cta.*` messages; everything common (buttons, cover, contact line) lives in
  * the `ctaBand` namespace so it is written once, not seven times.
  */
-export default async function CtaBand({ ns, id }: Props) {
+export default async function CtaBand({ ns, id, quote = true }: Props) {
   const t = await getTranslations(ns);
   const tb = await getTranslations("ctaBand");
 
@@ -39,10 +42,12 @@ export default async function CtaBand({ ns, id }: Props) {
               <p className="cta-brochure-line">{tb("brochureLine")}</p>
 
               <div className="cta-actions">
-                <QuoteButton className="btn btn-leaf btn-lg">
-                  {t("cta.ctaQuote")} <span className="arr">→</span>
-                </QuoteButton>
-                <QuoteButton mode="brochure" className="btn btn-on-dark btn-lg">
+                {quote && (
+                  <QuoteButton className="btn btn-leaf btn-lg">
+                    {t("cta.ctaQuote")} <span className="arr">→</span>
+                  </QuoteButton>
+                )}
+                <QuoteButton mode="brochure" className={`btn btn-lg ${quote ? "btn-on-dark" : "btn-leaf"}`}>
                   {tb("brochureBtn")} <span className="arr">→</span>
                 </QuoteButton>
               </div>

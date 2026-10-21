@@ -165,6 +165,23 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .nav-trigger .chev{ transition:transform .3s var(--ease); }
 .nav-actions{ display:flex; align-items:center; gap:14px; }
 
+/* header brochure pill: a small cover thumbnail + label, opens the brochure form */
+.nav-brochure{ flex:none; display:inline-flex; align-items:center; gap:10px; padding-block:4px; padding-inline:9px 16px;
+  background:rgba(255,255,255,.55); border:1px solid var(--line); border-radius:999px; color:var(--ink);
+  font:inherit; font-size:.88rem; font-weight:600; white-space:nowrap; cursor:pointer;
+  transition:border-color .25s, background .25s, transform .25s var(--ease); }
+.nav-brochure:hover, .nav-brochure:focus-visible{ border-color:var(--ink); background:#fff; transform:translateY(-1px); }
+.nav-brochure .thumb{ flex:none; display:block; width:26px; height:auto; border-radius:2px 3px 3px 2px; transform:rotate(-5deg);
+  box-shadow:0 6px 10px -4px rgba(35,42,31,.55); transition:transform .3s var(--ease); }
+.nav-brochure:hover .thumb, .nav-brochure:focus-visible .thumb{ transform:rotate(0) scale(1.08); }
+[dir="rtl"] .nav-brochure .thumb{ transform:rotate(5deg); }
+[dir="rtl"] .nav-brochure:hover .thumb, [dir="rtl"] .nav-brochure:focus-visible .thumb{ transform:rotate(0) scale(1.08); }
+/* Width budget, measured so the logo is never squeezed: pill with label from 1280px,
+   thumbnail-only from 1200px, and below that the header has no room, so the pill
+   steps aside (the mobile drawer and the page-end band still offer the brochure). */
+@media(max-width:1279px){ .nav-brochure .lbl{ display:none; } .nav-brochure{ padding-inline:9px; } }
+@media(max-width:1199px){ .nav-brochure{ display:none; } }
+
 /* language selector (native select styled as a pill) */
 .locale-switcher{ appearance:none; -webkit-appearance:none; -moz-appearance:none;
   font-family:var(--sans); font-size:.8rem; font-weight:600; letter-spacing:.04em; color:var(--ink);
@@ -214,6 +231,13 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
 .drawer .panel a{ display:block; padding:13px 4px; font-size:1.05rem; border-bottom:1px solid var(--line-soft); }
 .drawer .panel .sub a{ font-size:.95rem; color:var(--ink-soft); padding-left:16px; }
 .drawer-close{ background:none;border:none;font-size:1.6rem; position:absolute; top:18px; right:20px; color:var(--ink); }
+.drawer-brochure{ display:flex; align-items:center; gap:16px; width:100%; margin-top:14px; padding:12px 14px;
+  background:#fff; border:1px solid var(--line); border-radius:14px; text-align:start; color:var(--ink); font:inherit; cursor:pointer; }
+.drawer-brochure .thumb{ display:block; width:44px; height:auto; border-radius:2px 4px 4px 2px; transform:rotate(-4deg);
+  box-shadow:0 8px 14px -6px rgba(35,42,31,.55); flex:none; }
+[dir="rtl"] .drawer-brochure .thumb{ transform:rotate(4deg); }
+.drawer-brochure .t{ display:block; font-weight:600; font-size:.98rem; }
+.drawer-brochure .d{ display:block; margin-top:2px; font-size:.78rem; color:var(--ink-soft); }
 
 @media(max-width:980px){
   .nav-links, .nav-actions .desk{ display:none; }

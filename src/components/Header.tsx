@@ -13,6 +13,7 @@ export default function Header() {
   const th = useTranslations("header");
   const tn = useTranslations("products.names");
   const tm = useTranslations("products.mega");
+  const tb = useTranslations("ctaBand");
   const { open } = useQuoteModal();
   const [scrolled, setScrolled] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -127,6 +128,16 @@ export default function Header() {
               {th("requestQuote")}
             </button>
             <button
+              className="nav-brochure desk"
+              type="button"
+              aria-label={tb("brochureBtn")}
+              onClick={() => open(undefined, "brochure")}
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className="thumb" src="/images/brochure-cover.webp" alt="" width={26} height={34} />
+              <span className="lbl">{tb("navBrochure")}</span>
+            </button>
+            <button
               className="burger"
               aria-label={th("openMenu")}
               onClick={() => setDrawerOpen(true)}
@@ -181,6 +192,21 @@ export default function Header() {
             }}
           >
             {th("requestQuote")}
+          </button>
+          <button
+            className="drawer-brochure"
+            type="button"
+            onClick={() => {
+              closeDrawer();
+              open(undefined, "brochure");
+            }}
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img className="thumb" src="/images/brochure-cover.webp" alt="" width={44} height={57} />
+            <span>
+              <span className="t">{tb("brochureBtn")}</span>
+              <span className="d">{tb("coverCaption")} · {tb("coverMeta")}</span>
+            </span>
           </button>
         </div>
       </div>

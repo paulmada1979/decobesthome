@@ -59,7 +59,12 @@
     "submit": "Aanvraag versturen",
     "privacy": "We gebruiken uw gegevens uitsluitend om op deze aanvraag te reageren.",
     "sending": "Verzenden…",
-    "error": "Er ging iets mis. Mail ons rechtstreeks op"
+    "error": "Er ging iets mis. Mail ons rechtstreeks op",
+    "brochureEyebrow": "Groothandelsbrochure",
+    "brochureTitle": "Ontvang de brochure 2026.",
+    "brochureSubtitle": "Laat uw gegevens achter en wij mailen u de volledige groothandelscatalogus — meestal binnen één werkdag.",
+    "brochureSubmit": "Stuur mij de brochure",
+    "brochureSuccess": "Bedankt — we sturen u de brochure binnenkort per e-mail."
   },
   "products": {
     "names": {
@@ -4916,5 +4921,13 @@
       "line": "Neem gerust contact op — ik zorg persoonlijk voor een snel en behulpzaam antwoord.",
       "photoAlt": "Mindy Dong — Verkoop & Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "Nog niet klaar voor een offerte? Begin met de groothandelsbrochure 2026 — het volledige assortiment met maten, specificaties en OEM-opties, rechtstreeks in uw inbox.",
+    "brochureBtn": "Brochure aanvragen",
+    "noteLead": "Of neem rechtstreeks contact op:",
+    "coverAlt": "BestHome groothandelscatalogus 2026 — voorkant",
+    "coverCaption": "Groothandelscatalogus 2026",
+    "coverMeta": "PDF · 21 pagina's"
   }
 }

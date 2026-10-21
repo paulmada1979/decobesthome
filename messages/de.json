@@ -59,7 +59,12 @@
     "submit": "Anfrage senden",
     "privacy": "Wir verwenden Ihre Angaben ausschließlich zur Beantwortung dieser Anfrage.",
     "sending": "Wird gesendet…",
-    "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie uns direkt an"
+    "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie uns direkt an",
+    "brochureEyebrow": "Großhandelsbroschüre",
+    "brochureTitle": "Die Broschüre 2026 erhalten.",
+    "brochureSubtitle": "Hinterlassen Sie Ihre Angaben und wir senden Ihnen den vollständigen Großhandelskatalog per E-Mail — in der Regel innerhalb eines Werktags.",
+    "brochureSubmit": "Broschüre senden",
+    "brochureSuccess": "Vielen Dank — wir senden Ihnen die Broschüre in Kürze per E-Mail."
   },
   "products": {
     "names": {
@@ -4916,5 +4921,13 @@
       "line": "Melden Sie sich jederzeit — ich sorge persönlich für eine schnelle, hilfreiche Antwort.",
       "photoAlt": "Mindy Dong — Vertrieb & Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "Noch nicht bereit für ein Angebot? Beginnen Sie mit der Großhandelsbroschüre 2026 — das gesamte Sortiment mit Maßen, Spezifikationen und OEM-Optionen, direkt in Ihr Postfach.",
+    "brochureBtn": "Broschüre anfordern",
+    "noteLead": "Oder kontaktieren Sie uns direkt:",
+    "coverAlt": "BestHome Großhandelskatalog 2026 — Titelseite",
+    "coverCaption": "Großhandelskatalog 2026",
+    "coverMeta": "PDF · 21 Seiten"
   }
 }

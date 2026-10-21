@@ -33,7 +33,15 @@ export async function POST(req: NextRequest) {
   const phone = get("phone");
   const country = get("country");
   const product = get("product");
-  const source = body.source === "quote" ? "Quote modal" : "Contact page";
+  const isBrochure = body.source === "brochure";
+  const source = isBrochure
+    ? "Brochure request"
+    : body.source === "quote"
+      ? "Quote modal"
+      : "Contact page";
+  // Which page the visitor was on (path only), so a lead can be traced back to
+  // the page that produced it. Capped so the field can't be abused as a payload.
+  const page = get("page").slice(0, 200);
 
   if (!name || !email || !/.+@.+\..+/.test(email)) {
     return NextResponse.json({ error: "missing_fields" }, { status: 400 });
@@ -52,11 +60,19 @@ export async function POST(req: NextRequest) {
     ["Country", country],
     ["Product of interest", product],
     ["Source", source],
+    ["Page", page],
   ].filter(([, v]) => v) as [string, string][];
 
   const html = `
     <div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#1a1a1a">
-      <h2 style="margin:0 0 16px">New enquiry${product ? ` — ${esc(product)}` : ""}</h2>
+      <h2 style="margin:0 0 16px">${
+        isBrochure ? "New brochure request" : `New enquiry${product ? ` — ${esc(product)}` : ""}`
+      }</h2>
+      ${
+        isBrochure
+          ? `<p style="margin:0 0 16px;padding:10px 14px;background:#f1f6ec;border-left:3px solid #5e9a33">Reply to this email with the BestHome wholesale brochure attached.</p>`
+          : ""
+      }
       <table style="border-collapse:collapse;margin-bottom:18px">
         ${rows
           .map(
@@ -77,6 +93,9 @@ export async function POST(req: NextRequest) {
     </div>`;
 
   const text =
+    (isBrochure
+      ? "BROCHURE REQUEST - reply with the BestHome wholesale brochure attached.\n\n"
+      : "") +
     rows.map(([k, v]) => `${k}: ${v}`).join("\n") +
     (message ? `\n\nMessage:\n${message}` : "");
 
@@ -86,7 +105,9 @@ export async function POST(req: NextRequest) {
       from: FROM,
       to: TO,
       replyTo: email,
-      subject: `New enquiry${product ? ` — ${product}` : ""} — ${name}`,
+      subject: isBrochure
+        ? `Brochure request — ${name}`
+        : `New enquiry${product ? ` — ${product}` : ""} — ${name}`,
       html,
       text,
     });

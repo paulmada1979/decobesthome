@@ -59,7 +59,12 @@
     "submit": "Envoyer la demande",
     "privacy": "Nous n'utiliserons vos informations que pour répondre à cette demande.",
     "sending": "Envoi…",
-    "error": "Une erreur s'est produite. Écrivez-nous directement à"
+    "error": "Une erreur s'est produite. Écrivez-nous directement à",
+    "brochureEyebrow": "Brochure grossiste",
+    "brochureTitle": "Recevez la brochure 2026.",
+    "brochureSubtitle": "Laissez-nous vos coordonnées et nous vous enverrons le catalogue grossiste complet par e-mail, généralement sous un jour ouvré.",
+    "brochureSubmit": "Envoyez-moi la brochure",
+    "brochureSuccess": "Merci — nous vous enverrons la brochure par e-mail sous peu."
   },
   "products": {
     "names": {
@@ -4916,5 +4921,13 @@
       "line": "Écrivez-moi à tout moment — je veille personnellement à une réponse rapide et utile.",
       "photoAlt": "Mindy Dong — Ventes & Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "Pas encore prêt pour un devis ? Commencez par la brochure grossiste 2026 : toute la gamme avec dimensions, caractéristiques et options OEM, directement dans votre boîte mail.",
+    "brochureBtn": "Recevoir la brochure",
+    "noteLead": "Ou contactez-nous directement :",
+    "coverAlt": "Catalogue grossiste BestHome 2026 — couverture",
+    "coverCaption": "Catalogue grossiste 2026",
+    "coverMeta": "PDF · 21 pages"
   }
 }

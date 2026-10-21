@@ -59,7 +59,12 @@
     "submit": "Send enquiry",
     "privacy": "We'll only use your details to reply to this enquiry.",
     "sending": "Sending…",
-    "error": "Something went wrong. Please email us directly at"
+    "error": "Something went wrong. Please email us directly at",
+    "brochureEyebrow": "Wholesale brochure",
+    "brochureTitle": "Get the 2026 brochure.",
+    "brochureSubtitle": "Leave your details and we'll email you the full wholesale catalogue — usually within one business day.",
+    "brochureSubmit": "Send me the brochure",
+    "brochureSuccess": "Thank you — we'll email you the brochure shortly."
   },
   "products": {
     "names": {
@@ -4922,5 +4927,13 @@
       "line": "Reach out any time — I'll personally make sure your enquiry gets a fast, helpful reply.",
       "photoAlt": "Mindy Dong — Sales & Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "Not ready to quote? Start with the 2026 wholesale brochure — the full range with sizes, specs and OEM options, sent straight to your inbox.",
+    "brochureBtn": "Get the brochure",
+    "noteLead": "Or reach us directly:",
+    "coverAlt": "BestHome wholesale catalogue 2026 — front cover",
+    "coverCaption": "Wholesale catalogue 2026",
+    "coverMeta": "PDF · 21 pages"
   }
 }

@@ -9,6 +9,7 @@ import Reveal from "@/components/Reveal";
 import ProductGallery from "@/components/ProductGallery";
 import QuoteButton from "@/components/QuoteButton";
 
+import CtaBand from "@/components/CtaBand";
 export function generateStaticParams() {
   return reedVariants.map((x) => ({ variant: x.id }));
 }
@@ -267,46 +268,7 @@ export default async function ReedVariantPage({
       </section>
 
       {/* CTA BAND */}
-      <section className="section--tight">
-        <div className="container">
-          <Reveal className="cta-band">
-            <span className="leaf-mark">
-              <svg width="280" height="280" viewBox="0 0 24 24" fill="none">
-                <path d="M12 3c0 8-6 10-6 15a6 6 0 0012 0c0-5-6-7-6-15z" stroke="currentColor" strokeWidth="1" />
-              </svg>
-            </span>
-            <div
-              style={{
-                position: "relative",
-                display: "grid",
-                gridTemplateColumns: "1.3fr 1fr",
-                gap: "40px",
-                alignItems: "center",
-              }}
-            >
-              <div>
-                <p className="eyebrow" style={{ color: "var(--leaf)" }}>
-                  {td("cta.eyebrow")}
-                </p>
-                <h2 className="h2" style={{ color: "#fff", marginTop: "16px", maxWidth: "18ch" }}>
-                  {td("cta.title")}
-                </h2>
-                <p className="lead" style={{ color: "rgba(246,243,236,.8)", marginTop: "16px", maxWidth: "48ch" }}>
-                  {td("cta.lead")}
-                </p>
-              </div>
-              <div style={{ display: "flex", flexDirection: "column", gap: "14px" }}>
-                <QuoteButton className="btn btn-leaf btn-lg" product={name}>
-                  {td("cta.ctaQuote")} <span className="arr">→</span>
-                </QuoteButton>
-                <a className="btn btn-on-dark btn-lg" href={`mailto:${company.email}`}>
-                  {td("cta.ctaEmail", { email: company.email })}
-                </a>
-              </div>
-            </div>
-          </Reveal>
-        </div>
-      </section>
+      <CtaBand ns="products.detail" />
     </>
   );
 }

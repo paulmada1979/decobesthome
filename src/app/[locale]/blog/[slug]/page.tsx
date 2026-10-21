@@ -5,8 +5,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { posts, publishedPosts, getPost } from "@/lib/posts";
 import Reveal from "@/components/Reveal";
-import QuoteButton from "@/components/QuoteButton";
-
+import CtaBand from "@/components/CtaBand";
 type Block =
   | { p: string }
   | { h2: string }
@@ -203,46 +202,7 @@ export default async function BlogPostPage({
       </section>
 
       {/* CTA BAND */}
-      <section className="section--tight">
-        <div className="container">
-          <Reveal className="cta-band">
-            <span className="leaf-mark">
-              <svg width="280" height="280" viewBox="0 0 24 24" fill="none">
-                <path d="M12 3c0 8-6 10-6 15a6 6 0 0012 0c0-5-6-7-6-15z" stroke="currentColor" strokeWidth="1" />
-              </svg>
-            </span>
-            <div
-              style={{
-                position: "relative",
-                display: "grid",
-                gridTemplateColumns: "1.3fr 1fr",
-                gap: "40px",
-                alignItems: "center",
-              }}
-            >
-              <div>
-                <p className="eyebrow" style={{ color: "var(--leaf)" }}>
-                  {td("cta.eyebrow")}
-                </p>
-                <h2 className="h2" style={{ color: "#fff", marginTop: "16px", maxWidth: "18ch" }}>
-                  {td("cta.title")}
-                </h2>
-                <p className="lead" style={{ color: "rgba(246,243,236,.8)", marginTop: "16px", maxWidth: "48ch" }}>
-                  {td("cta.lead")}
-                </p>
-              </div>
-              <div style={{ display: "flex", flexDirection: "column", gap: "14px" }}>
-                <QuoteButton className="btn btn-leaf btn-lg">
-                  {td("cta.ctaQuote")} <span className="arr">→</span>
-                </QuoteButton>
-                <Link className="btn btn-on-dark btn-lg" href="/products">
-                  {td("cta.ctaBrowse")}
-                </Link>
-              </div>
-            </div>
-          </Reveal>
-        </div>
-      </section>
+      <CtaBand ns="journal.detail" />
     </>
   );
 }

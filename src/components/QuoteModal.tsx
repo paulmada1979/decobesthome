@@ -9,7 +9,8 @@ import { useQuoteModal } from "./QuoteModalProvider";
 export default function QuoteModal() {
   const t = useTranslations("quote");
   const tn = useTranslations("products.names");
-  const { isOpen, product, close } = useQuoteModal();
+  const { isOpen, product, mode, close } = useQuoteModal();
+  const brochure = mode === "brochure";
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle");
   const firstFieldRef = useRef<HTMLInputElement>(null);
 
@@ -21,7 +22,11 @@ export default function QuoteModal() {
       const res = await fetch("/api/enquiry", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...data, source: "quote" }),
+        body: JSON.stringify({
+          ...data,
+          source: brochure ? "brochure" : "quote",
+          page: window.location.pathname,
+        }),
       });
       if (!res.ok) throw new Error();
       setStatus("sent");
@@ -60,22 +65,22 @@ export default function QuoteModal() {
           &times;
         </button>
         <div className="dhead">
-          <p className="eyebrow">{t("eyebrow")}</p>
+          <p className="eyebrow">{brochure ? t("brochureEyebrow") : t("eyebrow")}</p>
           <h3
             className="h2"
             id="qmTitle"
             style={{ fontSize: "clamp(1.8rem,3vw,2.4rem)", marginTop: "12px" }}
           >
-            {t("title")}
+            {brochure ? t("brochureTitle") : t("title")}
           </h3>
           <p className="muted" style={{ marginTop: "8px", fontSize: ".95rem" }}>
-            {t("subtitle")}
+            {brochure ? t("brochureSubtitle") : t("subtitle")}
           </p>
         </div>
         <div className="dbody">
           {status === "sent" ? (
             <div className="dform-success">
-              <div className="success">{t("success")}</div>
+              <div className="success">{brochure ? t("brochureSuccess") : t("success")}</div>
               <p className="muted" style={{ marginTop: "14px", fontSize: ".92rem" }}>
                 {t("preferEmail")}{" "}
                 <a className="textlink" href={`mailto:${company.email}`}>
@@ -123,25 +128,30 @@ export default function QuoteModal() {
                   <input className="input" name="country" placeholder={t("countryPh")} />
                 </div>
               </div>
-              <div className="field">
-                <label>{t("productOfInterest")}</label>
-                <select className="select" name="product" defaultValue={product ?? undefined}>
-                  {products.map((p) => (
-                    <option key={p.id}>{tn(p.id)}</option>
-                  ))}
-                </select>
-              </div>
-              <div className="field">
-                <label>{t("details")}</label>
-                <textarea className="textarea" name="message" placeholder={t("detailsPh")} />
-              </div>
+              {!brochure && (
+                <>
+                  <div className="field">
+                    <label>{t("productOfInterest")}</label>
+                    <select className="select" name="product" defaultValue={product ?? undefined}>
+                      {products.map((p) => (
+                        <option key={p.id}>{tn(p.id)}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div className="field">
+                    <label>{t("details")}</label>
+                    <textarea className="textarea" name="message" placeholder={t("detailsPh")} />
+                  </div>
+                </>
+              )}
               <button
                 className="btn btn-leaf btn-lg"
                 type="submit"
                 disabled={status === "sending"}
                 style={{ width: "100%", opacity: status === "sending" ? 0.7 : 1 }}
               >
-                {status === "sending" ? t("sending") : t("submit")} <span className="arr">→</span>
+                {status === "sending" ? t("sending") : brochure ? t("brochureSubmit") : t("submit")}{" "}
+                <span className="arr">→</span>
               </button>
               <p className="form-note center" style={{ marginTop: "12px" }}>
                 {t("privacy")}

@@ -59,7 +59,12 @@
     "submit": "Invia la richiesta",
     "privacy": "Utilizzeremo i Suoi dati esclusivamente per rispondere a questa richiesta.",
     "sending": "Invio in corso…",
-    "error": "Qualcosa è andato storto. Scrivici direttamente a"
+    "error": "Qualcosa è andato storto. Scrivici direttamente a",
+    "brochureEyebrow": "Brochure all'ingrosso",
+    "brochureTitle": "Riceva la brochure 2026.",
+    "brochureSubtitle": "Ci lasci i Suoi dati e Le invieremo via email il catalogo all'ingrosso completo, di solito entro un giorno lavorativo.",
+    "brochureSubmit": "Inviatemi la brochure",
+    "brochureSuccess": "Grazie — Le invieremo la brochure via email a breve."
   },
   "products": {
     "names": {
@@ -4909,5 +4914,13 @@
       "line": "Scrivimi quando vuoi: mi assicuro personalmente di darti una risposta rapida e utile.",
       "photoAlt": "Mindy Dong — Vendite e Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "Non è ancora pronto per un preventivo? Parta dalla brochure all'ingrosso 2026: l'intera gamma con misure, specifiche e opzioni OEM, direttamente nella Sua casella di posta.",
+    "brochureBtn": "Richieda la brochure",
+    "noteLead": "Oppure ci contatti direttamente:",
+    "coverAlt": "Catalogo all'ingrosso BestHome 2026 — copertina",
+    "coverCaption": "Catalogo all'ingrosso 2026",
+    "coverMeta": "PDF · 21 pagine"
   }
 }

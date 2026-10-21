@@ -59,7 +59,12 @@
     "submit": "Enviar consulta",
     "privacy": "Solo utilizaremos sus datos para responder a esta consulta.",
     "sending": "Enviando…",
-    "error": "Algo salió mal. Escríbenos directamente a"
+    "error": "Algo salió mal. Escríbenos directamente a",
+    "brochureEyebrow": "Folleto mayorista",
+    "brochureTitle": "Reciba el folleto 2026.",
+    "brochureSubtitle": "Déjenos sus datos y le enviaremos por correo el catálogo mayorista completo, normalmente en un día laborable.",
+    "brochureSubmit": "Enviarme el folleto",
+    "brochureSuccess": "Gracias — le enviaremos el folleto por correo en breve."
   },
   "products": {
     "names": {
@@ -4909,5 +4914,13 @@
       "line": "Escríbeme cuando quieras: me aseguro personalmente de darte una respuesta rápida y útil.",
       "photoAlt": "Mindy Dong — Ventas y Marketing, BestHome"
     }
+  },
+  "ctaBand": {
+    "brochureLine": "¿Todavía no está listo para pedir presupuesto? Empiece por el folleto mayorista 2026: toda la gama con medidas, especificaciones y opciones OEM, directo a su bandeja de entrada.",
+    "brochureBtn": "Solicitar el folleto",
+    "noteLead": "O contáctenos directamente:",
+    "coverAlt": "Catálogo mayorista BestHome 2026 — portada",
+    "coverCaption": "Catálogo mayorista 2026",
+    "coverMeta": "PDF · 21 páginas"
   }
 }

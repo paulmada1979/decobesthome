@@ -1,11 +1,11 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { company } from "@/lib/site";
 import { listedProducts as products } from "@/lib/products";
 import Reveal from "@/components/Reveal";
 import Marquee from "@/components/Marquee";
 import CategoryCard from "@/components/CategoryCard";
 import QuoteButton from "@/components/QuoteButton";
+import CtaBand from "@/components/CtaBand";
 
 const Check = () => (
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -261,52 +261,7 @@ export default async function HomePage({
       </section>
 
       {/* CTA BAND */}
-      <section className="section--tight" id="contact">
-        <div className="container">
-          <Reveal className="cta-band">
-            <span className="leaf-mark">
-              <svg width="280" height="280" viewBox="0 0 24 24" fill="none">
-                <path d="M12 3c0 8-6 10-6 15a6 6 0 0012 0c0-5-6-7-6-15z" stroke="currentColor" strokeWidth="1" />
-              </svg>
-            </span>
-            <div
-              style={{
-                position: "relative",
-                display: "grid",
-                gridTemplateColumns: "1.3fr 1fr",
-                gap: "40px",
-                alignItems: "center",
-              }}
-            >
-              <div>
-                <p className="eyebrow" style={{ color: "var(--leaf)" }}>
-                  {t("cta.eyebrow")}
-                </p>
-                <h2 className="h2" style={{ color: "#fff", marginTop: "16px", maxWidth: "18ch" }}>
-                  {t("cta.title")}
-                </h2>
-                <p className="lead" style={{ color: "rgba(246,243,236,.8)", marginTop: "16px", maxWidth: "48ch" }}>
-                  {t("cta.lead")}
-                </p>
-              </div>
-              <div style={{ display: "flex", flexDirection: "column", gap: "14px" }}>
-                <QuoteButton className="btn btn-leaf btn-lg">
-                  {t("cta.ctaQuote")} <span className="arr">→</span>
-                </QuoteButton>
-                <a className="btn btn-on-dark btn-lg" href={`mailto:${company.email}`}>
-                  {t("cta.ctaEmail", { email: company.email })}
-                </a>
-                <p
-                  className="muted"
-                  style={{ color: "rgba(246,243,236,.6)", fontSize: ".85rem", textAlign: "center" }}
-                >
-                  {t("cta.callNote", { phone: company.mobile })}
-                </p>
-              </div>
-            </div>
-          </Reveal>
-        </div>
-      </section>
+      <CtaBand ns="home" id="contact" />
     </>
   );
 }

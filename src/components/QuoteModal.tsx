@@ -9,6 +9,7 @@ import { useQuoteModal } from "./QuoteModalProvider";
 export default function QuoteModal() {
   const t = useTranslations("quote");
   const tn = useTranslations("products.names");
+  const tf = useTranslations("contact.form"); // phone wording, shared with the contact page form
   const { isOpen, product, mode, close } = useQuoteModal();
   const brochure = mode === "brochure";
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle");
@@ -124,19 +125,30 @@ export default function QuoteModal() {
                   <input className="input" name="email" type="email" required placeholder={t("emailPh")} />
                 </div>
                 <div className="field">
+                  <label>{tf("phone")}</label>
+                  <input className="input" name="phone" type="tel" autoComplete="tel" placeholder={tf("phonePh")} />
+                </div>
+              </div>
+              {brochure ? (
+                <div className="field">
                   <label>{t("country")}</label>
                   <input className="input" name="country" placeholder={t("countryPh")} />
                 </div>
-              </div>
-              {!brochure && (
+              ) : (
                 <>
-                  <div className="field">
-                    <label>{t("productOfInterest")}</label>
-                    <select className="select" name="product" defaultValue={product ?? undefined}>
-                      {products.map((p) => (
-                        <option key={p.id}>{tn(p.id)}</option>
-                      ))}
-                    </select>
+                  <div className="row2">
+                    <div className="field">
+                      <label>{t("country")}</label>
+                      <input className="input" name="country" placeholder={t("countryPh")} />
+                    </div>
+                    <div className="field">
+                      <label>{t("productOfInterest")}</label>
+                      <select className="select" name="product" defaultValue={product ?? undefined}>
+                        {products.map((p) => (
+                          <option key={p.id}>{tn(p.id)}</option>
+                        ))}
+                      </select>
+                    </div>
                   </div>
                   <div className="field">
                     <label>{t("details")}</label>

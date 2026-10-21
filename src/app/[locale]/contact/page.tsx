@@ -4,6 +4,7 @@ import { Link } from "@/i18n/navigation";
 import { company, socials, socialsVisible } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 import ContactForm from "@/components/ContactForm";
+import CtaBand from "@/components/CtaBand";
 
 export async function generateMetadata({
   params,
@@ -243,6 +244,9 @@ export default async function ContactPage({
           </Reveal>
         </div>
       </section>
+
+      {/* CTA BAND: reuses the About page's "work with us" copy */}
+      <CtaBand ns="about" />
     </>
   );
 }

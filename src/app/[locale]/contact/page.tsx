@@ -91,49 +91,13 @@ export default async function ContactPage({
               style={{
                 background: "var(--white)",
                 border: "1px solid var(--line)",
-                borderRadius: "20px",
-                padding: "30px 30px 26px",
+                borderRadius: "18px",
+                padding: "24px",
                 boxShadow: "var(--shadow-sm)",
               }}
             >
-              {/* personal contact */}
-              <div
-                style={{
-                  display: "flex",
-                  alignItems: "center",
-                  gap: "18px",
-                  justifyContent: "space-between",
-                }}
-              >
-                <div>
-                  <span style={fieldLabel}>{t("person.eyebrow")}</span>
-                  <p style={{ margin: "5px 0 0", fontWeight: 700, fontSize: "1.55rem", lineHeight: 1.1, color: "var(--ink)" }}>
-                    {t("person.name")}
-                  </p>
-                  <p style={{ margin: "5px 0 0", color: "var(--leaf-deep)", fontWeight: 600, fontSize: "1.05rem" }}>
-                    {t("person.role")}
-                  </p>
-                </div>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src="/images/about/mindy.webp"
-                  alt={t("person.photoAlt")}
-                  width={120}
-                  height={120}
-                  style={{
-                    width: "120px",
-                    height: "120px",
-                    borderRadius: "18px",
-                    objectFit: "cover",
-                    objectPosition: "center top",
-                    flexShrink: 0,
-                    border: "1px solid var(--line)",
-                  }}
-                />
-              </div>
-              <div className="divider" style={{ margin: "22px 0" }} />
               <h3 className="h3" style={{ fontSize: "1.15rem" }}>{company.legalName}</h3>
-              <div className="divider" style={{ margin: "20px 0" }} />
+              <div className="divider" style={{ margin: "16px 0" }} />
               <div className="foot-contact" style={{ color: "var(--ink-soft)" }}>
                 <p style={{ margin: "0 0 16px" }}>
                   <span style={fieldLabel}>{t("info.email")}</span>

@@ -179,13 +179,12 @@ export const posts: Post[] = [
   {
     id: "choose-right-bamboo-fence",
     slug: "choose-right-bamboo-fence",
-    image: "/images/blog/choose-right-bamboo-fence-hero.webp",
+    image: "/images/blog/bamboo-fences-guide-hero.webp",
     href: "https://decobesthome.com/how-to-choose-the-right-bamboo-fence-for-your-outdoor-space/",
     date: "2025-04-01",
     category: "fencing",
-    images: [
-      "/images/blog/choose-right-bamboo-fence-1.webp",
-    ],
+    readMins: 9,
+    images: [],
   },
   {
     id: "clean-bamboo-fence",

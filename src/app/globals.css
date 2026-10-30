@@ -554,6 +554,13 @@ h1,h2,h3,h4{ margin:0; font-weight:500; }
   box-shadow:var(--shadow-sm); }
 .article figure img{ display:block; width:100%; height:auto; }
 .article-lead{ margin-top:0; }
+.article figcaption{ padding:10px 16px; color:var(--ink-soft); font-size:.82rem; line-height:1.5; background:var(--white); }
+.article-table{ overflow-x:auto; margin:24px 0; border:1px solid var(--line); border-radius:14px; }
+.article-table table{ width:100%; min-width:600px; border-collapse:collapse; text-align:left; font-size:.94rem; line-height:1.6; }
+.article-table th,.article-table td{ padding:14px 16px; border-bottom:1px solid var(--line); vertical-align:top; }
+.article-table thead{ background:var(--sand); }
+.article-table tbody th{ font-weight:600; }
+.article-table tbody tr:last-child > *{ border-bottom:0; }
 .article h2 + .article-fig,
 .article h3 + .article-fig{ margin-top:28px; }
 

@@ -11,8 +11,17 @@ type Block =
   | { h2: string }
   | { h3: string }
   | { ul: string[] }
-  | { img: string }
+  | { img: string; alt?: string; caption?: string }
+  | { table: { headers: string[]; rows: string[][] } }
   | { cta: { label: string; href: string } };
+
+// Only recognise links to this site; render everything else as ordinary text.
+function articleText(text: string): ReactNode {
+  return text.split(/(\[[^\]]+\]\(https:\/\/www\.decobesthome\.com\/[^\s)]*\))/g).map((part, i) => {
+    const match = part.match(/^\[([^\]]+)\]\(https:\/\/www\.decobesthome\.com(\/[^\s)]*)\)$/);
+    return match ? <Link key={i} className="textlink" href={match[2]}>{match[1]}</Link> : part;
+  });
+}
 
 export function generateStaticParams() {
   // Build draft URLs too so they're previewable (they're noindexed + unlinked).
@@ -31,10 +40,17 @@ export async function generateMetadata({
   const path = `/blog/${slug}`;
   const canonical = locale === "en" ? path : `/${locale}${path}`;
   return {
-    title: t(`posts.${post.id}.title`),
+    title: t.has(`posts.${post.id}.seoTitle`) ? t(`posts.${post.id}.seoTitle`) : t(`posts.${post.id}.title`),
     description: t(`posts.${post.id}.excerpt`),
     alternates: { canonical },
-    openGraph: { url: canonical, type: "article" },
+    openGraph: {
+      url: canonical,
+      type: "article",
+      title: t(`posts.${post.id}.title`),
+      description: t(`posts.${post.id}.excerpt`),
+      images: [{ url: post.id === "choose-right-bamboo-fence" ? "/images/blog/bamboo-fences-guide-social.jpg" : post.image }],
+    },
+    twitter: { card: "summary_large_image", images: [post.image] },
     // Drafts are reachable for preview but must never be indexed.
     ...(post.draft ? { robots: { index: false, follow: false } } : {}),
   };
@@ -56,6 +72,22 @@ export default async function BlogPostPage({
   const title = t(`posts.${post.id}.title`);
   const body = t.raw(`posts.${post.id}.body`) as Block[];
   const support = post.images ?? [];
+  const hasEditorial = t.has(`posts.${post.id}.author`);
+  const imageAlt = t.has(`posts.${post.id}.imageAlt`) ? t(`posts.${post.id}.imageAlt`) : title;
+  const canonical = `https://www.decobesthome.com${locale === "en" ? "" : `/${locale}`}/blog/${slug}`;
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: title,
+    description: t(`posts.${post.id}.excerpt`),
+    image: [`https://www.decobesthome.com${post.image}`],
+    datePublished: post.date,
+    ...(t.has(`posts.${post.id}.modifiedDate`) ? { dateModified: t(`posts.${post.id}.modifiedDate`) } : {}),
+    ...(hasEditorial ? { author: { "@type": "Organization", name: t(`posts.${post.id}.author`), url: "https://www.decobesthome.com/about" } } : {}),
+    publisher: { "@type": "Organization", name: "BestHome", url: "https://www.decobesthome.com" },
+    inLanguage: locale,
+    mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
+  };
 
   // Distribute support images across the article: insert each one just before an
   // evenly-spaced <h2> section boundary so photos break up the prose naturally.
@@ -71,6 +103,7 @@ export default async function BlogPostPage({
 
   return (
     <>
+      {!post.draft && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }} />}
       {/* ARTICLE HEAD */}
       <section className="section" style={{ paddingBottom: 0 }}>
         <div className="container article">
@@ -91,6 +124,7 @@ export default async function BlogPostPage({
           </Reveal>
           <Reveal as="div" className="post-meta" delay={2} style={{ marginTop: "18px" }}>
             <span>{t(`posts.${post.id}.date`)}</span>
+            {hasEditorial && <span>· {t(`posts.${post.id}.author`)}</span>}
             {post.readMins && <span>· {t("readTime", { mins: post.readMins })}</span>}
           </Reveal>
         </div>
@@ -102,7 +136,8 @@ export default async function BlogPostPage({
           <Reveal as="div" className="article">
             <figure className="article-lead">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={post.image} alt={title} />
+              <img src={post.image} alt={imageAlt} />
+              {t.has(`posts.${post.id}.imageCaption`) && <figcaption>{t(`posts.${post.id}.imageCaption`)}</figcaption>}
             </figure>
             <p className="lead pretty" style={{ marginBottom: "6px" }}>
               {t(`posts.${post.id}.excerpt`)}
@@ -122,7 +157,7 @@ export default async function BlogPostPage({
                 el = (
                   <ul key={i}>
                     {block.ul.map((li, j) => (
-                      <li key={j}>{li}</li>
+                      <li key={j}>{articleText(li)}</li>
                     ))}
                   </ul>
                 );
@@ -130,8 +165,18 @@ export default async function BlogPostPage({
                 el = (
                   <figure key={i} className="article-fig">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img loading="lazy" src={block.img} alt={title} />
+                    <img loading="lazy" src={block.img} alt={block.alt ?? title} />
+                    {block.caption && <figcaption>{block.caption}</figcaption>}
                   </figure>
+                );
+              else if ("table" in block)
+                el = (
+                  <div key={i} className="article-table" role="region" aria-label={title} tabIndex={0}>
+                    <table>
+                      <thead><tr>{block.table.headers.map((header, j) => <th key={j} scope="col">{header}</th>)}</tr></thead>
+                      <tbody>{block.table.rows.map((row, j) => <tr key={j}>{row.map((cell, k) => k === 0 ? <th key={k} scope="row">{cell}</th> : <td key={k}>{cell}</td>)}</tr>)}</tbody>
+                    </table>
+                  </div>
                 );
               else if ("cta" in block)
                 el = (
@@ -141,7 +186,7 @@ export default async function BlogPostPage({
                     </Link>
                   </p>
                 );
-              else el = <p key={i}>{block.p}</p>;
+              else el = <p key={i}>{articleText(block.p)}</p>;
               return [figure, el];
             })}
 

@@ -7,6 +7,8 @@ export type Post = {
   href: string;
   /** ISO date for sorting / <time>. */
   date: string;
+  /** Substantive update date, used to surface refreshed guides in the journal. */
+  updatedDate?: string;
   readMins?: number;
   featured?: boolean;
   /** Filter category key, maps to messages journal.filters.{category}. */
@@ -182,6 +184,7 @@ export const posts: Post[] = [
     image: "/images/blog/bamboo-fences-guide-hero.webp",
     href: "https://decobesthome.com/how-to-choose-the-right-bamboo-fence-for-your-outdoor-space/",
     date: "2025-04-01",
+    updatedDate: "2026-10-30",
     category: "fencing",
     readMins: 9,
     images: [],
@@ -254,10 +257,12 @@ export const posts: Post[] = [
   },
 ];
 
-/** Live posts only (drafts hidden), newest first by date. */
-export const publishedPosts = [...posts.filter((p) => !p.draft)].sort((a, b) =>
-  a.date < b.date ? 1 : a.date > b.date ? -1 : 0,
-);
+/** Live posts only, newest publication or substantive update first. */
+export const publishedPosts = [...posts.filter((p) => !p.draft)].sort((a, b) => {
+  const aDate = a.updatedDate ?? a.date;
+  const bDate = b.updatedDate ?? b.date;
+  return aDate < bDate ? 1 : aDate > bDate ? -1 : 0;
+});
 
 /** Newest post takes the big featured slot; the rest fill the grid (newest first).
  *  A new post automatically rotates onto the top and pushes the previous one down. */

@@ -3565,107 +3565,245 @@
         ]
       },
       "choose-right-bamboo-fence": {
-        "title": "Cómo elegir la valla de bambú adecuada para su espacio exterior",
-        "excerpt": "Alturas, acabados y formatos: una guía práctica para elegir la valla de bambú que mejor encaja.",
+        "title": "Vallas de bambú: tipos, privacidad, instalación y cuidados",
+        "excerpt": "Compare vallas, rollos de cañizo y paneles de bambú. Descubra qué influye en la privacidad, la instalación, la durabilidad en exterior y las especificaciones de compra para su proyecto.",
         "cat": "Vallas de bambú",
-        "date": "abril de 2025",
+        "date": "Actualizado en octubre de 2026",
         "body": [
           {
-            "h2": "¿Qué es el bambú y por qué elegirlo para vallas?"
+            "p": "Las vallas de bambú son pantallas o paneles fabricados con cañas o láminas de bambú recolectado. Aportan un cerramiento natural, cubren una valla existente o dividen un espacio exterior. La elección adecuada depende de la construcción de la pantalla, del grado de privacidad que necesite y de la estructura que la sostiene. Un rollo flexible de bambú suele ser un revestimiento para un soporte adecuado; un panel de valla con marco sigue necesitando postes y fijaciones correctamente diseñados."
           },
           {
-            "p": "El bambú se clasifica técnicamente como una hierba y puede crecer a un ritmo extraordinario; algunas especies se elevan hasta casi un metro en 24 horas. Debido a su rápido crecimiento, el bambú es un candidato excelente para la recolección sostenible, lo que lo convierte en una alternativa ecológica a la madera tradicional."
+            "p": "Para un fondo cálido en el jardín, el cañizo de bambú de caña redonda es un buen punto de partida. Para una superficie más plana, considere las láminas de bambú partido. Para un cerramiento arquitectónico más definido, compare los paneles de bambú con marco. En cualquier caso, evalúe el producto real en lugar de suponer que todas las vallas de bambú se comportan igual."
           },
           {
-            "p": "En el ámbito de las vallas, el bambú ofrece varias ventajas:"
+            "h2": "¿Qué tipo de valla de bambú debe elegir?"
+          },
+          {
+            "table": {
+              "headers": [
+                "Formato",
+                "Aspecto",
+                "Útil para",
+                "Qué comprobar antes de comprar"
+              ],
+              "rows": [
+                [
+                  "Rollo de cañizo de caña redonda",
+                  "Cañas enteras con nudos visibles y cara redondeada",
+                  "Revestir vallas existentes adecuadas; pantallas de privacidad para el jardín",
+                  "Diámetro de la caña, huecos, atado, peso del rollo y requisitos de soporte"
+                ],
+                [
+                  "Rollo de láminas de bambú partido",
+                  "Tiras estrechas partidas con una cara más plana",
+                  "Un revestimiento natural y fino para cerramientos adecuados",
+                  "Ancho y grosor de la lámina, atado, acabado de los bordes y cobertura real"
+                ],
+                [
+                  "Panel de bambú con marco",
+                  "Bambú sujeto dentro de un marco rígido",
+                  "Divisiones definidas del jardín y tramos de valla diseñados",
+                  "Material del marco, peso del panel, postes, fijaciones e instrucciones de instalación"
+                ]
+              ]
+            }
+          },
+          {
+            "p": "Un producto descrito como “valla de bambú” puede ser cualquiera de estos. Confirme si va a pedir un rollo flexible, un panel rígido o un sistema completo. Es posible que los postes, los marcos y las fijaciones se suministren por separado."
+          },
+          {
+            "p": "Explore la [gama de vallas de bambú](https://www.decobesthome.com/products/bamboo-fencing-edging) o compare las [vallas de láminas de bambú partido](https://www.decobesthome.com/products/split-bamboo-slat-fence)."
+          },
+          {
+            "h2": "¿Cuánta privacidad ofrecen las vallas de bambú?"
+          },
+          {
+            "p": "El bambú puede reducir las miradas indiscretas, pero la privacidad depende de los espacios entre las cañas o las láminas, del ángulo de visión y de la luz que haya detrás de la pantalla. Una valla que parece densa en una fotografía frontal puede dejar ver huecos si se mira en diagonal o cuando la zona de detrás está muy iluminada."
+          },
+          {
+            "p": "Antes de pedir, solicite una fotografía de cerca y otra más amplia tomada con luz detrás de la pantalla. Para un pedido grande, evalúe una muestra representativa. Si necesita una ocultación visual total, consulte con su instalador un respaldo adecuado o una construcción alternativa. Añadir un respaldo puede aumentar la carga de viento, por lo que también cambia lo que debe soportar la valla de apoyo."
+          },
+          {
+            "p": "Para las zonas de estar, tenga en cuenta la altura de la línea de visión del vecino además de la altura nominal de la valla. La vegetación puede suavizar la vista, pero no debe contarse como privacidad inmediata ni garantizada."
+          },
+          {
+            "img": "/images/blog/bamboo-fences-guide-black.webp",
+            "alt": "Paneles de bambú oscuro que forman el cerramiento de un jardín detrás de un patio de grava.",
+            "caption": "Escena de jardín ilustrativa con paneles de bambú oscuro. Imagen generada por IA."
+          },
+          {
+            "h2": "Bambú redondo o bambú partido: ¿cuál es la diferencia?"
+          },
+          {
+            "p": "La valla de caña redonda conserva la superficie curva de la caña de bambú, lo que crea un ritmo visual más marcado y una textura más pronunciada. La valla de láminas partidas utiliza tiras partidas a lo largo, lo que da un aspecto más plano que queda bien sobre un cerramiento existente adecuado."
+          },
+          {
+            "p": "Ninguna de las dos construcciones garantiza automáticamente más privacidad ni una vida útil más larga. Compare el grosor real del material, la separación, la calidad del atado, el procesado y el uso previsto en exterior. Una muestra del producto es más útil que una afirmación general de que un formato es “el mejor”."
+          },
+          {
+            "p": "Para conocer los detalles de construcción, consulte nuestra [guía de vallas de láminas de bambú partido](https://www.decobesthome.com/blog/split-bamboo-slat-fence-guide). Para una comparación más amplia de materiales, lea [cañizo de caña frente a ocultación de bambú](https://www.decobesthome.com/blog/reed-vs-bamboo-screening)."
+          },
+          {
+            "h2": "Cómo elegir el color y el acabado"
+          },
+          {
+            "p": "El bambú natural ofrece un fondo claro y cálido para las plantas y los pavimentos de tonos claros. El bambú más oscuro puede crear contraste con el follaje y el mobiliario de jardín contemporáneo. Sin embargo, el nombre del color no indica cómo se ha procesado el material."
+          },
+          {
+            "p": "Pregunte si un producto oscuro utiliza bambú naturalmente oscuro, tratamiento térmico, un tinte superficial u otro acabado. Solicite fotografías actuales e información sobre el tratamiento del producto concreto. La variación natural de color es normal, y la exposición a la intemperie puede cambiar el aspecto con el tiempo."
+          },
+          {
+            "p": "Nuestra [guía de colores de ocultación de bambú](https://www.decobesthome.com/blog/bamboo-screening-colours) presenta las principales opciones visuales. Confirme el acabado y las instrucciones de cuidado de la especificación elegida antes de pedir."
+          },
+          {
+            "h2": "Cómo planificar la altura, la longitud y el soporte"
+          },
+          {
+            "p": "Para los paneles de bambú de caña redonda que ilustran esta guía, el tamaño especificado por BestHome es de 1,8 m de alto × 1,8 m de ancho, con cañas de unos 3,5–4 cm de diámetro. Cuatro paneles cubren un tramo nominal de 7,2 m antes de descontar soportes y uniones. Confirme el acabado exacto disponible, las tolerancias y los requisitos de fijación al solicitar un presupuesto."
+          },
+          {
+            "p": "Mida el tramo completo e identifique las esquinas, las puertas, los cambios de nivel y los postes existentes. Después compruebe la cobertura útil de cada rollo o panel, incluidas las uniones y los cortes. El margen para desperdicio debe calcularse según el diseño, no aplicando un porcentaje fijo a todos los proyectos."
+          },
+          {
+            "p": "Compruebe también la normativa local sobre altura de cerramientos y cualquier requisito del arrendador, de la administración del edificio o de urbanismo. Un balcón o una terraza expuesta requieren especial cuidado: añadir una pantalla puede aumentar la carga sobre las barandillas y las fijaciones. Una pantalla no sustituye a una barrera de seguridad conforme a la normativa."
+          },
+          {
+            "p": "Antes de comprar, confirme:"
           },
           {
             "ul": [
-              "Sostenibilidad: al ser un recurso renovable de rápido crecimiento, el bambú reduce la dependencia de las maderas duras de crecimiento lento, ayudando a preservar los bosques.",
-              "Resistencia: ciertas especies de bambú tienen una resistencia a la tracción comparable a la del acero y una resistencia a la compresión mayor que la de muchas mezclas de hormigón.",
-              "Versatilidad: el bambú puede elaborarse en diversos estilos para adaptarse a cualquier jardín o diseño paisajístico.",
-              "Facilidad de instalación: ligera y sencilla de manejar, la valla de bambú es fácil de trabajar, ya sea como proyecto de bricolaje o con instalación profesional."
+              "La altura final y la longitud útil necesarias.",
+              "Si el soporte existente está en buen estado y es adecuado para la carga adicional.",
+              "Cómo se fijará la pantalla en los bordes, las esquinas y los soportes intermedios.",
+              "El peso del producto y las condiciones de la obra.",
+              "Si se puede mantener el borde inferior alejado de la tierra húmeda y del agua estancada."
             ]
           },
           {
-            "h2": "Distintas especies de bambú usadas para vallas"
+            "h2": "¿Cómo se debe instalar una valla de bambú?"
           },
           {
-            "p": "No todos los bambúes son iguales. Al seleccionar bambú para vallas, es esencial elegir especies conocidas por su durabilidad y resistencia. Algunas se usan habitualmente para fabricar vallas de bambú:"
+            "p": "Empiece por el soporte, no por la pantalla. Repare o sustituya la valla existente si está dañada antes de fijar el revestimiento de bambú. Para un tramo de valla nuevo, haga que los postes y la estructura se especifiquen en función de la altura, la exposición y las condiciones del terreno."
+          },
+          {
+            "p": "Siga las instrucciones de instalación del producto en cuanto a los elementos de fijación adecuados y sus posiciones. No existe un único intervalo de fijación válido para todos los rollos, paneles y exposiciones al viento. Sujete la pantalla a la estructura de soporte sin aplastar el bambú y sin confiar únicamente en los alambres de atado de la pantalla para soportar cargas para las que no fueron diseñados."
+          },
+          {
+            "p": "Mantenga el borde inferior alejado de la humedad persistente del suelo y deje el drenaje despejado. Si es necesario recortar, compruebe las herramientas recomendadas y cómo deben asegurarse los bordes cortados y los atados. Tras la instalación, revise que no haya extremos de alambre afilados ni fijaciones sueltas."
+          },
+          {
+            "p": "Para inspirarse en el diseño, consulte [12 ideas de ocultación de bambú para jardines y balcones](https://www.decobesthome.com/blog/bamboo-screening-ideas). Compruebe la idoneidad y los requisitos de soporte antes de adaptar una idea a su propio espacio."
+          },
+          {
+            "h2": "¿Cuánto duran las vallas de bambú en exterior?"
+          },
+          {
+            "p": "No existe una vida útil fiable que se aplique a todas las vallas de bambú. La durabilidad depende de la calidad del material, el procesado, la exposición, la instalación y el mantenimiento. La humedad persistente, los restos acumulados y las fijaciones inadecuadas pueden acortarla; un buen drenaje y las reparaciones a tiempo ayudan a proteger la instalación."
+          },
+          {
+            "p": "Pregunte al proveedor por el uso previsto en exterior, el tratamiento y el mantenimiento del producto concreto. Si se ofrece una vida útil o una garantía, revise sus condiciones y exclusiones en lugar de tomarla como una promesa válida para todos los climas e instalaciones."
+          },
+          {
+            "p": "Cuente con el desgaste natural por la intemperie. El bambú puede cambiar de color y desarrollar pequeñas fisuras superficiales al responder a las condiciones exteriores. Revise los cambios que afecten a la estabilidad, a las fijaciones o al estado del material, en lugar de suponer que toda grieta es inofensiva o que todo cambio de color significa un fallo."
+          },
+          {
+            "h2": "Cuidados de una valla de bambú"
+          },
+          {
+            "p": "Retire las hojas y la tierra del borde inferior, evite que la vegetación atrape humedad persistente contra la pantalla y revise las fijaciones después de un temporal. Limpie con suavidad utilizando el método que recomiende el proveedor. Pruebe cualquier producto de limpieza primero en una zona pequeña y poco visible."
+          },
+          {
+            "p": "Si se recomienda un acabado protector, utilice uno que sea compatible con el tratamiento existente del bambú y siga las instrucciones de aplicación del fabricante del acabado. Un recubrimiento no elimina la necesidad de drenaje ni hace que una pantalla natural no requiera mantenimiento."
+          },
+          {
+            "p": "Lea nuestra [guía para limpiar una valla de bambú](https://www.decobesthome.com/blog/clean-bamboo-fence) junto con las instrucciones de cuidado que se suministran con su producto."
+          },
+          {
+            "h2": "¿Qué influye en el precio de las vallas de bambú?"
+          },
+          {
+            "p": "Compare la especificación completa instalada, no solo el precio por rollo. Las dimensiones de las cañas o láminas, el procesado, el acabado, el atado, los marcos de los paneles, el embalaje y la cantidad del pedido pueden influir en el precio. Los postes, las fijaciones, el transporte y la instalación pueden suponer costes adicionales."
+          },
+          {
+            "p": "Para consultas al por mayor, indique la construcción, las dimensiones, el acabado, las cantidades, los requisitos de embalaje y el destino de entrega. Pida presupuestos sobre la misma especificación al comparar proveedores. Dos productos con la misma altura y longitud pueden diferir notablemente en el contenido de material y en la construcción."
+          },
+          {
+            "h2": "Lista de comprobación de compra para minoristas, importadores y proyectos"
           },
           {
             "ul": [
-              "Bambú blanco: muy usado en construcción y conocido por su rectitud y uniformidad, ideal para vallas elegantes con un aspecto limpio y homogéneo.",
-              "Bambú Tonkin (Pseudosasa amabilis): conocido por su rectitud y uniformidad, ideal para vallas limpias y homogéneas.",
-              "Bambú negro (Phyllostachys nigra): apreciado por sus llamativas cañas oscuras, que crean un impactante contraste visual en el jardín.",
-              "Bambú Moso (Phyllostachys edulis): una de las especies más populares para uso comercial, conocida por su grosor, resistencia y versatilidad."
+              "Confirme la construcción del rollo, la lámina o el panel y el uso previsto.",
+              "Acuerde las dimensiones, las tolerancias, el calibre del material y la variación natural aceptable.",
+              "Solicite muestras representativas, fotografías de detalle e información sobre el tratamiento.",
+              "Confirme la construcción del atado o del marco, el peso del producto y las instrucciones de instalación.",
+              "Acuerde el embalaje, el etiquetado, las cantidades y las condiciones de envío del presupuesto.",
+              "Solicite documentación para cualquier afirmación medioambiental o de certificación que tenga intención de publicar."
             ]
           },
           {
-            "h2": "Los beneficios ambientales de elegir bambú"
+            "p": "El bambú es un material vegetal renovable, pero eso por sí solo no determina el impacto ambiental ni la certificación de un producto acabado. También influyen el procesado, los tratamientos, el transporte y la vida útil. Utilice pruebas específicas del producto para afirmaciones como el origen certificado, el estado del tratamiento o la reciclabilidad."
           },
           {
-            "p": "Los beneficios ambientales de usar bambú para vallas son considerables. El bambú crece sin necesidad de pesticidas ni fertilizantes, lo que reduce el escurrimiento de productos químicos al medio ambiente. Sus extensos sistemas de raíces ayudan a prevenir la erosión del suelo en zonas sensibles. El bambú también absorbe dióxido de carbono y libera un 35 % más de oxígeno a la atmósfera que una masa equivalente de árboles, purificando el aire."
+            "h2": "Preguntas frecuentes"
           },
           {
-            "p": "Las credenciales ecológicas del bambú van más allá si se considera su papel en la lucha contra el cambio climático. Como sumidero de carbono, los bosques de bambú pueden capturar carbono a un ritmo mayor que algunas especies arbóreas. Cuando se cosecha y se utiliza para productos como vallas, el carbono permanece retenido en el bambú, evitando que regrese a la atmósfera."
+            "h3": "¿Son adecuadas las vallas de bambú para tener privacidad?"
           },
           {
-            "p": "Una valla de bambú no es solo un medio para delimitar los límites de su espacio exterior; es una elección consciente que respalda un modo de vida más sostenible. El camino hacia un futuro más verde puede empezar a menudo en nuestro propio jardín."
+            "p": "Pueden reducir las miradas indiscretas, pero el resultado depende de la construcción, los huecos, la luz y el ángulo de visión. Si la privacidad es prioritaria, compruebe una muestra o una fotografía a contraluz. No dé por hecho que todas las pantallas de bambú ofrecen privacidad total."
           },
           {
-            "h2": "Cómo armonizar la valla con el estilo del jardín"
+            "h3": "¿Puede el cañizo de bambú sostenerse por sí solo?"
           },
           {
-            "p": "La belleza del bambú reside en su versatilidad. Tanto si su jardín es un sereno refugio zen de inspiración oriental, un frondoso oasis tropical o un espacio minimalista moderno, existe un diseño de valla de bambú para realzar el tema."
+            "p": "Un rollo flexible suele necesitar una valla o un marco de soporte adecuados. Un panel rígido también necesita postes y fijaciones apropiados. Confirme qué incluye el producto y cómo debe soportarse."
           },
           {
-            "ul": [
-              "Jardines zen orientales: opte por una valla de cañas de bambú de líneas limpias y tonos naturales para complementar la tranquilidad de un jardín de inspiración zen.",
-              "Jardines de temática tropical: una valla de bambú robusta, de aspecto más grueso y rústico, contribuye al ambiente exuberante y complementa el follaje denso y las fuentes de agua.",
-              "Espacios exteriores contemporáneos: una elegante valla de lamas de bambú aporta privacidad con una estructura refinada y lineal que complementa los trazados geométricos y las líneas arquitectónicas limpias."
-            ]
+            "h3": "¿Es mejor el bambú partido que el bambú redondo?"
           },
           {
-            "h2": "Integrar la valla de bambú en el paisaje"
+            "p": "El bambú partido ofrece una superficie más plana; las cañas redondas dan una textura más redondeada. La mejor opción depende del aspecto, la cobertura y la especificación que se necesiten. Compare productos reales en lugar de juzgar la durabilidad solo por el formato."
           },
           {
-            "p": "La creatividad es clave al integrar la valla de bambú en su paisaje existente. Considere usar paneles de bambú como fondo para plantas coloridas o como una textura de contraste frente a superficies duras y lisas, como senderos de piedra y mobiliario de patio elegante. Las variaciones naturales de color del bambú también ofrecen un lienzo orgánico para la iluminación exterior, empleada para resaltar la valla y crear ambiente al anochecer."
+            "h3": "¿Se puede usar una valla de bambú en un balcón?"
           },
           {
-            "p": "Para un efecto visual dinámico, combine el bambú con otros elementos naturales como plantas trepadoras o enredaderas, que pueden entrelazarse a través de la valla para darle un aspecto de muro vivo. Estas combinaciones realzan el atractivo estético y pueden crear hábitats para la fauna local, contribuyendo a la salud del ecosistema."
+            "p": "Puede ser adecuada cuando la normativa del edificio lo permita y la barandilla y las fijaciones puedan soportar las cargas adicionales. Consulte con el administrador del edificio o con el instalador responsable. La ocultación de bambú no sustituye a una barandilla de seguridad."
           },
           {
-            "h2": "Combinar con otros materiales"
+            "h3": "¿Necesita mantenimiento una valla de bambú?"
           },
           {
-            "p": "Las vallas de bambú pueden combinarse con otros materiales para producir efectos visuales sorprendentes. Puede enmarcar los paneles de bambú con postes de madera para lograr un aspecto sólido y contrastado, o combinarlos con detalles de hierro forjado para mezclar elementos orgánicos e industriales. Las bases de piedra no solo añaden interés al diseño, sino que protegen el bambú del contacto directo con el suelo, evitando la pudrición y aumentando su durabilidad."
+            "p": "Sí. Manténgala libre de humedad persistente, límpiela como se recomienda y revise las fijaciones y el estado del material. Siga las indicaciones específicas del producto para cualquier acabado protector."
           },
           {
-            "p": "Al integrar materiales, asegúrese de que armonicen tanto con el bambú como con el espacio circundante. Los tonos naturales del bambú deben complementar, no chocar con, los demás elementos de su jardín. El objetivo es el equilibrio, donde la combinación de materiales realce el aspecto general y la funcionalidad de la valla."
+            "h3": "¿Dónde puedo adquirir vallas de bambú para un pedido grande?"
           },
           {
-            "h2": "Tratamiento, durabilidad y calidad"
+            "p": "La gama de BestHome incluye vallas de bambú y vallas de láminas de bambú partido. Envíenos el formato, las dimensiones, el acabado, las cantidades y el destino de entrega que necesita para que el equipo pueda confirmar las especificaciones vigentes y preparar un presupuesto."
           },
           {
-            "p": "Uno de los factores clave en la durabilidad de una valla de bambú es el proceso de tratamiento al que se somete. La valla de bambú de alta calidad suele curarse —lo que puede incluir el secado en horno— y tratarse con boratos u otros conservantes respetuosos con el medio ambiente para prevenir la pudrición, el moho y la infestación de insectos. Una valla de bambú bien tratada puede durar más de 10 años con un mantenimiento adecuado, así que consulte siempre con el vendedor sobre los tratamientos aplicados."
+            "h2": "Encuentre la valla de bambú adecuada para su proyecto"
           },
           {
-            "p": "El grosor y la densidad también importan. Las cañas más gruesas y densas son más duraderas y menos propensas a agrietarse o astillarse. La mayoría de las vallas de alta calidad usan cañas con un diámetro de al menos 2,5 cm, aunque el grosor exacto depende de la altura y la longitud de la valla y de las condiciones climáticas locales."
+            "p": "Empiece por el formato y el soporte que necesita su espacio y después compare privacidad, acabado y mantenimiento. En proyectos grandes o para una gama de venta minorista, acordar una especificación clara antes de pedir facilita la comparación de productos y la gestión de las expectativas."
           },
           {
-            "p": "Las señales de una artesanía de calidad incluyen la uniformidad en el tamaño de las cañas, la consistencia del color y la suavidad de los cortes que evitan la acumulación de humedad. Las uniones deben estar bien atadas, y cualquier herraje metálico debe ser galvanizado o de acero inoxidable para evitar la oxidación. Los remates en la parte superior de los postes impiden la entrada de agua, y los marcos robustos sostienen la estructura."
+            "p": "[Explore las vallas de bambú](https://www.decobesthome.com/products/bamboo-fencing-edging) o [contacte con BestHome para indicarnos sus necesidades](https://www.decobesthome.com/contact)."
           },
           {
-            "h2": "Recubrir la valla para resistir la intemperie"
-          },
-          {
-            "p": "Para proteger aún más su valla de bambú de la intemperie y los daños por rayos UV, considere aplicar un sellador resistente al agua, inicialmente durante la instalación y luego reaplicado cada 1-2 años según su clima. Un protector resistente a los rayos UV ayuda a mantener el color natural, o puede optar por un tinte coloreado para conseguir el tono deseado."
-          },
-          {
-            "p": "Al elegir tratamientos, asegúrese de que sean aptos para uso exterior y seguros para plantas y animales si su valla está al alcance de su jardín o sus mascotas. Siga siempre las instrucciones del fabricante para obtener los mejores resultados. Elegir la valla de bambú adecuada no es solo cuestión de estética: es un equilibrio entre belleza, durabilidad y sostenibilidad."
+            "cta": {
+              "label": "Solicitar presupuesto de vallas de bambú",
+              "href": "/contact"
+            }
           }
-        ]
+        ],
+        "modifiedDate": "2026-10-30",
+        "seoTitle": "Vallas de bambú: tipos, privacidad y cuidados",
+        "author": "Equipo editorial de BestHome",
+        "imageAlt": "Paneles de valla de bambú natural junto a un patio de jardín paisajístico.",
+        "imageCaption": "Escena de jardín ilustrativa con paneles de bambú natural. Imagen generada por IA."
       },
       "clean-bamboo-fence": {
         "title": "Cómo limpiar una valla de bambú sucia y mantenerla",
@@ -4235,6 +4373,12 @@
             "cta": {
               "label": "Ver nuestro cañizo de junco",
               "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "cta": {
+              "label": "Ver nuestro cañizo de bambú",
+              "href": "/products/bamboo-fencing-edging"
             }
           },
           {

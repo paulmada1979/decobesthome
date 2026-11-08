@@ -70,7 +70,7 @@
     "names": {
       "tonkin-bamboo-canes": "Tonkin bamboo canes",
       "decor-moso-bamboo-poles": "Bamboo poles",
-      "bamboo-fencing-edging": "Bamboo fencing & edging",
+      "bamboo-fencing-edging": "Bamboo fencing & screening rolls",
       "bamboo-fence-panels": "Bamboo fence panels",
       "bamboo-household-articles": "Bamboo household articles",
       "bamboo-flower-sticks": "Bamboo flower sticks",
@@ -422,9 +422,9 @@
         },
         "bamboo-fencing-edging": {
           "eyebrow": "Bestseller · Natural bamboo",
-          "lead": "Bamboo privacy fence rolls, screens and edging — chemical-free garden screening that blends into any space, supplied wholesale and factory-direct.",
+          "lead": "Bamboo fencing and bamboo screening rolls in natural, carbonized and natural black, 1.0–2.0 m high (3–6½ ft), plus garden edging. Wholesale, factory-direct.",
           "pill": "Eco-friendly · No formaldehyde",
-          "name": "Natural bamboo privacy fence",
+          "name": "Natural bamboo fence rolls",
           "desc": "Robust, sustainable and naturally developed without pesticides, formaldehyde or toxic glues. A popular choice for privacy screening and decorative purposes — blending effortlessly with any surface and adding an element of elegant, cozy warmth.",
           "finishLabel": "Finish",
           "finishes": [
@@ -434,10 +434,10 @@
           ],
           "heightLabel": "Height",
           "heights": [
-            "1.0 m",
-            "1.5 m",
-            "1.8 m",
-            "2.0 m",
+            "1.0 m (3 ft)",
+            "1.5 m (5 ft)",
+            "1.8 m (6 ft)",
+            "2.0 m (6½ ft)",
             "Custom"
           ],
           "spec": [
@@ -595,7 +595,7 @@
             "colDiameter": "Best for",
             "note": "Standard roll length 1.8 m · heights 1.0–2.0 m · custom sizes on request."
           },
-          "metaTitle": "Bamboo Privacy Fence & Fence Rolls — Wholesale"
+          "metaTitle": "Bamboo Fencing & Bamboo Screening Rolls — Wholesale"
         },
         "bamboo-fence-panels": {
           "eyebrow": "Natural bamboo",
@@ -4343,7 +4343,7 @@
           {
             "ul": [
               "Choose reed screening for a soft, warm, cottage or coastal look — and a lower price.",
-              "Choose bamboo screening for a bolder, more structured, contemporary look and maximum durability.",
+              "Choose [bamboo screening](https://www.decobesthome.com/products/bamboo-fencing-edging) for a bolder, more structured, contemporary look and maximum durability.",
               "Both are 100% natural, chemical-free and fix straight to an existing fence."
             ]
           },
@@ -4386,6 +4386,12 @@
             "cta": {
               "label": "Browse our reed screening",
               "href": "/products/reed-fencing"
+            }
+          },
+          {
+            "cta": {
+              "label": "Browse our bamboo fencing rolls",
+              "href": "/products/bamboo-fencing-edging"
             }
           },
           {

@@ -23,6 +23,20 @@ export type Post = {
 /** Journal entries. Titles/excerpts/category labels live in messages journal.posts.{id}. */
 export const posts: Post[] = [
   {
+    // Nov 2026: answers "how long does bamboo screening last" (GSC showed it
+    // landing on reed-vs-bamboo at pos ~12). ChatGPT images material-locked to
+    // the real roll photo (prompts: vault PROMPTS-blog-bamboo-lifespan-attach.md).
+    // Supports are placed inline via {img} under "7 ways" and "replace".
+    id: "bamboo-screening-lifespan",
+    slug: "how-long-does-bamboo-screening-last",
+    image: "/images/blog/bamboo-screening-lifespan-hero.webp",
+    href: "https://www.decobesthome.com/blog/how-long-does-bamboo-screening-last",
+    date: "2026-11-10",
+    readMins: 6,
+    category: "fencing",
+    images: [],
+  },
+  {
     // Hub guide for the reed range: the 3-6 / 5-8 / 8-10 mm ladder. Links out to
     // three variant pages and the range page, which is the point of it -- those
     // pages are what need the internal links. Images placed inline via {img}.

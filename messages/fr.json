@@ -2767,6 +2767,3087 @@
           ]
         }
       }
+    },
+    "bambooFence": {
+      "shared": {
+        "factsTitle": "En bref",
+        "whyTitle": "Pourquoi choisir celle-ci",
+        "sizesEyebrow": "Caractéristiques",
+        "qcEyebrow": "Contrôle qualité",
+        "qcTitle": "Vérifié avant l'expédition",
+        "qcLead": "Photos de nos contrôles avant expédition : diamètre des cannes mesuré au mètre ruban, dimensions des rouleaux comparées à la commande et taux d'humidité testé avant le chargement.",
+        "faqEyebrow": "Questions & réponses",
+        "faqTitle": "Questions fréquentes",
+        "packing": {
+          "eyebrow": "Logistique",
+          "title": "Options d'emballage",
+          "lead": "Emballages standard export et vente au détail pour les rouleaux de clôture en bambou, les treillis et les bordures — ou communiquez-nous votre propre cahier des charges et nous emballons sur commande.",
+          "options": [
+            {
+              "t": "Sac plastique ou film rétractable",
+              "d": "Chaque rouleau emballé individuellement pour rester propre et net en rayon."
+            },
+            {
+              "t": "Bottes",
+              "d": "Rouleaux cerclés en bottes pour un chargement efficace du conteneur."
+            },
+            {
+              "t": "Étiquette, encart ou code-barres",
+              "d": "Votre propre étiquette imprimée, encart couleur ou code-barres — prêt pour la vente au détail."
+            },
+            {
+              "t": "Cartons ou palettes",
+              "d": "Cartons export ou chargements palettisés sur demande."
+            }
+          ]
+        },
+        "series": {
+          "eyebrow": "La gamme clôtures bambou",
+          "title": "Comparez les autres clôtures en bambou",
+          "lead": "Rouleaux ronds et demi-ronds en naturel, noir, carbonisé et acajou, ainsi que les écrans Tonkin, les treillis, la clôture en branchages et les bordures de jardin.",
+          "overviewCta": "Aperçu des clôtures en bambou"
+        }
+      },
+      "variants": {
+        "natural-bamboo-fence-roll": {
+          "name": "Canisse bambou naturel en rouleau",
+          "metaTitle": "Canisse bambou naturel en rouleau – grossiste",
+          "cardDesc": "Cannes rondes jaunes classiques sur fil galvanisé, 1,0–2,5 m de haut.",
+          "eyebrow": "Meilleure vente · Bambou jaune naturel",
+          "pill": "Bambou rond naturel · Ø 14–35 mm",
+          "lead": "Notre canisse bambou classique : des cannes rondes jaunes naturelles sur fil galvanisé, en trois calibres de cannes et sept tailles de rouleaux jusqu'à 2,5 m de haut.",
+          "desc": "La clôture en bambou en rouleau par laquelle commencent la plupart des jardineries. Des cannes rondes naturelles sont fixées côte à côte au fil de fer en un brise-vue souple qui se déroule directement sur une clôture, un mur ou un cadre existant. Choisissez des cannes de 14–20, 20–30 ou 30–35 mm, avec cannes géantes et finition vernis laqué en option.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou jaune naturel, rond"
+            },
+            {
+              "k": "Diamètre",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux, 1,0–2,5 m de haut"
+            },
+            {
+              "k": "Idéal pour",
+              "v": "Intimité au jardin et habillage de clôture"
+            }
+          ],
+          "why": "C'est la canisse la plus polyvalente de la gamme : le plus grand choix de calibres et de tailles, une couleur naturelle chaleureuse qui s'accorde à tous les jardins, et la possibilité de cannes géantes ou d'une finition laquée pour une ligne haut de gamme.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% bambou rond naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "14–20 · 20–30 · 30–35 mm (géantes 35–40 · 40–50 mm)"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil de fer galvanisé (cannes géantes : fil, perche de bambou ou fil nylon)"
+            },
+            {
+              "k": "Finition",
+              "v": "Naturelle, ou vernis laqué"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "7 tailles standard, 1,0–2,5 m de haut · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 2 400 m² (14–20 mm) · ≈ 2 300 m² (20–30 mm) · ≈ 2 100 m² (30–35 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Sept tailles de rouleaux standard, indiquées en hauteur × largeur.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Hauteurs et largeurs sur mesure sur demande — indiquez-nous votre calibre de cannes et votre mix de tailles, nous confirmons la quantité par conteneur."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "La clôture en bambou en rouleau classique",
+            "body": [
+              {
+                "p": "Notre canisse bambou naturel est fabriquée à partir de cannes de bambou jaune rondes, posées côte à côte et liées avec du fil de fer galvanisé. Les cannes étant fixées au fil et non dans un cadre, le brise-vue s'enroule pour un transport compact et se déroule sur place pour suivre une clôture, une balustrade de balcon ou une légère courbe. C'est ce que la plupart des acheteurs entendent par canisse en rouleau, et elle convient aux limites de jardin, à l'habillage de clôtures grillagées, en bois ou en béton, aux balcons et terrasses, aux gammes de jardinerie et aux projets paysagers."
+              },
+              {
+                "h3": "Trois calibres de cannes, plus des cannes géantes"
+              },
+              {
+                "p": "Les cannes plus fines de 14–20 mm donnent un rouleau plus léger et plus économique ; le 20–30 mm est le calibre courant ; le 30–35 mm offre un aspect plus épais et plus massif. Pour les projets d'exception, nous fabriquons aussi une version géante avec des cannes de 35–40 ou 40–50 mm, liées au fil, à la perche de bambou ou au fil nylon. Une finition vernis laqué est proposée en option pour une surface plus lisse et plus soignée."
+              },
+              {
+                "h3": "Vérifié avant l'expédition"
+              },
+              {
+                "p": "Avant le chargement, notre équipe qualité mesure le taux d'humidité des cannes — les derniers contrôles relèvent entre 7,8% et 11,9% — et vérifie au mètre ruban le diamètre des cannes par rapport à la commande. Les rouleaux de 100 × 180 cm à 250 × 180 cm sont photographiés avant l'emballage, afin que vous voyiez ce qui part dans le conteneur."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Quelles tailles existe-t-il pour la canisse bambou naturel en rouleau ?",
+              "a": "Sept tailles standard, de 1,0 × 2,5 m à 2,5 × 2,5 m (hauteur × largeur). La canisse bambou 1m80 (6 ft), très demandée, correspond à notre hauteur de 1,8 m, en largeur 1,8 m ou 2,5 m. Les autres hauteurs et largeurs sont fabriquées sur commande."
+            },
+            {
+              "q": "Combien de rouleaux tiennent dans un conteneur 40HC ?",
+              "a": "Cela dépend du calibre : environ 2 400 m² en 14–20 mm, 2 300 m² en 20–30 mm ou 2 100 m² en 30–35 mm par 40HC. Le nombre exact de rouleaux dépend de votre mix de tailles et de l'emballage ; nous le calculons pour chaque commande."
+            },
+            {
+              "q": "Comment poser une canisse en bambou ?",
+              "a": "Déroulez-la contre une clôture, un mur, une balustrade ou un grillage existant et fixez-la avec des liens métalliques ou des vis passées dans le fil. Pour une clôture autoportante, fixez le rouleau sur des poteaux et des lisses en bois. Aucun outil spécial n'est nécessaire."
+            },
+            {
+              "q": "La couleur naturelle change-t-elle en extérieur ?",
+              "a": "Oui, progressivement. Comme tout matériau naturel non traité, le bambou grisonne lentement sous le soleil et la pluie. L'option vernis laqué ajoute une couche de protection en surface ; pour un aspect plus foncé dès le départ, voir nos rouleaux noir naturel ou carbonisé."
+            }
+          ]
+        },
+        "natural-black-bamboo-fence-roll": {
+          "name": "Canisse bambou noir naturel en rouleau",
+          "metaTitle": "Canisse bambou noir naturel – grossiste",
+          "cardDesc": "Cannes rondes noires naturelles — la couleur est celle du bambou, pas de la peinture.",
+          "eyebrow": "Noir naturel · Contemporain",
+          "pill": "Bambou noir naturel · Ø 14–35 mm",
+          "lead": "Brise-vue en bambou fabriqué à partir de cannes naturellement sombres — sans peinture ni teinture. Cannes rondes sur fil galvanisé, dans les mêmes sept tailles de rouleaux que notre rouleau naturel.",
+          "desc": "Une canisse bambou sombre et moderne pour les jardins contemporains. Les cannes proviennent d'un bambou qui pousse noir : la couleur appartient à la canne elle-même et non à un revêtement. Trois calibres de cannes, sept tailles de rouleaux et les mêmes rendements par conteneur que notre rouleau naturel.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou noir naturel, rond"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturelle — ni peinte ni teinte"
+            },
+            {
+              "k": "Diamètre",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Idéal pour",
+              "v": "Jardins modernes, limites sombres"
+            }
+          ],
+          "why": "À choisir lorsque vous voulez une clôture en bambou noir sans surface peinte susceptible de s'écailler ou de peler : la couleur sombre est celle du bambou, et les tailles correspondent à notre rouleau naturel, de sorte que les deux couleurs peuvent partager un même conteneur.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% bambou rond noir naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Noir naturel — sans peinture ni teinture"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "7 tailles standard, 1,0–2,5 m de haut · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 2 400 m² (14–20 mm) · ≈ 2 300 m² (20–30 mm) · ≈ 2 100 m² (30–35 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Les mêmes sept tailles de rouleaux que notre rouleau naturel, indiquées en hauteur × largeur.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Hauteurs et largeurs sur mesure sur demande ; les rouleaux naturel et noir peuvent être mélangés dans un même conteneur."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un brise-vue en bambou noir, coloré par la nature",
+            "body": [
+              {
+                "p": "Le bambou noir naturel est un bambou dont les cannes foncent en mûrissant. Nous coupons et séchons ces cannes, puis nous les fixons côte à côte au fil galvanisé en un rouleau souple, exactement comme pour notre rouleau jaune naturel. Rien n'est peint : il n'y a donc aucun revêtement susceptible de se rayer, de s'écailler ou de peler."
+              },
+              {
+                "p": "Étant une couleur naturelle, la teinte varie d'une canne à l'autre — noir profond, noir-brun et, çà et là, une marbrure plus claire. Cette variation fait partie du caractère du produit et distingue une clôture en bambou noir naturel d'une clôture peinte. Comme tout notre bambou, il est fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Par rapport à notre rouleau naturel, la seule différence est la canne : mêmes diamètres, mêmes tailles, même rendement par conteneur. Par rapport à notre clôture carbonisée, l'origine de la couleur diffère — les cannes carbonisées sont noircies par la chaleur, alors que celles-ci poussent sombres. Si vous souhaitez une face demi-ronde sombre plutôt que des cannes rondes, voyez la clôture demi-ronde noir naturel."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Jardins contemporains et minimalistes.",
+                  "Toits-terrasses, balcons et cours intérieures.",
+                  "Occultation pour restaurants, bars et hôtels.",
+                  "Un fond sombre pour les plantations et l'éclairage."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "La couleur noire est-elle peinte ?",
+              "a": "Non. Les cannes proviennent d'un bambou qui pousse noir. Il n'y a ni peinture ni teinture : la couleur ne peut donc pas s'écailler, et chaque canne présente une légère variation naturelle de teinte."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Sept rouleaux standard, de 1,0 × 2,5 m à 2,5 × 2,5 m (hauteur × largeur), en cannes de 14–20, 20–30 ou 30–35 mm. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Puis-je combiner rouleaux noirs et naturels dans un même conteneur ?",
+              "a": "Oui. Les deux rouleaux ont les mêmes tailles et des rendements par conteneur proches — environ 2 400 m² (14–20 mm), 2 300 m² (20–30 mm) ou 2 100 m² (30–35 mm) par 40HC — ce qui facilite la préparation d'un chargement mixte."
+            },
+            {
+              "q": "Comment poser un brise-vue en bambou noir ?",
+              "a": "Comme n'importe quelle canisse en bambou : déroulez-la contre une clôture, un mur, une balustrade ou un grillage et fixez-la avec des liens métalliques ou des vis. Les linéaires autoportants nécessitent des poteaux et des lisses en bois."
+            }
+          ]
+        },
+        "carbonized-bamboo-fence": {
+          "name": "Canisse bambou carbonisé",
+          "metaTitle": "Canisse bambou carbonisé en rouleau – grossiste",
+          "cardDesc": "Cannes traitées à la chaleur, couleur dans la masse — brun caramel ou foncé.",
+          "eyebrow": "Traité à la chaleur · Deux qualités",
+          "pill": "Bambou carbonisé · vernis laqué",
+          "lead": "Une clôture en bambou noircie par la chaleur et non par la peinture, la couleur étant donc dans la masse de la canne. Deux qualités : brun caramel 20–30 mm et foncé économique 10–20 mm.",
+          "desc": "La carbonisation est un traitement thermique qui fait passer le bambou du jaune à un brun chaud ou à un ton plus profond, dans toute la masse de la canne. Nous proposons une qualité brun caramel 20–30 mm et une qualité foncée économique 10–20 mm, toutes deux finies au vernis laqué et fournies en sept tailles de rouleaux.",
+          "facts": [
+            {
+              "k": "Traitement",
+              "v": "Carbonisé — traité à la chaleur"
+            },
+            {
+              "k": "Couleur",
+              "v": "Brun caramel ou foncé"
+            },
+            {
+              "k": "Diamètre",
+              "v": "20–30 mm · 10–20 mm (économique)"
+            },
+            {
+              "k": "Finition",
+              "v": "Vernis laqué"
+            }
+          ],
+          "why": "Elle donne une clôture plus foncée et plus chaude que le bambou naturel, sans peinture ni teinture : le traitement thermique colore toute la canne, de sorte qu'une rayure ou une extrémité coupée montre le même ton. La qualité foncée économique est notre rouleau au meilleur rendement par conteneur.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou rond carbonisé (traité à la chaleur)"
+            },
+            {
+              "k": "Qualités",
+              "v": "Brun caramel, Ø 20–30 mm · foncé économique, Ø 10–20 mm"
+            },
+            {
+              "k": "Finition",
+              "v": "Vernis laqué"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "7 tailles standard, 1,0–2,5 m de haut · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 2 300 m² (brun caramel 20–30 mm) · ≈ 2 600 m² (foncé économique 10–20 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Les deux qualités existent dans les mêmes sept tailles de rouleaux, indiquées en hauteur × largeur.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Hauteurs et largeurs sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une couleur qui traverse toute la canne",
+            "body": [
+              {
+                "p": "Le bambou carbonisé est un bambou traité à la chaleur. Le procédé fonce la canne de son jaune naturel vers un brun ou un ton plus profond et, comme il s'agit de chaleur et non d'un revêtement, la couleur traverse toute la canne. Un choc, une rayure ou une extrémité fraîchement coupée montrent la même couleur que la surface."
+              },
+              {
+                "p": "Après la carbonisation, les cannes sont finies au vernis laqué et assemblées en rouleaux avec du fil galvanisé : la clôture se pose exactement comme notre canisse bambou naturel. Les deux qualités existent dans les mêmes sept tailles de rouleaux que nos autres rouleaux ronds, de 1,0 × 2,5 m à 2,5 × 2,5 m, si bien que le carbonisé peut rejoindre un conteneur mixte de rouleaux naturels et noirs sans changer votre gamme de tailles."
+              },
+              {
+                "h3": "Deux qualités"
+              },
+              {
+                "ul": [
+                  "Brun caramel (carbonisé clair) : cannes de 20–30 mm, vernis laqué, environ 2 300 m² par 40HC.",
+                  "Foncé économique : cannes plus fines de 10–20 mm, vernis laqué, environ 2 600 m² par 40HC — notre rouleau carbonisé le plus économique."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le bambou noir naturel pousse sombre ; le bambou carbonisé est rendu sombre par la chaleur ; notre rouleau acajou est teint. Le carbonisé se situe entre les deux par son aspect — plus chaud que le noir naturel, plus naturel qu'une finition teintée — et le vernis lui donne un léger brillant."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Que signifie « carbonisé » ?",
+              "a": "Le bambou est traité à la chaleur, ce qui fait passer sa couleur du jaune au brun ou à un ton plus foncé. Ce n'est ni de la peinture ni de la teinture : la couleur traverse donc toute la canne."
+            },
+            {
+              "q": "Quelle est la différence entre les deux qualités ?",
+              "a": "La qualité brun caramel utilise des cannes de 20–30 mm pour un aspect plus fourni. La qualité foncée économique utilise des cannes plus fines de 10–20 mm, ce qui la rend plus économique et permet de charger environ 2 600 m² par 40HC contre environ 2 300 m² pour le brun caramel."
+            },
+            {
+              "q": "Est-elle laquée ?",
+              "a": "Oui. Les deux qualités reçoivent une finition vernis laqué avant l'enroulement, ce qui donne une surface plus lisse et un léger brillant. Comme toutes nos clôtures en bambou, elle est fabriquée sans pesticides, sans formaldéhyde ni colles toxiques."
+            },
+            {
+              "q": "Pouvez-vous fabriquer des tailles sur mesure ou un emballage en marque distributeur ?",
+              "a": "Oui. Outre les sept tailles standard, nous fabriquons des hauteurs et largeurs sur mesure, et nous emballons avec vos propres étiquettes, encarts ou codes-barres. Le MOQ est négociable."
+            }
+          ]
+        },
+        "mahogany-bamboo-fence-roll": {
+          "name": "Canisse bambou acajou en rouleau",
+          "metaTitle": "Canisse bambou acajou en rouleau – grossiste",
+          "cardDesc": "Rouleau de bambou teint brun-rouge, pour une limite chaleureuse et distinctive.",
+          "eyebrow": "Finition teintée · Brun-rouge chaleureux",
+          "pill": "Bambou teint · Ø 20–30 mm",
+          "lead": "Une canisse bambou brun-rouge chaleureuse : des cannes rondes de 20–30 mm teintes couleur acajou et liées au fil galvanisé, en sept tailles de rouleaux.",
+          "desc": "Pour les acheteurs qui veulent une couleur que ni le naturel, ni le noir, ni le carbonisé ne peuvent offrir. Des cannes rondes de 20–30 mm sont teintes en brun-rouge acajou et assemblées dans le même rouleau souple que le reste de la gamme. Nous le disons clairement : la couleur est teinte, non naturelle.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou rond, Ø 20–30 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Brun-rouge acajou — teint"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux, 1,0–2,5 m de haut"
+            },
+            {
+              "k": "Idéal pour",
+              "v": "Ambiances chaudes, gamme couleur en magasin"
+            }
+          ],
+          "why": "Il ajoute une option brun-rouge chaleureuse à une gamme de bambou — utile pour les revendeurs qui veulent une troisième couleur à côté du naturel et du noir, et pour les jardins avec briques, terre cuite ou bois rougeâtre.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou rond, teint acajou"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "20–30 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Rouge / acajou — teint"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "7 tailles standard, 1,0–2,5 m de haut · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 2 300 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Sept tailles de rouleaux standard, indiquées en hauteur × largeur.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Hauteurs et largeurs sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une canisse en bambou brun-rouge chaleureux",
+            "body": [
+              {
+                "p": "Notre canisse bambou acajou utilise des cannes de bambou rondes de 20–30 mm teintes d'un brun rougeâtre profond. Les cannes sont ensuite liées côte à côte au fil galvanisé en un rouleau souple qui se déroule sur toute clôture, mur ou cadre existant, tout comme notre rouleau naturel. Elle est fournie dans les mêmes sept tailles que nos autres rouleaux ronds, de 1,0 × 2,5 m à 2,5 × 2,5 m."
+              },
+              {
+                "h3": "Teint — et nous le disons"
+              },
+              {
+                "p": "Contrairement à notre bambou noir naturel, qui pousse sombre, et à notre bambou carbonisé, noirci par la chaleur, la couleur acajou provient d'une teinture. Elle donne un ton plus riche et plus rouge que les deux autres, et une couleur plus uniforme d'une canne à l'autre. Comme pour tout matériau naturel teint utilisé en extérieur, attendez-vous à ce que la teinte s'adoucisse progressivement sous un fort ensoleillement."
+              },
+              {
+                "h3": "Où l'utiliser"
+              },
+              {
+                "p": "L'acajou s'harmonise bien avec la brique, la terre cuite et le bois aux tons rouges, ainsi qu'avec les plantations de style méditerranéen ou tropical. Pour les grossistes et les jardineries, il complète une gamme de brise-vue en bambou avec une couleur que les clients remarquent en rayon."
+              },
+              {
+                "ul": [
+                  "Jardins avec briques, terre cuite ou terrasses rougeâtres.",
+                  "Terrasses de style tropical et méditerranéen.",
+                  "Occultation pour l'hôtellerie et les bars.",
+                  "Une troisième couleur dans une gamme de bambou pour le commerce de détail."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "La couleur acajou est-elle naturelle ?",
+              "a": "Non — elle est teinte. Nous teignons des cannes de bambou rondes de 20–30 mm pour obtenir le ton brun-rouge. Si vous avez besoin d'une clôture naturellement foncée, choisissez le bambou noir naturel (qui pousse sombre) ou le bambou carbonisé (noirci par la chaleur)."
+            },
+            {
+              "q": "La couleur va-t-elle passer ?",
+              "a": "Comme tout produit naturel teint utilisé en extérieur, le ton s'adoucit progressivement avec le fort soleil et les intempéries. La clôture reste d'un brun chaud ; elle devient simplement moins saturée avec le temps. La poser à un endroit un peu ombragé aux heures les plus chaudes aide à conserver une couleur plus riche plus longtemps."
+            },
+            {
+              "q": "Quelles tailles et quelles quantités sont disponibles ?",
+              "a": "Sept rouleaux standard, de 1,0 × 2,5 m à 2,5 × 2,5 m (hauteur × largeur). Environ 2 300 m² tiennent dans un conteneur 40HC, et des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Puis-je mélanger l'acajou avec d'autres couleurs dans une même commande ?",
+              "a": "Oui. L'acajou utilise les mêmes tailles de rouleaux que nos rouleaux naturel, noir et carbonisé : un conteneur mixte est donc simple à préparer. L'emballage en marque distributeur est bienvenu et le MOQ est négociable."
+            }
+          ]
+        },
+        "tonkin-bamboo-fence": {
+          "name": "Clôture en bambou Tonkin",
+          "metaTitle": "Clôture bambou Tonkin sur cadre bois – grossiste",
+          "cardDesc": "Solides perches de Tonkin dans un écran à cadre bois de 120 × 180 cm.",
+          "eyebrow": "Bambou Tonkin · Écran à cadre bois",
+          "pill": "Bambou Tonkin · cadre bois",
+          "lead": "Un écran à cadre bois en bambou Tonkin — l'une des espèces de bambou les plus solides et les plus souples. 120 × 180 cm, 22 kg net, naturel ou carbonisé.",
+          "desc": "Le bambou Tonkin est apprécié pour sa résistance, sa souplesse et ses perches droites et régulières. Nous utilisons des perches de trois ans ou plus, montées dans un cadre en bois, et chaque écran est emballé sous mousse sur palette. L'écran standard mesure 120 cm de large, 5 cm d'épaisseur et 180 cm de haut.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou Tonkin, perches de 3 ans et plus"
+            },
+            {
+              "k": "Format",
+              "v": "Écran à cadre bois"
+            },
+            {
+              "k": "Taille standard",
+              "v": "L 120 × H 180 × ép. 5 cm"
+            },
+            {
+              "k": "Poids net",
+              "v": "22 kg par écran"
+            }
+          ],
+          "why": "C'est la pièce la plus substantielle de la série des clôtures en bambou : un écran rigide à cadre, en espèce de bambou plus solide, là où les rouleaux sont souples et plus légers. À choisir pour un aspect haut de gamme et fini.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Perches de bambou Tonkin (cultivées 3 ans et plus) + cadre bois"
+            },
+            {
+              "k": "Versions",
+              "v": "Naturel · carbonisé"
+            },
+            {
+              "k": "Format",
+              "v": "Écran rigide à cadre"
+            },
+            {
+              "k": "Taille standard",
+              "v": "L 120 × ép. 5 × H 180 cm"
+            },
+            {
+              "k": "Poids net",
+              "v": "22 kg"
+            },
+            {
+              "k": "Emballage",
+              "v": "Mousse plastique + palette"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Une taille d'écran standard ; d'autres tailles sont fabriquées sur demande.",
+            "cols": [
+              "Largeur",
+              "Hauteur",
+              "Épaisseur",
+              "Poids net"
+            ],
+            "rows": [
+              [
+                "120 cm",
+                "180 cm",
+                "5 cm",
+                "22 kg"
+              ]
+            ],
+            "note": "Autres largeurs et hauteurs sur demande, en Tonkin naturel ou carbonisé."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un bambou plus solide, dans un cadre fini",
+            "body": [
+              {
+                "p": "Le bambou Tonkin est l'une des espèces de bambou les plus solides et les plus souples, avec de longues perches droites qui gardent un diamètre régulier. Il est aussi naturellement amer, ce qui le rend moins attrayant pour les insectes. Nous n'utilisons que des perches ayant poussé trois ans ou plus, afin que la canne ait eu le temps de durcir. Comme tous les bambous, le Tonkin est une plante renouvelable à croissance rapide qui repousse après la récolte."
+              },
+              {
+                "p": "Plutôt que de lier les perches en rouleau, nous les montons dans un cadre en bois pour réaliser un écran rigide. L'écran standard mesure 120 cm de large, 180 cm de haut et 5 cm d'épaisseur, et pèse 22 kg net — un panneau solide et fini qui se fixe directement sur des poteaux ou un mur."
+              },
+              {
+                "h3": "Naturel ou carbonisé"
+              },
+              {
+                "p": "La version naturelle conserve la couleur paille pâle du Tonkin. La version carbonisée est traitée à la chaleur pour un ton brun plus chaud, qui traverse toute la canne."
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Nos rouleaux de clôture en bambou sont souples, légers et rapides à dérouler sur une clôture existante. L'écran Tonkin est plus lourd et encadré : il tient seul entre des poteaux et offre un résultat plus architectural et haut de gamme. Chaque écran est emballé sous mousse plastique sur palette pour protéger le cadre pendant le transport."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce que le bambou Tonkin ?",
+              "a": "Une espèce de bambou connue pour ses perches solides, souples et droites. Il est naturellement amer, donc moins attrayant pour les insectes. Nous utilisons des perches cultivées pendant au moins trois ans."
+            },
+            {
+              "q": "Quelle est la taille de l'écran Tonkin et quel est son poids ?",
+              "a": "L'écran standard mesure 120 cm de large, 180 cm de haut et 5 cm d'épaisseur, pour un poids net de 22 kg. D'autres tailles sont disponibles sur demande."
+            },
+            {
+              "q": "Comment est-il emballé ?",
+              "a": "Chaque écran est protégé par de la mousse plastique et chargé sur palettes, ce qui évite que le cadre et les perches ne frottent ou ne s'entrechoquent pendant le transport."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Étant encadré, l'écran se fixe directement sur des poteaux en bois ou en métal, un mur ou une clôture existante avec des vis ou des équerres. Il n'a pas besoin d'une clôture de soutien comme un rouleau. Plusieurs écrans peuvent être alignés entre des poteaux pour un linéaire plus long."
+            }
+          ]
+        },
+        "half-round-natural-bamboo-fence": {
+          "name": "Canisse bambou demi-rond naturel",
+          "metaTitle": "Canisse bambou demi-rond naturel – grossiste",
+          "cardDesc": "Cannes géantes de 40–50 mm fendues en deux — plus plates, plus légères, plus par carton.",
+          "eyebrow": "Cannes géantes · Demi-rond",
+          "pill": "Bambou géant fendu · Ø 40–50 mm",
+          "lead": "Des cannes de bambou naturel géantes de 40–50 mm fendues dans la longueur, face ronde à l'extérieur — l'aspect du bambou géant dans un rouleau plus plat et plus léger.",
+          "desc": "Fendre le bambou géant en deux conserve de face l'aspect imposant des cannes de 40–50 mm tout en divisant par deux l'épaisseur du rouleau. Le résultat se plaque mieux contre une clôture et se charge bien plus efficacement : environ 3 400 m² par 40HC.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou naturel géant, fendu en deux"
+            },
+            {
+              "k": "Diamètre",
+              "v": "40–50 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux, 1,8 m de large"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 3 400 m²"
+            }
+          ],
+          "why": "Vous obtenez l'aspect grosses cannes du bambou géant sans le poids ni l'encombrement de cannes entières. Le rouleau demi-rond est la clôture en bambou la plus efficace par conteneur que nous fabriquons, ce qui réduit le coût rendu par m².",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou géant jaune naturel, fendu dans la longueur"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "40–50 mm (demi-rond)"
+            },
+            {
+              "k": "Face",
+              "v": "Côté rond à l'extérieur"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "L 1,8 m × H 1,0 · 1,5 · 1,8 m · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 3 400 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Trois hauteurs standard, toutes de 1,8 m de large.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "1,8 m",
+                "≈ 3¼ × 6 ft"
+              ],
+              [
+                "1,5 m",
+                "1,8 m",
+                "≈ 5 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ]
+            ],
+            "note": "Autres hauteurs et largeurs sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Du bambou géant, fendu pour un rouleau plus plat",
+            "body": [
+              {
+                "p": "Notre clôture en bambou demi-rond naturel part de cannes de bambou géant de 40–50 mm. Chaque canne est fendue en deux dans la longueur, et les moitiés sont alignées avec la face ronde vers l'extérieur. De face, la clôture donne l'impression d'un mur de grosses cannes rondes ; de dos, elle est plate et se plaque donc contre une clôture ou un mur existant. C'est du bambou jaune naturel, avec les variations de couleur et de grain qui vont avec."
+              },
+              {
+                "p": "Diviser les cannes en deux divise aussi l'épaisseur du rouleau par deux. Le brise-vue est ainsi plus léger à manipuler et bien plus compact à expédier — environ 3 400 m² par conteneur 40HC, contre environ 2 100–2 400 m² pour nos rouleaux de clôture en bambou ronds."
+              },
+              {
+                "h3": "Contrôlé avant l'emballage"
+              },
+              {
+                "p": "La production est vérifiée par rapport à la commande avant le chargement. Les photos qualité récentes montrent des rouleaux de 100 × 180 cm à 200 × 180 cm inspectés avant l'emballage."
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Choisissez la canisse bambou naturel ronde pour une canne entièrement ronde, en volume, et la plus large gamme de tailles. Choisissez le demi-rond lorsque vous voulez l'échelle des cannes géantes, une pose plus plate et une meilleure économie de conteneur. Pour le même profil en couleur sombre, voyez la clôture demi-ronde noir naturel."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Que signifie « demi-rond » ?",
+              "a": "Chaque canne de bambou géant de 40–50 mm est fendue en deux dans la longueur. Les moitiés sont liées côte à côte, face ronde vers l'extérieur : la face avant ressemble à des cannes entières tandis que le dos est plat."
+            },
+            {
+              "q": "Pourquoi la quantité par conteneur est-elle plus élevée que pour les rouleaux ronds ?",
+              "a": "Une demi-canne occupe environ la moitié de l'épaisseur, les rouleaux sont donc plus minces. Environ 3 400 m² de clôture demi-ronde tiennent dans un 40HC, contre environ 2 100–2 400 m² pour nos rouleaux ronds."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Les rouleaux standard font 1,8 m de large, en hauteurs de 1,0, 1,5 et 1,8 m. D'autres tailles peuvent être fabriquées sur demande."
+            },
+            {
+              "q": "Comment la poser ?",
+              "a": "Déroulez-la contre une clôture, un mur ou un cadre existant, face ronde à l'extérieur, et fixez-la avec des liens métalliques ou des vis. Le dos plat la fait se plaquer plus près de la surface qu'un rouleau de cannes rondes. Comme toutes nos clôtures en bambou, elle est fabriquée sans pesticides, sans formaldéhyde ni colles toxiques."
+            }
+          ]
+        },
+        "half-round-black-bamboo-fence": {
+          "name": "Canisse bambou demi-rond noir naturel",
+          "metaTitle": "Canisse bambou demi-rond noir – grossiste",
+          "cardDesc": "Cannes géantes noires naturelles fendues en deux pour un écran sombre et affirmé.",
+          "eyebrow": "Cannes géantes · Noir naturel",
+          "pill": "Bambou noir naturel fendu · Ø 40–50 mm",
+          "lead": "Du bambou noir naturel géant fendu en deux, face ronde à l'extérieur — une clôture en bambou noir affirmée, plate, qui se charge à environ 3 400 m² par 40HC.",
+          "desc": "La clôture la plus sombre et la plus affirmée de la série bambou. Des cannes noires naturelles géantes de 40–50 mm sont fendues dans la longueur et liées face ronde à l'extérieur, alliant l'échelle des cannes géantes à la couleur sombre propre du bambou — sans peinture ni teinture.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou noir naturel géant, fendu en deux"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturelle — ni peinte ni teinte"
+            },
+            {
+              "k": "Diamètre",
+              "v": "40–50 mm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 3 400 m²"
+            }
+          ],
+          "why": "Elle associe la couleur la plus spectaculaire aux plus grosses cannes. Par rapport au rouleau rond noir naturel, les cannes sont bien plus grosses et le rouleau plus plat ; par rapport au demi-rond naturel, elle offre une face sombre et contemporaine.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou géant noir naturel, fendu dans la longueur"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "40–50 mm (demi-rond)"
+            },
+            {
+              "k": "Couleur",
+              "v": "Noir naturel — sans peinture ni teinture"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé"
+            },
+            {
+              "k": "Tailles des rouleaux",
+              "v": "L 1,8 m × H 1,0 · 1,5 · 1,8 m · sur mesure sur demande"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "≈ 3 400 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Trois hauteurs standard, toutes de 1,8 m de large — les mêmes que le demi-rond naturel.",
+            "cols": [
+              "Hauteur",
+              "Largeur",
+              "Équivalent en pieds"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "1,8 m",
+                "≈ 3¼ × 6 ft"
+              ],
+              [
+                "1,5 m",
+                "1,8 m",
+                "≈ 5 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ]
+            ],
+            "note": "Autres hauteurs et largeurs sur demande ; les rouleaux demi-ronds naturel et noir peuvent partager un conteneur."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "De grosses cannes, une couleur sombre, un dos plat",
+            "body": [
+              {
+                "p": "Voici notre clôture demi-ronde réalisée en bambou noir naturel. Des cannes géantes de 40–50 mm sont fendues en deux dans la longueur, puis liées côte à côte, face ronde à l'extérieur. La face avant montre un fort rythme de grosses cannes sombres ; le dos plat permet à l'écran de se plaquer contre une clôture ou un mur. Diviser les cannes en deux rend aussi le rouleau plus mince, plus léger à manipuler et plus compact à expédier que des cannes entières de même taille."
+              },
+              {
+                "p": "La couleur est celle du bambou. Le bambou noir naturel fonce en poussant : il n'y a donc aucun revêtement susceptible de s'écailler, et chaque canne présente une légère variation, du noir profond au noir-brun. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "h3": "Où l'utiliser"
+              },
+              {
+                "ul": [
+                  "Jardins contemporains et toits-terrasses.",
+                  "Un fond sombre pour les plantations, les bassins et l'éclairage.",
+                  "Occultation pour restaurants, bars et hôtels.",
+                  "Gammes de détail nécessitant une option noire haut de gamme."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "La canisse bambou noir naturel ronde utilise des cannes entières de 14–35 mm et existe en plus de tailles ; cette version demi-ronde utilise des cannes bien plus grosses pour un aspect plus affirmé et se charge davantage par conteneur. La clôture demi-ronde naturelle a la même construction en jaune naturel, et les deux versions sont contrôlées avant l'emballage dans des tailles de 100 × 180 cm à 200 × 180 cm."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "La couleur noire est-elle naturelle ?",
+              "a": "Oui. Les cannes proviennent de bambou noir naturel, qui pousse sombre. Rien n'est peint ni teint, et de légères différences de teinte entre les cannes sont normales. Comme tout bambou naturel en extérieur, le ton peut s'adoucir légèrement sous un fort ensoleillement avec le temps."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Les rouleaux standard font 1,8 m de large, en hauteurs de 1,0, 1,5 et 1,8 m ; la hauteur de 1,8 m est la plus proche d'un écran de 6 ft. D'autres tailles sont disponibles sur demande."
+            },
+            {
+              "q": "Combien tient-il dans un conteneur ?",
+              "a": "Environ 3 400 m² par 40HC. Les cannes étant fendues, les rouleaux sont plus minces que les rouleaux de cannes rondes et se chargent plus efficacement."
+            },
+            {
+              "q": "Puis-je commander ensemble du demi-rond naturel et noir ?",
+              "a": "Oui. Les deux ont les mêmes tailles et le même rendement par conteneur : vous pouvez les mélanger dans un même chargement. L'emballage en marque distributeur est bienvenu et le MOQ est négociable."
+            }
+          ]
+        },
+        "expandable-natural-bamboo-trellis": {
+          "name": "Treillis en bambou naturel extensible",
+          "metaTitle": "Treillis bambou extensible naturel – grossiste",
+          "cardDesc": "Treillis en losanges de fines cannes naturelles goupillées, qui s'étire à la taille voulue.",
+          "eyebrow": "Treillis · Treillage extensible",
+          "pill": "Fines cannes de bambou naturel",
+          "lead": "De fines cannes de bambou naturel goupillées en treillis à losanges, qui s'étire à la largeur voulue — pour plantes grimpantes, plantation murale et occultation légère.",
+          "desc": "Un treillis en bambou léger, expédié plié et déployé sur place. Chaque croisement du treillis en losanges est goupillé : le panneau s'ouvre comme un accordéon. Sept hauteurs de 30 à 200 cm couvrent tous les besoins, du petit support de plante au treillage grimpant sur toute la hauteur.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Fines cannes de bambou naturel"
+            },
+            {
+              "k": "Motif",
+              "v": "Treillis en losanges, croisements goupillés"
+            },
+            {
+              "k": "Tailles",
+              "v": "30–200 cm de haut · 180–200 cm de long"
+            },
+            {
+              "k": "Idéal pour",
+              "v": "Plantes grimpantes, plantation murale"
+            }
+          ],
+          "why": "C'est le membre ajouré, favorable aux plantes de la série : là où un rouleau de clôture ferme la vue, le treillis offre aux grimpantes de quoi s'accrocher tout en laissant passer la lumière et l'air. Il s'emballe à plat et s'ouvre à la taille voulue.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Fines cannes de bambou naturel"
+            },
+            {
+              "k": "Construction",
+              "v": "Treillis en losanges, goupillé à chaque croisement"
+            },
+            {
+              "k": "Format",
+              "v": "Panneau de treillis extensible"
+            },
+            {
+              "k": "Couleur",
+              "v": "Bambou jaune naturel"
+            },
+            {
+              "k": "Tailles",
+              "v": "7 tailles standard, H 30–200 cm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Sept tailles standard, indiquées en hauteur × longueur.",
+            "cols": [
+              "Hauteur",
+              "Longueur"
+            ],
+            "rows": [
+              [
+                "30 cm",
+                "180 cm"
+              ],
+              [
+                "60 cm",
+                "200 cm"
+              ],
+              [
+                "90 cm",
+                "200 cm"
+              ],
+              [
+                "120 cm",
+                "200 cm"
+              ],
+              [
+                "150 cm",
+                "200 cm"
+              ],
+              [
+                "180 cm",
+                "200 cm"
+              ],
+              [
+                "200 cm",
+                "200 cm"
+              ]
+            ],
+            "note": "Autres tailles sur demande ; indiquez-nous vos tailles de vente au détail et votre emballage."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un treillis en bambou qui s'ouvre à la taille voulue",
+            "body": [
+              {
+                "p": "Notre treillis en bambou naturel extensible est construit à partir de fines cannes de bambou naturel disposées en treillis à losanges. Chaque croisement est goupillé : tout le panneau peut être étiré ou resserré comme un accordéon. Un même treillis couvre ainsi plusieurs largeurs et reste compact à expédier et à présenter. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Les cannes fines offrent aux plantes grimpantes une bonne prise — clématites, pois de senteur, haricots et autres grimpantes s'y plaisent — tout en gardant un aspect léger et ajouré contre un mur ou une clôture. Le petit format de 30 × 180 cm convient aux pots et aux jardinières, tandis que les hauteurs de 180 et 200 cm couvrent toute une section de clôture ou de mur."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Support pour plantes grimpantes sur murs et clôtures.",
+                  "Occultation légère et décorative sur les balcons.",
+                  "Habiller des murs nus d'un treillis naturel.",
+                  "Gammes de jardinerie et de bricolage."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le treillis noir naturel offre le même treillage extensible en cannes sombres. Les rouleaux de clôture en bambou sont des écrans fermés pour l'intimité ; le treillis est un cadre ouvert pour la plantation et la décoration."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Comment fonctionne un treillis extensible ?",
+              "a": "Les cannes se croisent en losanges et sont goupillées à chaque croisement. Écartez les extrémités et les losanges s'ouvrent, ce qui allonge le treillis et le rend légèrement plus bas ; rapprochez-les et il se replie pour le stockage."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Sept tailles standard : 30 × 180 cm puis 60, 90, 120, 150, 180 et 200 cm de haut, toutes de 200 cm de long (hauteur × longueur). D'autres tailles sont fabriquées sur demande."
+            },
+            {
+              "q": "Comment le fixer à un mur ou à une clôture ?",
+              "a": "Ouvrez-le à la taille souhaitée et fixez-le avec des vis, des clous ou des liens métalliques à quelques croisements. Laisser un petit espace derrière le treillis donne aux grimpantes la place de s'enrouler, et le fixer sur des tasseaux plutôt que directement au mur permet à l'air de circuler derrière les plantes."
+            },
+            {
+              "q": "Pouvez-vous l'emballer pour la vente au détail ?",
+              "a": "Oui. Nous emballons selon votre cahier des charges, avec vos propres étiquettes, codes-barres et encarts. Le treillis se repliant, il s'emballe de façon compacte pour l'expédition et la présentation. Le MOQ est négociable."
+            }
+          ]
+        },
+        "expandable-black-bamboo-trellis": {
+          "name": "Treillis en bambou noir naturel extensible",
+          "metaTitle": "Treillis bambou extensible noir – grossiste",
+          "cardDesc": "Cannes noires naturelles en treillis à losanges extensible — une touche sombre.",
+          "eyebrow": "Treillis · Noir naturel",
+          "pill": "Cannes de bambou noir naturel",
+          "lead": "Un treillis extensible à losanges en bambou noir naturel — un cadre sombre et graphique pour plantes grimpantes et décoration murale, en sept tailles jusqu'à 200 cm.",
+          "desc": "Le même treillage goupillé et extensible que notre treillis naturel, réalisé avec des cannes de bambou noir naturel. Le treillis sombre se lit comme un motif graphique sur les murs clairs et fait ressortir le feuillage vert.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou noir naturel"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturelle — ni peinte ni teinte"
+            },
+            {
+              "k": "Motif",
+              "v": "Treillis à losanges extensible"
+            },
+            {
+              "k": "Tailles",
+              "v": "30–200 cm de haut · 180–200 cm de long"
+            }
+          ],
+          "why": "À choisir pour le contraste : les cannes sombres ressortent sur un enduit clair, la brique ou le bois et encadrent nettement les grimpantes vertes. Sur le plan fonctionnel, il équivaut au treillis naturel : les deux couleurs peuvent donc être stockées côte à côte.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Cannes de bambou noir naturel"
+            },
+            {
+              "k": "Couleur",
+              "v": "Noir naturel — sans peinture ni teinture"
+            },
+            {
+              "k": "Construction",
+              "v": "Treillis en losanges, goupillé à chaque croisement"
+            },
+            {
+              "k": "Format",
+              "v": "Panneau de treillis extensible"
+            },
+            {
+              "k": "Tailles",
+              "v": "7 tailles standard, H 30–200 cm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Sept tailles standard, indiquées en hauteur × longueur — identiques au treillis naturel.",
+            "cols": [
+              "Hauteur",
+              "Longueur"
+            ],
+            "rows": [
+              [
+                "30 cm",
+                "180 cm"
+              ],
+              [
+                "60 cm",
+                "200 cm"
+              ],
+              [
+                "90 cm",
+                "200 cm"
+              ],
+              [
+                "120 cm",
+                "200 cm"
+              ],
+              [
+                "150 cm",
+                "200 cm"
+              ],
+              [
+                "180 cm",
+                "200 cm"
+              ],
+              [
+                "200 cm",
+                "200 cm"
+              ]
+            ],
+            "note": "Autres tailles sur demande ; les treillis naturel et noir peuvent être combinés dans une même commande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un treillis sombre pour murs végétalisés",
+            "body": [
+              {
+                "p": "Ce treillis extensible utilise des cannes de bambou noir naturel en treillis à losanges. Chaque croisement est goupillé : le panneau s'ouvre et se ferme comme un accordéon, et une même taille couvre ainsi plusieurs largeurs. La couleur noire vient du bambou lui-même : il n'y a donc pas de couche de peinture qui s'écaille là où les cannes frottent les unes contre les autres. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Contre un mur blanc ou clair, le treillis sombre devient un élément de décor à part entière, avant même que quoi que ce soit n'y pousse. Dès que les grimpantes s'accrochent, les cannes noires s'effacent et le feuillage ressort. Le format de 30 × 180 cm convient aux bacs et aux jardinières ; les tailles plus hautes, jusqu'à 200 × 200 cm, couvrent un mur ou une section de clôture entière."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Treillis contrasté sur murs et clôtures clairs.",
+                  "Support pour grimpantes dans les jardins modernes.",
+                  "Décoration de balcons et de patios.",
+                  "Une option noire à côté du treillis naturel en magasin."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Choisissez le treillis naturel pour un aspect doux et traditionnel qui se fond avec le bois et les plantations. Choisissez cette version noire pour le contraste et une touche contemporaine. Les deux ont les mêmes tailles et la même construction, et les deux se replient pour s'emballer de façon compacte et faire une présentation soignée en magasin."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Le treillis est-il peint en noir ?",
+              "a": "Non. Il est fabriqué en bambou noir naturel, qui pousse sombre. De petites différences de teinte entre les cannes sont normales et prouvent qu'il s'agit d'un matériau naturel."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Sept tailles standard : 30 × 180 cm puis 60, 90, 120, 150, 180 et 200 cm de haut, toutes de 200 cm de long (hauteur × longueur). Des tailles sur mesure sont disponibles sur demande."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Étirez-le à la taille voulue et fixez-le sur un mur, une clôture ou un poteau avec des vis, des clous ou des liens métalliques à quelques croisements. Un petit espace derrière aide les grimpantes à s'enrouler, et la fixation sur des tasseaux laisse l'air circuler derrière les plantes."
+            },
+            {
+              "q": "Puis-je commander ensemble du treillis naturel et noir ?",
+              "a": "Oui. Ils ont les mêmes tailles : une commande mixte ou une présentation bicolore en magasin est facile à préparer. L'emballage en marque distributeur est bienvenu et le MOQ est négociable."
+            }
+          ]
+        },
+        "natural-bamboo-edging": {
+          "name": "Bordure bambou naturel",
+          "metaTitle": "Bordure bambou naturel en rouleau – grossiste",
+          "cardDesc": "Bordure de bambou en rouleau, 20–45 cm de haut, qui épouse toutes les formes.",
+          "eyebrow": "Bordure de jardin · Jaune naturel",
+          "pill": "Bambou naturel · cannes 35/40 mm",
+          "lead": "Bordure de bambou en rouleau en cannes naturelles de 35/40 mm sur fil galvanisé caché — épouse toutes les courbes pour massifs, pelouses et allées. 20–45 cm de haut.",
+          "desc": "Une bordure de bambou naturel qui délimite massifs, pelouses et allées. Les cannes sont coupées et fermées aux nœuds, percées et enfilées sur du fil galvanisé caché : le rouleau se plie en lignes droites ou en courbes. Cinq hauteurs et cinq largeurs couvrent la plupart des travaux de jardin.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou jaune naturel, 35/40 mm"
+            },
+            {
+              "k": "Extrémités",
+              "v": "Coupées et fermées aux nœuds"
+            },
+            {
+              "k": "Format",
+              "v": "Bordure en rouleau, épouse la forme voulue"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "20 · 30 · 35 · 40 · 45 cm"
+            }
+          ],
+          "why": "À choisir pour une bordure de pelouse en bambou nette, de couleur chaude, qui suit facilement les courbes. Par rapport à une bordure sur pieds, ce rouleau forme une ligne continue et régulière que l'on enterre dans le sol ; par rapport à la bordure noire, il se fond doucement dans les plantations.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou jaune naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Construction",
+              "v": "Cannes percées et enfilées sur fil galvanisé caché"
+            },
+            {
+              "k": "Extrémités",
+              "v": "Coupées et fermées aux nœuds"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 100–200 cm × H 20–45 cm"
+            },
+            {
+              "k": "Aussi disponible",
+              "v": "Carbonisé, mêmes tailles"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Chaque hauteur est disponible dans les cinq largeurs.",
+            "cols": [
+              "Hauteur",
+              "Largeurs"
+            ],
+            "rows": [
+              [
+                "20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande ; la bordure carbonisée est disponible dans les mêmes tailles."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une bordure de bambou qui suit toutes les lignes",
+            "body": [
+              {
+                "p": "Notre bordure bambou naturel est réalisée avec des cannes jaunes naturelles de 35/40 mm. Chaque canne est coupée au niveau d'un nœud, de sorte que l'extrémité est naturellement fermée, puis percée et enfilée sur du fil galvanisé qui court caché à l'intérieur des cannes. Rien d'autre que du bambou n'apparaît en face avant."
+              },
+              {
+                "p": "Les cannes étant enfilées et non fixées sur un rail, le rouleau se plie librement. Il suit un bord d'allée droit aussi facilement qu'un massif courbe ou le pourtour d'un arbre, et les largeurs de 100 à 200 cm permettent de poser de longs linéaires raccordés. Les hauteurs les plus basses forment une bordure de pelouse nette le long de laquelle la tondeuse peut passer ; les hauteurs de 40 et 45 cm retiennent la terre dans les carrés surélevés et les plates-bandes."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Bordure de pelouse en bambou le long des massifs et plates-bandes.",
+                  "Bordures d'allées et de cheminements.",
+                  "Pourtours d'arbres et d'arbustes.",
+                  "Bordures de carrés surélevés et d'aires de jeux.",
+                  "Projets paysagers et espaces publics."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "La bordure noir naturel a la même construction en cannes sombres. La bordure de bambou sur pieds se tient sur des piquets de bambou et présente une ligne supérieure en escalier plutôt que droite. Si vous voulez un ton plus foncé et plus chaud dans ce style, demandez la version carbonisée dans les mêmes tailles."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Quelles hauteurs et largeurs sont disponibles ?",
+              "a": "Des hauteurs de 20, 30, 35, 40 et 45 cm, chacune en largeurs de 100, 120, 150, 180 et 200 cm. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Comment poser une bordure de bambou ?",
+              "a": "Creusez une tranchée peu profonde le long de la ligne, posez le rouleau, pliez-le à la forme voulue et rebouchez en tassant fermement. Les hauteurs basses font une bordure de pelouse soignée ; les hauteurs plus grandes conviennent aux carrés surélevés et aux plates-bandes. La bordure est légère : une seule personne peut poser de longs linéaires."
+            },
+            {
+              "q": "Pourquoi les extrémités sont-elles fermées aux nœuds ?",
+              "a": "Couper chaque canne au niveau d'un nœud ferme l'extrémité, de sorte que l'eau de pluie et les débris ne s'accumulent pas à l'intérieur de la canne. Cela donne aussi un bord plus net et plus fini."
+            },
+            {
+              "q": "Existe-t-elle dans d'autres couleurs ?",
+              "a": "Oui. La bordure en bambou noir naturel et la bordure carbonisée existent dans les mêmes tailles, et l'emballage en marque distributeur est bienvenu. Le bambou carbonisé est traité à la chaleur pour un brun chaud qui traverse toute la canne."
+            }
+          ]
+        },
+        "natural-black-bamboo-edging": {
+          "name": "Bordure bambou noir naturel",
+          "metaTitle": "Bordure bambou noir en rouleau – grossiste",
+          "cardDesc": "Bordure de bambou noir naturel sur fil caché — une ligne sombre et nette.",
+          "eyebrow": "Bordure de jardin · Noir naturel",
+          "pill": "Bambou noir naturel · 35/40 mm",
+          "lead": "Bordure de bambou en cannes noires naturelles, fermées aux nœuds et enfilées sur fil galvanisé caché. Épouse la forme voulue ; 20–45 cm de haut.",
+          "desc": "Une bordure sombre et nette pour massifs, pelouses et allées. Les cannes noires naturelles sont coupées aux nœuds, percées et enfilées sur du fil galvanisé caché, de sorte que le rouleau se plie à toutes les lignes. Une version carbonisée est aussi fabriquée dans les mêmes tailles.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou noir naturel, 35/40 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturelle — ni peinte ni teinte"
+            },
+            {
+              "k": "Format",
+              "v": "Bordure en rouleau, épouse la forme voulue"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "20 · 30 · 35 · 40 · 45 cm"
+            }
+          ],
+          "why": "Les cannes sombres tracent une ligne nette entre pelouse, gravier et plantations, ce qui convient aux jardins modernes et de style japonais. Même construction et mêmes tailles que la bordure naturelle : les deux couleurs peuvent donc être stockées ensemble.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou noir naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Noir naturel — sans peinture ni teinture"
+            },
+            {
+              "k": "Construction",
+              "v": "Fil galvanisé caché, extrémités fermées aux nœuds"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 100–200 cm × H 20–45 cm"
+            },
+            {
+              "k": "Aussi disponible",
+              "v": "Carbonisé, mêmes tailles"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Chaque hauteur est disponible dans les cinq largeurs, en noir naturel ou en carbonisé.",
+            "cols": [
+              "Hauteur",
+              "Largeurs"
+            ],
+            "rows": [
+              [
+                "20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une bordure de bambou sombre et nette",
+            "body": [
+              {
+                "p": "Cette bordure de bambou utilise des cannes noires naturelles de 35/40 mm. Chacune est coupée au niveau d'un nœud pour que l'extrémité soit fermée, puis percée et enfilée sur du fil galvanisé qui court caché à l'intérieur des cannes. La couleur sombre est celle du bambou : il n'y a donc pas de peinture à érafler lorsque vous posez la bordure dans la terre ou le gravier."
+              },
+              {
+                "p": "La construction enfilée permet au rouleau de se plier librement : il suit les massifs courbes, les ronds d'arbres et les allées sinueuses aussi facilement que les bords droits. Les largeurs de 100 à 200 cm peuvent être raccordées bout à bout pour de longs linéaires, et les cinq hauteurs couvrent tout, de la bordure de pelouse basse à la bordure de carré surélevé."
+              },
+              {
+                "h3": "Noir naturel ou carbonisé"
+              },
+              {
+                "p": "À côté du noir naturel, nous fabriquons une bordure carbonisée dans les mêmes tailles. Les cannes carbonisées sont traitées à la chaleur, ce qui donne un ton brun chaud qui traverse la canne — une alternative plus douce au noir. Les deux sont réalisées avec les mêmes cannes de 35/40 mm, des extrémités fermées et du fil galvanisé caché."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Bordure entre pelouse et gravier ou écorces.",
+                  "Jardins de style japonais et contemporains.",
+                  "Bordures autour de pierre claire ou de dallage.",
+                  "Pourtours d'arbres et d'arbustes.",
+                  "Projets paysagers nécessitant un contour marqué."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "La couleur noire est-elle naturelle ?",
+              "a": "Oui. La bordure est fabriquée en bambou noir naturel, qui pousse sombre. Elle n'est pas peinte : il n'y a donc pas de revêtement qui s'écaille à la pose."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Des hauteurs de 20, 30, 35, 40 et 45 cm, chacune en largeurs de 100, 120, 150, 180 et 200 cm. La version carbonisée existe dans les mêmes tailles, et des tailles sur mesure sont disponibles sur demande."
+            },
+            {
+              "q": "Comment la poser ?",
+              "a": "Posez-la dans une tranchée peu profonde, pliez-la pour suivre la ligne du massif ou de l'allée et rebouchez en tassant fermement. Raccordez les longueurs bout à bout pour de plus longs linéaires. Les hauteurs basses conviennent aux bordures de pelouse ; 40 et 45 cm aux carrés surélevés."
+            },
+            {
+              "q": "Quelle est la différence entre la bordure noire et la bordure carbonisée ?",
+              "a": "Le bambou noir naturel pousse sombre. Le bambou carbonisé est traité à la chaleur pour un brun chaud qui traverse la canne. Les deux ont la même construction et les mêmes tailles. Comme tout matériau naturel en extérieur, l'un comme l'autre verra son ton s'adoucir légèrement avec le temps."
+            }
+          ]
+        },
+        "bamboo-edging-with-feet": {
+          "name": "Bordure bambou avec pieds",
+          "metaTitle": "Bordure bambou avec pieds à planter – grossiste",
+          "cardDesc": "Bordure de bambou à sommet en escalier sur piquets — à planter dans la terre, sans fixation.",
+          "eyebrow": "Bordure de jardin · Autoportante",
+          "pill": "Bambou naturel · 35/40 mm",
+          "lead": "Bordure de bambou naturel à ligne supérieure en escalier, posée sur des piquets de bambou à planter directement dans la terre — ni tranchée ni fixation nécessaires.",
+          "desc": "Chaque section repose sur des pieds en bambou : plantez les piquets dans le sol et la bordure tient d'elle-même. La ligne supérieure en escalier donne une bordure décorative et rythmée, en cinq paliers de hauteur de 15/20 cm à 55/60 cm.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou jaune naturel, 35/40 mm"
+            },
+            {
+              "k": "Ligne supérieure",
+              "v": "En escalier, deux hauteurs par section"
+            },
+            {
+              "k": "Fixation",
+              "v": "Piquets de bambou (pieds) dans la terre"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "15/20 jusqu'à 55/60 cm"
+            }
+          ],
+          "why": "C'est la bordure de bambou la plus rapide à poser : ni tranchée, ni remblai, il suffit de planter les pieds dans la terre. Le sommet en escalier est plus décoratif que la ligne droite de notre bordure en rouleau, et les paliers les plus hauts font office de petite clôture.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou jaune naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Construction",
+              "v": "Fil galvanisé caché, extrémités fermées aux nœuds"
+            },
+            {
+              "k": "Ligne supérieure",
+              "v": "En escalier"
+            },
+            {
+              "k": "Fixation",
+              "v": "Piquets de bambou (pieds) — aucune fixation nécessaire"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 100–200 cm × H 15/20–55/60 cm"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Les hauteurs sont données par les deux paliers supérieurs ; chaque hauteur existe dans les cinq largeurs.",
+            "cols": [
+              "Hauteur (paliers supérieurs)",
+              "Largeurs"
+            ],
+            "rows": [
+              [
+                "15/20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "25/30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35/40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45/50 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "55/60 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une bordure qui tient sur ses propres pieds",
+            "body": [
+              {
+                "p": "Cette bordure de bambou est réalisée avec des cannes jaunes naturelles de 35/40 mm, fermées aux nœuds et enfilées sur du fil galvanisé caché comme notre bordure en rouleau. La différence se trouve en dessous : certaines cannes se prolongent sous la bordure en piquets de bambou, ou pieds. Plantez-les dans la terre et la section tient solidement d'elle-même."
+              },
+              {
+                "p": "La ligne supérieure est en escalier, alternant deux hauteurs, ce qui donne à la bordure un rythme vivant plutôt qu'une ligne plate. Les hauteurs vont de 15/20 cm, une bordure de pelouse basse, jusqu'à 55/60 cm, qui fait office de petite clôture décorative autour de massifs ou d'un potager. Comme tout notre bambou, elle est renouvelable et fabriquée sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Bordure de bambou rapide à poser pour massifs et plates-bandes.",
+                  "Petite clôture décorative autour des potagers.",
+                  "Bordure provisoire ou saisonnière, facile à déplacer.",
+                  "Gammes de jardinerie pour les clients bricoleurs."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Nos bordures en rouleau naturel et noir naturel ont un sommet droit et se posent dans une tranchée peu profonde, ce qui donne une ligne continue au ras du sol. La bordure sur pieds sacrifie cela au profit de la rapidité et d'un profil décoratif en escalier. Les deux sont réalisées avec les mêmes cannes naturelles de 35/40 mm, extrémités fermées et fil galvanisé caché, et s'harmonisent donc dans un même jardin."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Comment fonctionnent les pieds ?",
+              "a": "Des piquets de bambou prolongent chaque section vers le bas. Plantez-les dans la terre — sur sol dur, un maillet en caoutchouc aide — et la bordure tient en place sans vis, liens ni tranchée."
+            },
+            {
+              "q": "Que signifient les hauteurs comme « 25/30 cm » ?",
+              "a": "La ligne supérieure est en escalier : chaque section a donc deux hauteurs. 25/30 cm signifie que les cannes alternent entre 25 et 30 cm au-dessus du sol. Cinq paliers sont disponibles, de 15/20 à 55/60 cm."
+            },
+            {
+              "q": "Quelles largeurs puis-je commander ?",
+              "a": "100, 120, 150, 180 et 200 cm, dans chaque hauteur. Chaque section tient seule : vous pouvez en aligner plusieurs pour de plus longs linéaires. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Peut-on la déplacer ensuite ?",
+              "a": "Oui. Comme elle n'est maintenue que par ses pieds, vous pouvez l'arracher et la repositionner, ce qui la rend pratique pour des plantations saisonnières ou changeantes."
+            }
+          ]
+        },
+        "bamboo-twig-fence": {
+          "name": "Clôture en branchages de bambou",
+          "metaTitle": "Brise-vue bambou en branchages – grossiste",
+          "cardDesc": "Natte dense de fines brindilles de bambou pour un écran doux et rustique.",
+          "eyebrow": "Rustique · Texture fine",
+          "pill": "Brindilles de bambou naturel",
+          "lead": "Une natte dense de fines brindilles et branches de bambou liées en un écran doux et rustique — en longueurs de 2,1 m et 5 m, 120–180 cm de haut.",
+          "desc": "Là où les rouleaux de cannes donnent de fortes lignes verticales, la clôture en branchages apporte de la texture. De fines branches de bambou sont serrées en une natte dense, façon brande, qui adoucit les limites dures et filtre les vues.",
+          "facts": [
+            {
+              "k": "Matériau",
+              "v": "Fines brindilles de bambou naturel"
+            },
+            {
+              "k": "Aspect",
+              "v": "Texture dense et rustique de brande"
+            },
+            {
+              "k": "Longueurs",
+              "v": "210 cm · 500 cm"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "120 · 150 · 180 cm"
+            }
+          ],
+          "why": "Elle donne un aspect plus doux et plus informel que n'importe quel rouleau de cannes — idéale pour les jardins de campagne, de cottage et naturels. La longueur de 5 m couvre de longs linéaires avec moins de raccords.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Brindilles et branches de bambou naturel"
+            },
+            {
+              "k": "Construction",
+              "v": "Natte dense, liée"
+            },
+            {
+              "k": "Format",
+              "v": "Rouleaux"
+            },
+            {
+              "k": "Hauteurs",
+              "v": "120 · 150 · 180 cm"
+            },
+            {
+              "k": "Longueurs",
+              "v": "210 · 500 cm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Six tailles standard, indiquées en hauteur × longueur.",
+            "cols": [
+              "Hauteur",
+              "Longueur"
+            ],
+            "rows": [
+              [
+                "120 cm",
+                "210 cm"
+              ],
+              [
+                "150 cm",
+                "210 cm"
+              ],
+              [
+                "180 cm",
+                "210 cm"
+              ],
+              [
+                "120 cm",
+                "500 cm"
+              ],
+              [
+                "150 cm",
+                "500 cm"
+              ],
+              [
+                "180 cm",
+                "500 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un brise-vue en bambou doux et rustique",
+            "body": [
+              {
+                "p": "Notre clôture en branchages de bambou est réalisée avec les fines branches du bambou plutôt qu'avec ses cannes. Les brindilles sont serrées en une natte dense et liées, ce qui donne une texture de brande à l'aspect informel et naturel. Comme tout notre bambou, elle provient d'une plante renouvelable à croissance rapide."
+              },
+              {
+                "p": "Les brindilles fines et superposées filtrent les vues et adoucissent le vent et la lumière au lieu de former un mur dur. Fixée contre une clôture existante, elle transforme un grillage ou un bois fatigué en un fond naturel et texturé. Avec le temps en extérieur, comme tout matériau naturel, les brindilles grisonnent vers un ton plus doux qui convient aux plantations informelles."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Jardins de cottage, de campagne et favorables à la faune.",
+                  "Habillage de clôtures grillagées ou de clôtures en bois usées.",
+                  "Occultation des composts, poubelles et abris.",
+                  "Cadres rustiques pour l'hôtellerie et les événements."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Les rouleaux de clôture en bambou ronds et demi-ronds donnent des lignes verticales nettes et un aspect plus architectural. La clôture en branchages est le choix informel : plus fine, plus douce et plus texturée. Le panneau de clôture en branches de bambou reprend un remplissage dense similaire dans un cadre bois rigide, pour les acheteurs qui veulent cette texture sous forme de panneau entre poteaux."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "En quelles tailles existe la clôture en branchages ?",
+              "a": "Des hauteurs de 120, 150 et 180 cm, chacune en longueurs de 210 cm ou 500 cm. La longueur de 500 cm couvre de longues limites avec moins de raccords ; la longueur de 210 cm est plus facile à manipuler et à présenter en magasin. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Quel niveau d'intimité offre-t-elle ?",
+              "a": "La natte est dense et filtre donc bien les vues, mais, étant un matériau naturel de brande, elle laisse passer un peu de lumière au lieu de former un mur plein. Pour un écran plus fermé, deux couches peuvent être fixées l'une derrière l'autre."
+            },
+            {
+              "q": "Comment la poser ?",
+              "a": "Déroulez-la contre une clôture, un grillage ou un cadre existant et fixez-la avec des liens métalliques à intervalles réguliers. En usage autoportant, fixez-la sur des poteaux et des lisses. La natte étant souple, elle suit de légères courbes le long d'une clôture existante."
+            },
+            {
+              "q": "Puis-je la commander avec ma propre marque ?",
+              "a": "Oui. Nous emballons selon votre cahier des charges avec vos propres étiquettes, codes-barres ou encarts, et nous confirmons les quantités par conteneur pour votre mix de tailles. Le MOQ est négociable."
+            }
+          ]
+        }
+      }
+    },
+    "bambooPanels": {
+      "shared": {
+        "factsTitle": "En bref",
+        "whyTitle": "Pourquoi choisir celui-ci",
+        "sizesEyebrow": "Caractéristiques",
+        "qcEyebrow": "Contrôle qualité",
+        "qcTitle": "Vérifié avant l'expédition",
+        "qcLead": "Avant l'emballage, les panneaux sont contrôlés par rapport à la commande pour la taille, le cadre et la finition, afin que ce qui arrive corresponde à ce que vous avez validé.",
+        "faqEyebrow": "Questions & réponses",
+        "faqTitle": "Questions fréquentes",
+        "packing": {
+          "eyebrow": "Logistique",
+          "title": "Options d'emballage",
+          "lead": "Les panneaux de bambou à cadre sont emballés pour protéger cadres et angles pendant le transport — choisissez une option standard ou envoyez-nous votre propre cahier des charges.",
+          "options": [
+            {
+              "t": "Protection en mousse",
+              "d": "Panneaux enveloppés de mousse plastique pour protéger cadres, angles et cannes."
+            },
+            {
+              "t": "Palettes",
+              "d": "Panneaux empilés et sanglés sur palettes pour une manutention et un chargement en toute sécurité."
+            },
+            {
+              "t": "Cartons export",
+              "d": "Cartons individuels ou multi-panneaux, adaptés à la taille du panneau."
+            },
+            {
+              "t": "Emballage en marque distributeur",
+              "d": "Vos propres étiquettes, encarts imprimés ou codes-barres pour la vente au détail."
+            }
+          ]
+        },
+        "series": {
+          "eyebrow": "La gamme de panneaux",
+          "title": "Comparez les autres panneaux de clôture en bambou",
+          "lead": "Des panneaux fixes rigides en bambou naturel ou noir aux styles japonais à cadre — Kumo, Misugaki, Sode-gaki et Koetsu-gaki.",
+          "overviewCta": "Aperçu des panneaux de clôture en bambou"
+        }
+      },
+      "variants": {
+        "fixed-natural-bamboo-panel": {
+          "name": "Panneau de clôture en bambou naturel fixe",
+          "metaTitle": "Panneau bambou naturel rigide – grossiste",
+          "cardDesc": "Écran rigide de grosses cannes rondes naturelles de 35–45 mm, jusqu'à 2,0 m de haut.",
+          "eyebrow": "Panneau fixe · Bambou naturel",
+          "pill": "Bambou rond naturel · Ø 35–45 mm",
+          "lead": "Un écran rigide de grosses cannes de bambou rondes naturelles de 35–45 mm — un panneau de clôture en bambou fixe qui garde sa forme, en quatre tailles jusqu'à 1,8 × 2,0 m.",
+          "desc": "Notre panneau fixe utilise des cannes plus lourdes que nos rouleaux et se présente comme un écran rigide plutôt que comme un rouleau souple. Il se fixe entre des poteaux ou contre un mur comme un panneau de clôture en bambou solide et fini, en bambou jaune naturel.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou rond naturel"
+            },
+            {
+              "k": "Diamètre",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Écran fixe rigide"
+            },
+            {
+              "k": "Tailles",
+              "v": "0,9 × 1,8 m jusqu'à 1,8 × 2,0 m"
+            }
+          ],
+          "why": "C'est le choix simple et solide parmi nos panneaux de clôture en bambou : de grosses cannes rondes, aucun cadre à entretenir et un format rigide qui tient entre des poteaux. À préférer à un rouleau lorsque vous voulez une clôture plutôt qu'un habillage.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% bambou rond naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Liaison",
+              "v": "Fil galvanisé (fil nylon aussi pour les plus grands diamètres)"
+            },
+            {
+              "k": "Format",
+              "v": "Écran fixe rigide"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 0,9–1,8 m × H 1,8–2,0 m (4 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Quatre tailles de panneaux standard, indiquées en longueur × hauteur.",
+            "cols": [
+              "Longueur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "0,9 m",
+                "1,8 m"
+              ],
+              [
+                "1,0 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "2,0 m"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un panneau rigide de grosses cannes naturelles",
+            "body": [
+              {
+                "p": "Notre panneau de clôture en bambou naturel fixe est fabriqué avec des cannes de bambou rondes naturelles de 35–45 mm, plus épaisses que celles de la plupart de nos rouleaux de clôture. Les cannes sont liées au fil galvanisé, ou au fil nylon pour les plus grands diamètres, en un écran rigide qui garde sa forme. Il ne s'enroule pas et se comporte donc comme un panneau de clôture plutôt que comme un habillage. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "C'est donc le panneau à choisir pour une nouvelle limite entre poteaux, un brise-vue de terrasse ou une séparation de jardin qui doit tenir seule. Quatre tailles standard vont d'un étroit panneau de 0,9 × 1,8 m à une section complète de 1,8 × 2,0 m."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Nouvelles limites de jardin entre poteaux en bois ou en métal.",
+                  "Brise-vue pour terrasses et patios.",
+                  "Séparations autour des coins repas, poubelles et rangements.",
+                  "Projets d'hôtellerie et d'aménagement paysager."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le panneau fixe noir naturel a le même format en cannes sombres. Nos panneaux à cadre bois, comme les panneaux japonais Kumo ou Misugaki, utilisent des cannes plus fines de 13–18 mm dans un cadre décoratif. Une canisse bambou naturel en rouleau est plus légère et souple, conçue pour se dérouler sur une structure déjà en place."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Quelles sont les tailles des panneaux de bambou fixes ?",
+              "a": "Quatre tailles standard (longueur × hauteur) : 0,9 × 1,8 m, 1,0 × 1,8 m, 1,8 × 1,8 m et 1,8 × 2,0 m. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "En quoi un panneau fixe diffère-t-il d'une canisse en rouleau ?",
+              "a": "Un rouleau est souple et se fixe sur une clôture ou un cadre existant. Le panneau fixe est rigide et utilise des cannes plus épaisses de 35–45 mm : il peut donc être monté entre des poteaux comme une clôture à part entière."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Fixez-le sur des poteaux en bois ou en métal, un mur ou une clôture existante avec des vis ou des colliers de serrage. Pour de plus longs linéaires, plantez les poteaux à un écartement égal à la largeur des panneaux et fixez les panneaux les uns aux autres."
+            },
+            {
+              "q": "Le bambou naturel change-t-il de couleur ?",
+              "a": "Progressivement. Comme tout matériau naturel en extérieur, le bambou grisonne lentement sous le soleil et la pluie. Pour un panneau sombre dès le départ, voir le panneau fixe noir naturel."
+            }
+          ]
+        },
+        "fixed-black-bamboo-panel": {
+          "name": "Panneau de clôture en bambou noir naturel fixe",
+          "metaTitle": "Panneau bambou noir rigide – grossiste",
+          "cardDesc": "Écran rigide de cannes noires naturelles de 35–45 mm pour une limite affirmée.",
+          "eyebrow": "Panneau fixe · Noir naturel",
+          "pill": "Bambou noir naturel · Ø 35–45 mm",
+          "lead": "Un panneau de clôture en bambou noir rigide en grosses cannes rondes noires naturelles de 35–45 mm — la couleur est celle du bambou. Quatre tailles jusqu'à 1,8 × 2,0 m.",
+          "desc": "Le même format fixe et solide que notre panneau naturel, réalisé en bambou noir naturel. De grosses cannes rondes donnent une limite sombre et marquée qui garde sa forme entre des poteaux, sans peinture qui s'écaille ou s'use.",
+          "facts": [
+            {
+              "k": "Canne",
+              "v": "Bambou noir naturel, rond"
+            },
+            {
+              "k": "Couleur",
+              "v": "Naturelle — ni peinte ni teinte"
+            },
+            {
+              "k": "Diamètre",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Tailles",
+              "v": "0,9 × 1,8 m jusqu'à 1,8 × 2,0 m"
+            }
+          ],
+          "why": "Il offre l'aspect le plus affirmé et le plus contemporain de nos panneaux de clôture en bambou. À préférer au panneau naturel pour le contraste avec les plantations et les dallages clairs ; à préférer à un rouleau noir lorsque l'écran doit tenir entre des poteaux.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "100% bambou rond noir naturel"
+            },
+            {
+              "k": "Diamètre des cannes",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Couleur",
+              "v": "Noir naturel — sans peinture ni teinture"
+            },
+            {
+              "k": "Format",
+              "v": "Écran fixe rigide"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 0,9–1,8 m × H 1,8–2,0 m (4 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Quatre tailles de panneaux standard, indiquées en longueur × hauteur — les mêmes que le panneau naturel.",
+            "cols": [
+              "Longueur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "0,9 m",
+                "1,8 m"
+              ],
+              [
+                "1,0 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "2,0 m"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande ; les panneaux naturel et noir peuvent être combinés dans une même commande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une limite en bambou sombre et solide",
+            "body": [
+              {
+                "p": "Ce panneau fixe est fabriqué avec des cannes de bambou noir naturel rondes de 35–45 mm, assemblées en un écran rigide qui garde sa forme. Le bambou noir naturel fonce en poussant : la couleur fait donc partie de la canne elle-même. Il n'y a pas de couche de peinture qui s'écaille ou pèle lors de la manipulation et de la fixation du panneau. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Étant naturelle, la teinte varie légèrement d'une canne à l'autre, du noir profond au noir-brun. Sur une série de panneaux, cette variation donne une profondeur qu'une surface peinte n'a pas. Quatre tailles standard vont de 0,9 × 1,8 m à 1,8 × 2,0 m, comme notre panneau naturel."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Limites de jardins contemporains et cours intérieures.",
+                  "Toits-terrasses et balcons à la finition moderne.",
+                  "Occultation pour restaurants, bars et hôtels.",
+                  "Un fond sombre pour les plantations et l'éclairage de jardin."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le panneau fixe naturel est identique par le format et les tailles, en cannes jaunes naturelles. La canisse bambou noir naturel en rouleau utilise des cannes plus fines dans un rouleau souple pour habiller des clôtures existantes ; ce panneau est l'option rigide et autoportante. Ses grosses cannes de 35–45 mm donnent un aspect plus massif et plus substantiel que les rouleaux ou que les panneaux japonais à cadre aux cannes plus fines."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "La couleur noire est-elle peinte ?",
+              "a": "Non. Le panneau est fabriqué en bambou noir naturel, qui pousse sombre. Il n'y a ni peinture ni teinture, et de petites différences de teinte entre les cannes sont normales. Comme tout matériau naturel en extérieur, le ton peut s'adoucir légèrement avec le temps."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Quatre tailles standard (longueur × hauteur) : 0,9 × 1,8 m, 1,0 × 1,8 m, 1,8 × 1,8 m et 1,8 × 2,0 m. Tailles sur mesure sur demande."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Fixez le panneau entre des poteaux en bois ou en métal, ou contre un mur ou une clôture existante, avec des vis ou des colliers de serrage. Il est rigide et n'a donc pas besoin de structure de soutien sur sa longueur. Pour de plus longs linéaires, plantez les poteaux à un écartement égal à la largeur des panneaux et fixez les panneaux les uns aux autres."
+            },
+            {
+              "q": "Puis-je mélanger panneaux naturels et noirs dans une même expédition ?",
+              "a": "Oui. Les deux ont les mêmes tailles : une commande mixte est donc facile à préparer. L'emballage en marque distributeur est bienvenu et le MOQ est négociable."
+            }
+          ]
+        },
+        "japanese-kumo-bamboo-panel": {
+          "name": "Panneau de clôture japonais en bambou Kumo",
+          "metaTitle": "Palissade japonaise en bambou Kumo – grossiste",
+          "cardDesc": "Panneau japonais à cadre : cannes verticales de 13–18 mm et lisses horizontales.",
+          "eyebrow": "Style japonais · Panneau à cadre",
+          "pill": "Cadre bambou · cannes Ø 13–18 mm",
+          "lead": "Une palissade japonaise en bambou avec cadre rond en bambou, cannes verticales de 13–18 mm et lisses horizontales. Cinq tailles de 45 × 120 à 88 × 190 cm.",
+          "desc": "Le panneau Kumo apporte un look épuré de jardin japonais dans un cadre prêt à poser. De fines cannes verticales remplissent un cadre rond en bambou, traversé de lisses horizontales ; une version à cadre bois est disponible en cinq tailles standard.",
+          "facts": [
+            {
+              "k": "Style",
+              "v": "Panneau japonais Kumo"
+            },
+            {
+              "k": "Cannes",
+              "v": "Verticales, 13–18 mm"
+            },
+            {
+              "k": "Cadre",
+              "v": "Bambou rond ; version à cadre bois"
+            },
+            {
+              "k": "Tailles",
+              "v": "45 × 120 à 88 × 190 cm"
+            }
+          ],
+          "why": "C'est le plus simple de nos panneaux japonais : des cannes verticales et des lisses horizontales dans un cadre soigné, sans sommet décoratif ni nœuds ornementaux. À choisir pour une palissade japonaise en bambou calme et ordonnée, qui convient aussi bien aux jardins traditionnels qu'aux jardins modernes.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou naturel ; cadre bois sur la version à cadre"
+            },
+            {
+              "k": "Cadre",
+              "v": "Cadre rond en bambou · version à cadre bois"
+            },
+            {
+              "k": "Cannes",
+              "v": "Verticales, Ø 13–18 mm"
+            },
+            {
+              "k": "Lisses",
+              "v": "Horizontales"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 45–165 cm × H 120–190 cm (5 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Cinq tailles standard pour le panneau à cadre bois, indiquées en largeur × hauteur.",
+            "cols": [
+              "Largeur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un panneau japonais calme et ordonné",
+            "body": [
+              {
+                "p": "Notre panneau de clôture japonais en bambou Kumo est construit autour d'un cadre rond en bambou. À l'intérieur, de fines cannes verticales de 13–18 mm sont serrées les unes contre les autres, traversées de lisses horizontales qui les maintiennent alignées. Il en résulte un motif régulier et discret de verticales — le genre de clôture qui met en valeur les plantations plutôt que de leur faire concurrence. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Une version à cadre bois est fabriquée en cinq tailles standard, d'un étroit panneau d'accent de 45 × 120 cm à un grand écran de 88 × 190 cm. La taille de 165 × 120 cm fait une limite basse et large le long d'une terrasse ou d'une allée."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Jardins japonais et zen.",
+                  "Occultation de terrasses, patios et balcons.",
+                  "Panneaux décoratifs derrière des plantations ou des points d'eau.",
+                  "Jardins de spas, d'hôtels et de restaurants."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le panneau Misugaki inverse le motif, avec des cannes horizontales tenues par des lattes verticales et des nœuds de corde noirs. Le panneau à sommet ajouré ajoute un haut décoratif à claire-voie. Le Kumo est le plus sobre des trois, avec des cannes verticales de haut en bas."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "En quelles tailles le panneau Kumo est-il fabriqué ?",
+              "a": "Le panneau à cadre bois existe en cinq tailles (largeur × hauteur) : 45 × 120, 88 × 120, 165 × 120, 88 × 150 et 88 × 190 cm. La taille de 165 × 120 cm convient aux limites basses ; 88 × 190 cm offre une occultation sur toute la hauteur. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Quelle est la différence entre les panneaux Kumo et Misugaki ?",
+              "a": "Le Kumo a des cannes verticales avec des lisses horizontales. Le Misugaki a des cannes horizontales tenues par des lattes verticales liées par des nœuds de corde noirs, sur de courts pieds. Le Kumo se lit comme vertical et calme ; le Misugaki comme horizontal et plus traditionnel."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Fixez le cadre sur des poteaux, un mur ou une clôture existante avec des vis ou des colliers de serrage. Plusieurs panneaux peuvent être alignés entre des poteaux pour former une palissade japonaise en bambou continue. Le bord encadré donne à chaque panneau un contour net : aucune finition supplémentaire n'est nécessaire."
+            },
+            {
+              "q": "Pouvez-vous le fournir sous notre propre marque ?",
+              "a": "Oui. L'emballage en marque distributeur avec vos étiquettes, codes-barres ou encarts est bienvenu, et le MOQ est négociable. Le Kumo peut être expédié avec nos autres panneaux à cadre, qui ont les mêmes tailles."
+            }
+          ]
+        },
+        "lattice-top-bamboo-panel": {
+          "name": "Panneau de clôture en bambou à sommet ajouré",
+          "metaTitle": "Panneau bambou à sommet ajouré – grossiste",
+          "cardDesc": "Cadre bois foncé, sommet à claire-voie, face en bambou naturel ou carbonisé.",
+          "eyebrow": "Panneau à cadre · Sommet ajouré",
+          "pill": "Cadre bois · bambou Ø 13–18 mm",
+          "lead": "Un panneau de clôture en bambou à cadre bois foncé, avec un sommet décoratif à claire-voie au-dessus d'une face en bambou de 13–18 mm à lisses nouées. Naturel ou carbonisé.",
+          "desc": "Le panneau à sommet ajouré associe l'intimité en bas à une bande légère et ouverte en haut. Un cadre bois foncé entoure une face en bambou naturel traversée de lisses nouées, surmontée d'un treillis décoratif. Une version carbonisée donne un ton plus chaud et plus foncé.",
+          "facts": [
+            {
+              "k": "Cadre",
+              "v": "Bois foncé"
+            },
+            {
+              "k": "Face",
+              "v": "Bambou 13–18 mm, lisses nouées"
+            },
+            {
+              "k": "Sommet",
+              "v": "Treillis décoratif à claire-voie"
+            },
+            {
+              "k": "Versions",
+              "v": "Naturel · carbonisé"
+            }
+          ],
+          "why": "Le sommet à claire-voie adoucit le bord supérieur d'une limite et laisse passer la lumière : un panneau haut paraît ainsi moins lourd. À préférer au panneau Kumo lorsque vous voulez un aspect plus décoratif et plus abouti.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou naturel ou carbonisé + cadre bois foncé"
+            },
+            {
+              "k": "Face en bambou",
+              "v": "Ø 13–18 mm, lisses nouées"
+            },
+            {
+              "k": "Sommet",
+              "v": "Treillis décoratif à claire-voie"
+            },
+            {
+              "k": "Versions",
+              "v": "Naturel · carbonisé (traité à la chaleur)"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 45–165 cm × H 120–190 cm (5 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Cinq tailles standard, indiquées en largeur × hauteur, en naturel ou carbonisé.",
+            "cols": [
+              "Largeur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "L'intimité en bas, la lumière en haut",
+            "body": [
+              {
+                "p": "Notre panneau de clôture en bambou à sommet ajouré est construit dans un cadre bois foncé. La face principale est en bambou naturel de 13–18 mm, traversée de lisses attachées par des nœuds décoratifs. Au-dessus, un treillis ouvert laisse passer la lumière et les échappées de vue : le panneau occulte à hauteur d'yeux sans fermer le ciel. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Le contraste entre le cadre foncé et le bambou clair donne au panneau un contour net et abouti. Il convient aux jardins où la clôture fait partie du décor plutôt que d'être un simple arrière-plan. Cinq tailles standard vont d'un étroit panneau de 45 × 120 cm à un grand écran de 88 × 190 cm, avec une option large de 165 × 120 cm pour les limites basses."
+              },
+              {
+                "h3": "Naturel ou carbonisé"
+              },
+              {
+                "p": "La version naturelle garde la couleur paille claire du bambou. La version carbonisée est traitée à la chaleur, ce qui donne au bambou un brun plus chaud dans toute la masse de la canne et le rapproche du ton du cadre foncé. Les deux versions partagent le même cadre, les mêmes tailles et les mêmes lisses nouées, et peuvent donc être combinées dans une même commande."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Panneaux de limite où un bord supérieur plus doux est recherché.",
+                  "Terrasses et patios proches de la maison.",
+                  "Jardins d'inspiration japonaise et de cottage.",
+                  "Projets d'hôtellerie et de jardins d'exposition."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Cinq tailles (largeur × hauteur) : 45 × 120, 88 × 120, 165 × 120, 88 × 150 et 88 × 190 cm, en naturel ou carbonisé. Des tailles sur mesure sont fabriquées sur demande."
+            },
+            {
+              "q": "Quelle est la différence entre naturel et carbonisé ?",
+              "a": "Le bambou carbonisé est traité à la chaleur, ce qui le fonce en un brun chaud dans toute la canne. La version naturelle garde la couleur paille claire du bambou. Le cadre et la construction sont identiques, et la carbonisation n'utilise ni peinture ni teinture."
+            },
+            {
+              "q": "Le sommet à claire-voie réduit-il l'intimité ?",
+              "a": "Seulement en haut. La face en bambou en dessous assure l'occultation à hauteur d'yeux, tandis que le treillis ouvert laisse passer la lumière au-dessus."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Fixez le cadre bois sur des poteaux, un mur ou une clôture existante avec des vis. Les panneaux peuvent être posés côte à côte entre des poteaux pour former un linéaire continu. Le cadre foncé donne à chaque panneau un bord fini : aucune finition supplémentaire n'est nécessaire."
+            }
+          ]
+        },
+        "misugaki-bamboo-panel": {
+          "name": "Panneau de clôture en bambou Misugaki",
+          "metaTitle": "Palissade japonaise bambou Misugaki – grossiste",
+          "cardDesc": "Cannes horizontales, lattes verticales, nœuds de corde noirs, sur de courts pieds.",
+          "eyebrow": "Style japonais · Traditionnel",
+          "pill": "Cadre bois · cannes Ø 13–18 mm",
+          "lead": "Une clôture japonaise traditionnelle en bambou Misugaki : de fines cannes horizontales tenues par des lattes verticales liées par des nœuds de corde noirs, dans un cadre bois foncé sur de courts pieds.",
+          "desc": "Le Misugaki est l'un des styles classiques de clôture japonaise en bambou. Nous le fabriquons dans un cadre bois foncé avec des cannes horizontales de 13–18 mm, des lattes verticales et des nœuds de corde noirs, et nous posons le panneau sur de courts pieds, en cinq tailles standard.",
+          "facts": [
+            {
+              "k": "Style",
+              "v": "Misugaki japonais traditionnel"
+            },
+            {
+              "k": "Cannes",
+              "v": "Horizontales, 13–18 mm"
+            },
+            {
+              "k": "Détail",
+              "v": "Lattes verticales, nœuds de corde noirs"
+            },
+            {
+              "k": "Cadre",
+              "v": "Bois foncé, sur de courts pieds"
+            }
+          ],
+          "why": "C'est le panneau à l'aspect le plus traditionnel de la gamme : les cannes horizontales et les nœuds noirs se lisent comme un authentique savoir-faire japonais. À choisir pour les jardins japonais et les projets où la clôture est un élément à part entière.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou naturel + cadre bois foncé"
+            },
+            {
+              "k": "Cannes",
+              "v": "Horizontales, Ø 13–18 mm"
+            },
+            {
+              "k": "Lattes",
+              "v": "Verticales, liées par des nœuds de corde noirs"
+            },
+            {
+              "k": "Cadre",
+              "v": "Bois foncé, sur de courts pieds"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 45–165 cm × H 120–190 cm (5 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Cinq tailles standard, indiquées en largeur × hauteur.",
+            "cols": [
+              "Largeur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une clôture japonaise classique, prête à poser",
+            "body": [
+              {
+                "p": "Le Misugaki est un style traditionnel de clôture japonaise en bambou, composé de fines cannes posées à l'horizontale et tenues par des lattes verticales. Notre panneau de clôture en bambou Misugaki suit ce modèle : cannes horizontales de 13–18 mm, lattes verticales fixées par des nœuds de corde noirs, et cadre bois foncé qui met en valeur le bambou clair."
+              },
+              {
+                "p": "Le panneau repose sur de courts pieds, qui soulèvent légèrement le bambou du sol. Cinq tailles standard vont d'un panneau d'accent de 45 × 120 cm à un écran de 88 × 190 cm, avec une option large de 165 × 120 cm pour les linéaires bas. Les lignes horizontales donnent à un espace plus de largeur et de calme, ce qui explique que ce style soit si souvent utilisé pour encadrer les jardins japonais, les entrées et les allées de jardins de thé."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Jardins japonais, zen et de thé.",
+                  "Entrées, cours intérieures et murs d'accent.",
+                  "Arrière-plans pour érables, mousses et pierres.",
+                  "Jardins de spas, d'hôtels et de restaurants."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "Le panneau japonais Kumo utilise des cannes verticales avec des lisses horizontales, pour un rythme vertical. Le Misugaki en est le pendant horizontal, avec les nœuds de corde noirs pour détail signature. Pour un écran d'accent étroit plutôt qu'une suite de panneaux, voyez la clôture manche Sode-gaki."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce qu'une clôture Misugaki ?",
+              "a": "Un style traditionnel de clôture japonaise en bambou, fait de fines cannes horizontales tenues par des lattes verticales. La nôtre ajoute des nœuds de corde noirs, un cadre bois foncé et de courts pieds. Le bambou clair contre le cadre et les nœuds sombres lui donne son aspect traditionnel."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Cinq tailles (largeur × hauteur) : 45 × 120, 88 × 120, 165 × 120, 88 × 150 et 88 × 190 cm. Tailles sur mesure sur demande."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Posez le panneau sur ses pieds et fixez le cadre bois sur des poteaux, un mur ou les panneaux voisins avec des vis. Sur sol meuble, posez les pieds sur une base ferme ou fixez-les à des poteaux. Les panneaux peuvent être alignés côte à côte pour former une clôture traditionnelle continue."
+            },
+            {
+              "q": "En quoi diffère-t-il du panneau Kumo ?",
+              "a": "Le Kumo a des cannes verticales et des lisses horizontales ; le Misugaki a des cannes horizontales, des lattes verticales et des nœuds de corde noirs. Le Misugaki paraît plus traditionnel ; le Kumo est plus sobre et convient aussi aux jardins modernes."
+            }
+          ]
+        },
+        "bamboo-branch-panel": {
+          "name": "Panneau de clôture en branches de bambou",
+          "metaTitle": "Panneau bambou en branchages – grossiste",
+          "cardDesc": "Cadre bois rempli de branches de bambou denses — naturelles ou noires.",
+          "eyebrow": "Panneau à cadre · Texture rustique",
+          "pill": "Branches de bambou · cadre bois",
+          "lead": "Un panneau à cadre bois rempli de branches de bambou denses et traversé de lisses de bambou nouées de noir — une texture rustique dans un cadre soigné. Naturel ou noir naturel.",
+          "desc": "Le panneau en branchages met la texture douce de brande des branches de bambou dans un cadre bois rigide. Des lisses horizontales en bambou à nœuds noirs maintiennent les branches, en branches naturelles ou noires naturelles et en cinq tailles standard.",
+          "facts": [
+            {
+              "k": "Remplissage",
+              "v": "Branches de bambou denses"
+            },
+            {
+              "k": "Cadre",
+              "v": "Bois"
+            },
+            {
+              "k": "Lisses",
+              "v": "Bambou horizontales, nœuds noirs"
+            },
+            {
+              "k": "Versions",
+              "v": "Naturel · noir naturel"
+            }
+          ],
+          "why": "Il offre la face la plus texturée et la plus informelle de nos panneaux à cadre, tout en gardant un cadre net et rigide. À préférer à la clôture en branchages en rouleau lorsque vous voulez des panneaux qui se fixent entre poteaux avec un bord fini.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Branches de bambou + cadre bois"
+            },
+            {
+              "k": "Lisses",
+              "v": "Bambou horizontales, attachées par des nœuds noirs"
+            },
+            {
+              "k": "Versions",
+              "v": "Branches naturelles · branches noires naturelles"
+            },
+            {
+              "k": "Format",
+              "v": "Panneau rigide à cadre"
+            },
+            {
+              "k": "Tailles",
+              "v": "L 45–165 cm × H 120–190 cm (5 tailles)"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Cinq tailles standard, indiquées en largeur × hauteur, dans les deux versions.",
+            "cols": [
+              "Largeur",
+              "Hauteur"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une texture de brande dans un cadre soigné",
+            "body": [
+              {
+                "p": "Notre panneau de clôture en branches de bambou est un cadre bois garni de branches de bambou denses. Des lisses horizontales en bambou traversent la face et sont attachées par des nœuds noirs, qui maintiennent les branches et ajoutent un détail artisanal. Le remplissage occulte bien les vues, tandis que les fines branches gardent une texture douce et naturelle. Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "p": "Deux versions sont fabriquées : des branches naturelles d'un ton paille chaleureux, et des branches noires naturelles pour un panneau plus sombre et plus dramatique. Dans les deux cas, la couleur est celle du bambou. Les deux versions partagent le même cadre bois, les mêmes lisses et les mêmes cinq tailles standard, et peuvent donc être combinées dans une même commande."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Jardins de cottage, de campagne et naturels.",
+                  "Jardins de style japonais souhaitant une note rustique.",
+                  "Occultation de patios, poubelles et zones de stockage.",
+                  "Présentation pour l'hôtellerie et les jardineries."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "La clôture en branchages de bambou est un rouleau souple d'un matériau similaire, conçu pour habiller une clôture existante. Le panneau en branches est rigide et encadré : il peut donc tenir entre des poteaux. Par rapport aux panneaux Kumo ou Misugaki, il troque les lignes nettes de cannes contre une face plus dense et plus texturée."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Cinq tailles (largeur × hauteur) : 45 × 120, 88 × 120, 165 × 120, 88 × 150 et 88 × 190 cm, en branches naturelles ou noires naturelles. La taille de 165 × 120 cm convient aux limites basses. Tailles sur mesure sur demande."
+            },
+            {
+              "q": "La version noire est-elle peinte ?",
+              "a": "Non. Elle utilise des branches de bambou noir naturel : la couleur est celle du bambou. De légères différences de teinte entre les branches sont normales."
+            },
+            {
+              "q": "Quel niveau d'intimité offre un panneau en branches ?",
+              "a": "Les branches sont serrées densément : il occulte donc bien les vues. S'agissant d'un remplissage naturel de brande, il laisse passer un peu de lumière au lieu de former un mur plein. Pour plus d'occultation, les panneaux peuvent être fixés contre une clôture existante plutôt qu'entre des poteaux."
+            },
+            {
+              "q": "Comment le poser ?",
+              "a": "Fixez le cadre bois sur des poteaux, un mur ou une clôture existante avec des vis ou des colliers de serrage. Les panneaux peuvent être posés côte à côte pour former un linéaire continu, et le cadre donne à chacun un bord fini sans finition supplémentaire."
+            }
+          ]
+        },
+        "sode-gaki-bamboo-sleeve-fence": {
+          "name": "Clôture manche Sode-gaki en bambou",
+          "metaTitle": "Palissade japonaise bambou Sode-gaki – grossiste",
+          "cardDesc": "Étroite clôture manche japonaise avec haut poteau et sommet en treillis courbe.",
+          "eyebrow": "Style japonais · Écran d'accent",
+          "pill": "Bambou jaune naturel · 90 mm d'épaisseur",
+          "lead": "Une clôture manche japonaise : un panneau de bambou étroit avec un haut poteau, un sommet en treillis courbe et des cannes verticales en dessous. Quatre tailles de 45 × 120 à 90 × 170 cm.",
+          "desc": "Sode-gaki signifie « clôture manche » — un petit écran décoratif qui prolonge un mur, un portail ou l'angle d'un bâtiment. La nôtre est en bambou jaune naturel, avec un haut poteau de bambou, un sommet en treillis courbe et des cannes verticales, de 90 mm d'épaisseur.",
+          "facts": [
+            {
+              "k": "Style",
+              "v": "Sode-gaki japonais (clôture manche)"
+            },
+            {
+              "k": "Conception",
+              "v": "Haut poteau, sommet en treillis courbe"
+            },
+            {
+              "k": "Couleur",
+              "v": "Bambou jaune naturel"
+            },
+            {
+              "k": "Tailles",
+              "v": "18 × 48 in à 36 × 68 in"
+            }
+          ],
+          "why": "C'est une pièce d'accent plutôt qu'une limite : une clôture manche peut encadrer une entrée, cacher une descente d'eau ou ancrer une composition de plantes. À choisir là où une suite de panneaux serait trop.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou jaune naturel"
+            },
+            {
+              "k": "Conception",
+              "v": "Haut poteau de bambou, sommet en treillis courbe, cannes verticales"
+            },
+            {
+              "k": "Tailles",
+              "v": "4 tailles, L 45–90 cm × H 120–170 cm"
+            },
+            {
+              "k": "Épaisseur",
+              "v": "90 mm"
+            },
+            {
+              "k": "Dimensions emballé",
+              "v": "47 × 122 à 92 × 172 cm · ép. 95 mm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Quatre tailles standard, indiquées en largeur × hauteur, avec les dimensions emballées.",
+            "cols": [
+              "Largeur × hauteur (in)",
+              "Largeur × hauteur (cm)",
+              "Épaisseur",
+              "Dimensions emballé"
+            ],
+            "rows": [
+              [
+                "18 × 48 in",
+                "45 × 120 cm",
+                "90 mm",
+                "47 × 122 cm · ép. 95 mm"
+              ],
+              [
+                "24 × 68 in",
+                "60 × 170 cm",
+                "90 mm",
+                "62 × 172 cm · ép. 95 mm"
+              ],
+              [
+                "28 × 68 in",
+                "70 × 170 cm",
+                "90 mm",
+                "72 × 172 cm · ép. 95 mm"
+              ],
+              [
+                "36 × 68 in",
+                "90 × 170 cm",
+                "90 mm",
+                "92 × 172 cm · ép. 95 mm"
+              ]
+            ],
+            "note": "Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Un écran d'accent japonais",
+            "body": [
+              {
+                "p": "Dans les jardins japonais, un sode-gaki ou clôture manche est un petit écran qui se projette depuis un bâtiment, un mur ou un portail, comme une manche de kimono. Il ne ferme pas un espace ; il encadre une vue, cache un élément fonctionnel ou offre un fond à un groupe de plantes."
+              },
+              {
+                "p": "Notre clôture manche Sode-gaki en bambou est fabriquée en bambou jaune naturel. Un haut poteau de bambou forme un côté, un sommet en treillis courbe s'en éloigne en balayant, et des cannes verticales remplissent le panneau en dessous. Le panneau fait 90 mm d'épaisseur et existe en quatre tailles, d'un compact 45 × 120 cm (18 × 48 in) à 90 × 170 cm (36 × 68 in). Comme tout notre bambou, il est renouvelable et fabriqué sans pesticides, sans formaldéhyde ni colles toxiques."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Encadrer une porte d'entrée, un portail ou une entrée de jardin.",
+                  "Cacher descentes d'eau, compteurs, poubelles ou unités de climatisation.",
+                  "Un arrière-plan pour une lanterne, une vasque ou un sujet isolé.",
+                  "Jardins japonais, spas et cours d'hôtels."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "La clôture aile Koetsu-gaki est l'autre pièce d'accent japonaise de la gamme, plus basse et plus large, avec un treillis ouvert en losanges. Les panneaux Kumo et Misugaki sont conçus pour être alignés en limite plutôt qu'utilisés comme accents isolés."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce qu'une clôture manche ?",
+              "a": "Une petite clôture japonaise décorative, le sode-gaki, qui se projette depuis un mur, un portail ou l'angle d'un bâtiment. Elle sert à encadrer des vues ou à occulter de petites zones plutôt qu'à clore un jardin."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Quatre tailles (largeur × hauteur) : 18 × 48 in (45 × 120 cm), 24 × 68 in (60 × 170 cm), 28 × 68 in (70 × 170 cm) et 36 × 68 in (90 × 170 cm), toutes de 90 mm d'épaisseur."
+            },
+            {
+              "q": "Quelles sont les dimensions emballé ?",
+              "a": "47 × 122, 62 × 172, 72 × 172 et 92 × 172 cm respectivement, chacune de 95 mm d'épaisseur, ce qui facilite la planification des cartons et du conteneur."
+            },
+            {
+              "q": "Comment la poser ?",
+              "a": "Fixez le poteau de bambou contre un mur, un poteau de portail ou l'angle d'un bâtiment, ou plantez-le sur son propre poteau dans le sol, de sorte que le panneau s'en écarte. Deux clôtures manche peuvent servir à encadrer les deux côtés d'une entrée."
+            }
+          ]
+        },
+        "koetsu-gaki-bamboo-wing-fence": {
+          "name": "Clôture aile Koetsu-gaki en bambou",
+          "metaTitle": "Palissade japonaise bambou Koetsu-gaki – grossiste",
+          "cardDesc": "Clôture aile japonaise : lisse haute courbe sur losanges ouverts en bambou fendu.",
+          "eyebrow": "Style japonais · Treillis ouvert",
+          "pill": "Bambou jaune naturel · 90 mm d'épaisseur",
+          "lead": "Une clôture aile japonaise avec poteau de bambou, lisse haute courbe et treillis ouvert en losanges de bambou fendu. Six tailles de 60 × 60 à 200 × 90 cm.",
+          "desc": "Le Koetsu-gaki est un style de clôture japonaise en bambou connu pour son sommet courbe et son treillis ouvert en losanges. La nôtre est en bambou jaune naturel avec un poteau de bambou à une extrémité, de 90 mm d'épaisseur, en six tailles d'un bas accent de 60 × 60 cm à une aile de 180 × 120 cm.",
+          "facts": [
+            {
+              "k": "Style",
+              "v": "Koetsu-gaki japonais (clôture aile)"
+            },
+            {
+              "k": "Conception",
+              "v": "Lisse haute courbe, treillis en losanges"
+            },
+            {
+              "k": "Treillis",
+              "v": "Bambou fendu, ouvert"
+            },
+            {
+              "k": "Tailles",
+              "v": "24 × 24 in à 79 × 36 in"
+            }
+          ],
+          "why": "C'est la pièce la plus ouverte et la plus sculpturale de la gamme : elle encadre et divise sans cacher, de sorte que les plantations restent visibles à travers le treillis. À choisir pour des accents bas et des éléments de jardin plutôt que pour l'intimité.",
+          "spec": [
+            {
+              "k": "Matériau",
+              "v": "Bambou jaune naturel, treillis en bambou fendu"
+            },
+            {
+              "k": "Conception",
+              "v": "Poteau de bambou, lisse haute courbe, treillis ouvert en losanges"
+            },
+            {
+              "k": "Tailles",
+              "v": "6 tailles, L 60–200 cm × H 60–120 cm"
+            },
+            {
+              "k": "Épaisseur",
+              "v": "90 mm"
+            },
+            {
+              "k": "Dimensions emballé",
+              "v": "≈ 2 cm de plus que la clôture · ép. 95 mm"
+            },
+            {
+              "k": "Par 40HC",
+              "v": "Sur demande"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Négociable · marque distributeur bienvenue"
+            },
+            {
+              "k": "Port de chargement",
+              "v": "Xiamen, Chine"
+            }
+          ],
+          "sizes": {
+            "title": "Tailles standard",
+            "lead": "Six tailles standard, indiquées en largeur × hauteur.",
+            "cols": [
+              "Largeur × hauteur (in)",
+              "Largeur × hauteur (cm)",
+              "Épaisseur"
+            ],
+            "rows": [
+              [
+                "24 × 24 in",
+                "60 × 60 cm",
+                "90 mm"
+              ],
+              [
+                "38 × 36 in",
+                "90 × 90 cm",
+                "90 mm"
+              ],
+              [
+                "48 × 40 in",
+                "120 × 100 cm",
+                "90 mm"
+              ],
+              [
+                "60 × 43 in",
+                "150 × 108 cm",
+                "90 mm"
+              ],
+              [
+                "72 × 48 in",
+                "180 × 120 cm",
+                "90 mm"
+              ],
+              [
+                "79 × 36 in",
+                "200 × 90 cm",
+                "90 mm"
+              ]
+            ],
+            "note": "Les dimensions emballé sont supérieures d'environ 2 cm à celles de la clôture, avec 95 mm d'épaisseur. Tailles sur mesure sur demande."
+          },
+          "about": {
+            "eyebrow": "Le produit",
+            "title": "Une clôture japonaise ouverte et sculpturale",
+            "body": [
+              {
+                "p": "Le Koetsu-gaki est un style traditionnel de clôture japonaise en bambou, nommé d'après le temple Koetsu-ji à Kyoto. Sa signature est une longue lisse haute qui descend en courbe depuis un poteau, au-dessus d'un treillis ouvert de bambous croisés. C'est une clôture que l'on regarde et à travers laquelle on voit, non un écran derrière lequel se cacher."
+              },
+              {
+                "p": "Notre clôture aile Koetsu-gaki en bambou est fabriquée en bambou jaune naturel. Un poteau de bambou ancre une extrémité, la lisse haute courbe s'en éloigne en balayant, et du bambou fendu forme en dessous un treillis ouvert en losanges. Le panneau fait 90 mm d'épaisseur et existe en six tailles, d'un accent de 60 × 60 cm (24 × 24 in) à un linéaire bas de 200 × 90 cm (79 × 36 in)."
+              },
+              {
+                "h3": "Applications"
+              },
+              {
+                "ul": [
+                  "Encadrer une allée, une entrée ou un élément de jardin.",
+                  "Séparations basses entre les espaces du jardin.",
+                  "Arrière-plans pour lanternes de pierre, vasques et sujets isolés.",
+                  "Jardins japonais, spas et cours d'hôtels."
+                ]
+              },
+              {
+                "h3": "Comparaison"
+              },
+              {
+                "p": "La clôture manche Sode-gaki est plus haute et plus étroite, avec un panneau fermé de cannes verticales sous son sommet en treillis : elle occulte autant qu'elle décore. Le Koetsu-gaki est plus bas, plus large et entièrement ouvert : il structure un espace tout en conservant les vues à travers."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce qu'une clôture Koetsu-gaki ?",
+              "a": "Un style de clôture japonaise en bambou avec une lisse haute courbe au-dessus d'un treillis ouvert en losanges, nommé d'après le temple Koetsu-ji à Kyoto. Elle s'utilise comme aile décorative ou séparation plutôt que comme écran d'intimité."
+            },
+            {
+              "q": "Quelles tailles sont disponibles ?",
+              "a": "Six tailles (largeur × hauteur) : 24 × 24 in (60 × 60 cm), 38 × 36 in (90 × 90 cm), 48 × 40 in (120 × 100 cm), 60 × 43 in (150 × 108 cm), 72 × 48 in (180 × 120 cm) et 79 × 36 in (200 × 90 cm), toutes de 90 mm d'épaisseur."
+            },
+            {
+              "q": "Comment est-elle emballée ?",
+              "a": "Chaque clôture est emballée dans un format supérieur d'environ 2 cm à celui de la clôture elle-même, avec 95 mm d'épaisseur. Les matériaux d'emballage et l'étiquetage peuvent suivre votre cahier des charges."
+            },
+            {
+              "q": "Comment la poser ?",
+              "a": "Fixez le poteau de bambou à un mur ou à un poteau de portail, ou plantez-le sur son propre poteau dans le sol, de sorte que l'aile courbe s'en écarte. Plusieurs peuvent servir à encadrer les deux côtés d'une allée."
+            }
+          ]
+        }
+      }
     }
   },
   "home": {

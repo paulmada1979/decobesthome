@@ -5,7 +5,6 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { products, listedProducts, getProduct } from "@/lib/products";
 import { reedVariants } from "@/lib/reedVariants";
-import { variantHrefForCard } from "@/lib/bambooVariants";
 import { company } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 import ProductGallery from "@/components/ProductGallery";
@@ -139,8 +138,7 @@ export default async function ProductDetailPage({
         <Reveal as="div" className="var-grid" delay={1}>
           {(t.raw(`items.${product.id}.variations.items`) as Variation[])
             .filter((v) => !product.hiddenVariations?.includes(v.img))
-            .map((raw) => {
-            const v = { ...raw, href: raw.href ?? variantHrefForCard(product.slug, raw.img) };
+            .map((v) => {
             const inner = (
               <>
                 <div className="ph">

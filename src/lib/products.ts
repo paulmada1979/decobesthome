@@ -211,7 +211,6 @@ export const products: Product[] = [
     hasVariations: true,
     variationsFirst: true,
     variationDir: "fence",
-    heroImage: "/images/fence/hub-hero.webp",
     gallery: [
       "/images/bamboo-fence-hero.webp",
       "/images/fence/scene-banner2.webp",
@@ -238,7 +237,6 @@ export const products: Product[] = [
     hasVariations: true,
     variationsFirst: true,
     variationDir: "panels",
-    heroImage: "/images/panels/hub-hero.webp",
     gallery: [
       "/images/panels-hero-w.webp",
       "/images/panels/scene-jp-w.webp",
@@ -344,9 +342,7 @@ export const products: Product[] = [
     icon: "🎍",
     hasAbout: true,
     unlisted: true,
-    heroImage: "/images/split-slat/hero-2026.webp",
     gallery: [
-      "/images/split-slat/studio-2026.webp",
       "/images/blog/split-bamboo-slat-fence-hero.webp",
       "/images/split-slat/front.webp",
       "/images/split-slat/detail.webp",

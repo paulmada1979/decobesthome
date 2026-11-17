@@ -2,7 +2,6 @@ import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 import { listedProducts, megaProducts } from "@/lib/products";
 import { reedVariants } from "@/lib/reedVariants";
-import { bambooSeries } from "@/lib/bambooVariants";
 import { publishedPosts as posts } from "@/lib/posts";
 
 const BASE = "https://www.decobesthome.com";
@@ -40,13 +39,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
       changeFrequency: "monthly" as ChangeFreq,
     })),
-    ...bambooSeries.flatMap((s) =>
-      s.variants.map((v) => ({
-        path: `/products/${s.parent}/${v.id}`,
-        priority: 0.7,
-        changeFrequency: "monthly" as ChangeFreq,
-      })),
-    ),
     ...posts.map((p) => ({
       path: `/blog/${p.slug}`,
       priority: 0.5,

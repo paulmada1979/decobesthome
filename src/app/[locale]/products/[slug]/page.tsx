@@ -13,6 +13,8 @@ import Chips from "@/components/Chips";
 import QuoteButton from "@/components/QuoteButton";
 
 import CtaBand from "@/components/CtaBand";
+import JsonLd from "@/components/JsonLd";
+import { productSchema, breadcrumbSchema, localeUrl } from "@/lib/schema";
 export function generateStaticParams() {
   return products.map((p) => ({ slug: p.slug }));
 }
@@ -92,6 +94,22 @@ export default async function ProductDetailPage({
   const heroImage = product.heroImage || product.gallery?.[0] || product.image || "/images/natural-bamboo-fence-1.webp";
   const galleryImages = product.gallery ?? (product.image ? [product.image] : []);
   const spec = t.raw(`items.${product.id}.spec`) as { k: string; v: string }[];
+  const tc = await getTranslations("products.index.hero");
+  const pageUrl = localeUrl(locale, `/products/${product.slug}`);
+  const jsonLd = [
+    productSchema({
+      name,
+      description: `${t(`items.${product.id}.lead`)} ${t(`items.${product.id}.desc`)}`,
+      url: pageUrl,
+      images: [heroImage, ...galleryImages],
+      properties: spec,
+    }),
+    breadcrumbSchema([
+      { name: tc("crumbHome"), url: localeUrl(locale, "/") },
+      { name: tc("crumb"), url: localeUrl(locale, "/products") },
+      { name, url: pageUrl },
+    ]),
+  ];
 
   const related = listedProducts
     .filter((p) => p.id !== product.id)
@@ -174,6 +192,7 @@ export default async function ProductDetailPage({
 
   return (
     <>
+      <JsonLd data={jsonLd} />
       {/* PAGE HERO */}
       <section className="page-hero">
         <div className="bg">

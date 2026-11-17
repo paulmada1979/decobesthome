@@ -5,6 +5,8 @@ import { listedProducts as products } from "@/lib/products";
 import Reveal from "@/components/Reveal";
 import CategoryCard from "@/components/CategoryCard";
 import CtaBand from "@/components/CtaBand";
+import JsonLd from "@/components/JsonLd";
+import { itemListSchema, breadcrumbSchema, localeUrl } from "@/lib/schema";
 export async function generateMetadata({
   params,
 }: {
@@ -26,8 +28,20 @@ export default async function ProductsPage({
   const tn = await getTranslations("products.names");
   const tt = await getTranslations("products.tags");
 
+  const jsonLd = [
+    itemListSchema(
+      t("hero.title"),
+      products.map((p) => ({ name: tn(p.id), url: localeUrl(locale, `/products/${p.slug}`), image: p.image })),
+    ),
+    breadcrumbSchema([
+      { name: t("hero.crumbHome"), url: localeUrl(locale, "/") },
+      { name: t("hero.crumb"), url: localeUrl(locale, "/products") },
+    ]),
+  ];
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       {/* PAGE HERO */}
       <section className="page-hero">
         <div className="bg">

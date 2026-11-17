@@ -10,6 +10,8 @@ import ProductGallery from "@/components/ProductGallery";
 import QuoteButton from "@/components/QuoteButton";
 
 import CtaBand from "@/components/CtaBand";
+import JsonLd from "@/components/JsonLd";
+import { productSchema, breadcrumbSchema, localeUrl } from "@/lib/schema";
 export function generateStaticParams() {
   return reedVariants.map((x) => ({ variant: x.id }));
 }
@@ -85,12 +87,25 @@ export default async function ReedVariantPage({
     })),
   };
 
+  const pageUrl = localeUrl(locale, `/products/reed-fencing/${rv.id}`);
+  const productJsonLd = productSchema({
+    name,
+    description: `${t(`variants.${rv.id}.lead`)} ${t(`variants.${rv.id}.desc`)}`,
+    url: pageUrl,
+    images: [rv.hero, ...rv.gallery],
+    category: tn("reed-fencing"),
+    properties: [...facts, ...spec],
+  });
+  const crumbsJsonLd = breadcrumbSchema([
+    { name: td("crumbHome"), url: localeUrl(locale, "/") },
+    { name: td("crumbProducts"), url: localeUrl(locale, "/products") },
+    { name: tn("reed-fencing"), url: localeUrl(locale, "/products/reed-fencing") },
+    { name, url: pageUrl },
+  ]);
+
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-      />
+      <JsonLd data={[productJsonLd, faqJsonLd, crumbsJsonLd]} />
 
       {/* PAGE HERO */}
       <section className="page-hero">

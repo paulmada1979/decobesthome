@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import Reveal from "@/components/Reveal";
 import InspirationGallery from "@/components/InspirationGallery";
+import JsonLd from "@/components/JsonLd";
+import { gallery } from "@/lib/gallery";
+import { itemListSchema } from "@/lib/schema";
 
 export async function generateMetadata({
   params,
@@ -22,8 +25,14 @@ export default async function InspirationPage({
   setRequestLocale(locale);
   const t = await getTranslations("inspiration");
 
+  const jsonLd = itemListSchema(
+    t("title"),
+    gallery.map((g) => ({ name: t(`items.${g.id}`), image: g.image })),
+  );
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       {/* PAGE HERO */}
       <section className="section" style={{ paddingBottom: 0 }}>
         <div className="container">

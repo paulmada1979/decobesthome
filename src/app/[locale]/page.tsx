@@ -6,6 +6,8 @@ import Marquee from "@/components/Marquee";
 import CategoryCard from "@/components/CategoryCard";
 import QuoteButton from "@/components/QuoteButton";
 import CtaBand from "@/components/CtaBand";
+import JsonLd from "@/components/JsonLd";
+import { organizationSchema, websiteSchema, itemListSchema, localeUrl } from "@/lib/schema";
 
 const Check = () => (
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41,8 +43,18 @@ export default async function HomePage({
   const tn = await getTranslations("products.names");
   const tt = await getTranslations("products.tags");
 
+  const jsonLd = [
+    organizationSchema(t("hero.lead")),
+    websiteSchema(locale, "BestHome"),
+    itemListSchema(
+      t("catalog.title"),
+      products.map((p) => ({ name: tn(p.id), url: localeUrl(locale, `/products/${p.slug}`), image: p.image })),
+    ),
+  ];
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       {/* HERO */}
       <section className="hero">
         <div className="bg">

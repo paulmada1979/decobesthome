@@ -14,6 +14,10 @@ export type Product = {
   gallery?: string[];
   /** Optional separate page-top hero banner (when it should differ from gallery[0]). */
   heroImage?: string;
+  /** Category page: the range grid sits right under the hero, then the general info + a photo gallery. */
+  categoryLayout?: boolean;
+  /** Show gallery photos whole (letterboxed on white) instead of cropped to the frame. */
+  galleryFit?: "cover" | "contain";
   /** Whether the product has the rich detail content block in messages.products.detail.{id}. */
   hasDetail?: boolean;
   /** Render the long-form "about" text section (messages.products.detail.items.{id}.about). */
@@ -211,8 +215,11 @@ export const products: Product[] = [
     hasVariations: true,
     variationsFirst: true,
     variationDir: "fence",
+    categoryLayout: true,
+    hiddenVariations: ["var-tonkin.webp"],
     heroImage: "/images/fence/hub-hero.webp",
     gallery: [
+      "/images/fence/hub-banner.webp",
       "/images/bamboo-fence-hero.webp",
       "/images/fence/scene-banner2.webp",
       "/images/fence/scene-garden.webp",
@@ -238,8 +245,10 @@ export const products: Product[] = [
     hasVariations: true,
     variationsFirst: true,
     variationDir: "panels",
+    categoryLayout: true,
     heroImage: "/images/panels/hub-hero.webp",
     gallery: [
+      "/images/panels/hub-banner.webp",
       "/images/panels-hero-w.webp",
       "/images/panels/scene-jp-w.webp",
       "/images/panels/scene-med-w.webp",
@@ -283,6 +292,7 @@ export const products: Product[] = [
     hasVariations: true,
     variationsFirst: true,
     variationDir: "reed",
+    categoryLayout: true,
     gallery: [
       "/images/reed-hero.webp",
       "/images/reed-fence-garden-4.webp",
@@ -345,8 +355,9 @@ export const products: Product[] = [
     hasAbout: true,
     unlisted: true,
     heroImage: "/images/split-slat/hero-2026.webp",
+    galleryFit: "contain",
     gallery: [
-      "/images/split-slat/studio-2026.webp",
+      "/images/split-slat/studio-clean.webp",
       "/images/blog/split-bamboo-slat-fence-hero.webp",
       "/images/split-slat/front.webp",
       "/images/split-slat/detail.webp",

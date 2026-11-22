@@ -145,7 +145,7 @@ export default async function BambooVariantPage({
       <section className="section">
         <div className="container split" style={{ alignItems: "flex-start" }}>
           <Reveal>
-            <ProductGallery images={imgs.gallery.length ? imgs.gallery : [imgs.hero]} alt={name} />
+            <ProductGallery images={imgs.gallery.length ? imgs.gallery : [imgs.hero]} alt={name} fit="contain" />
           </Reveal>
 
           <Reveal delay={1}>
@@ -171,11 +171,6 @@ export default async function BambooVariantPage({
               </tbody>
             </table>
 
-            <p className="pretty" style={{ marginTop: "20px", padding: "16px 18px", background: "var(--bone-2)", borderRadius: "14px", fontSize: ".95rem", lineHeight: 1.6 }}>
-              <strong>{t("shared.whyTitle")}: </strong>
-              {t(`${key}.why`)}
-            </p>
-
             <div style={{ display: "flex", gap: "14px", flexWrap: "wrap", marginTop: "26px" }}>
               <QuoteButton className="btn btn-leaf btn-lg" product={name}>
                 {td("ctaQuote")} <span className="arr">→</span>
@@ -184,8 +179,19 @@ export default async function BambooVariantPage({
                 {td("ctaEmail")}
               </a>
             </div>
+          </Reveal>
+        </div>
+      </section>
 
-            <table className="spec" style={{ marginTop: "30px" }}>
+      {/* WHY + FULL SPEC — single column under the gallery */}
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container">
+          <Reveal style={{ maxWidth: "960px" }}>
+            <p className="pretty" style={{ margin: 0, padding: "16px 18px", background: "var(--bone-2)", borderRadius: "14px", fontSize: ".95rem", lineHeight: 1.6 }}>
+              <strong>{t("shared.whyTitle")}: </strong>
+              {t(`${key}.why`)}
+            </p>
+            <table className="spec" style={{ marginTop: "24px" }}>
               <tbody>
                 {spec.map((row) => (
                   <tr key={row.k}>
@@ -198,6 +204,7 @@ export default async function BambooVariantPage({
           </Reveal>
         </div>
       </section>
+
 
       {/* SIZES */}
       <section className="section" style={{ paddingTop: 0 }}>

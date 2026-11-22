@@ -10,6 +10,7 @@ import { company } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 import ProductGallery from "@/components/ProductGallery";
 import ShowcaseLightbox from "@/components/ShowcaseLightbox";
+import BannerStrip, { type BannerStripItem } from "@/components/BannerStrip";
 import Chips from "@/components/Chips";
 import QuoteButton from "@/components/QuoteButton";
 
@@ -62,6 +63,14 @@ const ArrowOut = () => (
 
 type Block = { p: string } | { h2: string } | { h3: string } | { ul: string[] };
 type Variation = { img: string; title: string; desc: string; href?: string };
+
+/** Watermarked banner of a product page, for the category-page banner strip. */
+function stripBanner(href: string): string | undefined {
+  if (href === "/products/split-bamboo-slat-fence") return "/images/split-slat/banner-2026.webp";
+  const m = href.match(/^\/products\/([^/]+)\/([^/]+)$/);
+  if (!m) return undefined;
+  return m[1] === "reed-fencing" ? `/images/reed/v/${m[2]}-banner.webp` : `/images/bamboo/v/${m[2]}-banner.webp`;
+}
 
 function renderBlock(block: Block, i: number): ReactNode {
   if ("h2" in block) return <h2 key={i} className="h3">{block.h2}</h2>;
@@ -117,17 +126,21 @@ export default async function ProductDetailPage({
     .slice(0, 3)
     .map((p) => ({ ...p, order: products.findIndex((x) => x.id === p.id) + 1 }));
 
+  // Category pages: tighter vertical rhythm and full-width text (no narrow column).
+  const sec = product.categoryLayout ? "section section--cat" : "section";
+  const textWidth = product.categoryLayout ? "none" : undefined;
+
   const variationsSection = product.hasVariations ? (
     <section
-      className="section"
+      className={sec}
       style={{
         background: "var(--bone-2)",
         // When the range sits first (right under the spec), tighten the top gap.
-        ...(product.variationsFirst ? { paddingTop: "clamp(28px, 4vw, 56px)" } : {}),
+        ...(product.variationsFirst && !product.categoryLayout ? { paddingTop: "clamp(28px, 4vw, 56px)" } : {}),
       }}
     >
       <div className="container">
-        <Reveal style={{ maxWidth: "60ch" }}>
+        <Reveal style={{ maxWidth: textWidth ?? "60ch" }}>
           <p className="eyebrow">{t(`items.${product.id}.variations.eyebrow`)}</p>
           <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.8rem,3vw,2.6rem)" }}>
             {t(`items.${product.id}.variations.title`)}
@@ -168,8 +181,95 @@ export default async function ProductDetailPage({
     </section>
   ) : null;
 
+  const infoBlock = (
+    <>
+      <div className="pill">{t(`items.${product.id}.pill`)}</div>
+      <h2 className="h2" style={{ fontSize: "clamp(1.9rem,3vw,2.6rem)", marginTop: "16px" }}>
+        {t(`items.${product.id}.name`)}
+      </h2>
+      <p className="muted pretty" style={{ marginTop: "14px" }}>
+        {t(`items.${product.id}.desc`)}
+      </p>
+  
+      {product.hasDetail && (
+        <>
+          <h4 className="h4" style={{ marginTop: "28px" }}>
+            {t(`items.${product.id}.finishLabel`)}
+          </h4>
+          <Chips options={t.raw(`items.${product.id}.finishes`) as string[]} defaultActive={0} />
+          <h4 className="h4" style={{ marginTop: "22px" }}>
+            {t(`items.${product.id}.heightLabel`)}
+          </h4>
+          <Chips options={t.raw(`items.${product.id}.heights`) as string[]} defaultActive={1} />
+        </>
+      )}
+  
+      <div style={{ display: "flex", gap: "14px", flexWrap: "wrap", marginTop: "30px" }}>
+        <QuoteButton className="btn btn-leaf btn-lg" product={name}>
+          {t("ctaQuote")} <span className="arr">→</span>
+        </QuoteButton>
+        <a className="btn btn-ghost btn-lg" href={`mailto:${company.email}`}>
+          {t("ctaEmail")}
+        </a>
+      </div>
+    </>
+  );
+
+  const specTable = (
+    <table className="spec" style={{ marginTop: product.categoryLayout ? 0 : "34px" }}>
+      <tbody>
+        {spec.map((row) => (
+          <tr key={row.k}>
+            <th>{row.k}</th>
+            <td>{row.v}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+
+  // Category pages: one linked banner per product page, in card order.
+  const stripItems: BannerStripItem[] = product.categoryLayout && product.hasVariations
+    ? (t.raw(`items.${product.id}.variations.items`) as Variation[])
+        .filter((v) => !product.hiddenVariations?.includes(v.img))
+        .flatMap((v) => {
+          const href = v.href ?? variantHrefForCard(product.slug, v.img);
+          const src = href ? stripBanner(href) : undefined;
+          return href && src ? [{ href, src, name: v.title }] : [];
+        })
+    : [];
+
+  // Category pages (fence rolls, panels, reed): the range comes first, then the
+  // general info + specs, then the photos as a small lightbox gallery.
+  const overviewSection = product.categoryLayout ? (
+    <section className={sec}>
+      <div className="container">
+        <div className="split" style={{ alignItems: "flex-start" }}>
+          <Reveal>{infoBlock}</Reveal>
+          <Reveal delay={1}>{specTable}</Reveal>
+        </div>
+        {stripItems.length > 0 ? (
+          <Reveal delay={1} style={{ marginTop: "clamp(36px,4vw,56px)" }}>
+            <p className="eyebrow">{t("strip.eyebrow")}</p>
+            <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.6rem,2.6vw,2.2rem)" }}>
+              {t("strip.title")}
+            </h2>
+            <p className="muted" style={{ marginTop: "10px" }}>{t("strip.lead")}</p>
+            <BannerStrip items={stripItems} prevLabel={t("strip.prev")} nextLabel={t("strip.next")} />
+          </Reveal>
+        ) : galleryImages.length > 0 && (
+          <Reveal delay={1}>
+            <ShowcaseLightbox
+              images={galleryImages.map((src, i) => ({ src, label: `${name} · ${i + 1}` }))}
+            />
+          </Reveal>
+        )}
+      </div>
+    </section>
+  ) : null;
+
   const colorsSection = product.colors ? (
-    <section className="section" style={{ paddingTop: 0 }}>
+    <section className={sec} style={{ paddingTop: 0 }}>
       <div className="container">
         <Reveal style={{ maxWidth: "60ch" }}>
           <p className="eyebrow">{t(`items.${product.id}.colors.eyebrow`)}</p>
@@ -221,12 +321,17 @@ export default async function ProductDetailPage({
         </div>
       </section>
 
+      {/* CATEGORY: range first, then info + gallery */}
+      {product.categoryLayout && variationsSection}
+      {overviewSection}
+
       {/* PRODUCT DETAIL */}
+      {!product.categoryLayout && (
       <section className="section">
         <div className="container split" style={{ alignItems: "flex-start" }}>
           <Reveal>
             {galleryImages.length > 0 ? (
-              <ProductGallery images={galleryImages} alt={name} />
+              <ProductGallery images={galleryImages} alt={name} fit={product.galleryFit} />
             ) : (
               <div className="media" style={{ display: "grid", placeItems: "center", aspectRatio: "4 / 3.2", background: "var(--bone-2)" }}>
                 <span style={{ fontSize: "5rem", opacity: 0.5 }}>{product.icon}</span>
@@ -235,61 +340,24 @@ export default async function ProductDetailPage({
           </Reveal>
 
           <Reveal delay={1}>
-            <div className="pill">{t(`items.${product.id}.pill`)}</div>
-            <h2 className="h2" style={{ fontSize: "clamp(1.9rem,3vw,2.6rem)", marginTop: "16px" }}>
-              {t(`items.${product.id}.name`)}
-            </h2>
-            <p className="muted pretty" style={{ marginTop: "14px" }}>
-              {t(`items.${product.id}.desc`)}
-            </p>
-
-            {product.hasDetail && (
-              <>
-                <h4 className="h4" style={{ marginTop: "28px" }}>
-                  {t(`items.${product.id}.finishLabel`)}
-                </h4>
-                <Chips options={t.raw(`items.${product.id}.finishes`) as string[]} defaultActive={0} />
-                <h4 className="h4" style={{ marginTop: "22px" }}>
-                  {t(`items.${product.id}.heightLabel`)}
-                </h4>
-                <Chips options={t.raw(`items.${product.id}.heights`) as string[]} defaultActive={1} />
-              </>
-            )}
-
-            <div style={{ display: "flex", gap: "14px", flexWrap: "wrap", marginTop: "30px" }}>
-              <QuoteButton className="btn btn-leaf btn-lg" product={name}>
-                {t("ctaQuote")} <span className="arr">→</span>
-              </QuoteButton>
-              <a className="btn btn-ghost btn-lg" href={`mailto:${company.email}`}>
-                {t("ctaEmail")}
-              </a>
-            </div>
-
-            <table className="spec" style={{ marginTop: "34px" }}>
-              <tbody>
-                {spec.map((row) => (
-                  <tr key={row.k}>
-                    <th>{row.k}</th>
-                    <td>{row.v}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+            {infoBlock}
+            {specTable}
           </Reveal>
         </div>
       </section>
+      )}
 
       {/* VARIATIONS (moved above About for flagged products) */}
-      {product.variationsFirst && variationsSection}
+      {product.variationsFirst && !product.categoryLayout && variationsSection}
 
       {/* COLOURS */}
       {colorsSection}
 
       {/* ABOUT (long-form) */}
       {product.hasAbout && (
-        <section className="section" style={{ paddingTop: 0 }}>
+        <section className={sec} style={{ paddingTop: 0 }}>
           <div className="container">
-            <Reveal as="div" className="article" style={{ marginInline: 0 }}>
+            <Reveal as="div" className="article" style={{ marginInline: 0, maxWidth: textWidth }}>
               <p className="eyebrow">{t(`items.${product.id}.about.eyebrow`)}</p>
               <h2 className="h2" style={{ marginTop: "14px", marginBottom: "4px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
                 {t(`items.${product.id}.about.title`)}
@@ -302,9 +370,9 @@ export default async function ProductDetailPage({
 
       {/* SHOWCASE ("in real spaces") */}
       {product.showcasePhotos && (
-        <section className="section" style={{ paddingTop: 0 }}>
+        <section className={sec} style={{ paddingTop: 0 }}>
           <div className="container">
-            <Reveal style={{ maxWidth: "62ch" }}>
+            <Reveal style={{ maxWidth: textWidth ?? "62ch" }}>
               <p className="eyebrow">{t(`items.${product.id}.showcase.eyebrow`)}</p>
               <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
                 {t(`items.${product.id}.showcase.title`)}
@@ -394,9 +462,9 @@ export default async function ProductDetailPage({
 
       {/* SIZE CHART */}
       {product.sizeChart && (
-        <section className="section">
+        <section className={sec}>
           <div className="container">
-            <Reveal style={{ maxWidth: "62ch" }}>
+            <Reveal style={{ maxWidth: textWidth ?? "62ch" }}>
               <p className="eyebrow">{t(`items.${product.id}.sizeChart.eyebrow`)}</p>
               <h2 className="h2" style={{ marginTop: "14px", fontSize: "clamp(1.7rem,3vw,2.4rem)" }}>
                 {t(`items.${product.id}.sizeChart.title`)}
@@ -431,10 +499,10 @@ export default async function ProductDetailPage({
       )}
 
       {/* VARIATIONS (default position, unless moved above About) */}
-      {!product.variationsFirst && variationsSection}
+      {!product.variationsFirst && !product.categoryLayout && variationsSection}
 
       {/* RELATED */}
-      <section className="section" style={product.hasVariations ? undefined : { background: "var(--bone-2)" }}>
+      <section className={sec} style={product.hasVariations ? undefined : { background: "var(--bone-2)" }}>
         <div className="container">
           <div className="sec-head">
             <Reveal>

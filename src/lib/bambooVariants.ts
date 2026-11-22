@@ -26,7 +26,6 @@ export const bambooFenceSeries: BambooSeries = {
     { id: "natural-black-bamboo-fence-roll", card: "var-black.webp" },
     { id: "carbonized-bamboo-fence", card: "var-carbonized.webp" },
     { id: "mahogany-bamboo-fence-roll", card: "var-mahogany.webp" },
-    { id: "tonkin-bamboo-fence", card: "var-tonkin.webp" },
     { id: "half-round-natural-bamboo-fence", card: "var-halfround-natural.webp" },
     { id: "half-round-black-bamboo-fence", card: "var-halfround-black.webp" },
     { id: "expandable-natural-bamboo-trellis", card: "var-trellis-natural.webp" },
@@ -51,6 +50,7 @@ export const bambooPanelSeries: BambooSeries = {
     { id: "bamboo-branch-panel", card: "var-branch.webp" },
     { id: "sode-gaki-bamboo-sleeve-fence", card: "var-sodegaki.webp" },
     { id: "koetsu-gaki-bamboo-wing-fence", card: "var-koetsu.webp" },
+    { id: "tonkin-bamboo-screen", card: "var-tonkin-screen.webp" },
   ],
 };
 

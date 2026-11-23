@@ -1,0 +1,282 @@
+{
+  "_note": "Source of truth for the 21 new bamboo product pages. Facts come ONLY from the supplier size tables/descriptions in C:/Users/MelgerHulsebos/Downloads/deco. Root folders: F = 'Bamboo fence and edging', P = 'Bamboo fence panel/Bamboo fence panel', QC = '2026-11-12-bamboo fence-QC photos(1)/2026-11-12-bamboo fence-上网站'.",
+  "series": {
+    "fence": {
+      "parent": "/products/bamboo-fencing-edging",
+      "parentName": "Bamboo fencing & screening rolls"
+    },
+    "panels": {
+      "parent": "/products/bamboo-fence-panels",
+      "parentName": "Bamboo fence panels"
+    }
+  },
+  "pages": [
+    {
+      "series": "fence",
+      "slug": "natural-bamboo-fence-roll",
+      "name": "Natural bamboo fence roll",
+      "supplier": [
+        "F/第一 Natural bamboo fencing",
+        "F/第二 Giant natural bamboo fencing",
+        "F/第三 Natural bamboo fence with vanish lacquer"
+      ],
+      "qc": [
+        "QC/Natural yellow bamboo fence roll"
+      ],
+      "facts": "Round natural (yellow) bamboo canes, galvanised iron wire. Diameters 14-20mm (2400 m2 per 40HC), 20-30mm (2300 m2/40HC), 30-35mm (2100 m2/40HC). Roll sizes WxH (m): 2.5x1, 2.5x1.5, 1.8x1.8, 2.5x1.8, 1.8x2, 2.5x2, 2.5x2.5. Big diameters 35-40/40-50mm can be bound with wire, a bamboo pole or nylon wire ('giant' version). Optional varnish lacquer finish. QC: moisture content measured ~7.8-11.9% before shipping; diameters checked with tape. QC sizes photographed: 100x180, 150x180, 180x180, 200x180, 250x180 cm. Packing photos exist."
+    },
+    {
+      "series": "fence",
+      "slug": "natural-black-bamboo-fence-roll",
+      "name": "Natural black bamboo fence roll",
+      "supplier": [
+        "F/第四 Natural black bamboo fencing"
+      ],
+      "qc": [
+        "QC/Natural black bamboo fence roll"
+      ],
+      "facts": "Round natural black bamboo canes (colour is the bamboo's own, not paint), galvanised wire. Same size table as natural: diameters 14-20 (2400 m2/40HC), 20-30 (2300), 30-35mm (2100); rolls WxH 2.5x1, 2.5x1.5, 1.8x1.8, 2.5x1.8, 1.8x2, 2.5x2, 2.5x2.5 m. QC sizes photographed: 100x180 to 250x180 cm."
+    },
+    {
+      "series": "fence",
+      "slug": "carbonized-bamboo-fence",
+      "name": "Carbonized bamboo fence",
+      "supplier": [
+        "F/第七 Carbonized camel brown bamboo fence varnish lacquer",
+        "F/第八 Cheapest carbonized bamboo fence with vanish lacquer"
+      ],
+      "qc": [],
+      "facts": "Heat-treated (carbonized) bamboo. Two grades: carbonized light/camel brown, 20-30mm, 2300 m2 per 40HC, varnish lacquer; budget carbonized dark black, 10-20mm, 2600 m2 per 40HC, varnish lacquer. Rolls WxH 2.5x1, 2.5x1.5, 1.8x1.8, 2.5x1.8, 1.8x2, 2.5x2, 2.5x2.5 m. Galvanised wire."
+    },
+    {
+      "series": "fence",
+      "slug": "mahogany-bamboo-fence-roll",
+      "name": "Mahogany bamboo fence roll",
+      "supplier": [
+        "F/第九 Red bamboo fence mahogany"
+      ],
+      "qc": [],
+      "facts": "Red / mahogany colour, dyed. 20-30mm, 2300 m2 per 40HC. Rolls WxH 2.5x1, 2.5x1.5, 1.8x1.8, 2.5x1.8, 1.8x2, 2.5x2, 2.5x2.5 m. Galvanised wire."
+    },
+    {
+      "series": "panels",
+      "slug": "tonkin-bamboo-screen",
+      "name": "Tonkin bamboo screen",
+      "supplier": [
+        "P/第十一 Natural tonkin bamboo screen",
+        "P/第十二 Carbonized tonkin bamboo screen"
+      ],
+      "qc": [],
+      "facts": "Folding room-divider screen: three hinged panels of natural tonkin bamboo poles in a wood frame. W120 x T5 x H180 cm, net weight 22 kg, packed in plastic foam + pallet. Natural and carbonized versions. Tonkin: one of the strongest, most flexible bamboo species, naturally bitter so less attractive to insects; poles grown 3+ years."
+    },
+    {
+      "series": "fence",
+      "slug": "half-round-natural-bamboo-fence",
+      "name": "Half-round natural bamboo fence",
+      "supplier": [
+        "F/第六 Giant half-round natural bamboo fence"
+      ],
+      "qc": [
+        "QC/Gialf half round natural yellow bamboo fence rolls"
+      ],
+      "facts": "Giant bamboo split in half lengthwise, 40-50mm, rounded side out. 3400 m2 per 40HC. Rolls W 1.8 m x H 1, 1.5, 1.8 m. QC sizes photographed: 100x180, 150x180, 180x180, 200x180 cm (code HXL-N)."
+    },
+    {
+      "series": "fence",
+      "slug": "half-round-black-bamboo-fence",
+      "name": "Half-round natural black bamboo fence",
+      "supplier": [
+        "F/第五 Giant half-round natural black bamboo fence"
+      ],
+      "qc": [
+        "QC/Gialf half round natural black bamboo fence rolls"
+      ],
+      "facts": "Giant natural black bamboo split in half, 40-50mm, rounded side out. 3400 m2 per 40HC. Rolls W 1.8 m x H 1, 1.5, 1.8 m. QC sizes photographed: 100x180, 150x180, 180x180, 200x180 cm (code HXL-NZ)."
+    },
+    {
+      "series": "fence",
+      "slug": "expandable-natural-bamboo-trellis",
+      "name": "Expandable natural bamboo trellis",
+      "supplier": [
+        "F/第十三 Natural expandable bamboo trellis"
+      ],
+      "qc": [],
+      "facts": "Thin natural bamboo canes in a diamond lattice, pinned at each crossing so it expands. Sizes H x L (cm): 30x180, 60x200, 90x200, 120x200, 150x200, 180x200, 200x200."
+    },
+    {
+      "series": "fence",
+      "slug": "expandable-black-bamboo-trellis",
+      "name": "Expandable natural black bamboo trellis",
+      "supplier": [
+        "F/第十四 Natural black expandable bamboo trellis"
+      ],
+      "qc": [],
+      "facts": "Natural black bamboo canes, diamond lattice, expandable. Sizes H x L (cm): 30x180, 60x200, 90x200, 120x200, 150x200, 180x200, 200x200."
+    },
+    {
+      "series": "fence",
+      "slug": "natural-bamboo-edging",
+      "name": "Natural bamboo edging",
+      "supplier": [
+        "F/第十 Natural bamboo boarder edging"
+      ],
+      "qc": [
+        "QC/Bamboo border edging/natural"
+      ],
+      "facts": "Rolled border edging of natural yellow bamboo, 35/40mm canes, tops cut and capped at the nodes, drilled and strung on hidden galvanised wire, bends to any shape. Widths 100/120/150/180/200 cm; heights 20/30/35/40/45 cm. Used for beds, walkways, landscaping projects. Also available carbonized."
+    },
+    {
+      "series": "fence",
+      "slug": "natural-black-bamboo-edging",
+      "name": "Natural black bamboo edging",
+      "supplier": [
+        "F/第十一 Natural black bamboo boarder edging",
+        "F/第十二 Cabonized bamboo edging"
+      ],
+      "qc": [
+        "QC/Bamboo border edging/black"
+      ],
+      "facts": "Natural black bamboo border edging, 35/40mm, tops capped at nodes, hidden galvanised wire, bendable. Widths 100/120/150/180/200 cm; heights 20/30/35/40/45 cm. Carbonized edging also available in the same sizes."
+    },
+    {
+      "series": "fence",
+      "slug": "bamboo-edging-with-feet",
+      "name": "Bamboo edging with feet",
+      "supplier": [
+        "F/第十 Bamboo boarder edging"
+      ],
+      "qc": [],
+      "facts": "Natural yellow bamboo, 35/40mm, stepped top line, sections stand on bamboo stakes (feet) pushed into the soil, no fixing needed. Widths 100/120/150/180/200 cm; heights (top steps) 15/20, 25/30, 35/40, 45/50, 55/60 cm. Hidden galvanised wire, tops capped at nodes."
+    },
+    {
+      "series": "fence",
+      "slug": "bamboo-twig-fence",
+      "name": "Bamboo twig fence",
+      "supplier": [
+        "F/第十五 Bamboo twig fence"
+      ],
+      "qc": [],
+      "facts": "Dense mat of fine bamboo twigs/branches bound together, rustic. Sizes H x L (cm): 120x210, 150x210, 180x210, 120x500, 150x500, 180x500."
+    },
+    {
+      "series": "panels",
+      "slug": "fixed-natural-bamboo-panel",
+      "name": "Fixed natural bamboo fence panel",
+      "supplier": [
+        "P/第一  Fixed natural bamboo fence screen"
+      ],
+      "qc": [],
+      "facts": "Rigid screen of round natural bamboo, 35-45mm canes. Sizes L x H (m): 0.9x1.8, 1.0x1.8, 1.8x1.8, 1.8x2.0. Galvanised wire (bigger diameters also nylon wire). Size drawing image: P/第一 .../尺寸图截图.png."
+    },
+    {
+      "series": "panels",
+      "slug": "fixed-black-bamboo-panel",
+      "name": "Fixed natural black bamboo fence panel",
+      "supplier": [
+        "P/第二 Fixed natural black fixed bamboo fence screen"
+      ],
+      "qc": [],
+      "facts": "Rigid screen of round natural black bamboo, 35-45mm. Sizes L x H (m): 0.9x1.8, 1.0x1.8, 1.8x1.8, 1.8x2.0."
+    },
+    {
+      "series": "panels",
+      "slug": "japanese-kumo-bamboo-panel",
+      "name": "Japanese Kumo bamboo fence panel",
+      "supplier": [
+        "P/第三 Japanese Kumo bamboo garden fence panel"
+      ],
+      "qc": [],
+      "facts": "Wood/bamboo framed panel, round bamboo frame, upright canes 13-18mm, horizontal rails. Wood-framed panel sizes W x H (cm): 45x120, 88x120, 165x120, 88x150, 88x190."
+    },
+    {
+      "series": "panels",
+      "slug": "lattice-top-bamboo-panel",
+      "name": "Lattice-top bamboo fence panel",
+      "supplier": [
+        "P/第五 Wood framed lattice top bamboo fence panel",
+        "P/第六 Carbonized lattice top bamboo fence panels"
+      ],
+      "qc": [],
+      "facts": "Dark wood frame, decorative open lattice top, natural bamboo face 13-18mm with knotted rails. Natural and carbonized versions. Sizes W x H (cm): 45x120, 88x120, 165x120, 88x150, 88x190."
+    },
+    {
+      "series": "panels",
+      "slug": "misugaki-bamboo-panel",
+      "name": "Misugaki bamboo fence panel",
+      "supplier": [
+        "P/第四 Misugaki bamboo fence panels"
+      ],
+      "qc": [],
+      "facts": "Traditional Japanese Misugaki: dark wood frame, thin horizontal bamboo canes held by upright battens tied with black rope knots, on short legs. Canes 13-18mm. Sizes W x H (cm): 45x120, 88x120, 165x120, 88x150, 88x190."
+    },
+    {
+      "series": "panels",
+      "slug": "bamboo-branch-panel",
+      "name": "Bamboo branch fence panel",
+      "supplier": [
+        "P/第七 Wood framed natural bamboo branch fence panel",
+        "P/第八  Wood framed natural black bamboo branch fence panel"
+      ],
+      "qc": [],
+      "facts": "Wood frame filled with dense bamboo branches, horizontal bamboo rails with black knots. Natural and natural black branch versions. Sizes W x H (cm): 45x120, 88x120, 165x120, 88x150, 88x190."
+    },
+    {
+      "series": "panels",
+      "slug": "sode-gaki-bamboo-sleeve-fence",
+      "name": "Sode-gaki bamboo sleeve fence",
+      "supplier": [
+        "P/第九 Bamboo sleeve fence panel Sode-Gaki"
+      ],
+      "qc": [],
+      "facts": "Japanese sleeve fence: narrow panel with tall bamboo post, curved lattice top, upright canes below. Natural yellow. Sizes W x H: 18x48 in (45x120 cm), 24x68 in (60x170 cm), 28x68 in (70x170 cm), 36x68 in (90x170 cm); thickness 90 mm; packing sizes 47x122, 62x172, 72x172, 92x172 cm (T 95 mm)."
+    },
+    {
+      "series": "panels",
+      "slug": "koetsu-gaki-bamboo-wing-fence",
+      "name": "Koetsu-gaki bamboo wing fence",
+      "supplier": [
+        "P/第十 Bamboo wing fence panel Koetsu-Gaki"
+      ],
+      "qc": [],
+      "facts": "Japanese wing fence: bamboo post, sweeping curved top rail, open diamond lattice of split bamboo. Natural yellow. Sizes W x H: 24x24 in (60x60 cm), 38x36 in (90x90), 48x40 in (120x100), 60x43 in (150x108), 72x48 in (180x120), 79x36 in (200x90); thickness 90 mm; packing adds ~2 cm, T 95 mm."
+    }
+  ],
+  "banners": {
+    "_dir": "C:/Users/MelgerHulsebos/Downloads/deco/deco/deco",
+    "natural-bamboo-fence-roll": "01 Natural bamboo roll.png",
+    "natural-black-bamboo-fence-roll": "02 Natural black bamboo roll.png",
+    "carbonized-bamboo-fence": "03 Carbonized bamboo fence.png",
+    "mahogany-bamboo-fence-roll": "04 Mahogany bamboo roll.png",
+    "half-round-natural-bamboo-fence": "06 Half-round natural fence.png",
+    "half-round-black-bamboo-fence": "07 Half-round natural black fence.png",
+    "expandable-natural-bamboo-trellis": "Bamboo Trellis natural banner.png",
+    "expandable-black-bamboo-trellis": "Bamboo Trellis black banner.png",
+    "natural-bamboo-edging": "natural edging banner.png",
+    "natural-black-bamboo-edging": "black-edging banner.png",
+    "bamboo-edging-with-feet": "../../12 Bamboo edging with feet.png",
+    "bamboo-twig-fence": "13 Bamboo twig fence banner.png",
+    "fixed-natural-bamboo-panel": "1. Fixed natural panel banner.png",
+    "fixed-black-bamboo-panel": "2. Fixed natural black panel banner.png",
+    "japanese-kumo-bamboo-panel": "3. Japanese Kumo panel banner.png",
+    "lattice-top-bamboo-panel": "4. Lattice-top panel banner.png",
+    "misugaki-bamboo-panel": "5. Misugaki panel banner.png",
+    "bamboo-branch-panel": "6. Bamboo branch panel.png",
+    "sode-gaki-bamboo-sleeve-fence": "7. Sode-gaki sleeve fence banner image.png",
+    "koetsu-gaki-bamboo-wing-fence": "8. Koetsu-gaki wing fence banner.png",
+    "tonkin-bamboo-screen": "C:/Users/MelgerHulsebos/Downloads/deco/Bamboo fence panel/Bamboo fence panel/第十二 Carbonized tonkin bamboo screen/详情图/carbonized bamboo screen besthome.jpg"
+  },
+  "studios": {
+    "_dir": "C:/Users/MelgerHulsebos/Downloads/deco/deco/deco",
+    "natural-bamboo-edging": "1-natural-edging.png",
+    "natural-black-bamboo-edging": "3-black-edging.png",
+    "expandable-natural-bamboo-trellis": "Studio trellis natural.jpg",
+    "expandable-black-bamboo-trellis": "Studio trellis black.jpg",
+    "fixed-natural-bamboo-panel": "fixed natural panel studio.jpg",
+    "fixed-black-bamboo-panel": "Fixed natural black panel studio.jpg",
+    "japanese-kumo-bamboo-panel": "Japanese Kumo panel studio.jpg",
+    "lattice-top-bamboo-panel": "Lattice-top panel studio.jpg",
+    "misugaki-bamboo-panel": "Misugaki panel panel.jpg",
+    "bamboo-branch-panel": "Bamboo branch panel studio.jpg",
+    "sode-gaki-bamboo-sleeve-fence": "Sode-Gaki sleeve fence studio.jpg"
+  }
+}

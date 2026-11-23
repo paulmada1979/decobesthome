@@ -1,0 +1,59 @@
+{
+  "name": "Paravento in bambù Tonkin",
+  "metaTitle": "Paravento in bambù Tonkin e divisorio — ingrosso",
+  "cardDesc": "Paravento pieghevole in canne Tonkin con telaio in legno, 120 × 180 cm.",
+  "eyebrow": "Paravento pieghevole · Interni ed esterni coperti",
+  "pill": "Bambù Tonkin · telaio in legno",
+  "lead": "Un paravento pieghevole in canne di bambù Tonkin dritte, con telaio in legno: tre pannelli incernierati, 120 × 180 cm, in bambù naturale o carbonizzato.",
+  "desc": "Tre pannelli incernierati di canne di bambù Tonkin sottili e regolari, disposte in verticale in un telaio in legno. Sta in piedi da solo, si piega piatto per lo stoccaggio e la spedizione e funziona come divisorio d'ambiente, schermo per la privacy su balcone o terrazza o fondale in negozi, hotel e ristoranti.",
+  "facts": [
+    { "k": "Materiale", "v": "Canne di bambù Tonkin + telaio in legno" },
+    { "k": "Misura", "v": "L 120 × H 180 cm, spessore 5 cm" },
+    { "k": "Formato", "v": "3 pannelli incernierati, autoportante" },
+    { "k": "Colori", "v": "Naturale o carbonizzato" }
+  ],
+  "why": "Da scegliere quando serve privacy senza fissare nulla: sta in piedi da solo, si ripone, e le canne Tonkin dritte danno un aspetto più raffinato e da mobile rispetto a un'arella da giardino arrotolata.",
+  "spec": [
+    { "k": "Materiale", "v": "Canne di bambù Tonkin naturali (oltre 3 anni di crescita), telaio in legno" },
+    { "k": "Struttura", "v": "Tre pannelli incernierati, pieghevole" },
+    { "k": "Misura standard", "v": "L 120 × S 5 × H 180 cm" },
+    { "k": "Peso netto", "v": "22 kg" },
+    { "k": "Finitura", "v": "Naturale o carbonizzata (trattata a caldo)" },
+    { "k": "Imballaggio", "v": "Schiuma plastica + pallet" },
+    { "k": "MOQ e OEM", "v": "Negoziabili · private label benvenuto" },
+    { "k": "Porto di carico", "v": "Xiamen, Cina" }
+  ],
+  "sizes": {
+    "title": "Misura standard",
+    "lead": "Una misura standard in due finiture; altre misure su richiesta.",
+    "cols": ["Versione", "Larghezza", "Altezza", "Spessore", "Peso netto"],
+    "rows": [
+      ["Tonkin naturale", "120 cm", "180 cm", "5 cm", "22 kg"],
+      ["Tonkin carbonizzato", "120 cm", "180 cm", "5 cm", "Su richiesta"]
+    ],
+    "note": "Larghezze, altezze e numero di pannelli personalizzati si realizzano su ordinazione; chiedeteci un preventivo."
+  },
+  "about": {
+    "eyebrow": "Il prodotto",
+    "title": "Canne Tonkin, incorniciate e pieghevoli",
+    "body": [
+      { "p": "Il bambù Tonkin è una delle specie di bambù più resistenti e flessibili. Le sue canne crescono sottili, dritte e regolari e il bambù è naturalmente amaro, il che lo rende meno attraente per gli insetti. Utilizziamo canne cresciute per almeno tre anni, così i paraventi sono solidi e mantengono la forma." },
+      { "p": "Le canne sono disposte in verticale una accanto all'altra all'interno di un telaio in legno, suddiviso in tre pannelli uniti da cerniere. Aperto a zigzag sta in piedi da solo; ripiegato si appiattisce, e questo contiene anche i costi di trasporto." },
+      { "h3": "Dove si usa" },
+      { "ul": [
+        "Divisori d'ambiente in abitazioni, studi e uffici",
+        "Schermi per la privacy su balconi, terrazze e patii coperti",
+        "Fondali e divisori di spazio in negozi, hotel, spa e ristoranti",
+        "Fondali per esposizioni e fotografia"
+      ] },
+      { "h3": "Il confronto" },
+      { "p": "Un'arella di bambù arrotolata si fissa a una recinzione o a un telaio esistente ed è pensata per il confine del giardino. Il paravento Tonkin è invece un pezzo finito e autoportante: canne più sottili, bordo incorniciato e cerniere, così si sposta e funziona sia all'interno sia all'esterno. Scelga il naturale per un aspetto chiaro e caldo, o il carbonizzato per un marrone più profondo che attraversa tutta la canna." }
+    ]
+  },
+  "faq": [
+    { "q": "È una recinzione o un divisorio d'ambiente?", "a": "È un paravento pieghevole autoportante. Funziona come divisorio d'ambiente all'interno e come schermo per la privacy su balcone, terrazza o patio coperto. Per il confine del giardino scelga invece una delle nostre arelle di bambù in rotolo o dei pannelli fissi." },
+    { "q": "Che misura ha?", "a": "Il paravento standard è largo 120 cm, alto 180 cm e spesso 5 cm, composto da tre pannelli incernierati, con un peso netto di 22 kg. Altre misure si realizzano su ordinazione." },
+    { "q": "Può stare all'aperto?", "a": "Sì, in un punto riparato come una terrazza o un balcone coperti. Come tutto il bambù naturale, dura più a lungo se tenuto lontano dal terreno bagnato e dall'acqua stagnante." },
+    { "q": "Come viene imballato?", "a": "Ogni paravento è avvolto in schiuma plastica e i paraventi vengono caricati su pallet. Imballaggio private label, etichette e codici a barre sono disponibili su richiesta." }
+  ]
+}

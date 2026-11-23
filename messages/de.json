@@ -2767,6 +2767,3087 @@
           ]
         }
       }
+    },
+    "bambooFence": {
+      "shared": {
+        "factsTitle": "Auf einen Blick",
+        "whyTitle": "Warum diese Variante",
+        "sizesEyebrow": "Spezifikationen",
+        "qcEyebrow": "Qualitätskontrolle",
+        "qcTitle": "Geprüft vor dem Versand",
+        "qcLead": "Fotos unserer Kontrollen vor dem Versand: Stabdurchmesser mit dem Maßband gemessen, Rollengrößen mit der Bestellung abgeglichen und die Feuchtigkeit vor der Verladung geprüft.",
+        "faqEyebrow": "Fragen & Antworten",
+        "faqTitle": "Häufig gestellte Fragen",
+        "packing": {
+          "eyebrow": "Logistik",
+          "title": "Verpackungsoptionen",
+          "lead": "Standardmäßige Export- und Einzelhandelsverpackung für Bambuszaun-Rollen, Rankgitter und Beeteinfassungen — oder nennen Sie uns Ihre eigene Spezifikation, und wir verpacken nach Auftrag.",
+          "options": [
+            {
+              "t": "Plastikbeutel oder Schrumpffolie",
+              "d": "Jede Rolle einzeln verpackt, damit sie im Regal sauber und ordentlich bleibt."
+            },
+            {
+              "t": "Bündel",
+              "d": "Rollen zu Bündeln verschnürt für eine effiziente Containerverladung."
+            },
+            {
+              "t": "Etikett, Einleger oder Barcode",
+              "d": "Ihr eigenes bedrucktes Etikett, Farbeinleger oder Barcode — regalfertig für den Handel."
+            },
+            {
+              "t": "Kartons oder Paletten",
+              "d": "Exportkartons oder palettierte Ladungen auf Anfrage."
+            }
+          ]
+        },
+        "series": {
+          "eyebrow": "Das Bambuszaun-Sortiment",
+          "title": "Vergleichen Sie die anderen Bambuszäune",
+          "lead": "Runde und halbrunde Rollen in Natur, Schwarz, karbonisiert und Mahagoni sowie Tonkin-Elemente, Rankgitter, Reisigzaun und Beeteinfassungen.",
+          "overviewCta": "Übersicht Bambuszaun"
+        }
+      },
+      "variants": {
+        "natural-bamboo-fence-roll": {
+          "name": "Bambus-Rollzaun natur",
+          "metaTitle": "Bambus Sichtschutz Rolle natur – Großhandel",
+          "cardDesc": "Klassische runde gelbe Stäbe auf verzinktem Draht, 1,0–2,5 m hoch.",
+          "eyebrow": "Bestseller · Naturgelber Bambus",
+          "pill": "Runder Naturbambus · Ø 14–35 mm",
+          "lead": "Unser klassischer Bambus-Rollzaun: runde naturgelbe Stäbe auf verzinktem Draht, in drei Stabqualitäten und sieben Rollengrößen bis 2,5 m Höhe.",
+          "desc": "Die Bambusmatte als Rolle, mit der die meisten Gartencenter starten. Runde Naturstäbe werden nebeneinander zu einer flexiblen Matte verdrahtet, die sich gerade an einem vorhandenen Zaun, einer Mauer oder einem Rahmen ausrollen lässt. Wählbar sind Stäbe mit 14–20, 20–30 oder 30–35 mm, optional mit Riesenstäben und einer Klarlack-Oberfläche.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Runder gelber Naturbambus"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Rollen, 1,0–2,5 m hoch"
+            },
+            {
+              "k": "Ideal für",
+              "v": "Gartensichtschutz und Zaunverkleidung"
+            }
+          ],
+          "why": "Es ist die vielseitigste Rolle im Sortiment: die größte Auswahl an Stabqualitäten und Größen, ein warmer Naturton, der zu jedem Garten passt, und optional Riesenstäbe oder eine Lackoberfläche für eine Premiumlinie.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natürlicher runder Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "14–20 · 20–30 · 30–35 mm (Riesenstäbe 35–40 · 40–50 mm)"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Eisendraht (Riesenstäbe: Draht, Bambusstange oder Nylondraht)"
+            },
+            {
+              "k": "Oberfläche",
+              "v": "Natur oder Klarlack"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "7 Standardgrößen, 1,0–2,5 m hoch · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 2.400 m² (14–20 mm) · ≈ 2.300 m² (20–30 mm) · ≈ 2.100 m² (30–35 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sieben Standard-Rollengrößen, angegeben als Höhe × Breite.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Sonderhöhen und -breiten auf Anfrage — nennen Sie uns Ihre Stabqualität und den Größenmix, wir bestätigen die Containermenge."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Der klassische Bambus-Rollzaun",
+            "body": [
+              {
+                "p": "Unser Bambus-Rollzaun natur besteht aus runden gelben Bambusstäben, die nebeneinander gelegt und mit verzinktem Eisendraht gebunden werden. Da die Stäbe verdrahtet und nicht in einen Rahmen gefasst sind, lässt sich die Matte für den kompakten Versand aufrollen und vor Ort wieder abrollen — entlang einer Zaunlinie, eines Balkongeländers oder einer sanften Kurve. Das ist es, was die meisten Käufer unter einer Bambus-Sichtschutzmatte verstehen. Sie eignet sich für Grundstücksgrenzen, zur Verkleidung von Maschendraht-, Holz- oder Betonzäunen, für Balkone und Terrassen, für Sortimente im Gartencenter und für Landschaftsbauprojekte."
+              },
+              {
+                "h3": "Drei Stabqualitäten, dazu Riesenstäbe"
+              },
+              {
+                "p": "Dünnere Stäbe mit 14–20 mm ergeben eine leichtere, wirtschaftlichere Rolle; 20–30 mm ist die Alltagsqualität; 30–35 mm sorgt für eine schwerere, massivere Optik. Für Prestigeprojekte fertigen wir außerdem eine Riesenausführung mit Stäben von 35–40 oder 40–50 mm, gebunden mit Draht, Bambusstange oder Nylondraht. Eine Klarlack-Oberfläche ist optional erhältlich für eine glattere, hochwertigere Oberfläche."
+              },
+              {
+                "h3": "Geprüft vor dem Versand"
+              },
+              {
+                "p": "Vor der Verladung misst unser QC-Team die Feuchtigkeit der Stäbe — aktuelle Prüfungen ergaben Werte zwischen 7,8% und 11,9% — und prüft die Stabdurchmesser mit dem Maßband gegen die Bestellung. Rollengrößen von 100 × 180 cm bis 250 × 180 cm werden vor dem Verpacken fotografiert, sodass Sie sehen, was in den Container geht."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "In welchen Größen gibt es den Bambus-Rollzaun natur?",
+              "a": "In sieben Standardgrößen von 1,0 × 2,5 m bis 2,5 × 2,5 m (Höhe × Breite). Der beliebte Bambus Sichtschutz 180 ist unsere Höhe von 1,8 m, in Breiten von 1,8 m oder 2,5 m. Andere Höhen und Breiten werden auf Bestellung gefertigt."
+            },
+            {
+              "q": "Wie viel passt in einen 40HC-Container?",
+              "a": "Das hängt von der Stabqualität ab: rund 2.400 m² bei 14–20 mm, 2.300 m² bei 20–30 mm oder 2.100 m² bei 30–35 mm pro 40HC. Die genaue Rollenzahl hängt von Ihrem Größenmix und der Verpackung ab, daher berechnen wir sie für jede Bestellung."
+            },
+            {
+              "q": "Wie wird ein Bambus-Rollzaun montiert?",
+              "a": "Rollen Sie ihn an einem vorhandenen Zaun, einer Mauer, einem Geländer oder Maschendraht aus und befestigen Sie ihn mit Bindedraht oder Schrauben durch den Draht. Für einen freistehenden Zaun befestigen Sie die Rolle an Holzpfosten und -riegeln. Spezialwerkzeug ist nicht nötig."
+            },
+            {
+              "q": "Verändert sich die Naturfarbe im Außenbereich?",
+              "a": "Ja, allmählich. Wie jedes unbehandelte Naturmaterial verwittert Bambus in Sonne und Regen langsam zu einem weicheren, graueren Ton. Die Klarlack-Option bietet eine schützende Oberflächenschicht; für einen von Beginn an dunkleren Look sehen Sie sich unsere Rollen in Naturschwarz oder karbonisiert an."
+            }
+          ]
+        },
+        "natural-black-bamboo-fence-roll": {
+          "name": "Bambus-Rollzaun naturschwarz",
+          "metaTitle": "Bambus Sichtschutz schwarz – Rolle, Großhandel",
+          "cardDesc": "Runde naturschwarze Stäbe — die Farbe ist die des Bambus selbst, kein Anstrich.",
+          "eyebrow": "Naturschwarz · Zeitgemäß",
+          "pill": "Naturschwarzer Bambus · Ø 14–35 mm",
+          "lead": "Schwarzer Bambus Sichtschutz aus von Natur aus dunklen Stäben — ohne Farbe, ohne Färbung. Runde Stäbe auf verzinktem Draht, in denselben sieben Rollengrößen wie unsere Naturrolle.",
+          "desc": "Ein dunkler, moderner Bambus-Rollzaun für zeitgemäße Gärten. Die Stäbe stammen von einem Bambus, der schwarz wächst; die Farbe gehört also zum Stab selbst und nicht zu einer Beschichtung. Drei Stabqualitäten, sieben Rollengrößen und dieselben Containermengen wie bei unserer Naturrolle.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Runder naturschwarzer Bambus"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürlich — nicht lackiert oder gefärbt"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Ideal für",
+              "v": "Moderne Gärten, dunkle Grundstücksgrenzen"
+            }
+          ],
+          "why": "Wählen Sie ihn, wenn Sie einen schwarzen Bambuszaun ohne lackierte Oberfläche möchten, die abplatzen oder abblättern kann: Die dunkle Farbe ist die des Bambus selbst, und die Größen entsprechen unserer Naturrolle, sodass beide Farben in einem Container Platz finden.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natürlicher schwarzer runder Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "14–20 · 20–30 · 30–35 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturschwarz — ohne Farbe oder Färbung"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "7 Standardgrößen, 1,0–2,5 m hoch · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 2.400 m² (14–20 mm) · ≈ 2.300 m² (20–30 mm) · ≈ 2.100 m² (30–35 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Dieselben sieben Rollengrößen wie bei unserer Naturrolle, angegeben als Höhe × Breite.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Sonderhöhen und -breiten auf Anfrage; Natur- und Schwarzrollen lassen sich in einem Container mischen."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Schwarzer Bambus Sichtschutz, von der Natur gefärbt",
+            "body": [
+              {
+                "p": "Naturschwarzer Bambus ist eine Bambusart, deren Stäbe mit der Reife dunkel werden. Wir schneiden und trocknen diese Stäbe und verdrahten sie nebeneinander mit verzinktem Draht zu einer flexiblen Rolle — genau wie bei unserer naturgelben Rolle. Es wird nichts aufgemalt, es gibt also keine Beschichtung, die zerkratzen, abblättern oder sich lösen könnte."
+              },
+              {
+                "p": "Als natürliche Farbe variiert der Ton von Stab zu Stab — tiefes Schwarz, Braunschwarz und gelegentlich eine hellere Maserung. Diese Varianz gehört zum Charakter und unterscheidet einen naturschwarzen Bambuszaun von einem lackierten. Wie unser gesamter Bambus wird er ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Gegenüber unserer Naturrolle unterscheidet sich nur der Stab: gleiche Durchmesser, gleiche Größen, gleiche Containermenge. Gegenüber unserem karbonisierten Zaun ist die Farbquelle eine andere — karbonisierte Stäbe werden durch Hitze dunkel, diese wachsen dunkel. Wünschen Sie eine dunkle halbrunde Front statt runder Stäbe, sehen Sie sich den halbrunden naturschwarzen Zaun an."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Zeitgemäße und minimalistische Gärten.",
+                  "Dachterrassen, Balkone und Innenhöfe.",
+                  "Sichtschutz für Restaurants, Bars und Hotels.",
+                  "Dunkler Hintergrund für Bepflanzung und Beleuchtung."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist die schwarze Farbe lackiert?",
+              "a": "Nein. Die Stäbe stammen von einem Bambus, der schwarz wächst. Es gibt weder Farbe noch Färbung, die Farbe kann also nicht abblättern, und jeder Stab zeigt leichte natürliche Farbunterschiede."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Sieben Standardrollen von 1,0 × 2,5 m bis 2,5 × 2,5 m (Höhe × Breite), mit Stäben von 14–20, 20–30 oder 30–35 mm. Sondergrößen fertigen wir auf Anfrage."
+            },
+            {
+              "q": "Kann ich schwarze und natürliche Rollen in einem Container kombinieren?",
+              "a": "Ja. Beide Rollen haben dieselben Größen und ähnliche Containermengen — etwa 2.400 m² (14–20 mm), 2.300 m² (20–30 mm) oder 2.100 m² (30–35 mm) pro 40HC —, eine gemischte Ladung lässt sich also leicht planen."
+            },
+            {
+              "q": "Wie montiere ich schwarzen Bambus Sichtschutz?",
+              "a": "Genauso wie jeden Bambus-Rollzaun: an einem Zaun, einer Mauer, einem Geländer oder Maschendraht ausrollen und mit Bindedraht oder Schrauben befestigen. Freistehende Abschnitte benötigen Holzpfosten und -riegel."
+            }
+          ]
+        },
+        "carbonized-bamboo-fence": {
+          "name": "Karbonisierter Bambuszaun",
+          "metaTitle": "Bambus Sichtschutz karbonisiert – Großhandel",
+          "cardDesc": "Hitzebehandelte Stäbe, Farbe durch den ganzen Stab — kamelbraun oder dunkel.",
+          "eyebrow": "Hitzebehandelt · Zwei Qualitäten",
+          "pill": "Karbonisierter Bambus · Klarlack",
+          "lead": "Bambuszaun, durch Hitze statt durch Farbe abgedunkelt, sodass die Farbe durch den ganzen Stab geht. Zwei Qualitäten: kamelbraun 20–30 mm und preisgünstig dunkel 10–20 mm.",
+          "desc": "Karbonisieren ist eine Hitzebehandlung, die Bambus durch den ganzen Stab von Gelb zu einem warmen Braun oder tieferen Ton färbt. Wir bieten eine kamelbraune Qualität mit 20–30 mm und eine preisgünstige dunkle Qualität mit 10–20 mm, beide mit Klarlack veredelt und in sieben Rollengrößen lieferbar.",
+          "facts": [
+            {
+              "k": "Behandlung",
+              "v": "Karbonisiert — hitzebehandelt"
+            },
+            {
+              "k": "Farbe",
+              "v": "Kamelbraun oder dunkel"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "20–30 mm · 10–20 mm (preisgünstig)"
+            },
+            {
+              "k": "Oberfläche",
+              "v": "Klarlack"
+            }
+          ],
+          "why": "Er ergibt einen dunkleren, wärmeren Zaun als natürlicher Bambus, ohne Farbe oder Färbung: Die Hitzebehandlung färbt den ganzen Stab, sodass ein Kratzer oder eine Schnittkante denselben Ton zeigt. Die preisgünstige dunkle Qualität ist unsere Rolle mit dem höchsten Ertrag pro Container.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Karbonisierter (hitzebehandelter) runder Bambus"
+            },
+            {
+              "k": "Qualitäten",
+              "v": "Kamelbraun, Ø 20–30 mm · preisgünstig dunkel, Ø 10–20 mm"
+            },
+            {
+              "k": "Oberfläche",
+              "v": "Klarlack"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "7 Standardgrößen, 1,0–2,5 m hoch · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 2.300 m² (kamelbraun 20–30 mm) · ≈ 2.600 m² (preisgünstig dunkel 10–20 mm)"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Beide Qualitäten gibt es in denselben sieben Rollengrößen, angegeben als Höhe × Breite.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Sonderhöhen und -breiten auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Farbe, die durch den ganzen Stab geht",
+            "body": [
+              {
+                "p": "Karbonisierter Bambus ist hitzebehandelter Bambus. Der Prozess dunkelt den Stab vom natürlichen Gelb zu einem Braun oder tieferen Ton ab, und da es Hitze und keine Beschichtung ist, zieht sich die Farbe durch den gesamten Stab. Ein Stoß, ein Kratzer oder eine frische Schnittkante zeigt dieselbe Farbe wie die Oberfläche."
+              },
+              {
+                "p": "Nach dem Karbonisieren werden die Stäbe mit Klarlack veredelt und mit verzinktem Draht zu Rollen verdrahtet, sodass sich der Zaun genauso montieren lässt wie unser Bambus-Rollzaun natur. Beide Qualitäten gibt es in denselben sieben Rollengrößen wie unsere anderen runden Rollen, von 1,0 × 2,5 m bis 2,5 × 2,5 m, sodass karbonisierte Rollen in einen gemischten Container mit Natur- und Schwarzrollen passen, ohne dass sich Ihr Größensortiment ändert."
+              },
+              {
+                "h3": "Zwei Qualitäten"
+              },
+              {
+                "ul": [
+                  "Kamelbraun (leicht karbonisiert): Stäbe mit 20–30 mm, Klarlack, etwa 2.300 m² pro 40HC.",
+                  "Preisgünstig dunkel: dünnere Stäbe mit 10–20 mm, Klarlack, etwa 2.600 m² pro 40HC — unsere wirtschaftlichste karbonisierte Rolle."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Naturschwarzer Bambus wächst dunkel; karbonisierter Bambus wird durch Hitze dunkel; unsere Mahagoni-Rolle ist gefärbt. Karbonisiert liegt im Aussehen dazwischen — wärmer als Naturschwarz, natürlicher als eine gefärbte Oberfläche — und der Lack verleiht einen leichten Glanz."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was bedeutet „karbonisiert“?",
+              "a": "Der Bambus wird hitzebehandelt, wodurch sich seine Farbe von Gelb zu Braun oder dunkler verändert. Es ist weder Farbe noch Färbung, die Farbe geht also durch den ganzen Stab."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen den beiden Qualitäten?",
+              "a": "Die kamelbraune Qualität verwendet Stäbe mit 20–30 mm für eine vollere Optik. Die preisgünstige dunkle Qualität verwendet dünnere Stäbe mit 10–20 mm, was sie wirtschaftlicher macht und etwa 2.600 m² pro 40HC erlaubt gegenüber etwa 2.300 m² bei Kamelbraun."
+            },
+            {
+              "q": "Ist er lackiert?",
+              "a": "Ja. Beide Qualitäten werden vor dem Aufrollen mit Klarlack veredelt, was eine glattere Oberfläche und einen leichten Glanz ergibt. Wie alle unsere Bambuszäune wird er ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+            },
+            {
+              "q": "Können Sie Sondergrößen oder Eigenmarken-Verpackung liefern?",
+              "a": "Ja. Neben den sieben Standardgrößen fertigen wir Sonderhöhen und -breiten und verpacken mit Ihren eigenen Etiketten, Einlegern oder Barcodes. Die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "mahogany-bamboo-fence-roll": {
+          "name": "Bambus-Rollzaun Mahagoni",
+          "metaTitle": "Bambus Sichtschutz Mahagoni – Rolle, Großhandel",
+          "cardDesc": "Gefärbte rotbraune Bambusrolle für eine warme, markante Abgrenzung.",
+          "eyebrow": "Gefärbte Oberfläche · Warmes Rotbraun",
+          "pill": "Gefärbter Bambus · Ø 20–30 mm",
+          "lead": "Ein warmer rotbrauner Bambus-Rollzaun: runde Stäbe mit 20–30 mm in Mahagonifarbe gefärbt und mit verzinktem Draht gebunden, in sieben Rollengrößen.",
+          "desc": "Für Käufer, die eine Farbe möchten, die weder Natur, Schwarz noch karbonisiert bieten. Runde Stäbe mit 20–30 mm werden mahagonirotbraun gefärbt und zur gleichen flexiblen Rolle wie der Rest des Sortiments verdrahtet. Wir sagen es offen: Die Farbe ist gefärbt, nicht natürlich.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Runder Bambus, Ø 20–30 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Mahagoni-Rotbraun — gefärbt"
+            },
+            {
+              "k": "Format",
+              "v": "Rollen, 1,0–2,5 m hoch"
+            },
+            {
+              "k": "Ideal für",
+              "v": "Warme Farbkonzepte, Farbsortiment im Handel"
+            }
+          ],
+          "why": "Er ergänzt ein Bambussortiment um eine warme rotbraune Option — nützlich für Händler, die neben Natur und Schwarz eine dritte Farbe wünschen, und für Gärten mit Backstein, Terrakotta oder rötlichem Holz.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Runder Bambus, mahagonifarben gefärbt"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "20–30 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Rot / Mahagoni — gefärbt"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "7 Standardgrößen, 1,0–2,5 m hoch · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 2.300 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sieben Standard-Rollengrößen, angegeben als Höhe × Breite.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "2,5 m",
+                "≈ 3¼ × 8 ft"
+              ],
+              [
+                "1,5 m",
+                "2,5 m",
+                "≈ 5 × 8 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "2,5 m",
+                "≈ 6 × 8 ft"
+              ],
+              [
+                "2,0 m",
+                "1,8 m",
+                "≈ 6½ × 6 ft"
+              ],
+              [
+                "2,0 m",
+                "2,5 m",
+                "≈ 6½ × 8 ft"
+              ],
+              [
+                "2,5 m",
+                "2,5 m",
+                "≈ 8 × 8 ft"
+              ]
+            ],
+            "note": "Sonderhöhen und -breiten auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Eine warme rotbraune Bambusrolle",
+            "body": [
+              {
+                "p": "Unser Bambus-Rollzaun Mahagoni verwendet runde Bambusstäbe mit 20–30 mm, die in einem tiefen Rotbraun gefärbt sind. Die Stäbe werden dann nebeneinander mit verzinktem Draht zu einer flexiblen Rolle gebunden, die sich an jedem vorhandenen Zaun, jeder Mauer oder jedem Rahmen ausrollen lässt — genau wie unsere Naturrolle. Sie wird in denselben sieben Größen geliefert wie unsere anderen runden Rollen, von 1,0 × 2,5 m bis 2,5 × 2,5 m."
+              },
+              {
+                "h3": "Gefärbt — und das sagen wir offen"
+              },
+              {
+                "p": "Anders als unser naturschwarzer Bambus, der dunkel wächst, und unser karbonisierter Bambus, der durch Hitze dunkel wird, stammt die Mahagonifarbe aus einer Färbung. Sie ergibt einen satteren, röteren Ton als beide und eine gleichmäßigere Farbe von Stab zu Stab. Wie bei jedem gefärbten Naturmaterial im Außenbereich ist damit zu rechnen, dass der Ton bei starker Sonne allmählich weicher wird."
+              },
+              {
+                "h3": "Wo er passt"
+              },
+              {
+                "p": "Mahagoni passt gut zu Backstein, Terrakotta und rötlichen Hölzern sowie zu mediterranen oder tropischen Bepflanzungskonzepten. Für Großhändler und Gartencenter rundet er ein Bambus-Sichtschutz-Sortiment mit einer Farbe ab, die Kunden im Regal auffällt."
+              },
+              {
+                "ul": [
+                  "Gärten mit Backstein, Terrakotta oder rötlichem Terrassenbelag.",
+                  "Tropische und mediterrane Terrassen.",
+                  "Sichtschutz für Gastronomie und Bars.",
+                  "Eine dritte Farbe im Bambussortiment des Handels."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist die Mahagonifarbe natürlich?",
+              "a": "Nein — sie ist gefärbt. Wir färben runde Bambusstäbe mit 20–30 mm, um den Rotbraunton zu erhalten. Benötigen Sie einen von Natur aus dunklen Zaun, wählen Sie naturschwarzen Bambus (wächst dunkel) oder karbonisierten Bambus (durch Hitze abgedunkelt)."
+            },
+            {
+              "q": "Verblasst die Farbe?",
+              "a": "Wie bei jedem gefärbten Naturprodukt im Außenbereich wird der Ton bei starker Sonne und Witterung allmählich weicher. Der Zaun bleibt ein warmbrauner Zaun; er wird mit der Zeit nur weniger gesättigt. Wird er so montiert, dass er in der heißesten Tageszeit etwas Schatten bekommt, bleibt die Farbe länger satter."
+            },
+            {
+              "q": "Welche Größen und Mengen sind verfügbar?",
+              "a": "Sieben Standardrollen von 1,0 × 2,5 m bis 2,5 × 2,5 m (Höhe × Breite). Etwa 2.300 m² passen in einen 40HC-Container, Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Kann ich Mahagoni mit anderen Farben in einer Bestellung mischen?",
+              "a": "Ja. Mahagoni hat dieselben Rollengrößen wie unsere Rollen in Natur, Schwarz und karbonisiert, sodass ein gemischter Container einfach zu planen ist. Eigenmarken-Verpackung ist willkommen, die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "tonkin-bamboo-fence": {
+          "name": "Tonkin-Bambuszaun",
+          "metaTitle": "Bambuszaun Tonkin mit Holzrahmen – Großhandel",
+          "cardDesc": "Starke Tonkin-Stangen in einem holzgerahmten Element, 120 × 180 cm.",
+          "eyebrow": "Tonkin-Bambus · Holzgerahmtes Element",
+          "pill": "Tonkin-Bambus · Holzrahmen",
+          "lead": "Ein holzgerahmtes Zaunelement aus Tonkin-Bambus — einer der stärksten und flexibelsten Bambusarten. 120 × 180 cm, 22 kg netto, natur oder karbonisiert.",
+          "desc": "Tonkin-Bambus wird für seine Stärke, Flexibilität und geraden, gleichmäßigen Stangen geschätzt. Wir verwenden Stangen, die drei Jahre oder länger gewachsen sind, fassen sie in einen Holzrahmen und verpacken jedes Element in Schaumstoff auf einer Palette. Das Standardelement ist 120 cm breit, 5 cm dick und 180 cm hoch.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Tonkin-Bambus, Stangen 3+ Jahre alt"
+            },
+            {
+              "k": "Format",
+              "v": "Holzgerahmtes Element"
+            },
+            {
+              "k": "Standardgröße",
+              "v": "B 120 × H 180 × T 5 cm"
+            },
+            {
+              "k": "Nettogewicht",
+              "v": "22 kg pro Element"
+            }
+          ],
+          "why": "Es ist das wuchtigste Stück der Bambuszaun-Serie: ein gerahmtes, starres Element aus einer stärkeren Bambusart, während die Rollen flexibel und leichter sind. Wählen Sie es für einen hochwertigen, fertigen Look.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Tonkin-Bambusstangen (3+ Jahre gewachsen) + Holzrahmen"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Natur · karbonisiert"
+            },
+            {
+              "k": "Format",
+              "v": "Starres gerahmtes Element"
+            },
+            {
+              "k": "Standardgröße",
+              "v": "B 120 × T 5 × H 180 cm"
+            },
+            {
+              "k": "Nettogewicht",
+              "v": "22 kg"
+            },
+            {
+              "k": "Verpackung",
+              "v": "Kunststoff-Schaumstoff + Palette"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Eine Standardgröße; andere Größen werden auf Anfrage gefertigt.",
+            "cols": [
+              "Breite",
+              "Höhe",
+              "Dicke",
+              "Nettogewicht"
+            ],
+            "rows": [
+              [
+                "120 cm",
+                "180 cm",
+                "5 cm",
+                "22 kg"
+              ]
+            ],
+            "note": "Andere Breiten und Höhen auf Anfrage, in Tonkin natur oder karbonisiert."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein stärkerer Bambus im fertigen Rahmen",
+            "body": [
+              {
+                "p": "Tonkin-Bambus gehört zu den stärksten und flexibelsten Bambusarten, mit langen, geraden Stangen von gleichmäßigem Durchmesser. Er ist zudem von Natur aus bitter, was ihn für Insekten weniger attraktiv macht. Wir verwenden nur Stangen, die drei Jahre oder länger gewachsen sind, sodass das Rohr Zeit zum Aushärten hatte. Wie alle Bambusarten ist Tonkin eine schnell wachsende, nachwachsende Pflanze, die nach der Ernte wieder austreibt."
+              },
+              {
+                "p": "Statt die Stangen zu einer Rolle zu verdrahten, fassen wir sie in einen Holzrahmen und erhalten so ein starres Element. Das Standardelement misst 120 cm in der Breite, 180 cm in der Höhe und 5 cm in der Dicke und wiegt netto 22 kg — ein solides, fertiges Paneel, das direkt an Pfosten oder einer Wand befestigt wird."
+              },
+              {
+                "h3": "Natur oder karbonisiert"
+              },
+              {
+                "p": "Die Naturausführung behält Tonkins helle Strohfarbe. Die karbonisierte Ausführung ist hitzebehandelt für einen wärmeren Braunton, der durch den ganzen Stab geht."
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Unsere Bambus-Rollzäune sind flexibel, leicht und schnell über einem vorhandenen Zaun ausgerollt. Das Tonkin-Element ist schwerer und gerahmt, steht daher selbstständig zwischen Pfosten und ergibt ein architektonischeres, hochwertigeres Ergebnis. Jedes Element wird in Kunststoff-Schaumstoff auf einer Palette verpackt, um den Rahmen beim Transport zu schützen."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was ist Tonkin-Bambus?",
+              "a": "Eine Bambusart, bekannt für starke, flexible, gerade Stangen. Sie ist von Natur aus bitter und daher für Insekten weniger attraktiv. Wir verwenden Stangen, die mindestens drei Jahre gewachsen sind."
+            },
+            {
+              "q": "Welche Größe hat das Tonkin-Element und wie schwer ist es?",
+              "a": "Das Standardelement ist 120 cm breit, 180 cm hoch und 5 cm dick, bei einem Nettogewicht von 22 kg. Andere Größen sind auf Anfrage erhältlich."
+            },
+            {
+              "q": "Wie wird es verpackt?",
+              "a": "Jedes Element wird mit Kunststoff-Schaumstoff geschützt und auf Paletten verladen, damit Rahmen und Stangen beim Transport nicht scheuern oder anstoßen."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Da es gerahmt ist, wird das Element mit Schrauben oder Winkeln direkt an Holz- oder Metallpfosten, einer Wand oder einem vorhandenen Zaun befestigt. Anders als eine Rolle braucht es keinen Trägerzaun. Mehrere Elemente lassen sich zwischen Pfosten für einen längeren Abschnitt aneinanderreihen."
+            }
+          ]
+        },
+        "half-round-natural-bamboo-fence": {
+          "name": "Halbrunder Bambuszaun natur",
+          "metaTitle": "Bambus Sichtschutz halbrund – Riesenstäbe, Großhandel",
+          "cardDesc": "Riesenstäbe (40–50 mm) halbiert — flacher, leichter, mehr pro Container.",
+          "eyebrow": "Riesenstäbe · Halbrund",
+          "pill": "Gespaltener Riesenbambus · Ø 40–50 mm",
+          "lead": "Riesige Naturbambusstäbe mit 40–50 mm, der Länge nach gespalten, runde Seite nach außen — die Optik von Riesenbambus in einer flacheren, leichteren Rolle.",
+          "desc": "Das Spalten von Riesenbambus bewahrt von vorn die markante, wuchtige Optik von Stäben mit 40–50 mm und halbiert dabei die Tiefe der Rolle. Das Ergebnis liegt flacher am Zaun an und lässt sich deutlich effizienter verpacken: etwa 3.400 m² pro 40HC.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Riesiger Naturbambus, halbiert"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "40–50 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Rollen, 1,8 m breit"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 3.400 m²"
+            }
+          ],
+          "why": "Sie erhalten die Optik großer Stäbe von Riesenbambus ohne Gewicht und Volumen ganzer Stäbe. Die halbrunde Rolle ist der containereffizienteste Bambuszaun, den wir fertigen, und senkt die Kosten pro m² frei Bestimmungsort.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturgelber Riesenbambus, der Länge nach gespalten"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "40–50 mm (halbrund)"
+            },
+            {
+              "k": "Sichtseite",
+              "v": "Runde Seite nach außen"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "B 1,8 m × H 1,0 · 1,5 · 1,8 m · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 3.400 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Drei Standardhöhen, alle 1,8 m breit.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "1,8 m",
+                "≈ 3¼ × 6 ft"
+              ],
+              [
+                "1,5 m",
+                "1,8 m",
+                "≈ 5 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ]
+            ],
+            "note": "Andere Höhen und Breiten auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Riesenbambus, gespalten für eine flachere Rolle",
+            "body": [
+              {
+                "p": "Unser halbrunder Bambuszaun natur beginnt mit Riesenbambusstäben von 40–50 mm. Jeder Stab wird der Länge nach halbiert, und die Hälften werden mit der runden Seite nach außen aufgereiht. Von vorn wirkt der Zaun wie eine Wand aus großen runden Stäben; von hinten ist er flach und liegt daher eng an einem vorhandenen Zaun oder einer Mauer an. Es ist naturgelber Bambus, mit der Farb- und Maserungsvarianz, die dazugehört."
+              },
+              {
+                "p": "Das Halbieren der Stäbe halbiert auch die Tiefe der Rolle. Dadurch ist die Matte leichter zu handhaben und deutlich kompakter im Versand — etwa 3.400 m² pro 40HC-Container, verglichen mit rund 2.100–2.400 m² bei unseren runden Bambus-Rollzäunen."
+              },
+              {
+                "h3": "Geprüft vor dem Verpacken"
+              },
+              {
+                "p": "Die Produktion wird vor der Verladung mit der Bestellung abgeglichen. Aktuelle QC-Fotos zeigen Rollen von 100 × 180 cm bis 200 × 180 cm, die vor dem Verpacken geprüft wurden."
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Wählen Sie den runden Bambus-Rollzaun natur für einen vollständig runden, dreidimensionalen Stab und das breiteste Größensortiment. Wählen Sie halbrund, wenn Sie die Dimension von Riesenstäben, eine flachere Montage und bessere Containerökonomie wünschen. Dasselbe Profil in dunkler Farbe finden Sie im halbrunden naturschwarzen Zaun."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was bedeutet „halbrund“?",
+              "a": "Jeder riesige Bambusstab mit 40–50 mm wird der Länge nach halbiert. Die Hälften werden mit der runden Seite nach außen nebeneinander verdrahtet, sodass die Vorderseite wie ganze Stäbe aussieht, während die Rückseite flach ist."
+            },
+            {
+              "q": "Warum ist die Containermenge höher als bei runden Rollen?",
+              "a": "Ein halber Stab braucht etwa die halbe Tiefe, die Rollen sind also schlanker. In einen 40HC passen etwa 3.400 m² halbrunder Zaun, gegenüber etwa 2.100–2.400 m² bei unseren runden Rollen."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Standardrollen sind 1,8 m breit in Höhen von 1,0, 1,5 und 1,8 m. Andere Größen können auf Anfrage gefertigt werden."
+            },
+            {
+              "q": "Wie montiere ich ihn?",
+              "a": "Rollen Sie ihn mit der runden Seite nach außen an einem vorhandenen Zaun, einer Mauer oder einem Rahmen aus und befestigen Sie ihn mit Bindedraht oder Schrauben. Die flache Rückseite sitzt näher an der Fläche als bei einer Rolle mit runden Stäben. Wie alle unsere Bambuszäune wird er ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+            }
+          ]
+        },
+        "half-round-black-bamboo-fence": {
+          "name": "Halbrunder Bambuszaun naturschwarz",
+          "metaTitle": "Bambus Sichtschutz schwarz halbrund – Großhandel",
+          "cardDesc": "Riesige naturschwarze Stäbe halbiert für einen markanten, dunklen Zaun.",
+          "eyebrow": "Riesenstäbe · Naturschwarz",
+          "pill": "Gespaltener naturschwarzer Bambus · Ø 40–50 mm",
+          "lead": "Riesiger naturschwarzer Bambus, halbiert, runde Seite nach außen — ein markanter, dunkler schwarzer Bambuszaun, der flach anliegt und etwa 3.400 m² pro 40HC lädt.",
+          "desc": "Der dunkelste, markanteste Zaun der Bambusserie. Riesige naturschwarze Stäbe mit 40–50 mm werden der Länge nach gespalten und mit der runden Seite nach außen verdrahtet — die Dimension von Riesenstäben kombiniert mit der eigenen dunklen Farbe des Bambus, ohne Farbe oder Färbung.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Riesiger naturschwarzer Bambus, halbiert"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürlich — nicht lackiert oder gefärbt"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "40–50 mm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 3.400 m²"
+            }
+          ],
+          "why": "Er verbindet die dramatischste Farbe mit den größten Stäben. Gegenüber der runden naturschwarzen Rolle sind die Stäbe viel größer und die Rolle flacher; gegenüber dem halbrunden Naturzaun bietet er eine dunkle, zeitgemäße Front.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturschwarzer Riesenbambus, der Länge nach gespalten"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "40–50 mm (halbrund)"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturschwarz — ohne Farbe oder Färbung"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht"
+            },
+            {
+              "k": "Rollengrößen",
+              "v": "B 1,8 m × H 1,0 · 1,5 · 1,8 m · Sondermaße auf Anfrage"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "≈ 3.400 m²"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Drei Standardhöhen, alle 1,8 m breit — wie beim halbrunden Naturzaun.",
+            "cols": [
+              "Höhe",
+              "Breite",
+              "Ca. in Fuß"
+            ],
+            "rows": [
+              [
+                "1,0 m",
+                "1,8 m",
+                "≈ 3¼ × 6 ft"
+              ],
+              [
+                "1,5 m",
+                "1,8 m",
+                "≈ 5 × 6 ft"
+              ],
+              [
+                "1,8 m",
+                "1,8 m",
+                "≈ 6 × 6 ft"
+              ]
+            ],
+            "note": "Andere Höhen und Breiten auf Anfrage; halbrunde Natur- und Schwarzrollen können sich einen Container teilen."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Große Stäbe, dunkle Farbe, flache Rückseite",
+            "body": [
+              {
+                "p": "Dies ist unser halbrunder Zaun aus naturschwarzem Bambus. Riesige Stäbe mit 40–50 mm werden der Länge nach halbiert und dann mit der runden Seite nach außen nebeneinander verdrahtet. Die Vorderseite zeigt einen kräftigen Rhythmus großer, dunkler Stäbe; die flache Rückseite lässt die Matte eng an einem Zaun oder einer Mauer anliegen. Das Halbieren der Stäbe macht die Rolle außerdem schlanker, leichter zu handhaben und kompakter im Versand als ganze Stäbe gleicher Größe."
+              },
+              {
+                "p": "Die Farbe ist die des Bambus selbst. Naturschwarzer Bambus dunkelt beim Wachsen nach, es gibt also keine Beschichtung, die abplatzen könnte, und jeder Stab zeigt leichte Unterschiede von tiefem Schwarz bis Braunschwarz. Wie unser gesamter Bambus ist er nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "h3": "Wo er überzeugt"
+              },
+              {
+                "ul": [
+                  "Zeitgemäße Gärten und Dachterrassen.",
+                  "Dunkler Hintergrund für Bepflanzung, Wasserspiele und Beleuchtung.",
+                  "Sichtschutz für Restaurants, Bars und Hotels.",
+                  "Handelssortimente, die eine hochwertige schwarze Option brauchen."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Der runde naturschwarze Bambus-Rollzaun verwendet ganze Stäbe mit 14–35 mm und gibt es in mehr Größen; diese halbrunde Ausführung verwendet viel größere Stäbe für eine markantere Optik und packt mehr pro Container. Der halbrunde Naturzaun hat denselben Aufbau in Naturgelb, und beide Ausführungen werden vor dem Verpacken in Größen von 100 × 180 cm bis 200 × 180 cm geprüft."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist die schwarze Farbe natürlich?",
+              "a": "Ja. Die Stäbe stammen von naturschwarzem Bambus, der dunkel wächst. Nichts wird lackiert oder gefärbt, und leichte Farbunterschiede zwischen den Stäben sind normal. Wie jeder natürliche Bambus im Außenbereich kann der Ton bei starker Sonne mit der Zeit etwas weicher werden."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Standardrollen sind 1,8 m breit in Höhen von 1,0, 1,5 und 1,8 m; die Höhe von 1,8 m kommt einem 6-ft-Zaun am nächsten. Andere Größen sind auf Anfrage erhältlich."
+            },
+            {
+              "q": "Wie viel passt in einen Container?",
+              "a": "Etwa 3.400 m² pro 40HC. Da die Stäbe halbiert sind, sind die Rollen schlanker als Rollen mit runden Stäben und lassen sich effizienter laden."
+            },
+            {
+              "q": "Kann ich halbrunde Natur- und Schwarzrollen zusammen bestellen?",
+              "a": "Ja. Beide haben dieselben Größen und dieselbe Containermenge, sodass Sie sie in einer Ladung mischen können. Eigenmarken-Verpackung ist willkommen, die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "expandable-natural-bamboo-trellis": {
+          "name": "Ausziehbares Bambus-Rankgitter natur",
+          "metaTitle": "Bambus Rankgitter ausziehbar natur – Großhandel",
+          "cardDesc": "Vernadeltes Rautengitter aus dünnen Naturstäben, das sich auf Maß auseinanderziehen lässt.",
+          "eyebrow": "Rankgitter · Ausziehbares Gitter",
+          "pill": "Dünne natürliche Bambusstäbe",
+          "lead": "Dünne natürliche Bambusstäbe, zu einem Rautengitter vernadelt, das sich auf die gewünschte Breite auseinanderziehen lässt — für Kletterpflanzen, Wandbegrünung und leichten Sichtschutz.",
+          "desc": "Ein leichtes Bambus-Rankgitter, das zusammengefaltet geliefert wird und sich vor Ort ausziehen lässt. Jede Kreuzung des Rautengitters ist vernadelt, sodass sich das Element wie eine Ziehharmonika öffnet. Sieben Höhen von 30 bis 200 cm decken alles ab, von der niedrigen Pflanzenstütze bis zum raumhohen Klettergerüst.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Dünne natürliche Bambusstäbe"
+            },
+            {
+              "k": "Muster",
+              "v": "Rautengitter, vernadelte Kreuzungen"
+            },
+            {
+              "k": "Größen",
+              "v": "30–200 cm hoch · 180–200 cm lang"
+            },
+            {
+              "k": "Ideal für",
+              "v": "Kletterpflanzen, Wandbegrünung"
+            }
+          ],
+          "why": "Es ist das offene, pflanzenfreundliche Mitglied der Serie: Wo eine Zaunrolle den Blick schließt, bietet das Rankgitter Kletterpflanzen Halt und lässt Licht und Luft durch. Es lässt sich flach packen und passend öffnen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Dünne natürliche Bambusstäbe"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Rautengitter, an jeder Kreuzung vernadelt"
+            },
+            {
+              "k": "Format",
+              "v": "Ausziehbares Rankgitter-Element"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturgelber Bambus"
+            },
+            {
+              "k": "Größen",
+              "v": "7 Standardgrößen, H 30–200 cm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sieben Standardgrößen, angegeben als Höhe × Länge.",
+            "cols": [
+              "Höhe",
+              "Länge"
+            ],
+            "rows": [
+              [
+                "30 cm",
+                "180 cm"
+              ],
+              [
+                "60 cm",
+                "200 cm"
+              ],
+              [
+                "90 cm",
+                "200 cm"
+              ],
+              [
+                "120 cm",
+                "200 cm"
+              ],
+              [
+                "150 cm",
+                "200 cm"
+              ],
+              [
+                "180 cm",
+                "200 cm"
+              ],
+              [
+                "200 cm",
+                "200 cm"
+              ]
+            ],
+            "note": "Andere Größen auf Anfrage; nennen Sie uns Ihre Verkaufsgrößen und die Verpackung."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein Bambus-Rankgitter, das sich passend öffnet",
+            "body": [
+              {
+                "p": "Unser ausziehbares Bambus-Rankgitter natur besteht aus dünnen natürlichen Bambusstäben, die in einem Rautengitter angeordnet sind. Jede Kreuzung ist vernadelt, sodass sich das ganze Element wie eine Ziehharmonika auseinanderziehen oder zusammenschieben lässt. So deckt ein Rankgitter eine Bandbreite von Breiten ab und lässt sich kompakt versenden und präsentieren. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Die feinen Stäbe geben Kletterpflanzen reichlich Halt — Clematis, Wicken, Bohnen und andere Kletterer nehmen es gut an — und behalten an einer Wand oder einem Zaun eine leichte, offene Optik. Die niedrige Größe 30 × 180 cm eignet sich für Töpfe und Blumenkästen, während die Höhen von 180 und 200 cm einen ganzen Zaun- oder Wandabschnitt abdecken."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Stütze für Kletterpflanzen an Wänden und Zäunen.",
+                  "Leichter, dekorativer Sichtschutz auf Balkonen.",
+                  "Kahle Wände mit einem natürlichen Gitter verkleiden.",
+                  "Sortimente für Gartencenter und Baumärkte."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Das schwarze Rankgitter hat dasselbe ausziehbare Gitter mit dunklen Stäben. Die Bambus-Rollzäune sind geschlossene Sichtschutzelemente; das Rankgitter ist ein offener Rahmen für Bepflanzung und Dekoration."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Wie funktioniert ein ausziehbares Rankgitter?",
+              "a": "Die Stäbe kreuzen sich im Rautenmuster und sind an jeder Kreuzung vernadelt. Ziehen Sie die Enden auseinander, öffnen sich die Rauten, und das Rankgitter wird länger und etwas niedriger; schieben Sie sie zusammen, faltet es sich zur Lagerung wieder zusammen."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Sieben Standardgrößen: 30 × 180 cm sowie 60, 90, 120, 150, 180 und 200 cm hoch, jeweils 200 cm lang (Höhe × Länge). Andere Größen fertigen wir auf Anfrage."
+            },
+            {
+              "q": "Wie befestige ich es an einer Wand oder einem Zaun?",
+              "a": "Ziehen Sie es auf die gewünschte Größe auseinander und befestigen Sie es mit Schrauben, Nägeln oder Bindedraht an einigen Kreuzungen. Ein kleiner Abstand hinter dem Rankgitter gibt Kletterpflanzen Raum zum Ranken, und die Befestigung an Latten statt direkt an der Wand lässt Luft hinter den Pflanzen zirkulieren."
+            },
+            {
+              "q": "Können Sie es für den Handel verpacken?",
+              "a": "Ja. Wir verpacken nach Ihrer Spezifikation, auch mit Ihren eigenen Etiketten, Barcodes und Einlegern. Da sich das Rankgitter zusammenfalten lässt, ist es kompakt für Versand und Präsentation. Die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "expandable-black-bamboo-trellis": {
+          "name": "Ausziehbares Bambus-Rankgitter naturschwarz",
+          "metaTitle": "Bambus Rankgitter schwarz ausziehbar – Großhandel",
+          "cardDesc": "Naturschwarze Stäbe in einem ausziehbaren Rautengitter — ein dunkler Akzent.",
+          "eyebrow": "Rankgitter · Naturschwarz",
+          "pill": "Naturschwarze Bambusstäbe",
+          "lead": "Ein ausziehbares Rautengitter aus naturschwarzem Bambus — ein dunkler, grafischer Rahmen für Kletterpflanzen und Wanddekoration, in sieben Größen bis 200 cm.",
+          "desc": "Dasselbe ausziehbare, vernadelte Gitter wie bei unserem Natur-Rankgitter, gefertigt aus naturschwarzen Bambusstäben. Das dunkle Gitter wirkt vor hellen Wänden wie ein grafisches Muster und lässt grünes Laub hervortreten.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Naturschwarzer Bambus"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürlich — nicht lackiert oder gefärbt"
+            },
+            {
+              "k": "Muster",
+              "v": "Ausziehbares Rautengitter"
+            },
+            {
+              "k": "Größen",
+              "v": "30–200 cm hoch · 180–200 cm lang"
+            }
+          ],
+          "why": "Wählen Sie es für den Kontrast: Die dunklen Stäbe heben sich von hellem Putz, Backstein oder Holz ab und rahmen grüne Kletterpflanzen scharf ein. Funktional entspricht es dem Natur-Rankgitter, sodass sich beide Farben nebeneinander führen lassen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturschwarze Bambusstäbe"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturschwarz — ohne Farbe oder Färbung"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Rautengitter, an jeder Kreuzung vernadelt"
+            },
+            {
+              "k": "Format",
+              "v": "Ausziehbares Rankgitter-Element"
+            },
+            {
+              "k": "Größen",
+              "v": "7 Standardgrößen, H 30–200 cm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sieben Standardgrößen, angegeben als Höhe × Länge — identisch mit dem Natur-Rankgitter.",
+            "cols": [
+              "Höhe",
+              "Länge"
+            ],
+            "rows": [
+              [
+                "30 cm",
+                "180 cm"
+              ],
+              [
+                "60 cm",
+                "200 cm"
+              ],
+              [
+                "90 cm",
+                "200 cm"
+              ],
+              [
+                "120 cm",
+                "200 cm"
+              ],
+              [
+                "150 cm",
+                "200 cm"
+              ],
+              [
+                "180 cm",
+                "200 cm"
+              ],
+              [
+                "200 cm",
+                "200 cm"
+              ]
+            ],
+            "note": "Andere Größen auf Anfrage; Natur- und Schwarz-Rankgitter lassen sich in einer Bestellung kombinieren."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein dunkles Gitter für grüne Wände",
+            "body": [
+              {
+                "p": "Dieses ausziehbare Rankgitter verwendet naturschwarze Bambusstäbe in einem Rautengitter. Jede Kreuzung ist vernadelt, sodass sich das Element wie eine Ziehharmonika öffnen und schließen lässt und eine Größe eine Bandbreite von Breiten abdeckt. Die schwarze Farbe stammt vom Bambus selbst, es gibt also keine Farbschicht, die dort abblättern könnte, wo sich die Stäbe aneinander bewegen. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Vor einer weißen oder hellen Wand wird das dunkle Gitter selbst zum Gestaltungselement, noch bevor etwas daran wächst. Sobald Kletterpflanzen Halt gefunden haben, treten die schwarzen Stäbe zurück und das Laub hebt sich ab. Die Größe 30 × 180 cm eignet sich für Pflanzgefäße und Blumenkästen; die höheren Größen bis 200 × 200 cm decken einen ganzen Wand- oder Zaunabschnitt ab."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Kontrast-Rankgitter an hellen Wänden und Zäunen.",
+                  "Stütze für Kletterpflanzen in modernen Gärten.",
+                  "Dekoration für Balkon und Terrasse.",
+                  "Eine schwarze Option neben dem Natur-Rankgitter im Handel."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Wählen Sie das Natur-Rankgitter für eine weiche, traditionelle Optik, die mit Holz und Bepflanzung verschmilzt. Wählen Sie diese schwarze Ausführung für Kontrast und ein zeitgemäßes Gefühl. Beide haben dieselben Größen und denselben Aufbau, und beide lassen sich zusammenfalten, um kompakt zu verpacken und eine ordentliche Präsentation im Handel zu ergeben."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist das Rankgitter schwarz lackiert?",
+              "a": "Nein. Es besteht aus naturschwarzem Bambus, der dunkel wächst. Kleine Farbunterschiede zwischen den Stäben sind normal und zeigen, dass es ein Naturmaterial ist."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Sieben Standardgrößen: 30 × 180 cm sowie 60, 90, 120, 150, 180 und 200 cm hoch, jeweils 200 cm lang (Höhe × Länge). Sondergrößen sind auf Anfrage erhältlich."
+            },
+            {
+              "q": "Wie wird es montiert?",
+              "a": "Ziehen Sie es auf die benötigte Größe auseinander und befestigen Sie es mit Schrauben, Nägeln oder Bindedraht an einigen Kreuzungen an einer Wand, einem Zaun oder einem Pfosten. Ein kleiner Abstand dahinter hilft den Kletterpflanzen beim Ranken, und die Befestigung an Latten lässt Platz für die Luftzirkulation hinter den Pflanzen."
+            },
+            {
+              "q": "Kann ich Natur- und Schwarz-Rankgitter zusammen bestellen?",
+              "a": "Ja. Sie haben dieselben Größen, sodass eine gemischte Bestellung oder eine zweifarbige Präsentation im Handel leicht zu planen ist. Eigenmarken-Verpackung ist willkommen, die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "natural-bamboo-edging": {
+          "name": "Bambus-Beeteinfassung natur",
+          "metaTitle": "Bambus Rasenkante natur – Beeteinfassung Rolle",
+          "cardDesc": "Bambus-Beeteinfassung als Rolle, 20–45 cm hoch, biegsam in jede Form.",
+          "eyebrow": "Gartenbeeteinfassung · Naturgelb",
+          "pill": "Naturbambus · Stäbe 35/40 mm",
+          "lead": "Bambus-Beeteinfassung als Rolle aus natürlichen Stäben mit 35/40 mm auf verdecktem verzinktem Draht — biegt sich in jede Kurve für Beete, Rasen und Wege. 20–45 cm hoch.",
+          "desc": "Eine natürliche Bambus-Beeteinfassung, die Beete, Rasenflächen und Wege einfasst. Die Stäbe werden an den Knoten gekappt und verschlossen, gebohrt und auf verdeckten verzinkten Draht gezogen, sodass sich die Rolle für gerade Linien oder Kurven biegen lässt. Fünf Höhen und fünf Breiten decken die meisten Gartenarbeiten ab.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Naturgelber Bambus, 35/40 mm"
+            },
+            {
+              "k": "Oberkante",
+              "v": "An den Knoten gekappt und verschlossen"
+            },
+            {
+              "k": "Format",
+              "v": "Einfassung als Rolle, biegbar"
+            },
+            {
+              "k": "Höhen",
+              "v": "20 · 30 · 35 · 40 · 45 cm"
+            }
+          ],
+          "why": "Wählen Sie sie für eine saubere, warmfarbige Bambus Rasenkante, die Kurven mühelos folgt. Gegenüber der Einfassung mit Füßen ist diese Rolle eine durchgehende, gleichmäßige Linie, die Sie in den Boden setzen; gegenüber der schwarzen Einfassung fügt sie sich sanft in die Bepflanzung ein.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturgelber Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Stäbe gebohrt und auf verdeckten verzinkten Draht gezogen"
+            },
+            {
+              "k": "Oberkante",
+              "v": "An den Knoten gekappt und verschlossen"
+            },
+            {
+              "k": "Größen",
+              "v": "B 100–200 cm × H 20–45 cm"
+            },
+            {
+              "k": "Ebenfalls erhältlich",
+              "v": "Karbonisiert, gleiche Größen"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Jede Höhe ist in allen fünf Breiten erhältlich.",
+            "cols": [
+              "Höhe",
+              "Breiten"
+            ],
+            "rows": [
+              [
+                "20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage; karbonisierte Einfassung ist in denselben Größen erhältlich."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Bambus-Beeteinfassung, die jeder Linie folgt",
+            "body": [
+              {
+                "p": "Unsere Bambus-Beeteinfassung natur besteht aus naturgelben Stäben mit 35/40 mm. Jeder Stab wird an einem Knoten gekappt, sodass die Oberkante von Natur aus geschlossen ist, dann gebohrt und auf verzinkten Draht gezogen, der verdeckt im Inneren der Stäbe verläuft. An der Vorderseite ist nichts als Bambus zu sehen."
+              },
+              {
+                "p": "Da die Stäbe aufgefädelt und nicht an einer Schiene befestigt sind, biegt sich die Rolle frei. Sie folgt einer geraden Beetkante ebenso leicht wie einem gebogenen Beet oder einer runden Baumscheibe, und Breiten von 100 bis 200 cm erlauben lange, aneinandergesetzte Abschnitte. Die niedrigeren Höhen ergeben eine saubere Rasenkante, an der ein Mäher entlangfahren kann; die Höhen 40 und 45 cm halten Erde in Hochbeeten und Beeträndern."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Bambus Rasenkante entlang von Beeten und Rabatten.",
+                  "Einfassung von Wegen und Pfaden.",
+                  "Baum- und Strauchscheiben.",
+                  "Einfassung von Hochbeeten und Spielbereichen.",
+                  "Landschaftsbau- und Projekte im öffentlichen Raum."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Die naturschwarze Einfassung hat denselben Aufbau mit dunklen Stäben. Die Bambus-Einfassung mit Füßen steht auf Bambuspflöcken und hat eine gestufte statt einer ebenen Oberkante. Wünschen Sie in diesem Stil einen dunkleren, wärmeren Ton, fragen Sie nach der karbonisierten Ausführung in denselben Größen."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Welche Höhen und Breiten sind erhältlich?",
+              "a": "Höhen von 20, 30, 35, 40 und 45 cm, jeweils in Breiten von 100, 120, 150, 180 und 200 cm. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Wie wird die Bambus-Beeteinfassung eingebaut?",
+              "a": "Heben Sie entlang der Linie einen flachen Graben aus, setzen Sie die Rolle ein, biegen Sie sie in Form und füllen Sie fest auf. Niedrigere Höhen dienen als saubere Rasenkante; höhere eignen sich für Hochbeete und Rabatten. Die Einfassung ist leicht, daher kann eine Person lange Abschnitte setzen."
+            },
+            {
+              "q": "Warum sind die Oberkanten an den Knoten gekappt?",
+              "a": "Das Kappen jedes Stabs an einem Knoten verschließt die Oberkante, sodass sich Regenwasser und Schmutz nicht im Stab sammeln. Außerdem ergibt es einen saubereren, fertigen Abschluss."
+            },
+            {
+              "q": "Gibt es sie in anderen Farben?",
+              "a": "Ja. Naturschwarze und karbonisierte Bambus-Einfassung sind beide in denselben Größen erhältlich, und Eigenmarken-Verpackung ist willkommen. Karbonisierter Bambus ist hitzebehandelt zu einem warmen Braun, das durch den ganzen Stab geht."
+            }
+          ]
+        },
+        "natural-black-bamboo-edging": {
+          "name": "Bambus-Beeteinfassung naturschwarz",
+          "metaTitle": "Bambus Beeteinfassung schwarz – Rolle, Großhandel",
+          "cardDesc": "Naturschwarze Bambus-Beeteinfassung auf verdecktem Draht — eine klare dunkle Linie.",
+          "eyebrow": "Gartenbeeteinfassung · Naturschwarz",
+          "pill": "Naturschwarzer Bambus · 35/40 mm",
+          "lead": "Bambus-Beeteinfassung aus naturschwarzen Stäben, an den Knoten gekappt und auf verdeckten verzinkten Draht gezogen. Biegbar; 20–45 cm hoch.",
+          "desc": "Eine dunkle, klare Einfassung für Beete, Rasen und Wege. Die naturschwarzen Stäbe werden an den Knoten gekappt, gebohrt und auf verdeckten verzinkten Draht gezogen, sodass sich die Rolle in jede Linie biegen lässt. Eine karbonisierte Ausführung gibt es in denselben Größen.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Naturschwarzer Bambus, 35/40 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürlich — nicht lackiert oder gefärbt"
+            },
+            {
+              "k": "Format",
+              "v": "Einfassung als Rolle, biegbar"
+            },
+            {
+              "k": "Höhen",
+              "v": "20 · 30 · 35 · 40 · 45 cm"
+            }
+          ],
+          "why": "Die dunklen Stäbe ziehen eine scharfe Linie zwischen Rasen, Kies und Bepflanzung, was zu modernen und japanisch anmutenden Gärten passt. Gleicher Aufbau und gleiche Größen wie die Natureinfassung, sodass sich beide Farben gemeinsam führen lassen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturschwarzer Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturschwarz — ohne Farbe oder Färbung"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Verdeckter verzinkter Draht, Oberkanten an den Knoten gekappt"
+            },
+            {
+              "k": "Größen",
+              "v": "B 100–200 cm × H 20–45 cm"
+            },
+            {
+              "k": "Ebenfalls erhältlich",
+              "v": "Karbonisiert, gleiche Größen"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Jede Höhe ist in allen fünf Breiten erhältlich, in Naturschwarz oder karbonisiert.",
+            "cols": [
+              "Höhe",
+              "Breiten"
+            ],
+            "rows": [
+              [
+                "20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Eine klare, dunkle Bambuseinfassung",
+            "body": [
+              {
+                "p": "Diese Bambus-Beeteinfassung verwendet naturschwarze Stäbe mit 35/40 mm. Jeder wird an einem Knoten gekappt, sodass die Oberkante geschlossen ist, dann gebohrt und auf verzinkten Draht gezogen, der verdeckt im Inneren der Stäbe verläuft. Die dunkle Farbe ist die des Bambus selbst, es gibt also keine Farbe, die beim Einsetzen in Erde oder Kies abgeschabt werden könnte."
+              },
+              {
+                "p": "Durch die aufgefädelte Konstruktion lässt sich die Rolle frei biegen und folgt gebogenen Beeten, Baumscheiben und geschwungenen Wegen ebenso leicht wie geraden Kanten. Breiten von 100 bis 200 cm lassen sich Ende an Ende für lange Abschnitte aneinandersetzen, und die fünf Höhen decken alles ab, von der niedrigen Rasenkante bis zur Hochbeet-Einfassung."
+              },
+              {
+                "h3": "Naturschwarz oder karbonisiert"
+              },
+              {
+                "p": "Neben Naturschwarz fertigen wir karbonisierte Einfassung in denselben Größen. Karbonisierte Stäbe sind hitzebehandelt und ergeben einen warmen Braunton, der durch den ganzen Stab geht — eine weichere Alternative zu Schwarz. Beide werden mit denselben Stäben von 35/40 mm, gekappten Oberkanten und verdecktem verzinktem Draht gefertigt."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Einfassung zwischen Rasen und Kies oder Rindenmulch.",
+                  "Japanisch anmutende und zeitgemäße Gärten.",
+                  "Einfassungen um hellen Stein oder Pflaster.",
+                  "Baum- und Strauchscheiben.",
+                  "Landschaftsbauprojekte, die eine kräftige Kontur brauchen."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist die schwarze Farbe natürlich?",
+              "a": "Ja. Die Einfassung besteht aus naturschwarzem Bambus, der dunkel wächst. Sie ist nicht lackiert, es gibt also keine Beschichtung, die beim Einbau abplatzen könnte."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Höhen von 20, 30, 35, 40 und 45 cm, jeweils in Breiten von 100, 120, 150, 180 und 200 cm. Die karbonisierte Ausführung gibt es in denselben Größen, Sondergrößen sind auf Anfrage erhältlich."
+            },
+            {
+              "q": "Wie baue ich sie ein?",
+              "a": "Setzen Sie sie in einen flachen Graben, biegen Sie sie entlang der Linie des Beets oder Wegs und füllen Sie fest auf. Setzen Sie Abschnitte Ende an Ende für längere Strecken aneinander. Die niedrigeren Höhen eignen sich für Rasenkanten; 40 und 45 cm für Hochbeete."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen schwarzer und karbonisierter Einfassung?",
+              "a": "Naturschwarzer Bambus wächst dunkel. Karbonisierter Bambus ist hitzebehandelt zu einem warmen Braun, das durch den ganzen Stab geht. Beide haben denselben Aufbau und dieselben Größen. Wie jedes Naturmaterial im Außenbereich wird der Ton beider mit der Zeit leicht weicher."
+            }
+          ]
+        },
+        "bamboo-edging-with-feet": {
+          "name": "Bambus-Beeteinfassung mit Füßen",
+          "metaTitle": "Bambus Beeteinfassung mit Füßen – Großhandel",
+          "cardDesc": "Beeteinfassung mit gestufter Oberkante auf Pflöcken — in den Boden stecken, ohne Befestigung.",
+          "eyebrow": "Gartenbeeteinfassung · Freistehend",
+          "pill": "Naturbambus · 35/40 mm",
+          "lead": "Natürliche Bambus-Beeteinfassung mit gestufter Oberkante, auf Bambuspflöcken stehend, die sich direkt in den Boden stecken lassen — ohne Graben und ohne Befestigung.",
+          "desc": "Jedes Element steht auf Bambusfüßen: Pflöcke in den Boden stecken, und die Einfassung hält sich selbst. Die gestufte Oberkante ergibt eine dekorative, rhythmische Einfassung, in fünf Höhenstufen von 15/20 cm bis 55/60 cm.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Naturgelber Bambus, 35/40 mm"
+            },
+            {
+              "k": "Oberkante",
+              "v": "Gestuft, zwei Höhen pro Element"
+            },
+            {
+              "k": "Befestigung",
+              "v": "Bambuspflöcke (Füße) im Boden"
+            },
+            {
+              "k": "Höhen",
+              "v": "15/20 bis 55/60 cm"
+            }
+          ],
+          "why": "Es ist die am schnellsten zu verlegende Bambuseinfassung: kein Graben, kein Auffüllen, einfach die Füße in die Erde stecken. Die gestufte Oberkante ist dekorativer als die ebene Linie unserer Einfassung als Rolle, und die höheren Stufen wirken wie ein niedriger Zaun.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturgelber Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "35/40 mm"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Verdeckter verzinkter Draht, Oberkanten an den Knoten gekappt"
+            },
+            {
+              "k": "Oberkante",
+              "v": "Gestuft"
+            },
+            {
+              "k": "Befestigung",
+              "v": "Bambuspflöcke (Füße) — keine Befestigung nötig"
+            },
+            {
+              "k": "Größen",
+              "v": "B 100–200 cm × H 15/20–55/60 cm"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Höhen sind als die zwei oberen Stufen angegeben; jede Höhe gibt es in allen fünf Breiten.",
+            "cols": [
+              "Höhe (obere Stufen)",
+              "Breiten"
+            ],
+            "rows": [
+              [
+                "15/20 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "25/30 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "35/40 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "45/50 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ],
+              [
+                "55/60 cm",
+                "100 · 120 · 150 · 180 · 200 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Einfassung, die auf eigenen Füßen steht",
+            "body": [
+              {
+                "p": "Diese Bambus-Beeteinfassung besteht aus naturgelben Stäben mit 35/40 mm, an den Knoten gekappt und wie unsere Einfassung als Rolle auf verdeckten verzinkten Draht gezogen. Der Unterschied liegt darunter: Einige Stäbe reichen als Bambuspflöcke, oder Füße, unter die Einfassung hinaus. Stecken Sie sie in die Erde, und das Element steht fest von selbst."
+              },
+              {
+                "p": "Die Oberkante ist gestuft und wechselt zwischen zwei Höhen, was der Einfassung einen lebendigen Rhythmus statt einer flachen Linie gibt. Die Höhen reichen in fünf Stufen von 15/20 cm, einer niedrigen Rasenkante, bis 55/60 cm, die als kleiner dekorativer Zaun um Beete oder ein Gemüsebeet funktioniert. Wie unser gesamter Bambus ist sie nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Schnelle Bambus-Beeteinfassung für Beete und Rabatten.",
+                  "Niedriger dekorativer Zaun um Gemüsebeete.",
+                  "Temporäre oder saisonale Einfassung, die sich leicht versetzen lässt.",
+                  "Sortimente für Gartencenter und Heimwerker."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Unsere Einfassungsrollen in Natur und Naturschwarz haben eine ebene Oberkante und werden in einen flachen Graben gesetzt, was eine durchgehende Linie auf Bodenhöhe ergibt. Die Einfassung mit Füßen tauscht das gegen Schnelligkeit und ein gestuftes, dekoratives Profil. Beide bestehen aus denselben natürlichen Stäben mit 35/40 mm, gekappten Oberkanten und verdecktem verzinktem Draht und passen daher gut in denselben Garten."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Wie funktionieren die Füße?",
+              "a": "Bambuspflöcke ragen unter jedem Element hinaus. Stecken Sie sie in die Erde — auf festem Boden hilft ein Gummihammer —, und die Einfassung steht ohne Schrauben, Binder oder Graben an Ort und Stelle."
+            },
+            {
+              "q": "Was bedeuten Höhen wie „25/30 cm“?",
+              "a": "Die Oberkante ist gestuft, jedes Element hat also zwei Höhen. 25/30 cm bedeutet, dass die Stäbe zwischen 25 und 30 cm über dem Boden wechseln. Fünf Stufen sind erhältlich, von 15/20 bis 55/60 cm."
+            },
+            {
+              "q": "Welche Breiten kann ich bestellen?",
+              "a": "100, 120, 150, 180 und 200 cm, in jeder Höhe. Jedes Element steht eigenständig, sodass Sie mehrere für längere Abschnitte aneinanderreihen können. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Lässt sie sich später versetzen?",
+              "a": "Ja. Da sie nur von ihren Füßen gehalten wird, können Sie sie herausziehen und neu positionieren, was sie für saisonale oder wechselnde Bepflanzung praktisch macht."
+            }
+          ]
+        },
+        "bamboo-twig-fence": {
+          "name": "Bambus-Reisigzaun",
+          "metaTitle": "Bambus Reisigzaun Rolle – Sichtschutz, Großhandel",
+          "cardDesc": "Dichte Matte aus feinen Bambuszweigen für einen weichen, rustikalen Sichtschutz.",
+          "eyebrow": "Rustikal · Feine Struktur",
+          "pill": "Natürliche Bambuszweige",
+          "lead": "Eine dichte Matte aus feinen Bambuszweigen und -ästen, zu einem weichen, rustikalen Sichtschutz gebunden — in Längen von 2,1 m und 5 m, 120–180 cm hoch.",
+          "desc": "Wo Stabrollen kräftige senkrechte Linien setzen, gibt der Reisigzaun Struktur. Feine Bambusäste werden zu einer dichten Matte im Reisig-Stil gepackt, die harte Grundstücksgrenzen mildert und Blicke filtert.",
+          "facts": [
+            {
+              "k": "Material",
+              "v": "Feine natürliche Bambuszweige"
+            },
+            {
+              "k": "Optik",
+              "v": "Dichte, rustikale Reisigstruktur"
+            },
+            {
+              "k": "Längen",
+              "v": "210 cm · 500 cm"
+            },
+            {
+              "k": "Höhen",
+              "v": "120 · 150 · 180 cm"
+            }
+          ],
+          "why": "Er wirkt weicher und ungezwungener als jede Stabrolle — ideal für Cottage-, Land- und Naturgärten. Die Länge von 5 m deckt lange Abschnitte mit weniger Stößen ab.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natürliche Bambuszweige und -äste"
+            },
+            {
+              "k": "Konstruktion",
+              "v": "Dichte Matte, zusammengebunden"
+            },
+            {
+              "k": "Format",
+              "v": "Rollen"
+            },
+            {
+              "k": "Höhen",
+              "v": "120 · 150 · 180 cm"
+            },
+            {
+              "k": "Längen",
+              "v": "210 · 500 cm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sechs Standardgrößen, angegeben als Höhe × Länge.",
+            "cols": [
+              "Höhe",
+              "Länge"
+            ],
+            "rows": [
+              [
+                "120 cm",
+                "210 cm"
+              ],
+              [
+                "150 cm",
+                "210 cm"
+              ],
+              [
+                "180 cm",
+                "210 cm"
+              ],
+              [
+                "120 cm",
+                "500 cm"
+              ],
+              [
+                "150 cm",
+                "500 cm"
+              ],
+              [
+                "180 cm",
+                "500 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Weicher, rustikaler Bambus Sichtschutz",
+            "body": [
+              {
+                "p": "Unser Bambus-Reisigzaun wird aus den feinen Zweigen der Bambuspflanze statt aus ihren Stäben gefertigt. Die Zweige werden zu einer dichten Matte gepackt und zusammengebunden, was eine Reisigstruktur ergibt, die ungezwungen und natürlich wirkt. Wie unser gesamter Bambus stammt er von einer schnell wachsenden, nachwachsenden Pflanze."
+              },
+              {
+                "p": "Die feinen, geschichteten Zweige filtern Blicke und mildern Wind und Licht, statt eine harte Wand zu bilden. An einem vorhandenen Zaun befestigt, macht er aus Maschendraht oder müdem Holz einen natürlichen, strukturierten Hintergrund. Im Außenbereich verwittern die Zweige mit der Zeit wie jedes Naturmaterial zu einem weicheren, graueren Ton, der zu ungezwungener Bepflanzung passt."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Cottage-, Land- und naturnahe Gärten.",
+                  "Verkleidung von Maschendraht- oder verwitterten Holzzäunen.",
+                  "Sichtschutz für Kompostplätze, Mülltonnen und Schuppen.",
+                  "Rustikale Gastronomie- und Veranstaltungsumgebungen."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Runde und halbrunde Bambus-Rollzäune bieten klare senkrechte Linien und eine architektonischere Optik. Der Reisigzaun ist die ungezwungene Wahl: feiner, weicher und stärker strukturiert. Das Bambusast-Zaunelement verwendet eine ähnlich dichte Füllung in einem starren Holzrahmen, für Käufer, die diese Struktur als Element zwischen Pfosten wünschen."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "In welchen Größen gibt es den Reisigzaun?",
+              "a": "Höhen von 120, 150 und 180 cm, jeweils in Längen von 210 cm oder 500 cm. Die Länge von 500 cm deckt lange Grundstücksgrenzen mit weniger Stößen ab; die Länge von 210 cm ist im Laden leichter zu handhaben und zu präsentieren. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Wie blickdicht ist er?",
+              "a": "Die Matte ist dicht und schirmt Blicke gut ab, lässt als natürliches Reisigmaterial aber etwas Licht durch, statt eine geschlossene Wand zu bilden. Für einen dichteren Sichtschutz lassen sich zwei Lagen hintereinander befestigen."
+            },
+            {
+              "q": "Wie wird er montiert?",
+              "a": "Rollen Sie ihn an einem vorhandenen Zaun, Gitter oder Rahmen aus und befestigen Sie ihn in regelmäßigen Abständen mit Bindedraht. Für freistehende Nutzung befestigen Sie ihn an Pfosten und Riegeln. Da die Matte flexibel ist, folgt sie leichten Kurven entlang eines vorhandenen Zauns."
+            },
+            {
+              "q": "Kann ich ihn mit eigener Marke bestellen?",
+              "a": "Ja. Wir verpacken nach Ihrer Spezifikation mit Ihren eigenen Etiketten, Barcodes oder Einlegern und bestätigen die Containermengen für Ihren Größenmix. Die MOQ ist verhandelbar."
+            }
+          ]
+        }
+      }
+    },
+    "bambooPanels": {
+      "shared": {
+        "factsTitle": "Auf einen Blick",
+        "whyTitle": "Warum diese Variante",
+        "sizesEyebrow": "Spezifikationen",
+        "qcEyebrow": "Qualitätskontrolle",
+        "qcTitle": "Geprüft vor dem Versand",
+        "qcLead": "Vor dem Verpacken werden die Elemente anhand der Bestellung auf Größe, Rahmen und Oberfläche geprüft, damit das Gelieferte dem entspricht, was Sie freigegeben haben.",
+        "faqEyebrow": "Fragen & Antworten",
+        "faqTitle": "Häufig gestellte Fragen",
+        "packing": {
+          "eyebrow": "Logistik",
+          "title": "Verpackungsoptionen",
+          "lead": "Gerahmte Bambuselemente werden so verpackt, dass Rahmen und Ecken beim Transport geschützt sind — wählen Sie eine Standardoption oder senden Sie uns Ihre eigene Spezifikation.",
+          "options": [
+            {
+              "t": "Schaumstoffschutz",
+              "d": "Elemente in Kunststoff-Schaumstoff gewickelt, um Rahmen, Ecken und Stäbe zu schützen."
+            },
+            {
+              "t": "Paletten",
+              "d": "Elemente gestapelt und auf Paletten gesichert für sichere Handhabung und Verladung."
+            },
+            {
+              "t": "Exportkartons",
+              "d": "Einzel- oder Mehrfachkartons, passend zur Elementgröße."
+            },
+            {
+              "t": "Eigenmarken-Verpackung",
+              "d": "Ihre eigenen Etiketten, bedruckten Einleger oder Barcodes für den Handel."
+            }
+          ]
+        },
+        "series": {
+          "eyebrow": "Das Elemente-Sortiment",
+          "title": "Vergleichen Sie die anderen Bambus-Zaunelemente",
+          "lead": "Von starren Festelementen in Naturbambus oder Schwarz bis zu gerahmten japanischen Stilen — Kumo, Misugaki, Sode-gaki und Koetsu-gaki.",
+          "overviewCta": "Übersicht Bambus-Zaunelemente"
+        }
+      },
+      "variants": {
+        "fixed-natural-bamboo-panel": {
+          "name": "Festes Bambus-Zaunelement natur",
+          "metaTitle": "Bambus Sichtschutz Element natur – Großhandel",
+          "cardDesc": "Starres Element aus dicken runden Naturstäben (35–45 mm), bis 2,0 m hoch.",
+          "eyebrow": "Festes Element · Naturbambus",
+          "pill": "Runder Naturbambus · Ø 35–45 mm",
+          "lead": "Ein starres Element aus dicken runden Naturbambusstäben mit 35–45 mm — ein festes Bambuszaun-Element, das seine Form behält, in vier Größen bis 1,8 × 2,0 m.",
+          "desc": "Unser festes Element verwendet schwerere Stäbe als unsere Rollen und wird als starres Element statt als flexible Rolle gefertigt. Es wird zwischen Pfosten oder an einer Wand befestigt und ist ein solides, fertiges Bambuszaun-Element aus naturgelbem Bambus.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Runder Naturbambus"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Format",
+              "v": "Starres festes Element"
+            },
+            {
+              "k": "Größen",
+              "v": "0,9 × 1,8 m bis 1,8 × 2,0 m"
+            }
+          ],
+          "why": "Es ist die schlichte, solide Wahl unter unseren Bambuszaun-Elementen: dicke runde Stäbe, kein Rahmen, der gepflegt werden muss, und ein starres Format, das zwischen Pfosten steht. Wählen Sie es statt einer Rolle, wenn Sie einen Zaun statt einer Verkleidung wünschen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natürlicher runder Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Bindung",
+              "v": "Verzinkter Draht (bei größeren Durchmessern auch Nylondraht)"
+            },
+            {
+              "k": "Format",
+              "v": "Starres festes Element"
+            },
+            {
+              "k": "Größen",
+              "v": "L 0,9–1,8 m × H 1,8–2,0 m (4 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Vier Standard-Elementgrößen, angegeben als Länge × Höhe.",
+            "cols": [
+              "Länge",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "0,9 m",
+                "1,8 m"
+              ],
+              [
+                "1,0 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "2,0 m"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein starres Element aus dicken Naturstäben",
+            "body": [
+              {
+                "p": "Unser festes Bambus-Zaunelement natur besteht aus runden Naturbambusstäben mit 35–45 mm, dicker als bei den meisten unserer Rollzäune. Die Stäbe werden mit verzinktem Draht — bei den größeren Durchmessern mit Nylondraht — zu einem starren Element gebunden, das seine Form behält. Es lässt sich nicht aufrollen und verhält sich daher wie ein Zaunelement statt wie eine Verkleidung. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Damit ist es das Element der Wahl für eine neue Grundstücksgrenze zwischen Pfosten, einen Sichtschutz auf einer Terrasse oder eine Gartenabtrennung, die selbstständig stehen muss. Vier Standardgrößen reichen vom schmalen Element 0,9 × 1,8 m bis zum vollen Abschnitt 1,8 × 2,0 m."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Neue Grundstücksgrenzen zwischen Holz- oder Metallpfosten.",
+                  "Sichtschutz für Terrassen und Patios.",
+                  "Abtrennungen um Sitzbereiche, Mülltonnen und Lager.",
+                  "Gastronomie- und Landschaftsbauprojekte."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Das feste naturschwarze Element hat dasselbe Format mit dunklen Stäben. Unsere holzgerahmten Elemente, etwa das japanische Kumo oder Misugaki, verwenden dünnere Stäbe mit 13–18 mm in einem dekorativen Rahmen. Ein Bambus-Rollzaun natur ist leichter und flexibel, gemacht zum Ausrollen über etwas, das bereits steht."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "In welchen Größen gibt es die festen Bambuselemente?",
+              "a": "Vier Standardgrößen (Länge × Höhe): 0,9 × 1,8 m, 1,0 × 1,8 m, 1,8 × 1,8 m und 1,8 × 2,0 m. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Worin unterscheidet sich ein festes Element von einem Bambus-Rollzaun?",
+              "a": "Eine Rolle ist flexibel und wird über einem vorhandenen Zaun oder Rahmen befestigt. Das feste Element ist starr und verwendet dickere Stäbe von 35–45 mm, sodass es als eigenständiger Zaun zwischen Pfosten montiert werden kann."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Befestigen Sie es mit Schrauben oder Kabelbindern an Holz- oder Metallpfosten, einer Wand oder einem vorhandenen Zaun. Für längere Abschnitte setzen Sie Pfosten im Abstand der Elementbreite und befestigen Element an Element."
+            },
+            {
+              "q": "Verändert der Naturbambus seine Farbe?",
+              "a": "Allmählich. Wie jedes Naturmaterial im Außenbereich verwittert Bambus in Sonne und Regen langsam zu einem weicheren, graueren Ton. Für ein von Anfang an dunkles Element sehen Sie sich das feste naturschwarze Element an."
+            }
+          ]
+        },
+        "fixed-black-bamboo-panel": {
+          "name": "Festes Bambus-Zaunelement naturschwarz",
+          "metaTitle": "Bambus Sichtschutz Element schwarz – Großhandel",
+          "cardDesc": "Starres Element aus naturschwarzen Stäben (35–45 mm) für eine markante Abgrenzung.",
+          "eyebrow": "Festes Element · Naturschwarz",
+          "pill": "Naturschwarzer Bambus · Ø 35–45 mm",
+          "lead": "Ein starres schwarzes Bambuszaun-Element aus dicken runden naturschwarzen Stäben mit 35–45 mm — die Farbe ist die des Bambus selbst. Vier Größen bis 1,8 × 2,0 m.",
+          "desc": "Dasselbe solide, feste Format wie unser Natur-Element, gefertigt aus naturschwarzem Bambus. Dicke runde Stäbe ergeben eine kräftige, dunkle Abgrenzung, die zwischen Pfosten ihre Form behält, ohne Farbe, die abplatzen oder verschleißen könnte.",
+          "facts": [
+            {
+              "k": "Stab",
+              "v": "Runder naturschwarzer Bambus"
+            },
+            {
+              "k": "Farbe",
+              "v": "Natürlich — nicht lackiert oder gefärbt"
+            },
+            {
+              "k": "Durchmesser",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Größen",
+              "v": "0,9 × 1,8 m bis 1,8 × 2,0 m"
+            }
+          ],
+          "why": "Es bietet die markanteste, zeitgemäßeste Optik unter unseren Bambuszaun-Elementen. Wählen Sie es statt des Natur-Elements für Kontrast zu Bepflanzung und hellem Pflaster; wählen Sie es statt einer schwarzen Rolle, wenn der Sichtschutz zwischen Pfosten stehen muss.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "100% natürlicher schwarzer runder Bambus"
+            },
+            {
+              "k": "Stabdurchmesser",
+              "v": "35–45 mm"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturschwarz — ohne Farbe oder Färbung"
+            },
+            {
+              "k": "Format",
+              "v": "Starres festes Element"
+            },
+            {
+              "k": "Größen",
+              "v": "L 0,9–1,8 m × H 1,8–2,0 m (4 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Vier Standard-Elementgrößen, angegeben als Länge × Höhe — wie beim Natur-Element.",
+            "cols": [
+              "Länge",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "0,9 m",
+                "1,8 m"
+              ],
+              [
+                "1,0 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "1,8 m"
+              ],
+              [
+                "1,8 m",
+                "2,0 m"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage; Natur- und Schwarz-Elemente lassen sich in einer Bestellung kombinieren."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Eine solide, dunkle Bambus-Abgrenzung",
+            "body": [
+              {
+                "p": "Dieses feste Element besteht aus runden naturschwarzen Bambusstäben mit 35–45 mm, zu einem starren Element zusammengesetzt, das seine Form behält. Naturschwarzer Bambus dunkelt beim Wachsen nach, die Farbe ist also Teil des Stabs selbst. Es gibt keine Farbschicht, die bei Handhabung und Montage abplatzen oder abblättern könnte. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Als Naturprodukt variiert der Ton von Stab zu Stab leicht, von tiefem Schwarz bis Braunschwarz. Über eine Reihe von Elementen hinweg verleiht diese Varianz eine Tiefe, die einer lackierten Oberfläche fehlt. Vier Standardgrößen reichen von 0,9 × 1,8 m bis 1,8 × 2,0 m, wie bei unserem Natur-Element."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Zeitgemäße Grundstücksgrenzen und Innenhöfe.",
+                  "Dachterrassen und Balkone mit moderner Anmutung.",
+                  "Sichtschutz für Restaurants, Bars und Hotels.",
+                  "Dunkler Hintergrund für Bepflanzung und Gartenbeleuchtung."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Das feste Natur-Element ist in Format und Größen identisch, mit naturgelben Stäben. Der naturschwarze Bambus-Rollzaun verwendet dünnere Stäbe in einer flexiblen Rolle zur Verkleidung vorhandener Zäune; dieses Element ist die starre, freistehende Option. Seine dicken Stäbe mit 35–45 mm wirken schwerer und substanzieller als die Rollen oder die gerahmten japanischen Elemente mit dünneren Stäben."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Ist die schwarze Farbe lackiert?",
+              "a": "Nein. Das Element besteht aus naturschwarzem Bambus, der dunkel wächst. Es gibt weder Farbe noch Färbung, und kleine Farbunterschiede zwischen den Stäben sind normal. Wie jedes Naturmaterial im Außenbereich kann der Ton mit der Zeit leicht weicher werden."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Vier Standardgrößen (Länge × Höhe): 0,9 × 1,8 m, 1,0 × 1,8 m, 1,8 × 1,8 m und 1,8 × 2,0 m. Sondergrößen auf Anfrage."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Befestigen Sie das Element mit Schrauben oder Kabelbindern zwischen Holz- oder Metallpfosten oder an einer Wand oder einem vorhandenen Zaun. Es ist starr und braucht daher keine Trägerkonstruktion über seine Länge. Für längere Abschnitte setzen Sie Pfosten im Abstand der Elementbreite und befestigen Element an Element."
+            },
+            {
+              "q": "Kann ich Natur- und Schwarz-Elemente in einer Lieferung mischen?",
+              "a": "Ja. Beide haben dieselben Größen, sodass eine gemischte Bestellung leicht zu planen ist. Eigenmarken-Verpackung ist willkommen, die MOQ ist verhandelbar."
+            }
+          ]
+        },
+        "japanese-kumo-bamboo-panel": {
+          "name": "Japanisches Kumo Bambus-Zaunelement",
+          "metaTitle": "Japanischer Bambuszaun Kumo – Element, Großhandel",
+          "cardDesc": "Gerahmtes japanisches Element: senkrechte Stäbe (13–18 mm) und waagerechte Riegel.",
+          "eyebrow": "Japanischer Stil · Gerahmtes Element",
+          "pill": "Bambusrahmen · Stäbe Ø 13–18 mm",
+          "lead": "Ein japanisches Bambuszaun-Element mit rundem Bambusrahmen, senkrechten Stäben mit 13–18 mm und waagerechten Riegeln. Fünf Größen von 45 × 120 bis 88 × 190 cm.",
+          "desc": "Das Kumo-Element bringt einen klaren japanischen Gartenlook in einem fertigen Rahmen. Schlanke senkrechte Stäbe füllen einen runden Bambusrahmen, durchzogen von waagerechten Riegeln; eine holzgerahmte Ausführung ist in fünf Standardgrößen erhältlich.",
+          "facts": [
+            {
+              "k": "Stil",
+              "v": "Japanisches Kumo-Element"
+            },
+            {
+              "k": "Stäbe",
+              "v": "Senkrecht, 13–18 mm"
+            },
+            {
+              "k": "Rahmen",
+              "v": "Runder Bambus; holzgerahmte Ausführung"
+            },
+            {
+              "k": "Größen",
+              "v": "45 × 120 bis 88 × 190 cm"
+            }
+          ],
+          "why": "Es ist das schlichteste unserer japanischen Elemente: senkrechte Stäbe und waagerechte Riegel in einem sauberen Rahmen, ohne dekorative Oberkante oder Knotenarbeit. Wählen Sie es für einen ruhigen, geordneten japanischen Bambuszaun, der sowohl zu traditionellen als auch zu modernen Gärten passt.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturbambus; Holzrahmen bei der gerahmten Ausführung"
+            },
+            {
+              "k": "Rahmen",
+              "v": "Runder Bambusrahmen · holzgerahmte Ausführung"
+            },
+            {
+              "k": "Stäbe",
+              "v": "Senkrecht, Ø 13–18 mm"
+            },
+            {
+              "k": "Riegel",
+              "v": "Waagerecht"
+            },
+            {
+              "k": "Größen",
+              "v": "B 45–165 cm × H 120–190 cm (5 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Fünf Standardgrößen für das holzgerahmte Element, angegeben als Breite × Höhe.",
+            "cols": [
+              "Breite",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein ruhiges, geordnetes japanisches Element",
+            "body": [
+              {
+                "p": "Unser japanisches Kumo Bambus-Zaunelement ist um einen runden Bambusrahmen herum aufgebaut. Darin stehen schlanke senkrechte Stäbe mit 13–18 mm dicht beieinander, durchzogen von waagerechten Riegeln, die sie in Reihe halten. Das Ergebnis ist ein ruhiges, regelmäßiges Muster aus Senkrechten — die Art von Zaun, die Bepflanzung einrahmt, statt mit ihr zu konkurrieren. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Eine holzgerahmte Ausführung gibt es in fünf Standardgrößen, vom schmalen Akzentelement 45 × 120 cm bis zum hohen Sichtschutz 88 × 190 cm. Die Größe 165 × 120 cm eignet sich als niedrige, breite Abgrenzung entlang einer Terrasse oder eines Wegs."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Japanische und Zen-Gärten.",
+                  "Sichtschutz auf Terrassen, Patios und Balkonen.",
+                  "Gestaltungselemente hinter Bepflanzung oder Wasserspielen.",
+                  "Spa-, Hotel- und Restaurantgärten."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Das Misugaki-Element dreht das Muster um, mit waagerechten Stäben, die von senkrechten Latten und schwarzen Seilknoten gehalten werden. Das Element mit Gitteraufsatz ergänzt eine dekorative offene Oberkante. Kumo ist das schlichteste der drei, mit senkrechten Stäben von oben bis unten."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "In welchen Größen wird das Kumo-Element gefertigt?",
+              "a": "Das holzgerahmte Element gibt es in fünf Größen (Breite × Höhe): 45 × 120, 88 × 120, 165 × 120, 88 × 150 und 88 × 190 cm. Die Größe 165 × 120 cm eignet sich für niedrige Abgrenzungen; 88 × 190 cm bietet raumhohen Sichtschutz. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen Kumo- und Misugaki-Element?",
+              "a": "Kumo hat senkrechte Stäbe mit waagerechten Riegeln. Misugaki hat waagerechte Stäbe, die von senkrechten Latten mit schwarzen Seilknoten gehalten werden, auf kurzen Füßen. Kumo wirkt senkrecht und ruhig; Misugaki waagerecht und traditioneller."
+            },
+            {
+              "q": "Wie wird es montiert?",
+              "a": "Befestigen Sie den Rahmen mit Schrauben oder Kabelbindern an Pfosten, einer Wand oder einem vorhandenen Zaun. Mehrere Elemente lassen sich zwischen Pfosten zu einem durchgehenden japanischen Bambuszaun aneinanderreihen. Der gerahmte Rand gibt jedem Element eine saubere Kontur, zusätzliche Leisten sind nicht nötig."
+            },
+            {
+              "q": "Können Sie es unter unserer eigenen Marke liefern?",
+              "a": "Ja. Eigenmarken-Verpackung mit Ihren Etiketten, Barcodes oder Einlegern ist willkommen, die MOQ ist verhandelbar. Kumo kann zusammen mit unseren anderen gerahmten Elementen versendet werden, die dieselben Größen haben."
+            }
+          ]
+        },
+        "lattice-top-bamboo-panel": {
+          "name": "Bambus-Zaunelement mit Gitteraufsatz",
+          "metaTitle": "Bambus Zaunelement mit Gitteraufsatz – Großhandel",
+          "cardDesc": "Dunkler Holzrahmen, offener Gitteraufsatz, Bambusfront natur oder karbonisiert.",
+          "eyebrow": "Gerahmtes Element · Gitteraufsatz",
+          "pill": "Holzrahmen · Bambus Ø 13–18 mm",
+          "lead": "Ein Bambuszaun-Element mit dunklem Holzrahmen und dekorativem offenem Gitteraufsatz über einer Front aus Bambus mit 13–18 mm und geknoteten Riegeln. Natur oder karbonisiert.",
+          "desc": "Das Element mit Gitteraufsatz verbindet Sichtschutz unten mit einem leichten, offenen Band oben. Ein dunkler Holzrahmen fasst eine Naturbambusfront mit geknoteten Riegeln, gekrönt von einem dekorativen Gitter. Eine karbonisierte Ausführung ergibt einen wärmeren, dunkleren Ton.",
+          "facts": [
+            {
+              "k": "Rahmen",
+              "v": "Dunkles Holz"
+            },
+            {
+              "k": "Front",
+              "v": "Bambus 13–18 mm, geknotete Riegel"
+            },
+            {
+              "k": "Oberkante",
+              "v": "Dekoratives offenes Gitter"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Natur · karbonisiert"
+            }
+          ],
+          "why": "Das offene Gitter mildert die Oberkante einer Abgrenzung und lässt Licht durch, sodass ein hohes Element weniger schwer wirkt. Wählen Sie es statt des Kumo-Elements, wenn Sie eine dekorativere, fertigere Optik wünschen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Natur- oder karbonisierter Bambus + dunkler Holzrahmen"
+            },
+            {
+              "k": "Bambusfront",
+              "v": "Ø 13–18 mm, geknotete Riegel"
+            },
+            {
+              "k": "Oberkante",
+              "v": "Dekoratives offenes Gitter"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Natur · karbonisiert (hitzebehandelt)"
+            },
+            {
+              "k": "Größen",
+              "v": "B 45–165 cm × H 120–190 cm (5 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Fünf Standardgrößen, angegeben als Breite × Höhe, in Natur oder karbonisiert.",
+            "cols": [
+              "Breite",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Sichtschutz unten, Licht oben",
+            "body": [
+              {
+                "p": "Unser Bambus-Zaunelement mit Gitteraufsatz ist in einen dunklen Holzrahmen gefasst. Die Hauptfront besteht aus Naturbambus mit 13–18 mm, durchzogen von Riegeln, die mit dekorativen Knoten gebunden sind. Darüber sitzt ein offenes Gitter, das Licht und Durchblicke zulässt, sodass das Element auf Augenhöhe schützt, ohne den Himmel auszusperren. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Der Kontrast zwischen dunklem Rahmen und hellem Bambus gibt dem Element eine klare, fertige Kontur. Es passt zu Gärten, in denen der Zaun Teil der Gestaltung ist und nicht nur Hintergrund. Fünf Standardgrößen reichen vom schmalen Element 45 × 120 cm bis zum hohen Sichtschutz 88 × 190 cm, dazu eine breite Option 165 × 120 cm für niedrige Abgrenzungen."
+              },
+              {
+                "h3": "Natur oder karbonisiert"
+              },
+              {
+                "p": "Die Naturausführung behält die helle Strohfarbe des Bambus. Die karbonisierte Ausführung ist hitzebehandelt, wodurch der Bambus durch den ganzen Stab ein wärmeres Braun annimmt und im Ton näher am dunklen Rahmen liegt. Beide Ausführungen haben denselben Rahmen, dieselben Größen und geknoteten Riegel und lassen sich in einer Bestellung kombinieren."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Zaunelemente, bei denen eine weichere Oberkante gewünscht ist.",
+                  "Terrassen und Patios nahe am Haus.",
+                  "Japanisch inspirierte und Cottage-Gärten.",
+                  "Gastronomie- und Mustergartenprojekte."
+                ]
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Fünf Größen (Breite × Höhe): 45 × 120, 88 × 120, 165 × 120, 88 × 150 und 88 × 190 cm, in Natur oder karbonisiert. Sondergrößen werden auf Anfrage gefertigt."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen Natur und karbonisiert?",
+              "a": "Karbonisierter Bambus ist hitzebehandelt, wodurch er durch den ganzen Stab zu einem warmen Braun nachdunkelt. Die Naturausführung behält die helle Strohfarbe des Bambus. Rahmen und Konstruktion sind gleich, und beim Karbonisieren werden weder Farbe noch Färbung verwendet."
+            },
+            {
+              "q": "Verringert der Gitteraufsatz den Sichtschutz?",
+              "a": "Nur oben. Die Bambusfront darunter schützt auf Augenhöhe, während das offene Gitter darüber Licht durchlässt."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Befestigen Sie den Holzrahmen mit Schrauben an Pfosten, einer Wand oder einem vorhandenen Zaun. Elemente lassen sich Seite an Seite zwischen Pfosten zu einem durchgehenden Abschnitt aufstellen. Der dunkle Rahmen gibt jedem Element einen fertigen Rand, zusätzliche Leisten sind nicht nötig."
+            }
+          ]
+        },
+        "misugaki-bamboo-panel": {
+          "name": "Misugaki Bambus-Zaunelement",
+          "metaTitle": "Japanischer Bambuszaun Misugaki – Großhandel",
+          "cardDesc": "Waagerechte Stäbe, senkrechte Latten, schwarze Seilknoten, auf kurzen Füßen.",
+          "eyebrow": "Japanischer Stil · Traditionell",
+          "pill": "Holzrahmen · Stäbe Ø 13–18 mm",
+          "lead": "Ein traditioneller japanischer Misugaki-Bambuszaun: dünne waagerechte Stäbe, von senkrechten Latten mit schwarzen Seilknoten gehalten, in einem dunklen Holzrahmen auf kurzen Füßen.",
+          "desc": "Misugaki ist einer der klassischen japanischen Bambuszaun-Stile. Wir bauen ihn in einem dunklen Holzrahmen mit waagerechten Stäben von 13–18 mm, senkrechten Latten und schwarzen Seilknoten und stellen das Element auf kurze Füße, in fünf Standardgrößen.",
+          "facts": [
+            {
+              "k": "Stil",
+              "v": "Traditioneller japanischer Misugaki"
+            },
+            {
+              "k": "Stäbe",
+              "v": "Waagerecht, 13–18 mm"
+            },
+            {
+              "k": "Detail",
+              "v": "Senkrechte Latten, schwarze Seilknoten"
+            },
+            {
+              "k": "Rahmen",
+              "v": "Dunkles Holz, auf kurzen Füßen"
+            }
+          ],
+          "why": "Es ist das traditionellste Element im Sortiment: Die waagerechten Stäbe und schwarzen Knoten wirken wie authentisches japanisches Handwerk. Wählen Sie es für japanische Gärten und Projekte, bei denen der Zaun ein Gestaltungsmerkmal ist.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturbambus + dunkler Holzrahmen"
+            },
+            {
+              "k": "Stäbe",
+              "v": "Waagerecht, Ø 13–18 mm"
+            },
+            {
+              "k": "Latten",
+              "v": "Senkrecht, mit schwarzen Seilknoten gebunden"
+            },
+            {
+              "k": "Rahmen",
+              "v": "Dunkles Holz, auf kurzen Füßen"
+            },
+            {
+              "k": "Größen",
+              "v": "B 45–165 cm × H 120–190 cm (5 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Fünf Standardgrößen, angegeben als Breite × Höhe.",
+            "cols": [
+              "Breite",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein klassischer japanischer Zaun, fertig zur Montage",
+            "body": [
+              {
+                "p": "Misugaki ist ein traditioneller japanischer Bambuszaun-Stil aus dünnen, waagerecht gelegten Stäben, die von senkrechten Latten gehalten werden. Unser Misugaki Bambus-Zaunelement folgt diesem Muster: waagerechte Stäbe mit 13–18 mm, senkrechte Latten, mit schwarzen Seilknoten befestigt, und ein dunkler Holzrahmen, der den hellen Bambus hervorhebt."
+              },
+              {
+                "p": "Das Element steht auf kurzen Füßen, die den Bambus leicht vom Boden abheben. Fünf Standardgrößen reichen vom Akzentelement 45 × 120 cm bis zum Sichtschutz 88 × 190 cm, dazu eine breite Option 165 × 120 cm für niedrige Abschnitte. Die waagerechten Linien lassen einen Raum weiter und ruhiger wirken, weshalb dieser Stil so oft zur Einfassung japanischer Gärten, Eingänge und Teegartenwege verwendet wird."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Japanische, Zen- und Teegärten.",
+                  "Eingänge, Innenhöfe und Gestaltungswände.",
+                  "Hintergrund für Ahorn, Moos und Stein.",
+                  "Spa-, Hotel- und Restaurantgärten."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Das japanische Kumo-Element verwendet senkrechte Stäbe mit waagerechten Riegeln und ergibt einen senkrechten Rhythmus. Misugaki ist das waagerechte Gegenstück, mit den schwarzen Seilknoten als Markenzeichen. Für einen schmalen Akzent-Sichtschutz statt einer Reihe von Elementen sehen Sie sich den Sode-gaki-Ärmelzaun an."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was ist ein Misugaki-Zaun?",
+              "a": "Ein traditioneller japanischer Bambuszaun-Stil aus dünnen waagerechten Stäben, die von senkrechten Latten gehalten werden. Unserer ergänzt schwarze Seilknoten, einen dunklen Holzrahmen und kurze Füße. Der helle Bambus vor dem dunklen Rahmen und den Knoten verleiht ihm seine traditionelle Anmutung."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Fünf Größen (Breite × Höhe): 45 × 120, 88 × 120, 165 × 120, 88 × 150 und 88 × 190 cm. Sondergrößen auf Anfrage."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Stellen Sie das Element auf seine Füße und befestigen Sie den Holzrahmen mit Schrauben an Pfosten, einer Wand oder benachbarten Elementen. Auf weichem Boden setzen Sie die Füße auf ein festes Fundament oder befestigen sie an Pfosten. Elemente lassen sich Seite an Seite zu einem durchgehenden traditionellen Zaun aufreihen."
+            },
+            {
+              "q": "Wie unterscheidet es sich vom Kumo-Element?",
+              "a": "Kumo hat senkrechte Stäbe und waagerechte Riegel; Misugaki hat waagerechte Stäbe, senkrechte Latten und schwarze Seilknoten. Misugaki wirkt traditioneller; Kumo ist schlichter und passt auch zu modernen Gärten."
+            }
+          ]
+        },
+        "bamboo-branch-panel": {
+          "name": "Bambusast-Zaunelement",
+          "metaTitle": "Bambus Zaunelement Äste mit Holzrahmen – Großhandel",
+          "cardDesc": "Holzrahmen, gefüllt mit dichten Bambusästen — natur oder schwarz.",
+          "eyebrow": "Gerahmtes Element · Rustikale Struktur",
+          "pill": "Bambusäste · Holzrahmen",
+          "lead": "Ein holzgerahmtes Element, gefüllt mit dichten Bambusästen und durchzogen von Bambusriegeln mit schwarzen Knoten — rustikale Struktur in einem sauberen Rahmen. Natur oder naturschwarz.",
+          "desc": "Das Astelement bringt die weiche Reisigstruktur von Bambusästen in einen starren Holzrahmen. Waagerechte Bambusriegel mit schwarzen Knoten halten die Äste an Ort und Stelle, in natürlichen oder naturschwarzen Ästen und fünf Standardgrößen.",
+          "facts": [
+            {
+              "k": "Füllung",
+              "v": "Dichte Bambusäste"
+            },
+            {
+              "k": "Rahmen",
+              "v": "Holz"
+            },
+            {
+              "k": "Riegel",
+              "v": "Waagerechter Bambus, schwarze Knoten"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Natur · naturschwarz"
+            }
+          ],
+          "why": "Es bietet die strukturierteste, ungezwungenste Front unserer gerahmten Elemente und behält dabei einen sauberen, starren Rahmen. Wählen Sie es statt der Bambus-Reisigzaun-Rolle, wenn Sie Elemente wünschen, die sich mit fertigem Rand zwischen Pfosten befestigen lassen.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Bambusäste + Holzrahmen"
+            },
+            {
+              "k": "Riegel",
+              "v": "Waagerechter Bambus, mit schwarzen Knoten gebunden"
+            },
+            {
+              "k": "Ausführungen",
+              "v": "Natürliche Äste · naturschwarze Äste"
+            },
+            {
+              "k": "Format",
+              "v": "Starres gerahmtes Element"
+            },
+            {
+              "k": "Größen",
+              "v": "B 45–165 cm × H 120–190 cm (5 Größen)"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Fünf Standardgrößen, angegeben als Breite × Höhe, in beiden Ausführungen.",
+            "cols": [
+              "Breite",
+              "Höhe"
+            ],
+            "rows": [
+              [
+                "45 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "120 cm"
+              ],
+              [
+                "165 cm",
+                "120 cm"
+              ],
+              [
+                "88 cm",
+                "150 cm"
+              ],
+              [
+                "88 cm",
+                "190 cm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Reisigstruktur in einem sauberen Rahmen",
+            "body": [
+              {
+                "p": "Unser Bambusast-Zaunelement ist ein Holzrahmen, gefüllt mit dichten Bambusästen. Waagerechte Bambusriegel queren die Front und sind mit schwarzen Knoten gebunden, halten die Äste an Ort und Stelle und setzen ein handwerkliches Detail. Die Füllung schirmt Blicke gut ab, während die feinen Äste eine weiche, natürliche Struktur behalten. Wie unser gesamter Bambus ist es nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "p": "Es gibt zwei Ausführungen: natürliche Äste in warmem Strohton und naturschwarze Äste für ein dunkleres, dramatischeres Element. In beiden ist die Farbe die des Bambus selbst. Beide Ausführungen haben denselben Holzrahmen, dieselben Riegel und fünf Standardgrößen und lassen sich in einer Bestellung kombinieren."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Cottage-, Land- und Naturgärten.",
+                  "Japanisch anmutende Gärten mit rustikaler Note.",
+                  "Sichtschutz für Patios, Mülltonnen und Lagerflächen.",
+                  "Gastronomie und Präsentation im Gartencenter."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Der Bambus-Reisigzaun ist eine flexible Rolle aus ähnlichem feinem Material, gemacht zur Verkleidung eines vorhandenen Zauns. Das Astelement ist starr und gerahmt und kann daher zwischen Pfosten stehen. Gegenüber dem Kumo- oder Misugaki-Element tauscht es die ordentlichen Stablinien gegen eine dichtere, strukturiertere Front."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Fünf Größen (Breite × Höhe): 45 × 120, 88 × 120, 165 × 120, 88 × 150 und 88 × 190 cm, mit natürlichen oder naturschwarzen Ästen. Die Größe 165 × 120 cm eignet sich für niedrige Abgrenzungen. Sondergrößen auf Anfrage."
+            },
+            {
+              "q": "Ist die schwarze Ausführung lackiert?",
+              "a": "Nein. Sie verwendet naturschwarze Bambusäste, die Farbe ist also die des Bambus selbst. Leichte Farbunterschiede zwischen den Ästen sind normal."
+            },
+            {
+              "q": "Wie blickdicht ist ein Astelement?",
+              "a": "Die Äste sind dicht gepackt, es schirmt Blicke daher gut ab. Als natürliche Reisigfüllung lässt es etwas Licht durch, statt eine geschlossene Wand zu bilden. Für mehr Sichtschutz lassen sich die Elemente an einem vorhandenen Zaun statt zwischen Pfosten befestigen."
+            },
+            {
+              "q": "Wie montiere ich es?",
+              "a": "Befestigen Sie den Holzrahmen mit Schrauben oder Kabelbindern an Pfosten, einer Wand oder einem vorhandenen Zaun. Elemente lassen sich Seite an Seite zu einem durchgehenden Abschnitt aufstellen, und der Rahmen gibt jedem einen fertigen Rand ohne zusätzliche Leisten."
+            }
+          ]
+        },
+        "sode-gaki-bamboo-sleeve-fence": {
+          "name": "Sode-gaki Bambus-Ärmelzaun",
+          "metaTitle": "Japanischer Bambuszaun Sode-gaki – Großhandel",
+          "cardDesc": "Schmaler japanischer Ärmelzaun mit hohem Pfosten und geschwungenem Gitteraufsatz.",
+          "eyebrow": "Japanischer Stil · Akzent-Sichtschutz",
+          "pill": "Naturgelber Bambus · 90 mm dick",
+          "lead": "Ein japanischer Ärmelzaun: ein schmales Bambuselement mit hohem Pfosten, geschwungenem Gitteraufsatz und senkrechten Stäben darunter. Vier Größen von 45 × 120 bis 90 × 170 cm.",
+          "desc": "Sode-gaki bedeutet „Ärmelzaun“ — ein kurzer, dekorativer Sichtschutz, der von einer Wand, einem Tor oder einer Gebäudeecke ausgeht. Unserer besteht aus naturgelbem Bambus mit hohem Bambuspfosten, geschwungenem Gitteraufsatz und senkrechten Stäben, 90 mm dick.",
+          "facts": [
+            {
+              "k": "Stil",
+              "v": "Japanischer Sode-gaki (Ärmelzaun)"
+            },
+            {
+              "k": "Design",
+              "v": "Hoher Pfosten, geschwungener Gitteraufsatz"
+            },
+            {
+              "k": "Farbe",
+              "v": "Naturgelber Bambus"
+            },
+            {
+              "k": "Größen",
+              "v": "18 × 48 in bis 36 × 68 in"
+            }
+          ],
+          "why": "Er ist ein Akzentstück statt einer Abgrenzung: Ein Ärmelzaun kann einen Eingang einrahmen, ein Fallrohr verbergen oder eine Bepflanzung verankern. Wählen Sie ihn dort, wo eine ganze Reihe von Elementen zu viel wäre.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturgelber Bambus"
+            },
+            {
+              "k": "Design",
+              "v": "Hoher Bambuspfosten, geschwungener Gitteraufsatz, senkrechte Stäbe"
+            },
+            {
+              "k": "Größen",
+              "v": "4 Größen, B 45–90 cm × H 120–170 cm"
+            },
+            {
+              "k": "Dicke",
+              "v": "90 mm"
+            },
+            {
+              "k": "Verpackungsmaß",
+              "v": "47 × 122 bis 92 × 172 cm · T 95 mm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Vier Standardgrößen, angegeben als Breite × Höhe, mit Verpackungsmaßen.",
+            "cols": [
+              "Breite × Höhe (in)",
+              "Breite × Höhe (cm)",
+              "Dicke",
+              "Verpackungsmaß"
+            ],
+            "rows": [
+              [
+                "18 × 48 in",
+                "45 × 120 cm",
+                "90 mm",
+                "47 × 122 cm · T 95 mm"
+              ],
+              [
+                "24 × 68 in",
+                "60 × 170 cm",
+                "90 mm",
+                "62 × 172 cm · T 95 mm"
+              ],
+              [
+                "28 × 68 in",
+                "70 × 170 cm",
+                "90 mm",
+                "72 × 172 cm · T 95 mm"
+              ],
+              [
+                "36 × 68 in",
+                "90 × 170 cm",
+                "90 mm",
+                "92 × 172 cm · T 95 mm"
+              ]
+            ],
+            "note": "Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein japanischer Akzent-Sichtschutz",
+            "body": [
+              {
+                "p": "In japanischen Gärten ist ein Sode-gaki oder Ärmelzaun ein kurzer Sichtschutz, der von einem Gebäude, einer Mauer oder einem Tor ausgeht, wie ein Ärmel vom Kimono. Er umschließt keinen Raum; er rahmt eine Aussicht, verbirgt etwas Funktionales oder gibt einer Pflanzengruppe einen Hintergrund."
+              },
+              {
+                "p": "Unser Sode-gaki Bambus-Ärmelzaun besteht aus naturgelbem Bambus. Ein hoher Bambuspfosten bildet eine Seite, ein geschwungener Gitteraufsatz schwingt von ihm weg, und senkrechte Stäbe füllen das Element darunter. Das Element ist 90 mm dick und gibt es in vier Größen, vom kompakten 45 × 120 cm (18 × 48 in) bis 90 × 170 cm (36 × 68 in). Wie unser gesamter Bambus ist er nachwachsend und wird ohne Pestizide, Formaldehyd oder giftige Klebstoffe hergestellt."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Einrahmung von Haustür, Tor oder Gartenzugang.",
+                  "Verbergen von Fallrohren, Zählern, Mülltonnen oder Klimageräten.",
+                  "Hintergrund für eine Laterne, ein Wasserbecken oder eine Solitärpflanze.",
+                  "Japanische Gärten, Spas und Hotelinnenhöfe."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Der Koetsu-gaki-Flügelzaun ist das andere japanische Akzentstück im Sortiment, niedriger und breiter, mit offenem Rautengitter. Die Kumo- und Misugaki-Elemente sind dafür gemacht, als Abgrenzung aneinandergereiht zu werden, statt als einzelne Akzente zu dienen."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was ist ein Ärmelzaun?",
+              "a": "Ein kurzer dekorativer japanischer Zaun, Sode-gaki, der von einer Wand, einem Tor oder einer Gebäudeecke ausgeht. Er dient dazu, Aussichten zu rahmen oder kleine Bereiche abzuschirmen, nicht zur Einfriedung eines Gartens."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Vier Größen (Breite × Höhe): 18 × 48 in (45 × 120 cm), 24 × 68 in (60 × 170 cm), 28 × 68 in (70 × 170 cm) und 36 × 68 in (90 × 170 cm), alle 90 mm dick."
+            },
+            {
+              "q": "Wie lauten die Verpackungsmaße?",
+              "a": "Jeweils 47 × 122, 62 × 172, 72 × 172 und 92 × 172 cm, jeweils 95 mm dick, was bei der Karton- und Containerplanung hilft."
+            },
+            {
+              "q": "Wie wird er montiert?",
+              "a": "Befestigen Sie den Bambuspfosten an einer Wand, einem Torpfosten oder einer Gebäudeecke oder setzen Sie ihn auf einen eigenen Pfosten im Boden, sodass das Element von ihm ausgeht. Zwei Ärmelzäune lassen sich verwenden, um beide Seiten eines Eingangs einzurahmen."
+            }
+          ]
+        },
+        "koetsu-gaki-bamboo-wing-fence": {
+          "name": "Koetsu-gaki Bambus-Flügelzaun",
+          "metaTitle": "Japanischer Bambuszaun Koetsu-gaki – Großhandel",
+          "cardDesc": "Japanischer Flügelzaun: geschwungene Oberschiene über offenen Rauten aus gespaltenem Bambus.",
+          "eyebrow": "Japanischer Stil · Offenes Gitter",
+          "pill": "Naturgelber Bambus · 90 mm dick",
+          "lead": "Ein japanischer Flügelzaun mit Bambuspfosten, weit geschwungener Oberschiene und offenem Rautengitter aus gespaltenem Bambus. Sechs Größen von 60 × 60 bis 200 × 90 cm.",
+          "desc": "Koetsu-gaki ist ein japanischer Bambuszaun-Stil, bekannt für seine geschwungene Oberkante und das offene Rautengitter. Unserer besteht aus naturgelbem Bambus mit einem Bambuspfosten an einem Ende, 90 mm dick, in sechs Größen vom niedrigen Akzent 60 × 60 cm bis zum Flügel 180 × 120 cm.",
+          "facts": [
+            {
+              "k": "Stil",
+              "v": "Japanischer Koetsu-gaki (Flügelzaun)"
+            },
+            {
+              "k": "Design",
+              "v": "Geschwungene Oberschiene, Rautengitter"
+            },
+            {
+              "k": "Gitter",
+              "v": "Gespaltener Bambus, offen"
+            },
+            {
+              "k": "Größen",
+              "v": "24 × 24 in bis 79 × 36 in"
+            }
+          ],
+          "why": "Er ist das offenste, skulpturalste Stück im Sortiment: Er rahmt und teilt, ohne zu verbergen, sodass die Bepflanzung durch das Gitter sichtbar bleibt. Wählen Sie ihn für niedrige Akzente und Gartenelemente statt für Sichtschutz.",
+          "spec": [
+            {
+              "k": "Material",
+              "v": "Naturgelber Bambus, Gitter aus gespaltenem Bambus"
+            },
+            {
+              "k": "Design",
+              "v": "Bambuspfosten, geschwungene Oberschiene, offenes Rautengitter"
+            },
+            {
+              "k": "Größen",
+              "v": "6 Größen, B 60–200 cm × H 60–120 cm"
+            },
+            {
+              "k": "Dicke",
+              "v": "90 mm"
+            },
+            {
+              "k": "Verpackungsmaß",
+              "v": "≈ 2 cm größer als der Zaun · T 95 mm"
+            },
+            {
+              "k": "Pro 40HC",
+              "v": "Auf Anfrage"
+            },
+            {
+              "k": "MOQ & OEM",
+              "v": "Verhandelbar · Eigenmarke willkommen"
+            },
+            {
+              "k": "Verladehafen",
+              "v": "Xiamen, China"
+            }
+          ],
+          "sizes": {
+            "title": "Standardgrößen",
+            "lead": "Sechs Standardgrößen, angegeben als Breite × Höhe.",
+            "cols": [
+              "Breite × Höhe (in)",
+              "Breite × Höhe (cm)",
+              "Dicke"
+            ],
+            "rows": [
+              [
+                "24 × 24 in",
+                "60 × 60 cm",
+                "90 mm"
+              ],
+              [
+                "38 × 36 in",
+                "90 × 90 cm",
+                "90 mm"
+              ],
+              [
+                "48 × 40 in",
+                "120 × 100 cm",
+                "90 mm"
+              ],
+              [
+                "60 × 43 in",
+                "150 × 108 cm",
+                "90 mm"
+              ],
+              [
+                "72 × 48 in",
+                "180 × 120 cm",
+                "90 mm"
+              ],
+              [
+                "79 × 36 in",
+                "200 × 90 cm",
+                "90 mm"
+              ]
+            ],
+            "note": "Die Verpackungsmaße sind etwa 2 cm größer als der Zaun, 95 mm dick. Sondergrößen auf Anfrage."
+          },
+          "about": {
+            "eyebrow": "Das Produkt",
+            "title": "Ein offener, skulpturaler japanischer Zaun",
+            "body": [
+              {
+                "p": "Koetsu-gaki ist ein traditioneller japanischer Bambuszaun-Stil, benannt nach dem Koetsu-ji-Tempel in Kyoto. Sein Markenzeichen ist eine lange Oberschiene, die sich von einem Pfosten über ein offenes Gitter aus gekreuztem Bambus herabschwingt. Es ist ein Zaun zum Anschauen und Hindurchsehen, kein Sichtschutz zum Dahinterverstecken."
+              },
+              {
+                "p": "Unser Koetsu-gaki Bambus-Flügelzaun besteht aus naturgelbem Bambus. Ein Bambuspfosten verankert ein Ende, die geschwungene Oberschiene schwingt von ihm weg, und gespaltener Bambus bildet darunter ein offenes Rautengitter. Das Element ist 90 mm dick und gibt es in sechs Größen, vom Akzent 60 × 60 cm (24 × 24 in) bis zum niedrigen Abschnitt 200 × 90 cm (79 × 36 in)."
+              },
+              {
+                "h3": "Anwendungen"
+              },
+              {
+                "ul": [
+                  "Einrahmung eines Wegs, Eingangs oder Gartenelements.",
+                  "Niedrige Abtrennungen zwischen Gartenbereichen.",
+                  "Hintergrund für Steinlaternen, Wasserbecken und Solitärpflanzen.",
+                  "Japanische Gärten, Spas und Hotelinnenhöfe."
+                ]
+              },
+              {
+                "h3": "Der Vergleich"
+              },
+              {
+                "p": "Der Sode-gaki-Ärmelzaun ist höher und schmaler, mit einem geschlossenen Element aus senkrechten Stäben unter dem Gitteraufsatz, schützt also ebenso, wie er dekoriert. Koetsu-gaki ist niedriger, breiter und vollständig offen, formt also einen Raum und lässt die Aussicht hindurch."
+              }
+            ]
+          },
+          "faq": [
+            {
+              "q": "Was ist ein Koetsu-gaki-Zaun?",
+              "a": "Ein japanischer Bambuszaun-Stil mit geschwungener Oberschiene über einem offenen Rautengitter, benannt nach dem Koetsu-ji-Tempel in Kyoto. Er dient als dekorativer Flügel oder Abtrennung, nicht als Sichtschutz."
+            },
+            {
+              "q": "Welche Größen sind erhältlich?",
+              "a": "Sechs Größen (Breite × Höhe): 24 × 24 in (60 × 60 cm), 38 × 36 in (90 × 90 cm), 48 × 40 in (120 × 100 cm), 60 × 43 in (150 × 108 cm), 72 × 48 in (180 × 120 cm) und 79 × 36 in (200 × 90 cm), alle 90 mm dick."
+            },
+            {
+              "q": "Wie wird er verpackt?",
+              "a": "Jeder Zaun wird in einem Maß verpackt, das etwa 2 cm größer als der Zaun selbst ist und 95 mm dick. Verpackungsmaterial und Beschriftung können Ihrer Spezifikation folgen."
+            },
+            {
+              "q": "Wie montiere ich ihn?",
+              "a": "Befestigen Sie den Bambuspfosten an einer Wand oder einem Torpfosten oder setzen Sie ihn auf einen eigenen Pfosten im Boden, sodass der geschwungene Flügel von ihm ausgeht. Mehrere lassen sich verwenden, um beide Seiten eines Wegs einzurahmen."
+            }
+          ]
+        }
+      }
     }
   },
   "home": {

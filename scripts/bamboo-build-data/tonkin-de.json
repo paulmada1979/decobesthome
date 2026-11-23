@@ -1,0 +1,59 @@
+{
+  "name": "Tonkin-Bambus-Paravent",
+  "metaTitle": "Tonkin Bambus Paravent & Raumteiler – Großhandel",
+  "cardDesc": "Faltbarer Tonkin-Paravent im Holzrahmen, 120 × 180 cm.",
+  "eyebrow": "Paravent · Innen & überdachter Außenbereich",
+  "pill": "Tonkin-Bambus · Holzrahmen",
+  "lead": "Ein faltbarer Bambus-Paravent aus geraden Tonkin-Stäben im Holzrahmen: drei Scharnierelemente, 120 × 180 cm, aus naturfarbenem oder karbonisiertem Bambus.",
+  "desc": "Drei Scharnierelemente aus schlanken, gleichmäßigen Tonkin-Bambusstäben, aufrecht in einen Holzrahmen eingesetzt. Der Paravent steht von allein, lässt sich zum Lagern und Versenden flach zusammenfalten und dient als Raumteiler, als Sichtschutz auf Balkon oder Terrasse oder als Kulisse in Geschäften, Hotels und Restaurants.",
+  "facts": [
+    { "k": "Material", "v": "Tonkin-Bambusstäbe + Holzrahmen" },
+    { "k": "Größe", "v": "B 120 × H 180 cm, 5 cm dick" },
+    { "k": "Format", "v": "3 Scharnierelemente, freistehend" },
+    { "k": "Farben", "v": "Natur oder karbonisiert" }
+  ],
+  "why": "Die richtige Wahl, wenn Sie Sichtschutz ohne feste Montage brauchen: Er steht von allein, lässt sich wegräumen, und die geraden Tonkin-Stäbe wirken feiner und eher wie ein Möbelstück als eine Zaunmatte aus dem Garten.",
+  "spec": [
+    { "k": "Material", "v": "Natürliche Tonkin-Bambusstäbe (3+ Jahre gewachsen), Holzrahmen" },
+    { "k": "Konstruktion", "v": "Drei Scharnierelemente, faltbar" },
+    { "k": "Standardgröße", "v": "B 120 × T 5 × H 180 cm" },
+    { "k": "Nettogewicht", "v": "22 kg" },
+    { "k": "Oberfläche", "v": "Natur oder karbonisiert (hitzebehandelt)" },
+    { "k": "Verpackung", "v": "Kunststoffschaum + Palette" },
+    { "k": "MOQ & OEM", "v": "Verhandelbar · Eigenmarke willkommen" },
+    { "k": "Verladehafen", "v": "Xiamen, China" }
+  ],
+  "sizes": {
+    "title": "Standardgröße",
+    "lead": "Eine Standardgröße in zwei Ausführungen; andere Größen auf Anfrage.",
+    "cols": ["Version", "Breite", "Höhe", "Stärke", "Nettogewicht"],
+    "rows": [
+      ["Tonkin Natur", "120 cm", "180 cm", "5 cm", "22 kg"],
+      ["Tonkin karbonisiert", "120 cm", "180 cm", "5 cm", "Auf Anfrage"]
+    ],
+    "note": "Sonderbreiten, -höhen und andere Elementzahlen fertigen wir auf Bestellung; fragen Sie uns nach einem Angebot."
+  },
+  "about": {
+    "eyebrow": "Das Produkt",
+    "title": "Tonkin-Stäbe, gerahmt und faltbar",
+    "body": [
+      { "p": "Tonkin-Bambus gehört zu den stärksten und flexibelsten Bambusarten. Die Stäbe wachsen schlank, gerade und gleichmäßig, und der Bambus ist von Natur aus bitter, was ihn für Insekten weniger attraktiv macht. Wir verwenden Stäbe, die mindestens drei Jahre gewachsen sind, sodass die Paravents fest sind und ihre Form behalten." },
+      { "p": "Die Stäbe stehen aufrecht nebeneinander in einem Holzrahmen, der in drei durch Scharniere verbundene Elemente unterteilt ist. Im Zickzack aufgestellt steht der Paravent von selbst; zusammengefaltet liegt er flach, was auch die Frachtkosten niedrig hält." },
+      { "h3": "Einsatzbereiche" },
+      { "ul": [
+        "Raumteiler in Wohnungen, Ateliers und Büros",
+        "Sichtschutz auf Balkonen, Terrassen und überdachten Innenhöfen",
+        "Kulissen und Raumtrenner in Geschäften, Hotels, Spas und Restaurants",
+        "Display- und Fotohintergründe"
+      ] },
+      { "h3": "Im Vergleich" },
+      { "p": "Eine Bambus-Zaunmatte wird an einem vorhandenen Zaun oder Rahmen befestigt und ist für die Gartengrenze gedacht. Der Tonkin-Paravent ist dagegen ein fertiges, freistehendes Stück: feinere Stäbe, eine gerahmte Kante und Scharniere, sodass er sich versetzen lässt und innen wie außen funktioniert. Wählen Sie Natur für einen hellen, warmen Look oder karbonisiert für einen tieferen Braunton, der durch den ganzen Stab geht." }
+    ]
+  },
+  "faq": [
+    { "q": "Ist das ein Zaun oder ein Raumteiler?", "a": "Es ist ein freistehender, faltbarer Paravent. Er dient drinnen als Raumteiler und draußen als Sichtschutz auf Balkon, Terrasse oder überdachtem Innenhof. Für die Gartengrenze wählen Sie stattdessen eine unserer Bambus-Zaunrollen oder festen Elemente." },
+    { "q": "Welche Größe hat er?", "a": "Der Standard-Paravent ist 120 cm breit, 180 cm hoch und 5 cm dick, besteht aus drei Scharnierelementen und wiegt netto 22 kg. Andere Größen fertigen wir auf Bestellung." },
+    { "q": "Kann er draußen stehen?", "a": "Ja, an einem geschützten Platz wie einer überdachten Terrasse oder einem Balkon. Wie jeder Naturbambus hält er am längsten, wenn er nicht auf nassem Boden und nicht in stehendem Wasser steht." },
+    { "q": "Wie wird er verpackt?", "a": "Jeder Paravent wird in Kunststoffschaum eingewickelt, und die Paravents werden auf Paletten verladen. Eigenmarken-Verpackung, Etiketten und Barcodes sind auf Anfrage erhältlich." }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Biombo de bambú Tonkin",
+  "metaTitle": "Biombo de bambú Tonkin y separador — Mayorista",
+  "cardDesc": "Biombo plegable de cañas Tonkin con marco de madera, 120 × 180 cm.",
+  "eyebrow": "Biombo plegable · Interior y exterior cubierto",
+  "pill": "Bambú Tonkin · marco de madera",
+  "lead": "Un biombo plegable de cañas Tonkin rectas en un marco de madera: tres paneles articulados, 120 × 180 cm, en bambú natural o carbonizado.",
+  "desc": "Tres paneles articulados de cañas de bambú Tonkin finas y uniformes, colocadas en vertical en un marco de madera. Se sostiene solo, se pliega plano para almacenarlo y enviarlo, y sirve como separador de ambientes, pantalla de privacidad en un balcón o terraza o fondo en tiendas, hoteles y restaurantes.",
+  "facts": [
+    { "k": "Material", "v": "Cañas de bambú Tonkin + marco de madera" },
+    { "k": "Tamaño", "v": "Ancho 120 × Alto 180 cm, 5 cm de grosor" },
+    { "k": "Formato", "v": "3 paneles articulados, autoportante" },
+    { "k": "Colores", "v": "Natural o carbonizado" }
+  ],
+  "why": "Elíjalo cuando necesite privacidad sin fijar nada: se sostiene solo, se guarda plegado, y las cañas Tonkin rectas dan un aspecto más fino y más de mueble que un cañizo enrollable de jardín.",
+  "spec": [
+    { "k": "Material", "v": "Cañas de bambú Tonkin naturales (más de 3 años de crecimiento), marco de madera" },
+    { "k": "Construcción", "v": "Tres paneles articulados, plegable" },
+    { "k": "Tamaño estándar", "v": "Ancho 120 × Grosor 5 × Alto 180 cm" },
+    { "k": "Peso neto", "v": "22 kg" },
+    { "k": "Acabado", "v": "Natural o carbonizado (tratado con calor)" },
+    { "k": "Embalaje", "v": "Espuma de plástico + palé" },
+    { "k": "MOQ y OEM", "v": "Negociable · marca propia bienvenida" },
+    { "k": "Puerto de carga", "v": "Xiamen, China" }
+  ],
+  "sizes": {
+    "title": "Tamaño estándar",
+    "lead": "Un tamaño estándar en dos acabados; otros tamaños bajo consulta.",
+    "cols": ["Versión", "Ancho", "Alto", "Grosor", "Peso neto"],
+    "rows": [
+      ["Tonkin natural", "120 cm", "180 cm", "5 cm", "22 kg"],
+      ["Tonkin carbonizado", "120 cm", "180 cm", "5 cm", "Bajo consulta"]
+    ],
+    "note": "Los anchos, alturas y números de paneles a medida se fabrican por encargo; pídanos un presupuesto."
+  },
+  "about": {
+    "eyebrow": "El producto",
+    "title": "Cañas Tonkin, enmarcadas y plegables",
+    "body": [
+      { "p": "El bambú Tonkin es una de las especies de bambú más resistentes y flexibles. Sus cañas crecen finas, rectas y uniformes, y el bambú es amargo por naturaleza, lo que lo hace menos atractivo para los insectos. Usamos cañas con al menos tres años de crecimiento, por lo que los biombos son firmes y conservan su forma." },
+      { "p": "Las cañas se colocan en vertical, una junto a otra, dentro de un marco de madera dividido en tres paneles unidos por bisagras. Abierto en zigzag se sostiene solo; plegado queda plano, lo que además reduce los costes de flete." },
+      { "h3": "Dónde se usa" },
+      { "ul": [
+        "Separadores de ambientes en viviendas, estudios y oficinas",
+        "Pantallas de privacidad en balcones, terrazas y patios cubiertos",
+        "Fondos y divisores de espacio en tiendas, hoteles, spas y restaurantes",
+        "Fondos de exposición y de fotografía"
+      ] },
+      { "h3": "Cómo se compara" },
+      { "p": "Un rollo de cañizo de bambú se fija a una valla o marco existente y está pensado para el límite del jardín. El biombo Tonkin es una pieza terminada y autoportante: cañas más finas, borde enmarcado y bisagras, de modo que se desplaza y funciona tanto en interior como en exterior. Elija natural para un aspecto claro y cálido, o carbonizado para un tono marrón más profundo que atraviesa toda la caña." }
+    ]
+  },
+  "faq": [
+    { "q": "¿Es una valla o un separador de ambientes?", "a": "Es un biombo plegable autoportante. Funciona como separador de ambientes en interior y como pantalla de privacidad en un balcón, terraza o patio cubierto. Para el límite de un jardín, elija en su lugar uno de nuestros rollos de cañizo de bambú o paneles fijos." },
+    { "q": "¿Qué tamaño tiene?", "a": "El biombo estándar mide 120 cm de ancho, 180 cm de alto y 5 cm de grosor, con tres paneles articulados y un peso neto de 22 kg. Otros tamaños se fabrican por encargo." },
+    { "q": "¿Puede estar en el exterior?", "a": "Sí, en un lugar resguardado como una terraza o balcón cubierto. Como todo el bambú natural, dura más cuando se mantiene alejado del suelo mojado y del agua estancada." },
+    { "q": "¿Cómo se embala?", "a": "Cada biombo se envuelve en espuma de plástico y los biombos se cargan en palés. Embalaje con marca propia, etiquetas y códigos de barras disponibles bajo consulta." }
+  ]
+}

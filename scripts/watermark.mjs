@@ -69,4 +69,11 @@ async function watermark(file) {
   console.log(CENTRE_ONLY ? "centre" : CORNER_ONLY ? "corner" : "watermark", "->", file, `(${width}x${height})`);
 }
 
-for (const f of process.argv.slice(2)) if (f !== "--corner" && f !== "--centre") await watermark(f);
+// Windows (Defender/indexer) can briefly lock a freshly written file: retry instead of failing the whole batch.
+async function withRetry(f) {
+  for (let i = 0; ; i++) {
+    try { return await watermark(f); }
+    catch (e) { if (i >= 8 || !['UNKNOWN', 'EBUSY', 'EPERM'].includes(e.code)) throw e; await new Promise((r) => setTimeout(r, 500 * (i + 1))); }
+  }
+}
+for (const f of process.argv.slice(2)) if (f !== "--corner" && f !== "--centre") await withRetry(f);

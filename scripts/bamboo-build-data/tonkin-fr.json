@@ -1,0 +1,59 @@
+{
+  "name": "Paravent en bambou Tonkin",
+  "metaTitle": "Paravent bambou Tonkin & séparateur – grossiste",
+  "cardDesc": "Paravent pliant en cannes de Tonkin, cadre bois, 120 × 180 cm.",
+  "eyebrow": "Paravent pliant · Intérieur & extérieur couvert",
+  "pill": "Bambou Tonkin · cadre bois",
+  "lead": "Un paravent pliant en cannes de bambou Tonkin droites dans un cadre en bois : trois panneaux articulés, 120 × 180 cm, en bambou naturel ou carbonisé.",
+  "desc": "Trois panneaux articulés de cannes de bambou Tonkin fines et régulières, dressées dans un cadre en bois. Le paravent tient seul, se plie à plat pour le stockage et l'expédition, et sert de séparateur de pièce, de brise-vue sur un balcon ou une terrasse, ou de toile de fond dans les boutiques, hôtels et restaurants.",
+  "facts": [
+    { "k": "Matériau", "v": "Cannes de bambou Tonkin + cadre bois" },
+    { "k": "Taille", "v": "L 120 × H 180 cm, 5 cm d'épaisseur" },
+    { "k": "Format", "v": "3 panneaux articulés, autoportant" },
+    { "k": "Couleurs", "v": "Naturel ou carbonisé" }
+  ],
+  "why": "À choisir quand vous voulez de l'intimité sans rien fixer : il tient seul, se range, et les cannes de Tonkin droites donnent un rendu plus fin, plus proche d'un meuble qu'une clôture en rouleau de jardin.",
+  "spec": [
+    { "k": "Matériau", "v": "Cannes de bambou Tonkin naturelles (3 ans et plus), cadre en bois" },
+    { "k": "Construction", "v": "Trois panneaux articulés, pliant" },
+    { "k": "Taille standard", "v": "L 120 × É 5 × H 180 cm" },
+    { "k": "Poids net", "v": "22 kg" },
+    { "k": "Finition", "v": "Naturelle ou carbonisée (traitée à la chaleur)" },
+    { "k": "Emballage", "v": "Mousse plastique + palette" },
+    { "k": "MOQ & OEM", "v": "Négociable · marque distributeur bienvenue" },
+    { "k": "Port de chargement", "v": "Xiamen, Chine" }
+  ],
+  "sizes": {
+    "title": "Taille standard",
+    "lead": "Une taille standard en deux finitions ; autres tailles sur demande.",
+    "cols": ["Version", "Largeur", "Hauteur", "Épaisseur", "Poids net"],
+    "rows": [
+      ["Tonkin naturel", "120 cm", "180 cm", "5 cm", "22 kg"],
+      ["Tonkin carbonisé", "120 cm", "180 cm", "5 cm", "Sur demande"]
+    ],
+    "note": "Largeurs, hauteurs et nombres de panneaux sur mesure fabriqués sur commande ; demandez-nous un devis."
+  },
+  "about": {
+    "eyebrow": "Le produit",
+    "title": "Cannes de Tonkin, encadrées et pliantes",
+    "body": [
+      { "p": "Le bambou Tonkin est l'une des espèces de bambou les plus résistantes et les plus souples. Ses cannes poussent fines, droites et régulières, et le bambou est naturellement amer, ce qui le rend moins attirant pour les insectes. Nous utilisons des cannes ayant poussé au moins trois ans, de sorte que les paravents sont fermes et gardent leur forme." },
+      { "p": "Les cannes se dressent côte à côte dans un cadre en bois, divisé en trois panneaux reliés par des charnières. Ouvert en accordéon, le paravent tient seul ; plié, il se couche à plat, ce qui limite aussi les coûts de fret." },
+      { "h3": "Utilisations" },
+      { "ul": [
+        "Séparateurs de pièce dans les logements, ateliers et bureaux",
+        "Brise-vue sur balcons, terrasses et patios couverts",
+        "Toiles de fond et séparateurs d'espace dans les boutiques, hôtels, spas et restaurants",
+        "Décors d'exposition et fonds photo"
+      ] },
+      { "h3": "Comparaison" },
+      { "p": "Un rouleau de clôture en bambou se fixe sur une clôture ou un cadre existant et sert à délimiter le jardin. Le paravent Tonkin est une pièce finie et autoportante : cannes plus fines, bord encadré et charnières, il se déplace et s'utilise aussi bien à l'intérieur qu'à l'extérieur. Choisissez le naturel pour un rendu clair et chaleureux, ou le carbonisé pour un brun plus profond qui traverse toute la canne." }
+    ]
+  },
+  "faq": [
+    { "q": "S'agit-il d'une clôture ou d'un séparateur de pièce ?", "a": "C'est un paravent pliant autoportant. Il sert de séparateur de pièce à l'intérieur et de brise-vue sur un balcon, une terrasse ou un patio couvert. Pour délimiter un jardin, choisissez plutôt l'un de nos rouleaux de clôture en bambou ou panneaux fixes." },
+    { "q": "Quelle est sa taille ?", "a": "Le paravent standard mesure 120 cm de large, 180 cm de haut et 5 cm d'épaisseur, compte trois panneaux articulés et pèse 22 kg net. Les autres tailles sont fabriquées sur commande." },
+    { "q": "Peut-il rester dehors ?", "a": "Oui, dans un endroit abrité comme une terrasse couverte ou un balcon. Comme tout bambou naturel, il dure le plus longtemps lorsqu'il est tenu à l'écart du sol mouillé et de l'eau stagnante." },
+    { "q": "Comment est-il emballé ?", "a": "Chaque paravent est enveloppé dans de la mousse plastique et les paravents sont chargés sur palettes. Emballage en marque distributeur, étiquettes et codes-barres disponibles sur demande." }
+  ]
+}

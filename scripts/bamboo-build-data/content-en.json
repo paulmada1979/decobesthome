@@ -1,0 +1,3077 @@
+{
+  "_shared": {
+    "fence": {
+      "factsTitle": "At a glance",
+      "whyTitle": "Why choose this one",
+      "sizesEyebrow": "Specifications",
+      "qcEyebrow": "Quality control",
+      "qcTitle": "Checked before it ships",
+      "qcLead": "Photos from our pre-shipment checks: cane diameters measured with a tape, roll sizes checked against the order and moisture content tested before loading.",
+      "faqEyebrow": "Questions & answers",
+      "faqTitle": "Frequently asked questions",
+      "packing": {
+        "eyebrow": "Logistics",
+        "title": "Packing options",
+        "lead": "Standard export and retail packing for bamboo fence rolls, trellis and edging — or tell us your own spec and we pack to order.",
+        "options": [
+          {
+            "t": "Plastic bag or shrink wrap",
+            "d": "Each roll wrapped individually to keep it clean and tidy on the shelf."
+          },
+          {
+            "t": "Bundles",
+            "d": "Rolls strapped together in bundles for efficient container loading."
+          },
+          {
+            "t": "Label, insert or barcode",
+            "d": "Your own printed label, colour insert or barcode — ready for retail."
+          },
+          {
+            "t": "Cartons or pallets",
+            "d": "Export cartons or palletised loads on request."
+          }
+        ]
+      },
+      "series": {
+        "eyebrow": "The bamboo fence range",
+        "title": "Compare the other bamboo fences",
+        "lead": "Round and half-round rolls in natural, black, carbonized and mahogany, plus Tonkin screens, trellis, twig fence and garden edging.",
+        "overviewCta": "Bamboo fencing overview"
+      }
+    },
+    "panels": {
+      "factsTitle": "At a glance",
+      "whyTitle": "Why choose this one",
+      "sizesEyebrow": "Specifications",
+      "qcEyebrow": "Quality control",
+      "qcTitle": "Checked before it ships",
+      "qcLead": "Before packing, panels are checked against the order for size, frame and finish, so what arrives matches what you approved.",
+      "faqEyebrow": "Questions & answers",
+      "faqTitle": "Frequently asked questions",
+      "packing": {
+        "eyebrow": "Logistics",
+        "title": "Packing options",
+        "lead": "Framed bamboo panels are packed to protect frames and corners in transit — choose a standard option or send us your own spec.",
+        "options": [
+          {
+            "t": "Foam protection",
+            "d": "Panels wrapped in plastic foam to protect frames, corners and canes."
+          },
+          {
+            "t": "Pallets",
+            "d": "Panels stacked and secured on pallets for safe handling and loading."
+          },
+          {
+            "t": "Export cartons",
+            "d": "Individual or multi-panel cartons, sized to the panel."
+          },
+          {
+            "t": "Private-label packing",
+            "d": "Your own labels, printed inserts or barcodes for retail."
+          }
+        ]
+      },
+      "series": {
+        "eyebrow": "The panel range",
+        "title": "Compare the other bamboo fence panels",
+        "lead": "From rigid fixed panels in natural or black bamboo to framed Japanese styles — Kumo, Misugaki, Sode-gaki and Koetsu-gaki.",
+        "overviewCta": "Bamboo fence panels overview"
+      }
+    }
+  },
+  "natural-bamboo-fence-roll": {
+    "name": "Natural bamboo fence roll",
+    "metaTitle": "Natural Bamboo Fence Roll — Wholesale, Factory-Direct",
+    "cardDesc": "Classic round yellow canes on galvanised wire, 1.0–2.5 m high.",
+    "eyebrow": "Bestseller · Natural yellow bamboo",
+    "pill": "Round natural bamboo · Ø 14–35 mm",
+    "lead": "Our classic bamboo fence roll: round natural yellow canes on galvanised wire, in three cane grades and seven roll sizes up to 2.5 m high.",
+    "desc": "The rolled bamboo fence most garden centres start with. Round natural canes are wired side by side into a flexible screen that unrolls straight onto an existing fence, wall or frame. Choose 14–20, 20–30 or 30–35 mm canes, with giant canes and a varnish lacquer finish as options.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Round natural yellow bamboo"
+      },
+      {
+        "k": "Diameter",
+        "v": "14–20 · 20–30 · 30–35 mm"
+      },
+      {
+        "k": "Format",
+        "v": "Rolls, 1.0–2.5 m high"
+      },
+      {
+        "k": "Best for",
+        "v": "Garden privacy and fence cladding"
+      }
+    ],
+    "why": "It is the most versatile roll in the range: the widest choice of cane grades and sizes, a warm natural colour that suits any garden, and the option of giant canes or a lacquer finish for a premium line.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "100% natural round bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "14–20 · 20–30 · 30–35 mm (giant 35–40 · 40–50 mm)"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised iron wire (giant canes: wire, bamboo pole or nylon wire)"
+      },
+      {
+        "k": "Finish",
+        "v": "Natural, or varnish lacquer"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "7 standard sizes, 1.0–2.5 m high · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 2,400 m² (14–20 mm) · ≈ 2,300 m² (20–30 mm) · ≈ 2,100 m² (30–35 mm)"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Seven standard roll sizes, listed as height × width.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "2.5 m",
+          "≈ 3¼ × 8 ft"
+        ],
+        [
+          "1.5 m",
+          "2.5 m",
+          "≈ 5 × 8 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "2.5 m",
+          "≈ 6 × 8 ft"
+        ],
+        [
+          "2.0 m",
+          "1.8 m",
+          "≈ 6½ × 6 ft"
+        ],
+        [
+          "2.0 m",
+          "2.5 m",
+          "≈ 6½ × 8 ft"
+        ],
+        [
+          "2.5 m",
+          "2.5 m",
+          "≈ 8 × 8 ft"
+        ]
+      ],
+      "note": "Custom heights and widths on request — tell us your cane grade and size mix and we confirm the container quantity."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "The classic rolled bamboo fence",
+      "body": [
+        {
+          "p": "Our natural bamboo fence roll is made from round yellow bamboo canes, laid side by side and bound with galvanised iron wire. Because the canes are wired rather than fixed into a frame, the screen rolls up for compact shipping and unrolls on site to follow a fence line, a balcony railing or a gentle curve. It is what most buyers mean by a bamboo screening roll, and it suits garden boundaries, cladding for chain-link, wooden or concrete fences, balconies and terraces, garden-centre ranges and landscaping projects."
+        },
+        {
+          "h3": "Three cane grades, plus giant canes"
+        },
+        {
+          "p": "Thinner 14–20 mm canes make a lighter, more economical roll; 20–30 mm is the everyday grade; 30–35 mm gives a heavier, more solid look. For statement projects we also make a giant version with 35–40 or 40–50 mm canes, bound with wire, a bamboo pole or nylon wire. A varnish lacquer finish is available as an option for a smoother, more finished surface."
+        },
+        {
+          "h3": "Checked before it ships"
+        },
+        {
+          "p": "Before loading, our QC team measures the moisture content of the canes — recent checks read between 7.8% and 11.9% — and checks cane diameters with a tape against the order. Roll sizes from 100 × 180 cm up to 250 × 180 cm are photographed before packing, so you see what goes into the container."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes does the natural bamboo fence roll come in?",
+        "a": "Seven standard sizes from 1.0 × 2.5 m to 2.5 × 2.5 m (height × width). The popular 6 ft bamboo fence roll is our 1.8 m height, in 1.8 m or 2.5 m widths. Other heights and widths are made to order."
+      },
+      {
+        "q": "How much fits in a 40HC container?",
+        "a": "It depends on the cane grade: about 2,400 m² of 14–20 mm, 2,300 m² of 20–30 mm or 2,100 m² of 30–35 mm per 40HC. The exact number of rolls depends on your size mix and packing, so we calculate it for each order."
+      },
+      {
+        "q": "How is a bamboo fence roll installed?",
+        "a": "Unroll it against an existing fence, wall, railing or chain-link and fix it with wire ties or screws through the wire. For a free-standing fence, fix the roll to timber posts and rails. No special tools are needed."
+      },
+      {
+        "q": "Will the natural colour change outdoors?",
+        "a": "Yes, gradually. Like any untreated natural material, bamboo slowly weathers to a softer, greyer tone in sun and rain. The varnish lacquer option adds a protective surface layer; for a darker look from the start, see our natural black or carbonized rolls."
+      }
+    ]
+  },
+  "natural-black-bamboo-fence-roll": {
+    "name": "Natural black bamboo fence roll",
+    "metaTitle": "Black Bamboo Fence Roll — Natural Black, Wholesale",
+    "cardDesc": "Round natural black canes — the colour is the bamboo's own, not paint.",
+    "eyebrow": "Natural black · Contemporary",
+    "pill": "Natural black bamboo · Ø 14–35 mm",
+    "lead": "Black bamboo screening made from naturally dark canes — no paint, no dye. Round canes on galvanised wire, in the same seven roll sizes as our natural roll.",
+    "desc": "A dark, modern bamboo fence roll for contemporary gardens. The canes come from a bamboo that grows black, so the colour belongs to the cane itself rather than to a coating. Three cane grades, seven roll sizes and the same container yields as our natural roll.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Round natural black bamboo"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural — not painted or dyed"
+      },
+      {
+        "k": "Diameter",
+        "v": "14–20 · 20–30 · 30–35 mm"
+      },
+      {
+        "k": "Best for",
+        "v": "Modern gardens, dark boundaries"
+      }
+    ],
+    "why": "Choose it when you want a black bamboo fence without a painted surface that can chip or peel: the dark colour is the bamboo's own, and the sizes match our natural roll so both colours can share one container.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "100% natural black round bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "14–20 · 20–30 · 30–35 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural black — no paint or dye"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "7 standard sizes, 1.0–2.5 m high · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 2,400 m² (14–20 mm) · ≈ 2,300 m² (20–30 mm) · ≈ 2,100 m² (30–35 mm)"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "The same seven roll sizes as our natural roll, listed as height × width.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "2.5 m",
+          "≈ 3¼ × 8 ft"
+        ],
+        [
+          "1.5 m",
+          "2.5 m",
+          "≈ 5 × 8 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "2.5 m",
+          "≈ 6 × 8 ft"
+        ],
+        [
+          "2.0 m",
+          "1.8 m",
+          "≈ 6½ × 6 ft"
+        ],
+        [
+          "2.0 m",
+          "2.5 m",
+          "≈ 6½ × 8 ft"
+        ],
+        [
+          "2.5 m",
+          "2.5 m",
+          "≈ 8 × 8 ft"
+        ]
+      ],
+      "note": "Custom heights and widths on request; natural and black rolls can be mixed in one container."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Black bamboo screening, coloured by nature",
+      "body": [
+        {
+          "p": "Natural black bamboo is a bamboo whose canes turn dark as they mature. We cut and dry those canes and wire them side by side with galvanised wire into a flexible roll, exactly as we make our natural yellow roll. Nothing is painted on, so there is no coating to scratch, flake or peel."
+        },
+        {
+          "p": "Being a natural colour, the shade varies from cane to cane — deep black, brown-black and the occasional lighter mottle. That variation is part of the character and is what separates a natural black bamboo fence from a painted one. Like all our bamboo, it is made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Against our natural roll, the only difference is the cane: same diameters, same sizes, same container yield. Against our carbonized fence, the colour source differs — carbonized canes are darkened by heat, while these grow dark. If you want a dark half-round face rather than round canes, see the half-round natural black fence."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Contemporary and minimalist gardens.",
+            "Roof terraces, balconies and courtyards.",
+            "Restaurant, bar and hotel screening.",
+            "A dark backdrop for planting and lighting."
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the black colour painted?",
+        "a": "No. The canes come from a bamboo that grows black. There is no paint or dye, so the colour cannot peel off, and every cane shows slight natural variation in shade."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Seven standard rolls from 1.0 × 2.5 m to 2.5 × 2.5 m (height × width), in 14–20, 20–30 or 30–35 mm canes. Custom sizes are made on request."
+      },
+      {
+        "q": "Can I combine black and natural rolls in one container?",
+        "a": "Yes. Both rolls use the same sizes and similar container yields — about 2,400 m² (14–20 mm), 2,300 m² (20–30 mm) or 2,100 m² (30–35 mm) per 40HC — so a mixed load is easy to plan."
+      },
+      {
+        "q": "How do I install black bamboo screening?",
+        "a": "The same way as any bamboo fence roll: unroll it against a fence, wall, railing or chain-link and fix it with wire ties or screws. Free-standing runs need timber posts and rails."
+      }
+    ]
+  },
+  "carbonized-bamboo-fence": {
+    "name": "Carbonized bamboo fence",
+    "metaTitle": "Carbonized Bamboo Fence Roll — Wholesale, Factory-Direct",
+    "cardDesc": "Heat-treated canes, colour through the cane — camel brown or dark.",
+    "eyebrow": "Heat-treated · Two grades",
+    "pill": "Carbonized bamboo · varnish lacquer",
+    "lead": "Bamboo fencing darkened by heat rather than paint, so the colour goes through the cane. Two grades: camel brown 20–30 mm and budget dark 10–20 mm.",
+    "desc": "Carbonizing is a heat treatment that turns bamboo from yellow to a warm brown or deeper tone right through the cane. We offer a camel-brown 20–30 mm grade and a budget dark 10–20 mm grade, both finished with varnish lacquer and supplied in seven roll sizes.",
+    "facts": [
+      {
+        "k": "Treatment",
+        "v": "Carbonized — heat-treated"
+      },
+      {
+        "k": "Colour",
+        "v": "Camel brown or dark"
+      },
+      {
+        "k": "Diameter",
+        "v": "20–30 mm · 10–20 mm (budget)"
+      },
+      {
+        "k": "Finish",
+        "v": "Varnish lacquer"
+      }
+    ],
+    "why": "It gives a darker, warmer fence than natural bamboo without paint or dye: the heat treatment colours the whole cane, so a scratch or cut end shows the same tone. The budget dark grade is our highest-yield roll per container.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Carbonized (heat-treated) round bamboo"
+      },
+      {
+        "k": "Grades",
+        "v": "Camel brown, Ø 20–30 mm · budget dark, Ø 10–20 mm"
+      },
+      {
+        "k": "Finish",
+        "v": "Varnish lacquer"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "7 standard sizes, 1.0–2.5 m high · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 2,300 m² (camel brown 20–30 mm) · ≈ 2,600 m² (budget dark 10–20 mm)"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Both grades come in the same seven roll sizes, listed as height × width.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "2.5 m",
+          "≈ 3¼ × 8 ft"
+        ],
+        [
+          "1.5 m",
+          "2.5 m",
+          "≈ 5 × 8 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "2.5 m",
+          "≈ 6 × 8 ft"
+        ],
+        [
+          "2.0 m",
+          "1.8 m",
+          "≈ 6½ × 6 ft"
+        ],
+        [
+          "2.0 m",
+          "2.5 m",
+          "≈ 6½ × 8 ft"
+        ],
+        [
+          "2.5 m",
+          "2.5 m",
+          "≈ 8 × 8 ft"
+        ]
+      ],
+      "note": "Custom heights and widths on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Colour that goes all the way through",
+      "body": [
+        {
+          "p": "Carbonized bamboo is bamboo that has been heat-treated. The process darkens the cane from its natural yellow to a brown or deeper tone, and because it is heat rather than a coating, the colour runs through the whole cane. A knock, a scratch or a freshly cut end shows the same colour as the surface."
+        },
+        {
+          "p": "After carbonizing, the canes are finished with varnish lacquer and wired into rolls with galvanised wire, so the fence installs exactly like our natural bamboo fence roll. Both grades come in the same seven roll sizes as our other round rolls, from 1.0 × 2.5 m to 2.5 × 2.5 m, so carbonized can join a mixed container of natural and black rolls without changing your size range."
+        },
+        {
+          "h3": "Two grades"
+        },
+        {
+          "ul": [
+            "Camel brown (light carbonized): 20–30 mm canes, varnish lacquer, about 2,300 m² per 40HC.",
+            "Budget dark: thinner 10–20 mm canes, varnish lacquer, about 2,600 m² per 40HC — our most economical carbonized roll."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Natural black bamboo grows dark; carbonized bamboo is made dark by heat; our mahogany roll is dyed. Carbonized sits between the two in look — warmer than natural black, more natural than a dyed finish — and the lacquer gives it a slight sheen."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What does 'carbonized' mean?",
+        "a": "The bamboo is heat-treated, which changes its colour from yellow to brown or darker. It is not paint or dye, so the colour goes right through the cane."
+      },
+      {
+        "q": "What is the difference between the two grades?",
+        "a": "The camel-brown grade uses 20–30 mm canes for a fuller look. The budget dark grade uses thinner 10–20 mm canes, which makes it more economical and fits about 2,600 m² per 40HC versus about 2,300 m² for camel brown."
+      },
+      {
+        "q": "Is it lacquered?",
+        "a": "Yes. Both grades are finished with varnish lacquer before rolling, which gives a smoother surface and a light sheen. Like all our bamboo fencing, it is made without pesticides, formaldehyde or toxic glues."
+      },
+      {
+        "q": "Can you make custom sizes or private-label packing?",
+        "a": "Yes. Besides the seven standard sizes we make custom heights and widths, and we pack with your own labels, inserts or barcodes. MOQ is negotiable."
+      }
+    ]
+  },
+  "mahogany-bamboo-fence-roll": {
+    "name": "Mahogany bamboo fence roll",
+    "metaTitle": "Mahogany Bamboo Fence Roll — Wholesale, Factory-Direct",
+    "cardDesc": "Dyed reddish-brown bamboo roll for a warm, distinctive boundary.",
+    "eyebrow": "Dyed finish · Warm red-brown",
+    "pill": "Dyed bamboo · Ø 20–30 mm",
+    "lead": "A warm red-brown bamboo fence roll: 20–30 mm round canes dyed a mahogany colour and bound with galvanised wire, in seven roll sizes.",
+    "desc": "For buyers who want a colour neither natural, black nor carbonized can give. Round 20–30 mm canes are dyed a mahogany red-brown and wired into the same flexible roll as the rest of the range. We are open about it: the colour is dyed, not natural.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Round bamboo, Ø 20–30 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Mahogany red-brown — dyed"
+      },
+      {
+        "k": "Format",
+        "v": "Rolls, 1.0–2.5 m high"
+      },
+      {
+        "k": "Best for",
+        "v": "Warm-toned schemes, retail colour range"
+      }
+    ],
+    "why": "It adds a warm red-brown option to a bamboo range — useful for retailers who want a third colour alongside natural and black, and for gardens with brick, terracotta or reddish timber.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Round bamboo, dyed mahogany"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "20–30 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Red / mahogany — dyed"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "7 standard sizes, 1.0–2.5 m high · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 2,300 m²"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Seven standard roll sizes, listed as height × width.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "2.5 m",
+          "≈ 3¼ × 8 ft"
+        ],
+        [
+          "1.5 m",
+          "2.5 m",
+          "≈ 5 × 8 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "2.5 m",
+          "≈ 6 × 8 ft"
+        ],
+        [
+          "2.0 m",
+          "1.8 m",
+          "≈ 6½ × 6 ft"
+        ],
+        [
+          "2.0 m",
+          "2.5 m",
+          "≈ 6½ × 8 ft"
+        ],
+        [
+          "2.5 m",
+          "2.5 m",
+          "≈ 8 × 8 ft"
+        ]
+      ],
+      "note": "Custom heights and widths on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A warm red-brown bamboo roll",
+      "body": [
+        {
+          "p": "Our mahogany bamboo fence roll uses round 20–30 mm bamboo canes dyed a deep reddish brown. The canes are then bound side by side with galvanised wire into a flexible roll that unrolls onto any existing fence, wall or frame, just like our natural roll. It is supplied in the same seven sizes as our other round rolls, from 1.0 × 2.5 m up to 2.5 × 2.5 m."
+        },
+        {
+          "h3": "Dyed — and we say so"
+        },
+        {
+          "p": "Unlike our natural black bamboo, which grows dark, and our carbonized bamboo, which is darkened by heat, the mahogany colour comes from a dye. It gives a richer, redder tone than either, and a more uniform colour from cane to cane. As with any dyed natural material outdoors, expect the shade to soften gradually in strong sun."
+        },
+        {
+          "h3": "Where it fits"
+        },
+        {
+          "p": "Mahogany works well next to brick, terracotta and red-toned timber, and in Mediterranean-style or tropical planting schemes. For wholesalers and garden centres it rounds out a bamboo screening range with a colour customers notice on the shelf."
+        },
+        {
+          "ul": [
+            "Gardens with brick, terracotta or reddish decking.",
+            "Tropical and Mediterranean-style terraces.",
+            "Hospitality and bar screening.",
+            "A third colour in a retail bamboo range."
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the mahogany colour natural?",
+        "a": "No — it is dyed. We dye round 20–30 mm bamboo canes to get the red-brown tone. If you need a naturally dark fence, choose natural black bamboo (grows dark) or carbonized bamboo (darkened by heat)."
+      },
+      {
+        "q": "Will the colour fade?",
+        "a": "Like any dyed natural product outdoors, the tone will soften gradually with strong sun and weather. It stays a warm brown fence; it just becomes less saturated over time. Fitting it where it gets some shade in the hottest part of the day helps keep the colour richer for longer."
+      },
+      {
+        "q": "What sizes and quantities are available?",
+        "a": "Seven standard rolls from 1.0 × 2.5 m to 2.5 × 2.5 m (height × width). About 2,300 m² fits in a 40HC container, and custom sizes are made on request."
+      },
+      {
+        "q": "Can I mix mahogany with other colours in one order?",
+        "a": "Yes. Mahogany uses the same roll sizes as our natural, black and carbonized rolls, so a mixed container is straightforward to plan. Private-label packing is welcome and MOQ is negotiable."
+      }
+    ]
+  },
+  "tonkin-bamboo-fence": {
+    "name": "Tonkin bamboo fence",
+    "metaTitle": "Tonkin Bamboo Fence Screen — Wholesale, Factory-Direct",
+    "cardDesc": "Strong Tonkin poles in a wood-framed 120 × 180 cm screen.",
+    "eyebrow": "Tonkin cane · Wood-framed screen",
+    "pill": "Tonkin bamboo · wood frame",
+    "lead": "A wood-framed screen of Tonkin bamboo — one of the strongest, most flexible bamboo species. 120 × 180 cm, 22 kg net, natural or carbonized.",
+    "desc": "Tonkin bamboo is prized for its strength, flexibility and straight, even poles. We use poles grown for three years or more, set them in a wood frame and pack each screen in foam on a pallet. The standard screen is 120 cm wide, 5 cm thick and 180 cm high.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Tonkin bamboo, poles 3+ years old"
+      },
+      {
+        "k": "Format",
+        "v": "Wood-framed screen"
+      },
+      {
+        "k": "Standard size",
+        "v": "W 120 × H 180 × T 5 cm"
+      },
+      {
+        "k": "Net weight",
+        "v": "22 kg per screen"
+      }
+    ],
+    "why": "It is the most substantial piece in the bamboo fence series: a framed, rigid screen of a stronger bamboo species, where the rolls are flexible and lighter. Choose it for a premium, finished look.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Tonkin bamboo poles (grown 3+ years) + wood frame"
+      },
+      {
+        "k": "Versions",
+        "v": "Natural · carbonized"
+      },
+      {
+        "k": "Format",
+        "v": "Rigid framed screen"
+      },
+      {
+        "k": "Standard size",
+        "v": "W 120 × T 5 × H 180 cm"
+      },
+      {
+        "k": "Net weight",
+        "v": "22 kg"
+      },
+      {
+        "k": "Packing",
+        "v": "Plastic foam + pallet"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "One standard screen size; other sizes are made on request.",
+      "cols": [
+        "Width",
+        "Height",
+        "Thickness",
+        "Net weight"
+      ],
+      "rows": [
+        [
+          "120 cm",
+          "180 cm",
+          "5 cm",
+          "22 kg"
+        ]
+      ],
+      "note": "Other widths and heights on request, in natural or carbonized Tonkin."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A stronger bamboo, in a finished frame",
+      "body": [
+        {
+          "p": "Tonkin bamboo is one of the strongest and most flexible bamboo species, with long, straight poles that keep an even diameter. It is also naturally bitter, which makes it less attractive to insects. We only use poles that have grown for three years or more, so the cane has had time to harden. Like all bamboo, Tonkin is a fast-growing, renewable plant that regrows after harvesting."
+        },
+        {
+          "p": "Rather than wiring the poles into a roll, we set them in a wood frame to make a rigid screen. The standard screen measures 120 cm wide, 180 cm high and 5 cm thick, and weighs 22 kg net — a solid, finished panel that fixes straight to posts or a wall."
+        },
+        {
+          "h3": "Natural or carbonized"
+        },
+        {
+          "p": "The natural version keeps Tonkin's pale straw colour. The carbonized version is heat-treated for a warmer brown tone that runs through the cane."
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Our bamboo fence rolls are flexible, light and fast to unroll over an existing fence. The Tonkin screen is heavier and framed, so it stands on its own between posts and gives a more architectural, premium result. Each screen is packed in plastic foam on a pallet to protect the frame in transit."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What is Tonkin bamboo?",
+        "a": "A bamboo species known for strong, flexible, straight poles. It is naturally bitter, so it is less attractive to insects. We use poles grown for at least three years."
+      },
+      {
+        "q": "What size is the Tonkin screen and how heavy is it?",
+        "a": "The standard screen is 120 cm wide, 180 cm high and 5 cm thick, with a net weight of 22 kg. Other sizes are available on request."
+      },
+      {
+        "q": "How is it packed?",
+        "a": "Each screen is protected with plastic foam and loaded on pallets, which keeps the frame and poles from rubbing or knocking in transit."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Because it is framed, the screen fixes directly to timber or metal posts, a wall or an existing fence with screws or brackets. It does not need a backing fence the way a roll does. Several screens can be lined up between posts for a longer run."
+      }
+    ]
+  },
+  "half-round-natural-bamboo-fence": {
+    "name": "Half-round natural bamboo fence",
+    "metaTitle": "Half-Round Bamboo Fence Roll — Giant Canes, Wholesale",
+    "cardDesc": "Giant 40–50 mm canes split in half — flatter, lighter, more per box.",
+    "eyebrow": "Giant canes · Half-round",
+    "pill": "Split giant bamboo · Ø 40–50 mm",
+    "lead": "Giant 40–50 mm natural bamboo canes split lengthwise, rounded side out — the look of giant bamboo in a flatter, lighter roll.",
+    "desc": "Splitting giant bamboo in half keeps the bold, chunky look of 40–50 mm canes from the front while halving the depth of the roll. The result sits flatter against a fence and packs far more efficiently: about 3,400 m² per 40HC.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Giant natural bamboo, split in half"
+      },
+      {
+        "k": "Diameter",
+        "v": "40–50 mm"
+      },
+      {
+        "k": "Format",
+        "v": "Rolls, 1.8 m wide"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 3,400 m²"
+      }
+    ],
+    "why": "You get the big-cane look of giant bamboo without the weight and bulk of whole canes. The half-round roll is the most container-efficient bamboo fence we make, which keeps the landed cost per m² down.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural yellow giant bamboo, split lengthwise"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "40–50 mm (half-round)"
+      },
+      {
+        "k": "Face",
+        "v": "Rounded side out"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "W 1.8 m × H 1.0 · 1.5 · 1.8 m · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 3,400 m²"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Three standard heights, all 1.8 m wide.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "1.8 m",
+          "≈ 3¼ × 6 ft"
+        ],
+        [
+          "1.5 m",
+          "1.8 m",
+          "≈ 5 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ]
+      ],
+      "note": "Other heights and widths on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Giant bamboo, split for a flatter roll",
+      "body": [
+        {
+          "p": "Our half-round natural bamboo fence starts with giant bamboo canes of 40–50 mm. Each cane is split in half lengthwise, and the halves are lined up with the rounded side facing out. From the front the fence reads as a wall of big, round canes; from behind it is flat, so it sits snugly against an existing fence or wall. It is natural yellow bamboo, with the colour and grain variation that comes with it."
+        },
+        {
+          "p": "Halving the canes also halves the depth of the roll. That makes the screen lighter to handle and much more compact to ship — about 3,400 m² per 40HC container, compared with roughly 2,100–2,400 m² for our round bamboo fence rolls."
+        },
+        {
+          "h3": "Checked before packing"
+        },
+        {
+          "p": "Production is checked against the order before loading. Recent QC photos show rolls from 100 × 180 cm to 200 × 180 cm inspected before packing."
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Choose the round natural bamboo fence roll for a fully round, three-dimensional cane and the widest size range. Choose half-round when you want the scale of giant canes, a flatter fit and better container economics. For the same profile in a dark colour, see the half-round natural black fence."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What does 'half-round' mean?",
+        "a": "Each giant 40–50 mm bamboo cane is split in half lengthwise. The halves are wired side by side with the rounded side facing out, so the front looks like whole canes while the back is flat."
+      },
+      {
+        "q": "Why is the container quantity higher than for round rolls?",
+        "a": "A half cane takes up roughly half the depth, so the rolls are slimmer. About 3,400 m² of half-round fencing fits in a 40HC, against about 2,100–2,400 m² for our round rolls."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Standard rolls are 1.8 m wide in heights of 1.0, 1.5 and 1.8 m. Other sizes can be made on request."
+      },
+      {
+        "q": "How do I fit it?",
+        "a": "Unroll it against an existing fence, wall or frame with the rounded side facing out, and fix it with wire ties or screws. The flat back makes it sit closer to the surface than a round-cane roll. Like all our bamboo fencing, it is made without pesticides, formaldehyde or toxic glues."
+      }
+    ]
+  },
+  "half-round-black-bamboo-fence": {
+    "name": "Half-round natural black bamboo fence",
+    "metaTitle": "Half-Round Black Bamboo Fence — Giant Canes, Wholesale",
+    "cardDesc": "Giant natural black canes split in half for a bold, dark screen.",
+    "eyebrow": "Giant canes · Natural black",
+    "pill": "Split natural black bamboo · Ø 40–50 mm",
+    "lead": "Giant natural black bamboo split in half, rounded side out — a bold, dark black bamboo fence that sits flat and ships about 3,400 m² per 40HC.",
+    "desc": "The darkest, boldest fence in the bamboo series. Giant 40–50 mm natural black canes are split lengthwise and wired with the rounded side out, combining the scale of giant canes with the bamboo's own dark colour — no paint or dye.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Giant natural black bamboo, halved"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural — not painted or dyed"
+      },
+      {
+        "k": "Diameter",
+        "v": "40–50 mm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 3,400 m²"
+      }
+    ],
+    "why": "It pairs the most dramatic colour with the biggest canes. Compared with the round natural black roll, the canes are much larger and the roll is flatter; compared with the natural half-round, it gives a dark, contemporary face.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural black giant bamboo, split lengthwise"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "40–50 mm (half-round)"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural black — no paint or dye"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire"
+      },
+      {
+        "k": "Roll sizes",
+        "v": "W 1.8 m × H 1.0 · 1.5 · 1.8 m · custom on request"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "≈ 3,400 m²"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Three standard heights, all 1.8 m wide — the same as the natural half-round.",
+      "cols": [
+        "Height",
+        "Width",
+        "Approx. in feet"
+      ],
+      "rows": [
+        [
+          "1.0 m",
+          "1.8 m",
+          "≈ 3¼ × 6 ft"
+        ],
+        [
+          "1.5 m",
+          "1.8 m",
+          "≈ 5 × 6 ft"
+        ],
+        [
+          "1.8 m",
+          "1.8 m",
+          "≈ 6 × 6 ft"
+        ]
+      ],
+      "note": "Other heights and widths on request; natural and black half-round rolls can share a container."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Big canes, dark colour, flat back",
+      "body": [
+        {
+          "p": "This is our half-round fence made from natural black bamboo. Giant 40–50 mm canes are split in half lengthwise, then wired side by side with the rounded side out. The front shows a strong rhythm of large, dark canes; the flat back lets the screen sit close to a fence or wall. Halving the canes also makes the roll slimmer, lighter to handle and more compact to ship than whole canes of the same size."
+        },
+        {
+          "p": "The colour is the bamboo's own. Natural black bamboo darkens as it grows, so there is no coating to chip, and each cane carries slight variation from deep black to brown-black. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "h3": "Where it works"
+        },
+        {
+          "ul": [
+            "Contemporary gardens and roof terraces.",
+            "A dark backdrop for planting, water features and lighting.",
+            "Restaurant, bar and hotel screening.",
+            "Retail ranges that need a premium black option."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The round natural black bamboo fence roll uses 14–35 mm whole canes and comes in more sizes; this half-round version uses much larger canes for a bolder look and packs more per container. The natural half-round fence has the same build in natural yellow, and both versions are checked before packing in sizes from 100 × 180 cm to 200 × 180 cm."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the black colour natural?",
+        "a": "Yes. The canes come from natural black bamboo, which grows dark. Nothing is painted or dyed, and slight shade differences between canes are normal. Like any natural bamboo outdoors, the tone may soften slightly in strong sun over time."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Standard rolls are 1.8 m wide in heights of 1.0, 1.5 and 1.8 m; the 1.8 m height is the closest to a 6 ft screen. Other sizes are available on request."
+      },
+      {
+        "q": "How much fits in a container?",
+        "a": "About 3,400 m² per 40HC. Because the canes are halved, the rolls are slimmer than round-cane rolls and load more efficiently."
+      },
+      {
+        "q": "Can I order natural and black half-round together?",
+        "a": "Yes. Both share the same sizes and container yield, so you can mix them in one load. Private-label packing is welcome and MOQ is negotiable."
+      }
+    ]
+  },
+  "expandable-natural-bamboo-trellis": {
+    "name": "Expandable natural bamboo trellis",
+    "metaTitle": "Expandable Bamboo Trellis — Natural, Wholesale",
+    "cardDesc": "Pinned diamond lattice of thin natural canes that pulls open to size.",
+    "eyebrow": "Trellis · Expandable lattice",
+    "pill": "Thin natural bamboo canes",
+    "lead": "Thin natural bamboo canes pinned into a diamond lattice that pulls open to the width you need — for climbers, wall planting and light screening.",
+    "desc": "A lightweight bamboo trellis that ships folded and expands on site. Each crossing of the diamond lattice is pinned, so the panel opens like a concertina. Seven heights from 30 to 200 cm cover everything from a low plant support to a full-height climbing frame.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Thin natural bamboo canes"
+      },
+      {
+        "k": "Pattern",
+        "v": "Diamond lattice, pinned crossings"
+      },
+      {
+        "k": "Sizes",
+        "v": "30–200 cm high · 180–200 cm long"
+      },
+      {
+        "k": "Best for",
+        "v": "Climbing plants, wall planting"
+      }
+    ],
+    "why": "It is the open, plant-friendly member of the series: where a fence roll closes a view, the trellis gives climbers something to hold while letting light and air through. It packs flat and opens to fit.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Thin natural bamboo canes"
+      },
+      {
+        "k": "Construction",
+        "v": "Diamond lattice, pinned at each crossing"
+      },
+      {
+        "k": "Format",
+        "v": "Expandable trellis panel"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural yellow bamboo"
+      },
+      {
+        "k": "Sizes",
+        "v": "7 standard sizes, H 30–200 cm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Seven standard sizes, listed as height × length.",
+      "cols": [
+        "Height",
+        "Length"
+      ],
+      "rows": [
+        [
+          "30 cm",
+          "180 cm"
+        ],
+        [
+          "60 cm",
+          "200 cm"
+        ],
+        [
+          "90 cm",
+          "200 cm"
+        ],
+        [
+          "120 cm",
+          "200 cm"
+        ],
+        [
+          "150 cm",
+          "200 cm"
+        ],
+        [
+          "180 cm",
+          "200 cm"
+        ],
+        [
+          "200 cm",
+          "200 cm"
+        ]
+      ],
+      "note": "Other sizes on request; tell us your retail sizes and packing."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A bamboo trellis that opens to fit",
+      "body": [
+        {
+          "p": "Our expandable natural bamboo trellis is built from thin natural bamboo canes arranged in a diamond lattice. Every crossing is pinned, so the whole panel can be pulled open or pushed closed like a concertina. That lets one trellis cover a range of widths and makes it compact to ship and display. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "The fine canes give climbing plants plenty of grip — clematis, sweet peas, beans and other climbers all take to it — while keeping a light, open look against a wall or fence. The low 30 × 180 cm size suits pots and window boxes, while the 180 and 200 cm heights cover a full fence or wall section."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Support for climbing plants on walls and fences.",
+            "Light, decorative screening on balconies.",
+            "Covering bare walls with a natural lattice.",
+            "Garden centre and DIY retail ranges."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The natural black trellis has the same expanding lattice in a dark cane. The bamboo fence rolls are closed screens for privacy; the trellis is an open frame for planting and decoration."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How does an expandable trellis work?",
+        "a": "The canes cross in a diamond pattern and are pinned at each crossing. Pull the ends apart and the diamonds open, making the trellis longer and slightly lower; push them together and it folds back for storage."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Seven standard sizes: 30 × 180 cm and then 60, 90, 120, 150, 180 and 200 cm high, each 200 cm long (height × length). Other sizes are made on request."
+      },
+      {
+        "q": "How do I fix it to a wall or fence?",
+        "a": "Open it to the size you want and fix it with screws, nails or wire ties at a few crossings. Leaving a small gap behind the trellis gives climbers room to twine, and fixing it to battens rather than directly to the wall lets air circulate behind the plants."
+      },
+      {
+        "q": "Can you pack it for retail?",
+        "a": "Yes. We pack to your specification, including your own labels, barcodes and inserts. Because the trellis folds closed, it packs compactly for shipping and display. MOQ is negotiable."
+      }
+    ]
+  },
+  "expandable-black-bamboo-trellis": {
+    "name": "Expandable natural black bamboo trellis",
+    "metaTitle": "Black Bamboo Trellis — Expandable, Wholesale",
+    "cardDesc": "Natural black canes in an expanding diamond lattice — a dark accent.",
+    "eyebrow": "Trellis · Natural black",
+    "pill": "Natural black bamboo canes",
+    "lead": "An expandable diamond-lattice trellis in natural black bamboo — a dark, graphic frame for climbers and wall decoration, in seven sizes up to 200 cm.",
+    "desc": "The same expanding, pinned lattice as our natural trellis, made with natural black bamboo canes. The dark lattice reads as a graphic pattern against light walls and makes green foliage stand out.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Natural black bamboo"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural — not painted or dyed"
+      },
+      {
+        "k": "Pattern",
+        "v": "Expandable diamond lattice"
+      },
+      {
+        "k": "Sizes",
+        "v": "30–200 cm high · 180–200 cm long"
+      }
+    ],
+    "why": "Pick it for contrast: the dark canes stand out against pale render, brick or timber and frame green climbers sharply. Functionally it matches the natural trellis, so both colours can be stocked side by side.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural black bamboo canes"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural black — no paint or dye"
+      },
+      {
+        "k": "Construction",
+        "v": "Diamond lattice, pinned at each crossing"
+      },
+      {
+        "k": "Format",
+        "v": "Expandable trellis panel"
+      },
+      {
+        "k": "Sizes",
+        "v": "7 standard sizes, H 30–200 cm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Seven standard sizes, listed as height × length — identical to the natural trellis.",
+      "cols": [
+        "Height",
+        "Length"
+      ],
+      "rows": [
+        [
+          "30 cm",
+          "180 cm"
+        ],
+        [
+          "60 cm",
+          "200 cm"
+        ],
+        [
+          "90 cm",
+          "200 cm"
+        ],
+        [
+          "120 cm",
+          "200 cm"
+        ],
+        [
+          "150 cm",
+          "200 cm"
+        ],
+        [
+          "180 cm",
+          "200 cm"
+        ],
+        [
+          "200 cm",
+          "200 cm"
+        ]
+      ],
+      "note": "Other sizes on request; natural and black trellis can be combined in one order."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A dark lattice for green walls",
+      "body": [
+        {
+          "p": "This expandable trellis uses natural black bamboo canes in a diamond lattice. Each crossing is pinned so the panel opens and closes like a concertina, letting one size cover a range of widths. The black colour comes from the bamboo itself, so there is no paint layer to flake off where the canes move against each other. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "Against a white or pale wall, the dark lattice becomes a design element in its own right, even before anything grows on it. Once climbers take hold, the black canes recede and the foliage stands out. The 30 × 180 cm size suits planters and window boxes; the taller sizes up to 200 × 200 cm cover a full wall or fence section."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Contrast trellis on pale walls and fences.",
+            "Support for climbers in modern gardens.",
+            "Balcony and patio decoration.",
+            "A black option alongside natural trellis in retail."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Choose the natural trellis for a soft, traditional look that blends with timber and planting. Choose this black version for contrast and a contemporary feel. Both share the same sizes and construction, and both fold closed to pack compactly and make a tidy retail display."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the trellis painted black?",
+        "a": "No. It is made from natural black bamboo, which grows dark. Small shade differences between canes are normal and show it is a natural material."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Seven standard sizes: 30 × 180 cm and then 60, 90, 120, 150, 180 and 200 cm high, each 200 cm long (height × length). Custom sizes are available on request."
+      },
+      {
+        "q": "How is it installed?",
+        "a": "Expand it to the size you need and fix it to a wall, fence or post with screws, nails or wire ties at a few crossings. A small gap behind it helps climbers twine, and fixing to battens leaves room for air to circulate behind the plants."
+      },
+      {
+        "q": "Can I order natural and black trellis together?",
+        "a": "Yes. They share the same sizes, so a mixed order or a two-colour retail display is easy to plan. Private-label packing is welcome and MOQ is negotiable."
+      }
+    ]
+  },
+  "natural-bamboo-edging": {
+    "name": "Natural bamboo edging",
+    "metaTitle": "Natural Bamboo Edging Roll — Lawn & Border, Wholesale",
+    "cardDesc": "Rolled bamboo border edging, 20–45 cm high, bends to any shape.",
+    "eyebrow": "Garden edging · Natural yellow",
+    "pill": "Natural bamboo · 35/40 mm canes",
+    "lead": "Rolled bamboo edging of natural 35/40 mm canes on hidden galvanised wire — bends to any curve for beds, lawns and paths. 20–45 cm high.",
+    "desc": "A natural bamboo border edging that defines beds, lawns and walkways. The canes are cut and capped at the nodes, drilled and strung on hidden galvanised wire, so the roll bends to straight lines or curves. Five heights and five widths cover most garden jobs.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Natural yellow bamboo, 35/40 mm"
+      },
+      {
+        "k": "Tops",
+        "v": "Cut and capped at the nodes"
+      },
+      {
+        "k": "Format",
+        "v": "Rolled edging, bends to shape"
+      },
+      {
+        "k": "Heights",
+        "v": "20 · 30 · 35 · 40 · 45 cm"
+      }
+    ],
+    "why": "Choose it for clean, warm-coloured bamboo lawn edging that follows curves easily. Compared with edging on feet, this roll is a continuous, even line that you set into the soil; compared with the black edging, it blends softly with planting.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural yellow bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "35/40 mm"
+      },
+      {
+        "k": "Construction",
+        "v": "Canes drilled and strung on hidden galvanised wire"
+      },
+      {
+        "k": "Tops",
+        "v": "Cut and capped at the nodes"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 100–200 cm × H 20–45 cm"
+      },
+      {
+        "k": "Also available",
+        "v": "Carbonized, same sizes"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Every height is available in all five widths.",
+      "cols": [
+        "Height",
+        "Widths"
+      ],
+      "rows": [
+        [
+          "20 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "30 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "35 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "40 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "45 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ]
+      ],
+      "note": "Custom sizes on request; carbonized edging is available in the same sizes."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Bamboo border edging that follows any line",
+      "body": [
+        {
+          "p": "Our natural bamboo edging is made from 35/40 mm natural yellow canes. Each cane is cut at a node, so the top is naturally closed, then drilled and strung on galvanised wire that runs hidden inside the canes. Nothing shows on the face but bamboo."
+        },
+        {
+          "p": "Because the canes are threaded rather than fixed to a rail, the roll bends freely. It follows a straight path edge as easily as a curved bed or a round tree surround, and widths from 100 to 200 cm let you run it in long, joined lengths. The lower heights make a neat lawn edge that a mower can run alongside; the 40 and 45 cm heights hold soil in raised beds and borders."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Bamboo lawn edging along beds and borders.",
+            "Path and walkway edges.",
+            "Tree and shrub surrounds.",
+            "Raised-bed and play-area edging.",
+            "Landscaping and public-space projects."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The natural black edging has the same build in dark canes. Bamboo edging with feet stands on bamboo stakes and has a stepped top line instead of a level one. If you want a darker, warmer tone in this style, ask for the carbonized version in the same sizes."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What heights and widths are available?",
+        "a": "Heights of 20, 30, 35, 40 and 45 cm, each in widths of 100, 120, 150, 180 and 200 cm. Custom sizes are made on request."
+      },
+      {
+        "q": "How is bamboo edging installed?",
+        "a": "Dig a shallow trench along the line, set the roll in, bend it to shape and backfill firmly. Lower heights work as a neat lawn edge; taller heights suit raised beds and borders. The edging is light, so long runs can be fitted by one person."
+      },
+      {
+        "q": "Why are the tops capped at the nodes?",
+        "a": "Cutting each cane at a node closes the top, so rainwater and debris do not collect inside the cane. It also gives a neater, finished edge."
+      },
+      {
+        "q": "Is it available in other colours?",
+        "a": "Yes. Natural black bamboo edging and carbonized edging are both available in the same sizes, and private-label packing is welcome. Carbonized bamboo is heat-treated to a warm brown that goes right through the cane."
+      }
+    ]
+  },
+  "natural-black-bamboo-edging": {
+    "name": "Natural black bamboo edging",
+    "metaTitle": "Black Bamboo Edging Roll — Border Edging, Wholesale",
+    "cardDesc": "Natural black bamboo border edging on hidden wire — a crisp dark line.",
+    "eyebrow": "Garden edging · Natural black",
+    "pill": "Natural black bamboo · 35/40 mm",
+    "lead": "Bamboo border edging in natural black canes, capped at the nodes and strung on hidden galvanised wire. Bends to shape; 20–45 cm high.",
+    "desc": "A dark, crisp border for beds, lawns and paths. The natural black canes are cut at the nodes, drilled and threaded on hidden galvanised wire so the roll bends to any line. A carbonized version is also made in the same sizes.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Natural black bamboo, 35/40 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural — not painted or dyed"
+      },
+      {
+        "k": "Format",
+        "v": "Rolled edging, bends to shape"
+      },
+      {
+        "k": "Heights",
+        "v": "20 · 30 · 35 · 40 · 45 cm"
+      }
+    ],
+    "why": "The dark canes draw a sharp line between lawn, gravel and planting, which suits modern and Japanese-style gardens. Same build and sizes as the natural edging, so both colours can be stocked together.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural black bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "35/40 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural black — no paint or dye"
+      },
+      {
+        "k": "Construction",
+        "v": "Hidden galvanised wire, tops capped at the nodes"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 100–200 cm × H 20–45 cm"
+      },
+      {
+        "k": "Also available",
+        "v": "Carbonized, same sizes"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Every height is available in all five widths, in natural black or carbonized.",
+      "cols": [
+        "Height",
+        "Widths"
+      ],
+      "rows": [
+        [
+          "20 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "30 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "35 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "40 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "45 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A crisp, dark bamboo border",
+      "body": [
+        {
+          "p": "This bamboo edging uses 35/40 mm natural black canes. Each one is cut at a node so the top is closed, then drilled and strung on galvanised wire that runs hidden inside the canes. The dark colour is the bamboo's own, so there is no paint to scuff when you set the edging into soil or gravel."
+        },
+        {
+          "p": "The threaded construction lets the roll bend freely, so it follows curved beds, tree circles and winding paths as easily as straight edges. Widths from 100 to 200 cm can be joined end to end for long runs, and the five heights cover everything from a low lawn edge to a raised-bed border."
+        },
+        {
+          "h3": "Natural black or carbonized"
+        },
+        {
+          "p": "Alongside natural black we make carbonized edging in the same sizes. Carbonized canes are heat-treated, giving a warm brown tone that runs through the cane — a softer alternative to black. Both are made with the same 35/40 mm canes, capped tops and hidden galvanised wire."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Edging between lawn and gravel or bark.",
+            "Japanese-style and contemporary gardens.",
+            "Borders around pale stone or paving.",
+            "Tree and shrub surrounds.",
+            "Landscaping projects that need a strong outline."
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the black colour natural?",
+        "a": "Yes. The edging is made from natural black bamboo, which grows dark. It is not painted, so there is no coating to chip when you install it."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Heights of 20, 30, 35, 40 and 45 cm, each in widths of 100, 120, 150, 180 and 200 cm. The carbonized version comes in the same sizes, and custom sizes are available on request."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Set it into a shallow trench, bend it to follow the line of the bed or path, and backfill firmly. Join lengths end to end for longer runs. The lower heights suit lawn edges; 40 and 45 cm suit raised beds."
+      },
+      {
+        "q": "What is the difference between black and carbonized edging?",
+        "a": "Natural black bamboo grows dark. Carbonized bamboo is heat-treated to a warm brown that goes through the cane. Both use the same construction and sizes. Like any natural material outdoors, either will soften slightly in tone over time."
+      }
+    ]
+  },
+  "bamboo-edging-with-feet": {
+    "name": "Bamboo edging with feet",
+    "metaTitle": "Bamboo Edging with Feet — Stepped Border, Wholesale",
+    "cardDesc": "Stepped-top bamboo border on stakes — push into the soil, no fixing.",
+    "eyebrow": "Garden edging · Free-standing",
+    "pill": "Natural bamboo · 35/40 mm",
+    "lead": "Natural bamboo edging with a stepped top line, standing on bamboo stakes that push straight into the soil — no trench and no fixings needed.",
+    "desc": "Each section stands on bamboo feet: push the stakes into the ground and the edging holds itself in place. The stepped top line gives a decorative, rhythmic border, in five height steps from 15/20 cm to 55/60 cm.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Natural yellow bamboo, 35/40 mm"
+      },
+      {
+        "k": "Top line",
+        "v": "Stepped, two heights per section"
+      },
+      {
+        "k": "Fixing",
+        "v": "Bamboo stakes (feet) into the soil"
+      },
+      {
+        "k": "Heights",
+        "v": "15/20 up to 55/60 cm"
+      }
+    ],
+    "why": "It is the quickest bamboo edging to install: no trench, no backfill, just push the feet into the soil. The stepped top is more decorative than the level line of our rolled edging, and the taller steps act as a low fence.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural yellow bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "35/40 mm"
+      },
+      {
+        "k": "Construction",
+        "v": "Hidden galvanised wire, tops capped at the nodes"
+      },
+      {
+        "k": "Top line",
+        "v": "Stepped"
+      },
+      {
+        "k": "Fixing",
+        "v": "Bamboo stakes (feet) — no fixings needed"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 100–200 cm × H 15/20–55/60 cm"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Heights are given as the two top steps; every height comes in all five widths.",
+      "cols": [
+        "Height (top steps)",
+        "Widths"
+      ],
+      "rows": [
+        [
+          "15/20 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "25/30 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "35/40 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "45/50 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ],
+        [
+          "55/60 cm",
+          "100 · 120 · 150 · 180 · 200 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Edging that stands on its own feet",
+      "body": [
+        {
+          "p": "This bamboo edging is built from 35/40 mm natural yellow canes, capped at the nodes and strung on hidden galvanised wire like our rolled edging. The difference is underneath: some canes extend below the edging as bamboo stakes, or feet. Push them into the soil and the section stands firmly on its own."
+        },
+        {
+          "p": "The top line is stepped, alternating between two heights, which gives the border a lively rhythm rather than a flat line. Heights run in five steps from 15/20 cm, a low lawn edge, up to 55/60 cm, which works as a small decorative fence around beds or a vegetable plot. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Quick bamboo border edging for beds and borders.",
+            "Low decorative fencing around vegetable plots.",
+            "Temporary or seasonal edging that is easy to move.",
+            "Garden centre ranges for DIY customers."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Our natural and natural black edging rolls have a level top and are set into a shallow trench, which gives a continuous, ground-level line. Edging with feet trades that for speed and a stepped, decorative profile. Both are built from the same 35/40 mm natural canes with capped tops and hidden galvanised wire, so they look at home in the same garden."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do the feet work?",
+        "a": "Bamboo stakes extend below each section. Push them into the soil — on firm ground a rubber mallet helps — and the edging stands in place without screws, ties or a trench."
+      },
+      {
+        "q": "What do the heights like '25/30 cm' mean?",
+        "a": "The top line is stepped, so each section has two heights. 25/30 cm means the canes alternate between 25 and 30 cm above the soil. Five steps are available, from 15/20 to 55/60 cm."
+      },
+      {
+        "q": "What widths can I order?",
+        "a": "100, 120, 150, 180 and 200 cm, in every height. Each section stands independently, so you can line up several to make longer runs. Custom sizes are made on request."
+      },
+      {
+        "q": "Can it be moved later?",
+        "a": "Yes. Because it is held only by its feet, you can pull it out and reposition it, which makes it handy for seasonal or changing planting."
+      }
+    ]
+  },
+  "bamboo-twig-fence": {
+    "name": "Bamboo twig fence",
+    "metaTitle": "Bamboo Twig Fence Roll — Rustic Screening, Wholesale",
+    "cardDesc": "Dense mat of fine bamboo twigs for a soft, rustic screen.",
+    "eyebrow": "Rustic · Fine texture",
+    "pill": "Natural bamboo twigs",
+    "lead": "A dense mat of fine bamboo twigs and branches bound together into a soft, rustic screen — in 2.1 m and 5 m lengths, 120–180 cm high.",
+    "desc": "Where cane rolls give strong vertical lines, the twig fence gives texture. Fine bamboo branches are packed together into a dense, brushwood-style mat that softens hard boundaries and filters views.",
+    "facts": [
+      {
+        "k": "Material",
+        "v": "Fine natural bamboo twigs"
+      },
+      {
+        "k": "Look",
+        "v": "Dense, rustic brushwood texture"
+      },
+      {
+        "k": "Lengths",
+        "v": "210 cm · 500 cm"
+      },
+      {
+        "k": "Heights",
+        "v": "120 · 150 · 180 cm"
+      }
+    ],
+    "why": "It gives a softer, more informal look than any cane roll — ideal for cottage, country and natural gardens. The 5 m length covers long runs with fewer joins.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural bamboo twigs and branches"
+      },
+      {
+        "k": "Construction",
+        "v": "Dense mat, bound together"
+      },
+      {
+        "k": "Format",
+        "v": "Rolls"
+      },
+      {
+        "k": "Heights",
+        "v": "120 · 150 · 180 cm"
+      },
+      {
+        "k": "Lengths",
+        "v": "210 · 500 cm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Six standard sizes, listed as height × length.",
+      "cols": [
+        "Height",
+        "Length"
+      ],
+      "rows": [
+        [
+          "120 cm",
+          "210 cm"
+        ],
+        [
+          "150 cm",
+          "210 cm"
+        ],
+        [
+          "180 cm",
+          "210 cm"
+        ],
+        [
+          "120 cm",
+          "500 cm"
+        ],
+        [
+          "150 cm",
+          "500 cm"
+        ],
+        [
+          "180 cm",
+          "500 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Soft, rustic bamboo screening",
+      "body": [
+        {
+          "p": "Our bamboo twig fence is made from the fine branches of the bamboo plant rather than its canes. The twigs are packed into a dense mat and bound together, giving a brushwood texture that looks informal and natural. Like all our bamboo, it comes from a fast-growing, renewable plant."
+        },
+        {
+          "p": "The fine, layered twigs filter views and soften wind and light rather than forming a hard wall. Fixed against an existing fence, it turns wire mesh or tired timber into a natural, textured backdrop. Over time outdoors, like any natural material, the twigs weather to a softer, greyer tone that suits informal planting."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Cottage, country and wildlife-friendly gardens.",
+            "Covering chain-link or worn timber fences.",
+            "Screening compost areas, bins and sheds.",
+            "Rustic hospitality and event settings."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "Round and half-round bamboo fence rolls give clean vertical lines and a more architectural look. The twig fence is the informal choice: finer, softer and more textured. The bamboo branch fence panel uses a similar dense fill in a rigid wood frame, for buyers who want this texture as a panel between posts."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes does the twig fence come in?",
+        "a": "Heights of 120, 150 and 180 cm, each in lengths of 210 cm or 500 cm. The 500 cm length covers long boundaries with fewer joins; the 210 cm length is easier to handle and display in store. Custom sizes are made on request."
+      },
+      {
+        "q": "How private is it?",
+        "a": "The mat is dense, so it screens views well, but as a natural brushwood material it lets some light through rather than forming a solid wall. For a closer screen, two layers can be fixed one behind the other."
+      },
+      {
+        "q": "How is it installed?",
+        "a": "Unroll it against an existing fence, mesh or frame and fix it with wire ties at regular intervals. For free-standing use, fix it to posts and rails. Because the mat is flexible, it follows slight curves along an existing fence."
+      },
+      {
+        "q": "Can I order it with my own branding?",
+        "a": "Yes. We pack to your specification with your own labels, barcodes or inserts, and confirm container quantities for your size mix. MOQ is negotiable."
+      }
+    ]
+  },
+  "fixed-natural-bamboo-panel": {
+    "name": "Fixed natural bamboo fence panel",
+    "metaTitle": "Natural Bamboo Fence Panel — Rigid Screen, Wholesale",
+    "cardDesc": "Rigid screen of thick 35–45 mm round natural canes, up to 2.0 m high.",
+    "eyebrow": "Fixed panel · Natural bamboo",
+    "pill": "Round natural bamboo · Ø 35–45 mm",
+    "lead": "A rigid screen of thick 35–45 mm round natural bamboo canes — a fixed bamboo fence panel that holds its shape, in four sizes up to 1.8 × 2.0 m.",
+    "desc": "Our fixed panel uses heavier canes than our rolls and is made as a rigid screen rather than a flexible roll. It fixes between posts or against a wall as a solid, finished bamboo fence panel, in natural yellow bamboo.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Round natural bamboo"
+      },
+      {
+        "k": "Diameter",
+        "v": "35–45 mm"
+      },
+      {
+        "k": "Format",
+        "v": "Rigid fixed screen"
+      },
+      {
+        "k": "Sizes",
+        "v": "0.9 × 1.8 m up to 1.8 × 2.0 m"
+      }
+    ],
+    "why": "It is the straightforward, solid choice among our bamboo fence panels: thick round canes, no frame to maintain and a rigid format that stands between posts. Choose it over a roll when you want a fence rather than a cladding.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "100% natural round bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "35–45 mm"
+      },
+      {
+        "k": "Binding",
+        "v": "Galvanised wire (larger diameters also nylon wire)"
+      },
+      {
+        "k": "Format",
+        "v": "Rigid fixed screen"
+      },
+      {
+        "k": "Sizes",
+        "v": "L 0.9–1.8 m × H 1.8–2.0 m (4 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Four standard panel sizes, listed as length × height.",
+      "cols": [
+        "Length",
+        "Height"
+      ],
+      "rows": [
+        [
+          "0.9 m",
+          "1.8 m"
+        ],
+        [
+          "1.0 m",
+          "1.8 m"
+        ],
+        [
+          "1.8 m",
+          "1.8 m"
+        ],
+        [
+          "1.8 m",
+          "2.0 m"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A rigid panel of thick natural canes",
+      "body": [
+        {
+          "p": "Our fixed natural bamboo fence panel is made from round natural bamboo canes of 35–45 mm, thicker than most of our fence rolls. The canes are bound with galvanised wire, or nylon wire for the larger diameters, into a rigid screen that keeps its shape. It does not roll up, so it behaves like a fence panel rather than a cladding. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "That makes it the panel to choose for a new boundary between posts, a privacy screen on a terrace or a garden divider that has to stand on its own. Four standard sizes run from a narrow 0.9 × 1.8 m panel to a full 1.8 × 2.0 m section."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "New garden boundaries between timber or metal posts.",
+            "Privacy screens for terraces and patios.",
+            "Dividers around seating, bins and storage.",
+            "Hospitality and landscaping projects."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The fixed natural black panel is the same format in dark canes. Our wood-framed panels, such as the Japanese Kumo or Misugaki, use thinner 13–18 mm canes in a decorative frame. A natural bamboo fence roll is lighter and flexible, made to unroll over something that already stands."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes are the fixed bamboo panels?",
+        "a": "Four standard sizes (length × height): 0.9 × 1.8 m, 1.0 × 1.8 m, 1.8 × 1.8 m and 1.8 × 2.0 m. Custom sizes are made on request."
+      },
+      {
+        "q": "How is a fixed panel different from a bamboo fence roll?",
+        "a": "A roll is flexible and is fixed over an existing fence or frame. The fixed panel is rigid and uses thicker 35–45 mm canes, so it can be mounted between posts as a fence in its own right."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Fix it to timber or metal posts, a wall or an existing fence with screws or zip ties. For longer runs, set posts at panel-width spacing and fix panel to panel."
+      },
+      {
+        "q": "Will the natural bamboo change colour?",
+        "a": "Gradually. Like any natural material outdoors, bamboo slowly weathers to a softer, greyer tone in sun and rain. For a dark panel from the start, see the fixed natural black panel."
+      }
+    ]
+  },
+  "fixed-black-bamboo-panel": {
+    "name": "Fixed natural black bamboo fence panel",
+    "metaTitle": "Black Bamboo Fence Panel — Rigid Screen, Wholesale",
+    "cardDesc": "Rigid screen of 35–45 mm natural black canes for a bold boundary.",
+    "eyebrow": "Fixed panel · Natural black",
+    "pill": "Natural black bamboo · Ø 35–45 mm",
+    "lead": "A rigid black bamboo fence panel of thick 35–45 mm round natural black canes — the colour is the bamboo's own. Four sizes up to 1.8 × 2.0 m.",
+    "desc": "The same solid, fixed format as our natural panel, made from natural black bamboo. Thick round canes give a strong, dark boundary that holds its shape between posts, with no paint to chip or wear.",
+    "facts": [
+      {
+        "k": "Cane",
+        "v": "Round natural black bamboo"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural — not painted or dyed"
+      },
+      {
+        "k": "Diameter",
+        "v": "35–45 mm"
+      },
+      {
+        "k": "Sizes",
+        "v": "0.9 × 1.8 m up to 1.8 × 2.0 m"
+      }
+    ],
+    "why": "It gives the boldest, most contemporary look among our bamboo fence panels. Choose it over the natural panel for contrast with planting and pale paving; choose it over a black roll when the screen has to stand between posts.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "100% natural black round bamboo"
+      },
+      {
+        "k": "Cane diameter",
+        "v": "35–45 mm"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural black — no paint or dye"
+      },
+      {
+        "k": "Format",
+        "v": "Rigid fixed screen"
+      },
+      {
+        "k": "Sizes",
+        "v": "L 0.9–1.8 m × H 1.8–2.0 m (4 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Four standard panel sizes, listed as length × height — the same as the natural panel.",
+      "cols": [
+        "Length",
+        "Height"
+      ],
+      "rows": [
+        [
+          "0.9 m",
+          "1.8 m"
+        ],
+        [
+          "1.0 m",
+          "1.8 m"
+        ],
+        [
+          "1.8 m",
+          "1.8 m"
+        ],
+        [
+          "1.8 m",
+          "2.0 m"
+        ]
+      ],
+      "note": "Custom sizes on request; natural and black panels can be combined in one order."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A solid, dark bamboo boundary",
+      "body": [
+        {
+          "p": "This fixed panel is made from 35–45 mm round natural black bamboo canes, assembled into a rigid screen that keeps its shape. Natural black bamboo darkens as it grows, so the colour is part of the cane itself. There is no paint layer to chip or peel when the panel is handled and fixed. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "Being natural, the shade varies slightly from cane to cane, from deep black to brown-black. Across a run of panels, that variation gives depth that a painted surface lacks. Four standard sizes run from 0.9 × 1.8 m to 1.8 × 2.0 m, the same as our natural panel."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Contemporary garden boundaries and courtyards.",
+            "Roof terraces and balconies with a modern finish.",
+            "Restaurant, bar and hotel screening.",
+            "A dark backdrop for planting and garden lighting."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The fixed natural panel is identical in format and sizes, in natural yellow canes. The natural black bamboo fence roll uses thinner canes in a flexible roll for cladding existing fences; this panel is the rigid, stand-alone option. Its thick 35–45 mm canes give a heavier, more substantial look than either the rolls or the thinner-caned framed Japanese panels."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is the black colour painted?",
+        "a": "No. The panel is made from natural black bamboo, which grows dark. There is no paint or dye, and small shade differences between canes are normal. Like any natural material outdoors, the tone may soften slightly over time."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Four standard sizes (length × height): 0.9 × 1.8 m, 1.0 × 1.8 m, 1.8 × 1.8 m and 1.8 × 2.0 m. Custom sizes on request."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Fix the panel between timber or metal posts, or against a wall or existing fence, with screws or zip ties. It is rigid, so it does not need a backing structure along its length. For longer runs, set posts at panel-width spacing and fix panel to panel."
+      },
+      {
+        "q": "Can I mix natural and black panels in one shipment?",
+        "a": "Yes. Both share the same sizes, so a mixed order is easy to plan. Private-label packing is welcome and MOQ is negotiable."
+      }
+    ]
+  },
+  "japanese-kumo-bamboo-panel": {
+    "name": "Japanese Kumo bamboo fence panel",
+    "metaTitle": "Japanese Kumo Bamboo Fence Panel — Wholesale",
+    "cardDesc": "Framed Japanese panel: upright 13–18 mm canes and horizontal rails.",
+    "eyebrow": "Japanese style · Framed panel",
+    "pill": "Bamboo frame · canes Ø 13–18 mm",
+    "lead": "A Japanese bamboo fence panel with a round bamboo frame, upright 13–18 mm canes and horizontal rails. Five sizes from 45 × 120 to 88 × 190 cm.",
+    "desc": "The Kumo panel brings a clean Japanese garden look in a ready-made frame. Slim upright canes fill a round bamboo frame, crossed by horizontal rails, and a wood-framed version is available in five standard sizes.",
+    "facts": [
+      {
+        "k": "Style",
+        "v": "Japanese Kumo panel"
+      },
+      {
+        "k": "Canes",
+        "v": "Upright, 13–18 mm"
+      },
+      {
+        "k": "Frame",
+        "v": "Round bamboo; wood-framed version"
+      },
+      {
+        "k": "Sizes",
+        "v": "45 × 120 to 88 × 190 cm"
+      }
+    ],
+    "why": "It is the simplest of our Japanese panels: vertical canes and horizontal rails in a neat frame, with no decorative top or knotwork. Choose it for a calm, ordered Japanese bamboo fence that suits both traditional and modern gardens.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural bamboo; wood frame on framed version"
+      },
+      {
+        "k": "Frame",
+        "v": "Round bamboo frame · wood-framed version"
+      },
+      {
+        "k": "Canes",
+        "v": "Upright, Ø 13–18 mm"
+      },
+      {
+        "k": "Rails",
+        "v": "Horizontal"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 45–165 cm × H 120–190 cm (5 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Five standard sizes for the wood-framed panel, listed as width × height.",
+      "cols": [
+        "Width",
+        "Height"
+      ],
+      "rows": [
+        [
+          "45 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "120 cm"
+        ],
+        [
+          "165 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "150 cm"
+        ],
+        [
+          "88 cm",
+          "190 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A calm, ordered Japanese panel",
+      "body": [
+        {
+          "p": "Our Japanese Kumo bamboo fence panel is built around a round bamboo frame. Inside it, slim upright canes of 13–18 mm stand close together, crossed by horizontal rails that hold them in line. The result is a quiet, regular pattern of verticals — the kind of fence that frames planting rather than competing with it. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "A wood-framed version is made in five standard sizes, from a narrow 45 × 120 cm accent panel to a tall 88 × 190 cm screen. The 165 × 120 cm size works as a low, wide boundary along a terrace or path."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Japanese and Zen-style gardens.",
+            "Screening on terraces, patios and balconies.",
+            "Feature panels behind planting or water features.",
+            "Spa, hotel and restaurant gardens."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The Misugaki panel turns the pattern around, with horizontal canes held by upright battens and black rope knots. The lattice-top panel adds a decorative open top. Kumo is the plainest of the three, with upright canes from top to bottom."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes is the Kumo panel made in?",
+        "a": "The wood-framed panel comes in five sizes (width × height): 45 × 120, 88 × 120, 165 × 120, 88 × 150 and 88 × 190 cm. The 165 × 120 cm size suits low boundaries; 88 × 190 cm gives full-height screening. Custom sizes are made on request."
+      },
+      {
+        "q": "What is the difference between the Kumo and Misugaki panels?",
+        "a": "Kumo has upright canes with horizontal rails. Misugaki has horizontal canes held by upright battens tied with black rope knots, on short legs. Kumo reads as vertical and calm; Misugaki as horizontal and more traditional."
+      },
+      {
+        "q": "How is it installed?",
+        "a": "Fix the frame to posts, a wall or an existing fence with screws or zip ties. Several panels can be lined up between posts to make a continuous Japanese bamboo fence. The framed edge gives each panel a clean outline, so no extra trim is needed."
+      },
+      {
+        "q": "Can you supply it under our own brand?",
+        "a": "Yes. Private-label packing with your labels, barcodes or inserts is welcome, and MOQ is negotiable. Kumo can ship together with our other framed panels, which share the same sizes."
+      }
+    ]
+  },
+  "lattice-top-bamboo-panel": {
+    "name": "Lattice-top bamboo fence panel",
+    "metaTitle": "Lattice-Top Bamboo Fence Panel — Wood Frame, Wholesale",
+    "cardDesc": "Dark wood frame, open lattice top, natural or carbonized bamboo face.",
+    "eyebrow": "Framed panel · Lattice top",
+    "pill": "Wood frame · bamboo Ø 13–18 mm",
+    "lead": "A dark wood-framed bamboo fence panel with a decorative open lattice top over a face of 13–18 mm bamboo with knotted rails. Natural or carbonized.",
+    "desc": "The lattice-top panel combines privacy below with a light, open band above. A dark wood frame holds a natural bamboo face crossed by knotted rails, topped with a decorative lattice. A carbonized version gives a warmer, darker tone.",
+    "facts": [
+      {
+        "k": "Frame",
+        "v": "Dark wood"
+      },
+      {
+        "k": "Face",
+        "v": "Bamboo 13–18 mm, knotted rails"
+      },
+      {
+        "k": "Top",
+        "v": "Decorative open lattice"
+      },
+      {
+        "k": "Versions",
+        "v": "Natural · carbonized"
+      }
+    ],
+    "why": "The open lattice softens the top edge of a boundary and lets light through, so a tall panel feels less heavy. Choose it over the Kumo panel when you want a more decorative, finished look.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural or carbonized bamboo + dark wood frame"
+      },
+      {
+        "k": "Bamboo face",
+        "v": "Ø 13–18 mm, knotted rails"
+      },
+      {
+        "k": "Top",
+        "v": "Decorative open lattice"
+      },
+      {
+        "k": "Versions",
+        "v": "Natural · carbonized (heat-treated)"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 45–165 cm × H 120–190 cm (5 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Five standard sizes, listed as width × height, in natural or carbonized.",
+      "cols": [
+        "Width",
+        "Height"
+      ],
+      "rows": [
+        [
+          "45 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "120 cm"
+        ],
+        [
+          "165 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "150 cm"
+        ],
+        [
+          "88 cm",
+          "190 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Privacy below, light above",
+      "body": [
+        {
+          "p": "Our lattice-top bamboo fence panel is built in a dark wood frame. The main face is natural bamboo of 13–18 mm, crossed by rails tied with decorative knots. Above it sits an open lattice that lets light and glimpses through, so the panel screens at eye level without closing off the sky. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "The contrast between the dark frame and the pale bamboo gives the panel a crisp, finished outline. It suits gardens where the fence is part of the design rather than a background. Five standard sizes run from a narrow 45 × 120 cm panel to a tall 88 × 190 cm screen, with a wide 165 × 120 cm option for low boundaries."
+        },
+        {
+          "h3": "Natural or carbonized"
+        },
+        {
+          "p": "The natural version keeps the light straw colour of bamboo. The carbonized version is heat-treated, which turns the bamboo a warmer brown right through the cane and sits closer in tone to the dark frame. Both versions share the same frame, sizes and knotted rails, so they can be combined in one order."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Boundary panels where a softer top edge is wanted.",
+            "Terraces and patios close to the house.",
+            "Japanese-inspired and cottage gardens.",
+            "Hospitality and show-garden projects."
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes are available?",
+        "a": "Five sizes (width × height): 45 × 120, 88 × 120, 165 × 120, 88 × 150 and 88 × 190 cm, in natural or carbonized. Custom sizes are made on request."
+      },
+      {
+        "q": "What is the difference between natural and carbonized?",
+        "a": "Carbonized bamboo is heat-treated, which darkens it to a warm brown through the whole cane. The natural version keeps bamboo's light straw colour. The frame and construction are the same, and carbonizing uses no paint or dye."
+      },
+      {
+        "q": "Does the lattice top reduce privacy?",
+        "a": "Only at the top. The bamboo face below gives screening at eye level, while the open lattice lets light through above it."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Fix the wood frame to posts, a wall or an existing fence with screws. Panels can be set side by side between posts to make a continuous run. The dark frame gives each panel a finished edge, so no extra trim is needed."
+      }
+    ]
+  },
+  "misugaki-bamboo-panel": {
+    "name": "Misugaki bamboo fence panel",
+    "metaTitle": "Misugaki Japanese Bamboo Fence Panel — Wholesale",
+    "cardDesc": "Horizontal canes, upright battens, black rope knots, on short legs.",
+    "eyebrow": "Japanese style · Traditional",
+    "pill": "Wood frame · canes Ø 13–18 mm",
+    "lead": "A traditional Japanese Misugaki bamboo fence: thin horizontal canes held by upright battens tied with black rope knots, in a dark wood frame on short legs.",
+    "desc": "Misugaki is one of the classic Japanese bamboo fence styles. We build it in a dark wood frame with horizontal 13–18 mm canes, upright battens and black rope knots, and set the panel on short legs, in five standard sizes.",
+    "facts": [
+      {
+        "k": "Style",
+        "v": "Traditional Japanese Misugaki"
+      },
+      {
+        "k": "Canes",
+        "v": "Horizontal, 13–18 mm"
+      },
+      {
+        "k": "Detail",
+        "v": "Upright battens, black rope knots"
+      },
+      {
+        "k": "Frame",
+        "v": "Dark wood, on short legs"
+      }
+    ],
+    "why": "It is the most traditional-looking panel in the range: the horizontal canes and black knots read as authentic Japanese craft. Choose it for Japanese gardens and projects where the fence is a feature.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural bamboo + dark wood frame"
+      },
+      {
+        "k": "Canes",
+        "v": "Horizontal, Ø 13–18 mm"
+      },
+      {
+        "k": "Battens",
+        "v": "Upright, tied with black rope knots"
+      },
+      {
+        "k": "Frame",
+        "v": "Dark wood, on short legs"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 45–165 cm × H 120–190 cm (5 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Five standard sizes, listed as width × height.",
+      "cols": [
+        "Width",
+        "Height"
+      ],
+      "rows": [
+        [
+          "45 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "120 cm"
+        ],
+        [
+          "165 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "150 cm"
+        ],
+        [
+          "88 cm",
+          "190 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A classic Japanese fence, ready to fit",
+      "body": [
+        {
+          "p": "Misugaki is a traditional style of Japanese bamboo fence built from thin canes laid horizontally and held by upright battens. Our Misugaki bamboo fence panel follows that pattern: horizontal 13–18 mm canes, upright battens tied in place with black rope knots, and a dark wood frame that sets off the pale bamboo."
+        },
+        {
+          "p": "The panel stands on short legs, lifting the bamboo slightly off the ground. Five standard sizes run from a 45 × 120 cm accent panel to an 88 × 190 cm screen, with a wide 165 × 120 cm option for low runs. The horizontal lines make a space feel wider and calmer, which is why this style is so often used to frame Japanese gardens, entrances and tea-garden paths."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Japanese, Zen and tea gardens.",
+            "Entrances, courtyards and feature walls.",
+            "Backdrops for maples, moss and stone.",
+            "Spa, hotel and restaurant gardens."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The Japanese Kumo panel uses upright canes with horizontal rails, giving a vertical rhythm. Misugaki is the horizontal counterpart, with the black rope knots as its signature detail. For a narrow accent screen rather than a run of panels, see the Sode-gaki sleeve fence."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What is a Misugaki fence?",
+        "a": "A traditional Japanese bamboo fence style made of thin horizontal canes held by upright battens. Ours adds black rope knots, a dark wood frame and short legs. The pale bamboo against the dark frame and knots is what gives it its traditional look."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Five sizes (width × height): 45 × 120, 88 × 120, 165 × 120, 88 × 150 and 88 × 190 cm. Custom sizes on request."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Stand the panel on its legs and fix the wood frame to posts, a wall or neighbouring panels with screws. On soft ground, set the legs on a firm base or fix to posts. Panels can be lined up side by side for a continuous traditional fence."
+      },
+      {
+        "q": "How is it different from the Kumo panel?",
+        "a": "Kumo has upright canes and horizontal rails; Misugaki has horizontal canes, upright battens and black rope knots. Misugaki looks more traditional; Kumo is plainer and suits modern gardens too."
+      }
+    ]
+  },
+  "bamboo-branch-panel": {
+    "name": "Bamboo branch fence panel",
+    "metaTitle": "Bamboo Branch Fence Panel — Wood Frame, Wholesale",
+    "cardDesc": "Wood frame filled with dense bamboo branches — natural or black.",
+    "eyebrow": "Framed panel · Rustic texture",
+    "pill": "Bamboo branches · wood frame",
+    "lead": "A wood-framed panel filled with dense bamboo branches and crossed by bamboo rails tied with black knots — rustic texture in a tidy frame. Natural or natural black.",
+    "desc": "The branch panel puts the soft, brushwood texture of bamboo branches into a rigid wood frame. Horizontal bamboo rails with black knots hold the branches in place, in natural or natural black branches and five standard sizes.",
+    "facts": [
+      {
+        "k": "Fill",
+        "v": "Dense bamboo branches"
+      },
+      {
+        "k": "Frame",
+        "v": "Wood"
+      },
+      {
+        "k": "Rails",
+        "v": "Horizontal bamboo, black knots"
+      },
+      {
+        "k": "Versions",
+        "v": "Natural · natural black"
+      }
+    ],
+    "why": "It gives the most textured, informal face of our framed panels while keeping a clean, rigid frame. Choose it over the bamboo twig fence roll when you want panels that fix between posts with a finished edge.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Bamboo branches + wood frame"
+      },
+      {
+        "k": "Rails",
+        "v": "Horizontal bamboo, tied with black knots"
+      },
+      {
+        "k": "Versions",
+        "v": "Natural branches · natural black branches"
+      },
+      {
+        "k": "Format",
+        "v": "Rigid framed panel"
+      },
+      {
+        "k": "Sizes",
+        "v": "W 45–165 cm × H 120–190 cm (5 sizes)"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Five standard sizes, listed as width × height, in both versions.",
+      "cols": [
+        "Width",
+        "Height"
+      ],
+      "rows": [
+        [
+          "45 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "120 cm"
+        ],
+        [
+          "165 cm",
+          "120 cm"
+        ],
+        [
+          "88 cm",
+          "150 cm"
+        ],
+        [
+          "88 cm",
+          "190 cm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "Brushwood texture in a tidy frame",
+      "body": [
+        {
+          "p": "Our bamboo branch fence panel is a wood frame packed with dense bamboo branches. Horizontal bamboo rails cross the face and are tied with black knots, holding the branches in place and adding a crafted detail. The fill screens views well, while the fine branches keep a soft, natural texture. Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "p": "Two versions are made: natural branches in a warm straw tone, and natural black branches for a darker, more dramatic panel. In both, the colour is the bamboo's own. Both versions share the same wood frame, rails and five standard sizes, so they can be combined in one order."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Cottage, country and natural gardens.",
+            "Japanese-style gardens that want a rustic note.",
+            "Screening patios, bins and storage areas.",
+            "Hospitality and garden-centre display."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The bamboo twig fence is a flexible roll of similar fine material, made to clad an existing fence. The branch panel is rigid and framed, so it can stand between posts. Compared with the Kumo or Misugaki panels, it trades neat lines of canes for a denser, more textured face."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What sizes are available?",
+        "a": "Five sizes (width × height): 45 × 120, 88 × 120, 165 × 120, 88 × 150 and 88 × 190 cm, in natural or natural black branches. The 165 × 120 cm size suits low boundaries. Custom sizes on request."
+      },
+      {
+        "q": "Is the black version painted?",
+        "a": "No. It uses natural black bamboo branches, so the colour is the bamboo's own. Slight shade differences between branches are normal."
+      },
+      {
+        "q": "How private is a branch panel?",
+        "a": "The branches are packed densely, so it screens views well. Being a natural brushwood fill, it lets a little light through rather than forming a solid wall. For more screening, panels can be fixed against an existing fence rather than between posts."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Fix the wood frame to posts, a wall or an existing fence with screws or zip ties. Panels can be set side by side for a continuous run, and the frame gives each one a finished edge without extra trim."
+      }
+    ]
+  },
+  "sode-gaki-bamboo-sleeve-fence": {
+    "name": "Sode-gaki bamboo sleeve fence",
+    "metaTitle": "Sode-gaki Japanese Bamboo Sleeve Fence — Wholesale",
+    "cardDesc": "Narrow Japanese sleeve fence with tall post and curved lattice top.",
+    "eyebrow": "Japanese style · Accent screen",
+    "pill": "Natural yellow bamboo · 90 mm thick",
+    "lead": "A Japanese sleeve fence: a narrow bamboo panel with a tall post, curved lattice top and upright canes below. Four sizes from 45 × 120 to 90 × 170 cm.",
+    "desc": "Sode-gaki means 'sleeve fence' — a short, decorative screen that extends from a wall, a gate or the corner of a building. Ours is natural yellow bamboo with a tall bamboo post, a curved lattice top and upright canes, 90 mm thick.",
+    "facts": [
+      {
+        "k": "Style",
+        "v": "Japanese Sode-gaki (sleeve fence)"
+      },
+      {
+        "k": "Design",
+        "v": "Tall post, curved lattice top"
+      },
+      {
+        "k": "Colour",
+        "v": "Natural yellow bamboo"
+      },
+      {
+        "k": "Sizes",
+        "v": "18 × 48 in to 36 × 68 in"
+      }
+    ],
+    "why": "It is an accent piece rather than a boundary: one sleeve fence can frame an entrance, hide a downpipe or anchor a planting scheme. Choose it where a full run of panels would be too much.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural yellow bamboo"
+      },
+      {
+        "k": "Design",
+        "v": "Tall bamboo post, curved lattice top, upright canes"
+      },
+      {
+        "k": "Sizes",
+        "v": "4 sizes, W 45–90 cm × H 120–170 cm"
+      },
+      {
+        "k": "Thickness",
+        "v": "90 mm"
+      },
+      {
+        "k": "Packed size",
+        "v": "47 × 122 to 92 × 172 cm · T 95 mm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Four standard sizes, listed as width × height, with packed dimensions.",
+      "cols": [
+        "Width × height (in)",
+        "Width × height (cm)",
+        "Thickness",
+        "Packed size"
+      ],
+      "rows": [
+        [
+          "18 × 48 in",
+          "45 × 120 cm",
+          "90 mm",
+          "47 × 122 cm · T 95 mm"
+        ],
+        [
+          "24 × 68 in",
+          "60 × 170 cm",
+          "90 mm",
+          "62 × 172 cm · T 95 mm"
+        ],
+        [
+          "28 × 68 in",
+          "70 × 170 cm",
+          "90 mm",
+          "72 × 172 cm · T 95 mm"
+        ],
+        [
+          "36 × 68 in",
+          "90 × 170 cm",
+          "90 mm",
+          "92 × 172 cm · T 95 mm"
+        ]
+      ],
+      "note": "Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "A Japanese accent screen",
+      "body": [
+        {
+          "p": "In Japanese gardens, a sode-gaki or sleeve fence is a short screen that projects from a building, a wall or a gate, like a sleeve from a kimono. It does not enclose a space; it frames a view, hides something functional or gives a planting group a backdrop."
+        },
+        {
+          "p": "Our Sode-gaki bamboo sleeve fence is made from natural yellow bamboo. A tall bamboo post forms one side, a curved lattice top sweeps away from it, and upright canes fill the panel below. The panel is 90 mm thick and comes in four sizes, from a compact 45 × 120 cm (18 × 48 in) to 90 × 170 cm (36 × 68 in). Like all our bamboo, it is renewable and made without pesticides, formaldehyde or toxic glues."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Framing a front door, gate or garden entrance.",
+            "Hiding downpipes, meters, bins or air-conditioning units.",
+            "A backdrop for a lantern, water basin or specimen plant.",
+            "Japanese gardens, spas and hotel courtyards."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The Koetsu-gaki wing fence is the other Japanese accent piece in the range, lower and wider, with an open diamond lattice. The Kumo and Misugaki panels are made to be lined up as a boundary rather than used as single accents."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What is a sleeve fence?",
+        "a": "A short decorative Japanese fence, sode-gaki, that projects from a wall, gate or building corner. It is used to frame views or screen small areas rather than to enclose a garden."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Four sizes (width × height): 18 × 48 in (45 × 120 cm), 24 × 68 in (60 × 170 cm), 28 × 68 in (70 × 170 cm) and 36 × 68 in (90 × 170 cm), all 90 mm thick."
+      },
+      {
+        "q": "What are the packed dimensions?",
+        "a": "47 × 122, 62 × 172, 72 × 172 and 92 × 172 cm respectively, each 95 mm thick, which helps with carton and container planning."
+      },
+      {
+        "q": "How is it installed?",
+        "a": "Fix the bamboo post against a wall, gate post or building corner, or set it on its own post in the ground, so the panel extends out from it. Two sleeve fences can be used to frame both sides of an entrance."
+      }
+    ]
+  },
+  "koetsu-gaki-bamboo-wing-fence": {
+    "name": "Koetsu-gaki bamboo wing fence",
+    "metaTitle": "Koetsu-gaki Japanese Bamboo Wing Fence — Wholesale",
+    "cardDesc": "Japanese wing fence: curved top rail over open split-bamboo diamonds.",
+    "eyebrow": "Japanese style · Open lattice",
+    "pill": "Natural yellow bamboo · 90 mm thick",
+    "lead": "A Japanese wing fence with a bamboo post, sweeping curved top rail and open diamond lattice of split bamboo. Six sizes from 60 × 60 to 200 × 90 cm.",
+    "desc": "Koetsu-gaki is a Japanese bamboo fence style known for its curved top and open diamond lattice. Ours is natural yellow bamboo with a bamboo post at one end, 90 mm thick, in six sizes from a low 60 × 60 cm accent to a 180 × 120 cm wing.",
+    "facts": [
+      {
+        "k": "Style",
+        "v": "Japanese Koetsu-gaki (wing fence)"
+      },
+      {
+        "k": "Design",
+        "v": "Curved top rail, diamond lattice"
+      },
+      {
+        "k": "Lattice",
+        "v": "Split bamboo, open"
+      },
+      {
+        "k": "Sizes",
+        "v": "24 × 24 in to 79 × 36 in"
+      }
+    ],
+    "why": "It is the most open and sculptural piece in the range: it frames and divides without hiding, so planting stays visible through the lattice. Choose it for low accents and garden features rather than privacy.",
+    "spec": [
+      {
+        "k": "Material",
+        "v": "Natural yellow bamboo, split-bamboo lattice"
+      },
+      {
+        "k": "Design",
+        "v": "Bamboo post, curved top rail, open diamond lattice"
+      },
+      {
+        "k": "Sizes",
+        "v": "6 sizes, W 60–200 cm × H 60–120 cm"
+      },
+      {
+        "k": "Thickness",
+        "v": "90 mm"
+      },
+      {
+        "k": "Packed size",
+        "v": "≈ 2 cm larger than the fence · T 95 mm"
+      },
+      {
+        "k": "Per 40HC",
+        "v": "On request"
+      },
+      {
+        "k": "MOQ & OEM",
+        "v": "Negotiable · private label welcome"
+      },
+      {
+        "k": "Loading port",
+        "v": "Xiamen, China"
+      }
+    ],
+    "sizes": {
+      "title": "Standard sizes",
+      "lead": "Six standard sizes, listed as width × height.",
+      "cols": [
+        "Width × height (in)",
+        "Width × height (cm)",
+        "Thickness"
+      ],
+      "rows": [
+        [
+          "24 × 24 in",
+          "60 × 60 cm",
+          "90 mm"
+        ],
+        [
+          "38 × 36 in",
+          "90 × 90 cm",
+          "90 mm"
+        ],
+        [
+          "48 × 40 in",
+          "120 × 100 cm",
+          "90 mm"
+        ],
+        [
+          "60 × 43 in",
+          "150 × 108 cm",
+          "90 mm"
+        ],
+        [
+          "72 × 48 in",
+          "180 × 120 cm",
+          "90 mm"
+        ],
+        [
+          "79 × 36 in",
+          "200 × 90 cm",
+          "90 mm"
+        ]
+      ],
+      "note": "Packed sizes are about 2 cm larger than the fence, 95 mm thick. Custom sizes on request."
+    },
+    "about": {
+      "eyebrow": "The product",
+      "title": "An open, sculptural Japanese fence",
+      "body": [
+        {
+          "p": "Koetsu-gaki is a traditional Japanese bamboo fence style named after Koetsu-ji temple in Kyoto. Its signature is a long top rail that curves down from a post, over an open lattice of crossed bamboo. It is a fence to look at and through, not a screen to hide behind."
+        },
+        {
+          "p": "Our Koetsu-gaki bamboo wing fence is made from natural yellow bamboo. A bamboo post anchors one end, the curved top rail sweeps away from it, and split bamboo forms an open diamond lattice below. The panel is 90 mm thick and comes in six sizes, from a 60 × 60 cm (24 × 24 in) accent to a 200 × 90 cm (79 × 36 in) low run."
+        },
+        {
+          "h3": "Applications"
+        },
+        {
+          "ul": [
+            "Framing a path, entrance or garden feature.",
+            "Low dividers between garden areas.",
+            "Backdrops for stone lanterns, water basins and specimen plants.",
+            "Japanese gardens, spas and hotel courtyards."
+          ]
+        },
+        {
+          "h3": "How it compares"
+        },
+        {
+          "p": "The Sode-gaki sleeve fence is taller and narrower, with a closed panel of upright canes below its lattice top, so it screens as well as decorates. Koetsu-gaki is lower, wider and fully open, so it shapes a space while keeping views through it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What is a Koetsu-gaki fence?",
+        "a": "A Japanese bamboo fence style with a curved top rail over an open diamond lattice, named after Koetsu-ji temple in Kyoto. It is used as a decorative wing or divider rather than a privacy screen."
+      },
+      {
+        "q": "What sizes are available?",
+        "a": "Six sizes (width × height): 24 × 24 in (60 × 60 cm), 38 × 36 in (90 × 90 cm), 48 × 40 in (120 × 100 cm), 60 × 43 in (150 × 108 cm), 72 × 48 in (180 × 120 cm) and 79 × 36 in (200 × 90 cm), all 90 mm thick."
+      },
+      {
+        "q": "How is it packed?",
+        "a": "Each fence is packed in a size about 2 cm larger than the fence itself and 95 mm thick. Packing materials and labelling can follow your specification."
+      },
+      {
+        "q": "How do I install it?",
+        "a": "Fix the bamboo post to a wall or gate post, or set it on its own post in the ground, so the curved wing extends out from it. Several can be used to frame both sides of a path."
+      }
+    ]
+  }
+}

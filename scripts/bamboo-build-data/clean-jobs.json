@@ -1,0 +1,23 @@
+{
+ "natural-bamboo-fence-roll":{"card":"fence/var-natural.webp"},
+ "natural-black-bamboo-fence-roll":{"card":"fence/var-black.webp"},
+ "carbonized-bamboo-fence":{"card":"fence/var-carbonized.webp"},
+ "mahogany-bamboo-fence-roll":{"card":"fence/var-mahogany.webp"},
+ "half-round-natural-bamboo-fence":{"card":"fence/var-halfround-natural.webp"},
+ "half-round-black-bamboo-fence":{"card":"fence/var-halfround-black.webp"},
+ "expandable-natural-bamboo-trellis":{"main":"Bamboo fence and edging/第十三 Natural expandable bamboo trellis/主图/Natural expandable bamboo trellis主图.jpg"},
+ "expandable-black-bamboo-trellis":{"main":"Bamboo fence and edging/第十四 Natural black expandable bamboo trellis/主图/Natural black expandable  bamboo trellis主图.jpg"},
+ "natural-bamboo-edging":{"main":"Bamboo fence and edging/第十 Natural bamboo boarder edging/主图/landscaping natural bamboo boarder edging.jpg"},
+ "natural-black-bamboo-edging":{"card":"fence/var-edging-black.webp"},
+ "bamboo-edging-with-feet":{"main":"Bamboo fence and edging/第十 Bamboo boarder edging/主图/bamboo boarder edging for garden beds.jpg"},
+ "bamboo-twig-fence":{"main":"Bamboo fence and edging/第十五 Bamboo twig fence/主图/Bamboo twig fence.jpg"},
+ "fixed-natural-bamboo-panel":{"card":"panels/var-natural.webp","logoMaxY":62},
+ "fixed-black-bamboo-panel":{"card":"panels/var-black.webp","logoMaxY":62},
+ "japanese-kumo-bamboo-panel":{"main":"Bamboo fence panel/Bamboo fence panel/第三 Japanese Kumo bamboo garden fence panel/主图/Japanese kumo bamboo garden fence panel.jpg"},
+ "lattice-top-bamboo-panel":{"main":"Bamboo fence panel/Bamboo fence panel/第五 Wood framed lattice top bamboo fence panel/主图/Japanese wood framed bamboo garden fence panel.jpg"},
+ "misugaki-bamboo-panel":{"main":"Bamboo fence panel/Bamboo fence panel/第四 Misugaki bamboo fence panels/主图/Japanese bamboo KUMO garden fence panel .jpg"},
+ "bamboo-branch-panel":{"main":"Bamboo fence panel/Bamboo fence panel/第七 Wood framed natural bamboo branch fence panel/主图/wood framed natural black bamboo fence panel.jpg"},
+ "sode-gaki-bamboo-sleeve-fence":{"main":"Bamboo fence panel/Bamboo fence panel/第九 Bamboo sleeve fence panel Sode-Gaki/主图/Japanese bamboo sleeve fence Sode Gaki fence.jpg"},
+ "koetsu-gaki-bamboo-wing-fence":{"main":"Bamboo fence panel/Bamboo fence panel/第十 Bamboo wing fence panel Koetsu-Gaki/主图/Bambo wing fence Koetsu Japanese fence.jpg"},
+ "tonkin-bamboo-screen":{"main":"Bamboo fence panel/Bamboo fence panel/第十一 Natural tonkin bamboo screen/主图/Natural tonkin bamboo screen.jpg"}
+}

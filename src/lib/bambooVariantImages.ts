@@ -4,6 +4,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/natural-bamboo-fence-roll-hero.webp",
     "gallery": [
       "/images/bamboo/v/natural-bamboo-fence-roll-g1.webp",
+      "/images/bamboo/v/natural-bamboo-fence-roll-banner.webp",
       "/images/bamboo/v/natural-bamboo-fence-roll-g2.webp",
       "/images/bamboo/v/natural-bamboo-fence-roll-g3.webp",
       "/images/bamboo/v/natural-bamboo-fence-roll-g4.webp",
@@ -11,8 +12,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
       "/images/bamboo/v/natural-bamboo-fence-roll-g6.webp",
       "/images/bamboo/v/natural-bamboo-fence-roll-g7.webp",
       "/images/bamboo/v/natural-bamboo-fence-roll-g8.webp",
-      "/images/bamboo/v/natural-bamboo-fence-roll-g9.webp",
-      "/images/bamboo/v/natural-bamboo-fence-roll-g10.webp"
+      "/images/bamboo/v/natural-bamboo-fence-roll-g9.webp"
     ],
     "qc": [
       "/images/bamboo/v/natural-bamboo-fence-roll-qc1.webp",
@@ -26,6 +26,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/natural-black-bamboo-fence-roll-hero.webp",
     "gallery": [
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g1.webp",
+      "/images/bamboo/v/natural-black-bamboo-fence-roll-banner.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g2.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g3.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g4.webp",
@@ -33,21 +34,19 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g6.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g7.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-g8.webp",
-      "/images/bamboo/v/natural-black-bamboo-fence-roll-g9.webp",
-      "/images/bamboo/v/natural-black-bamboo-fence-roll-g10.webp"
+      "/images/bamboo/v/natural-black-bamboo-fence-roll-g9.webp"
     ],
     "qc": [
       "/images/bamboo/v/natural-black-bamboo-fence-roll-qc1.webp",
       "/images/bamboo/v/natural-black-bamboo-fence-roll-qc2.webp",
-      "/images/bamboo/v/natural-black-bamboo-fence-roll-qc3.webp",
-      "/images/bamboo/v/natural-black-bamboo-fence-roll-qc4.webp",
-      "/images/bamboo/v/natural-black-bamboo-fence-roll-qc5.webp"
+      "/images/bamboo/v/natural-black-bamboo-fence-roll-qc3.webp"
     ]
   },
   "carbonized-bamboo-fence": {
     "hero": "/images/bamboo/v/carbonized-bamboo-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/carbonized-bamboo-fence-g1.webp",
+      "/images/bamboo/v/carbonized-bamboo-fence-banner.webp",
       "/images/bamboo/v/carbonized-bamboo-fence-g2.webp",
       "/images/bamboo/v/carbonized-bamboo-fence-g3.webp",
       "/images/bamboo/v/carbonized-bamboo-fence-g4.webp",
@@ -60,27 +59,26 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/mahogany-bamboo-fence-roll-hero.webp",
     "gallery": [
       "/images/bamboo/v/mahogany-bamboo-fence-roll-g1.webp",
+      "/images/bamboo/v/mahogany-bamboo-fence-roll-banner.webp",
       "/images/bamboo/v/mahogany-bamboo-fence-roll-g2.webp",
       "/images/bamboo/v/mahogany-bamboo-fence-roll-g3.webp",
-      "/images/bamboo/v/mahogany-bamboo-fence-roll-g4.webp",
-      "/images/bamboo/v/mahogany-bamboo-fence-roll-g5.webp",
-      "/images/bamboo/v/mahogany-bamboo-fence-roll-g6.webp",
-      "/images/bamboo/v/mahogany-bamboo-fence-roll-g7.webp"
+      "/images/bamboo/v/mahogany-bamboo-fence-roll-g4.webp"
     ],
     "qc": []
   },
-  "tonkin-bamboo-fence": {
-    "hero": "/images/bamboo/v/tonkin-bamboo-fence-hero.webp",
+  "tonkin-bamboo-screen": {
+    "hero": "/images/bamboo/v/tonkin-bamboo-screen-hero.webp",
     "gallery": [
-      "/images/bamboo/v/tonkin-bamboo-fence-g1.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g2.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g3.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g4.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g5.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g6.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g7.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g8.webp",
-      "/images/bamboo/v/tonkin-bamboo-fence-g9.webp"
+      "/images/bamboo/v/tonkin-bamboo-screen-g1.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-banner.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g2.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g3.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g4.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g5.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g6.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g7.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g8.webp",
+      "/images/bamboo/v/tonkin-bamboo-screen-g9.webp"
     ],
     "qc": []
   },
@@ -88,43 +86,40 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/half-round-natural-bamboo-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/half-round-natural-bamboo-fence-g1.webp",
+      "/images/bamboo/v/half-round-natural-bamboo-fence-banner.webp",
       "/images/bamboo/v/half-round-natural-bamboo-fence-g2.webp",
       "/images/bamboo/v/half-round-natural-bamboo-fence-g3.webp",
       "/images/bamboo/v/half-round-natural-bamboo-fence-g4.webp"
     ],
     "qc": [
       "/images/bamboo/v/half-round-natural-bamboo-fence-qc1.webp",
-      "/images/bamboo/v/half-round-natural-bamboo-fence-qc2.webp",
-      "/images/bamboo/v/half-round-natural-bamboo-fence-qc3.webp",
-      "/images/bamboo/v/half-round-natural-bamboo-fence-qc4.webp"
+      "/images/bamboo/v/half-round-natural-bamboo-fence-qc2.webp"
     ]
   },
   "half-round-black-bamboo-fence": {
     "hero": "/images/bamboo/v/half-round-black-bamboo-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/half-round-black-bamboo-fence-g1.webp",
+      "/images/bamboo/v/half-round-black-bamboo-fence-banner.webp",
       "/images/bamboo/v/half-round-black-bamboo-fence-g2.webp",
       "/images/bamboo/v/half-round-black-bamboo-fence-g3.webp",
       "/images/bamboo/v/half-round-black-bamboo-fence-g4.webp",
       "/images/bamboo/v/half-round-black-bamboo-fence-g5.webp",
-      "/images/bamboo/v/half-round-black-bamboo-fence-g6.webp",
-      "/images/bamboo/v/half-round-black-bamboo-fence-g7.webp"
+      "/images/bamboo/v/half-round-black-bamboo-fence-g6.webp"
     ],
     "qc": [
       "/images/bamboo/v/half-round-black-bamboo-fence-qc1.webp",
       "/images/bamboo/v/half-round-black-bamboo-fence-qc2.webp",
-      "/images/bamboo/v/half-round-black-bamboo-fence-qc3.webp",
-      "/images/bamboo/v/half-round-black-bamboo-fence-qc4.webp",
-      "/images/bamboo/v/half-round-black-bamboo-fence-qc5.webp"
+      "/images/bamboo/v/half-round-black-bamboo-fence-qc3.webp"
     ]
   },
   "expandable-natural-bamboo-trellis": {
     "hero": "/images/bamboo/v/expandable-natural-bamboo-trellis-hero.webp",
     "gallery": [
       "/images/bamboo/v/expandable-natural-bamboo-trellis-g1.webp",
+      "/images/bamboo/v/expandable-natural-bamboo-trellis-banner.webp",
       "/images/bamboo/v/expandable-natural-bamboo-trellis-g2.webp",
-      "/images/bamboo/v/expandable-natural-bamboo-trellis-g3.webp",
-      "/images/bamboo/v/expandable-natural-bamboo-trellis-g4.webp"
+      "/images/bamboo/v/expandable-natural-bamboo-trellis-g3.webp"
     ],
     "qc": []
   },
@@ -132,12 +127,12 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/expandable-black-bamboo-trellis-hero.webp",
     "gallery": [
       "/images/bamboo/v/expandable-black-bamboo-trellis-g1.webp",
+      "/images/bamboo/v/expandable-black-bamboo-trellis-banner.webp",
       "/images/bamboo/v/expandable-black-bamboo-trellis-g2.webp",
       "/images/bamboo/v/expandable-black-bamboo-trellis-g3.webp",
       "/images/bamboo/v/expandable-black-bamboo-trellis-g4.webp",
       "/images/bamboo/v/expandable-black-bamboo-trellis-g5.webp",
-      "/images/bamboo/v/expandable-black-bamboo-trellis-g6.webp",
-      "/images/bamboo/v/expandable-black-bamboo-trellis-g7.webp"
+      "/images/bamboo/v/expandable-black-bamboo-trellis-g6.webp"
     ],
     "qc": []
   },
@@ -145,6 +140,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/natural-bamboo-edging-hero.webp",
     "gallery": [
       "/images/bamboo/v/natural-bamboo-edging-g1.webp",
+      "/images/bamboo/v/natural-bamboo-edging-banner.webp",
       "/images/bamboo/v/natural-bamboo-edging-g2.webp",
       "/images/bamboo/v/natural-bamboo-edging-g3.webp",
       "/images/bamboo/v/natural-bamboo-edging-g4.webp"
@@ -152,18 +148,17 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "qc": [
       "/images/bamboo/v/natural-bamboo-edging-qc1.webp",
       "/images/bamboo/v/natural-bamboo-edging-qc2.webp",
-      "/images/bamboo/v/natural-bamboo-edging-qc3.webp",
-      "/images/bamboo/v/natural-bamboo-edging-qc4.webp"
+      "/images/bamboo/v/natural-bamboo-edging-qc3.webp"
     ]
   },
   "natural-black-bamboo-edging": {
     "hero": "/images/bamboo/v/natural-black-bamboo-edging-hero.webp",
     "gallery": [
       "/images/bamboo/v/natural-black-bamboo-edging-g1.webp",
+      "/images/bamboo/v/natural-black-bamboo-edging-banner.webp",
       "/images/bamboo/v/natural-black-bamboo-edging-g2.webp",
       "/images/bamboo/v/natural-black-bamboo-edging-g3.webp",
-      "/images/bamboo/v/natural-black-bamboo-edging-g4.webp",
-      "/images/bamboo/v/natural-black-bamboo-edging-g5.webp"
+      "/images/bamboo/v/natural-black-bamboo-edging-g4.webp"
     ],
     "qc": [
       "/images/bamboo/v/natural-black-bamboo-edging-qc1.webp",
@@ -177,6 +172,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/bamboo-edging-with-feet-hero.webp",
     "gallery": [
       "/images/bamboo/v/bamboo-edging-with-feet-g1.webp",
+      "/images/bamboo/v/bamboo-edging-with-feet-banner.webp",
       "/images/bamboo/v/bamboo-edging-with-feet-g2.webp"
     ],
     "qc": []
@@ -185,10 +181,10 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/bamboo-twig-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/bamboo-twig-fence-g1.webp",
+      "/images/bamboo/v/bamboo-twig-fence-banner.webp",
       "/images/bamboo/v/bamboo-twig-fence-g2.webp",
       "/images/bamboo/v/bamboo-twig-fence-g3.webp",
-      "/images/bamboo/v/bamboo-twig-fence-g4.webp",
-      "/images/bamboo/v/bamboo-twig-fence-g5.webp"
+      "/images/bamboo/v/bamboo-twig-fence-g4.webp"
     ],
     "qc": []
   },
@@ -196,10 +192,10 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/fixed-natural-bamboo-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/fixed-natural-bamboo-panel-g1.webp",
+      "/images/bamboo/v/fixed-natural-bamboo-panel-banner.webp",
       "/images/bamboo/v/fixed-natural-bamboo-panel-g2.webp",
       "/images/bamboo/v/fixed-natural-bamboo-panel-g3.webp",
-      "/images/bamboo/v/fixed-natural-bamboo-panel-g4.webp",
-      "/images/bamboo/v/fixed-natural-bamboo-panel-g5.webp"
+      "/images/bamboo/v/fixed-natural-bamboo-panel-g4.webp"
     ],
     "qc": []
   },
@@ -207,11 +203,9 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/fixed-black-bamboo-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/fixed-black-bamboo-panel-g1.webp",
+      "/images/bamboo/v/fixed-black-bamboo-panel-banner.webp",
       "/images/bamboo/v/fixed-black-bamboo-panel-g2.webp",
-      "/images/bamboo/v/fixed-black-bamboo-panel-g3.webp",
-      "/images/bamboo/v/fixed-black-bamboo-panel-g4.webp",
-      "/images/bamboo/v/fixed-black-bamboo-panel-g5.webp",
-      "/images/bamboo/v/fixed-black-bamboo-panel-g6.webp"
+      "/images/bamboo/v/fixed-black-bamboo-panel-g3.webp"
     ],
     "qc": []
   },
@@ -219,11 +213,11 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/japanese-kumo-bamboo-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/japanese-kumo-bamboo-panel-g1.webp",
+      "/images/bamboo/v/japanese-kumo-bamboo-panel-banner.webp",
       "/images/bamboo/v/japanese-kumo-bamboo-panel-g2.webp",
       "/images/bamboo/v/japanese-kumo-bamboo-panel-g3.webp",
       "/images/bamboo/v/japanese-kumo-bamboo-panel-g4.webp",
-      "/images/bamboo/v/japanese-kumo-bamboo-panel-g5.webp",
-      "/images/bamboo/v/japanese-kumo-bamboo-panel-g6.webp"
+      "/images/bamboo/v/japanese-kumo-bamboo-panel-g5.webp"
     ],
     "qc": []
   },
@@ -231,6 +225,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/lattice-top-bamboo-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/lattice-top-bamboo-panel-g1.webp",
+      "/images/bamboo/v/lattice-top-bamboo-panel-banner.webp",
       "/images/bamboo/v/lattice-top-bamboo-panel-g2.webp",
       "/images/bamboo/v/lattice-top-bamboo-panel-g3.webp",
       "/images/bamboo/v/lattice-top-bamboo-panel-g4.webp",
@@ -238,9 +233,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
       "/images/bamboo/v/lattice-top-bamboo-panel-g6.webp",
       "/images/bamboo/v/lattice-top-bamboo-panel-g7.webp",
       "/images/bamboo/v/lattice-top-bamboo-panel-g8.webp",
-      "/images/bamboo/v/lattice-top-bamboo-panel-g9.webp",
-      "/images/bamboo/v/lattice-top-bamboo-panel-g10.webp",
-      "/images/bamboo/v/lattice-top-bamboo-panel-g11.webp"
+      "/images/bamboo/v/lattice-top-bamboo-panel-g9.webp"
     ],
     "qc": []
   },
@@ -248,10 +241,10 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/misugaki-bamboo-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/misugaki-bamboo-panel-g1.webp",
+      "/images/bamboo/v/misugaki-bamboo-panel-banner.webp",
       "/images/bamboo/v/misugaki-bamboo-panel-g2.webp",
       "/images/bamboo/v/misugaki-bamboo-panel-g3.webp",
-      "/images/bamboo/v/misugaki-bamboo-panel-g4.webp",
-      "/images/bamboo/v/misugaki-bamboo-panel-g5.webp"
+      "/images/bamboo/v/misugaki-bamboo-panel-g4.webp"
     ],
     "qc": []
   },
@@ -259,14 +252,14 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/bamboo-branch-panel-hero.webp",
     "gallery": [
       "/images/bamboo/v/bamboo-branch-panel-g1.webp",
+      "/images/bamboo/v/bamboo-branch-panel-banner.webp",
       "/images/bamboo/v/bamboo-branch-panel-g2.webp",
       "/images/bamboo/v/bamboo-branch-panel-g3.webp",
       "/images/bamboo/v/bamboo-branch-panel-g4.webp",
       "/images/bamboo/v/bamboo-branch-panel-g5.webp",
       "/images/bamboo/v/bamboo-branch-panel-g6.webp",
       "/images/bamboo/v/bamboo-branch-panel-g7.webp",
-      "/images/bamboo/v/bamboo-branch-panel-g8.webp",
-      "/images/bamboo/v/bamboo-branch-panel-g9.webp"
+      "/images/bamboo/v/bamboo-branch-panel-g8.webp"
     ],
     "qc": []
   },
@@ -274,13 +267,11 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g1.webp",
+      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-banner.webp",
       "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g2.webp",
       "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g3.webp",
       "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g4.webp",
-      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g5.webp",
-      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g6.webp",
-      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g7.webp",
-      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g8.webp"
+      "/images/bamboo/v/sode-gaki-bamboo-sleeve-fence-g5.webp"
     ],
     "qc": []
   },
@@ -288,6 +279,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
     "hero": "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-hero.webp",
     "gallery": [
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g1.webp",
+      "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-banner.webp",
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g2.webp",
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g3.webp",
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g4.webp",
@@ -295,8 +287,7 @@ export const bambooVariantImages: Record<string, { hero: string; gallery: string
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g6.webp",
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g7.webp",
       "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g8.webp",
-      "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g9.webp",
-      "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g10.webp"
+      "/images/bamboo/v/koetsu-gaki-bamboo-wing-fence-g9.webp"
     ],
     "qc": []
   }

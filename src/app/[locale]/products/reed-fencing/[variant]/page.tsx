@@ -138,7 +138,11 @@ export default async function ReedVariantPage({
       <section className="section">
         <div className="container split" style={{ alignItems: "flex-start" }}>
           <Reveal>
-            <ProductGallery images={rv.gallery} alt={name} />
+            <ProductGallery
+              // Banner (full watermark) as the 2nd photo; the hero copy only has the corner credit.
+              images={[rv.gallery[0], rv.hero.replace("-hero.webp", "-banner.webp"), ...rv.gallery.slice(1)]}
+              alt={name}
+            />
           </Reveal>
 
           <Reveal delay={1}>
@@ -164,11 +168,6 @@ export default async function ReedVariantPage({
               </tbody>
             </table>
 
-            <p className="pretty" style={{ marginTop: "20px", padding: "16px 18px", background: "var(--bone-2)", borderRadius: "14px", fontSize: ".95rem", lineHeight: 1.6 }}>
-              <strong>{t("shared.whyTitle")}: </strong>
-              {t(`variants.${rv.id}.why`)}
-            </p>
-
             <div style={{ display: "flex", gap: "14px", flexWrap: "wrap", marginTop: "26px" }}>
               <QuoteButton className="btn btn-leaf btn-lg" product={name}>
                 {td("ctaQuote")} <span className="arr">→</span>
@@ -177,8 +176,19 @@ export default async function ReedVariantPage({
                 {td("ctaEmail")}
               </a>
             </div>
+          </Reveal>
+        </div>
+      </section>
 
-            <table className="spec" style={{ marginTop: "30px" }}>
+      {/* WHY + FULL SPEC — single column under the gallery */}
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container">
+          <Reveal style={{ maxWidth: "960px" }}>
+            <p className="pretty" style={{ margin: 0, padding: "16px 18px", background: "var(--bone-2)", borderRadius: "14px", fontSize: ".95rem", lineHeight: 1.6 }}>
+              <strong>{t("shared.whyTitle")}: </strong>
+              {t(`variants.${rv.id}.why`)}
+            </p>
+            <table className="spec" style={{ marginTop: "24px" }}>
               <tbody>
                 {spec.map((row) => (
                   <tr key={row.k}>
@@ -191,6 +201,7 @@ export default async function ReedVariantPage({
           </Reveal>
         </div>
       </section>
+
 
       {/* ABOUT */}
       <section className="section" style={{ paddingTop: 0 }}>

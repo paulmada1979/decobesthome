@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for the 21 new bamboo product pages. Facts come ONLY from the supplier size tables/descriptions in C:/Users/MelgerHulsebos/Downloads/deco. Root folders: F = 'Bamboo fence and edging', P = 'Bamboo fence panel/Bamboo fence panel', QC = '2026-11-12-bamboo fence-QC photos(1)/2026-11-12-bamboo fence-上网站'.",
+  "_note": "Source of truth for the 21 new bamboo product pages. Facts come ONLY from the supplier size tables/descriptions in C:/Projects/Deco files/deco extra. Root folders: F = 'Bamboo fence and edging', P = 'Bamboo fence panel/Bamboo fence panel', QC = '2026-11-12-bamboo fence-QC photos(1)/2026-11-12-bamboo fence-上网站'.",
   "series": {
     "fence": {
       "parent": "/products/bamboo-fencing-edging",
@@ -242,7 +242,7 @@
     }
   ],
   "banners": {
-    "_dir": "C:/Users/MelgerHulsebos/Downloads/deco/deco/deco",
+    "_dir": "C:/Projects/Deco files/deco extra/deco/deco",
     "natural-bamboo-fence-roll": "01 Natural bamboo roll.png",
     "natural-black-bamboo-fence-roll": "02 Natural black bamboo roll.png",
     "carbonized-bamboo-fence": "03 Carbonized bamboo fence.png",
@@ -263,10 +263,10 @@
     "bamboo-branch-panel": "6. Bamboo branch panel.png",
     "sode-gaki-bamboo-sleeve-fence": "7. Sode-gaki sleeve fence banner image.png",
     "koetsu-gaki-bamboo-wing-fence": "8. Koetsu-gaki wing fence banner.png",
-    "tonkin-bamboo-screen": "C:/Users/MelgerHulsebos/Downloads/deco/Bamboo fence panel/Bamboo fence panel/第十二 Carbonized tonkin bamboo screen/详情图/carbonized bamboo screen besthome.jpg"
+    "tonkin-bamboo-screen": "C:/Projects/Deco files/deco extra/Bamboo fence panel/Bamboo fence panel/第十二 Carbonized tonkin bamboo screen/详情图/carbonized bamboo screen besthome.jpg"
   },
   "studios": {
-    "_dir": "C:/Users/MelgerHulsebos/Downloads/deco/deco/deco",
+    "_dir": "C:/Projects/Deco files/deco extra/deco/deco",
     "natural-bamboo-edging": "1-natural-edging.png",
     "natural-black-bamboo-edging": "3-black-edging.png",
     "expandable-natural-bamboo-trellis": "Studio trellis natural.jpg",
